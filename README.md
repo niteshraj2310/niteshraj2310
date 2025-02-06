@@ -19,6 +19,9 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+&nbsp;<div align="center">
+  [![Spotify](https://niteshraj2310.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31q5snghatrgxp4wdimqgjngaeby)
+</div>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=niteshraj2310&show_icons=true&theme=radical)
 
