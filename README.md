@@ -1,4 +1,6 @@
 # Hey There! Nitesh here. :wave:
+[![GitHub followers](https://img.shields.io/github/followers/niteshraj2310?label=Follow&style=social)](https://github.com/niteshraj2310)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/niteshraj2310/)
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
 ```python
@@ -15,18 +17,31 @@ class SoftwareEngineer:
     def say_hi(self):
         print("Thanks for dropping by, hope you are doing well.")
 
-
 me = SoftwareEngineer()
 me.say_hi()
 ```
-&nbsp;<div align="center">
-  [![Spotify](https://niteshraj2310.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31q5snghatrgxp4wdimqgjngaeby)
-</div>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=niteshraj2310&show_icons=true&theme=radical)
+## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshraj2310&theme=dark)](https://github.com/niteshraj2310)
+![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshraj2310&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshraj2310&layout=compact&theme=radical)
 
 <img src="https://komarev.com/ghpvc/?username=niteshraj2310" alt="niteshraj2310" />
 
-# Sayonara!!
+## 🔗 Connect with Me
+
+- LinkedIn: [linkedin.com/in/niteshraj2310](https://www.linkedin.com/in/niteshraj2310/)
+- Twitter: [twitter.com/niteshraj2310](https://twitter.com/niteshraj2310)
+- Telegram: [Nitesh](https://nitesh_231.t.me)
+
+## Personal Interests
+I enjoy listening to music. Here's what I'm currently listening to:
+&nbsp;<div align="left">
+  [![Spotify](https://niteshraj2310.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31q5snghatrgxp4wdimqgjngaeby)
+</div>
+
+### Recently Scrobbled tracks on [Last.fm](last.fm)
+[![Last.fm Currently Playing](https://lastfm-recently-played.vercel.app/api?user=nitesh231)](https://www.last.fm/user/nitesh231)
+---
+From [niteshraj2310](https://github.com/niteshraj2310)
