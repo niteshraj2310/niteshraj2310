@@ -27,7 +27,7 @@ jobs:
         run: |
           pip list --outdated --format=json | jq -r '.[] | .name' | xargs -n1 pip install -U
           pip freeze > requirements.txt
-          
+
       - name: Set up Git
         run: |
           git config --global user.name 'niteshraj2310'
@@ -40,7 +40,7 @@ jobs:
           COMMIT_MESSAGE: "Update requirements.txt dependencies"
         run: |
           git add requirements.txt
-          echo -e "$COMMIT_MESSAGE\n\n$SIGNED_OFF_BY\n$CO_AUTHORED_BY" | git commit -F -
+          echo -e "$COMMIT_MESSAGE\n\n$CO_AUTHORED_BY\n$SIGNED_OFF_BY" | git commit -F -
       
       - name: Push changes
         env:
