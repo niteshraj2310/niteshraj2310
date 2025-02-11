@@ -25,9 +25,9 @@ jobs:
 
       - name: Update requirements.txt
         run: |
-          pip list --outdated --format=freeze | grep -v '^\-e' | cut -d '=' -f 1 | xargs -n1 pip install -U
+          pip list --outdated --format=json | jq -r '.[] | .name' | xargs -n1 pip install -U
           pip freeze > requirements.txt
-
+          
       - name: Set up Git
         run: |
           git config --global user.name 'niteshraj2310'
