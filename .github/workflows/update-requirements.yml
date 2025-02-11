@@ -1,0 +1,50 @@
+name: Update Requirements
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs every Sunday at midnight
+  workflow_dispatch:
+
+jobs:
+  update-requirements:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Update requirements.txt
+        run: |
+          pip list --outdated --format=freeze | grep -v '^\-e' | cut -d '=' -f 1 | xargs -n1 pip install -U
+          pip freeze > requirements.txt
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'niteshraj2310'
+          git config --global user.email 'niteshraj2310@users.noreply.github.com'
+
+      - name: Commit updated requirements.txt
+        env:
+          SIGNED_OFF_BY: "Signed-off-by: niteshraj2310 <niteshraj2310@users.noreply.github.com>"
+          CO_AUTHORED_BY: "Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          COMMIT_MESSAGE: "Update requirements.txt dependencies"
+        run: |
+          git add requirements.txt
+          echo -e "$COMMIT_MESSAGE\n\n$SIGNED_OFF_BY\n$CO_AUTHORED_BY" | git commit -F -
+      
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push origin HEAD
