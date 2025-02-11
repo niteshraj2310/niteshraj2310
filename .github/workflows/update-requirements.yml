@@ -25,15 +25,28 @@ jobs:
 
       - name: Update requirements.txt
         run: |
-          pip list --outdated --format=json | jq -r '.[] | .name' | xargs -n1 pip install -U
+          pip list --outdated --format=json | jq -r '.[].name' | xargs -n1 pip install -U
           pip freeze > requirements.txt
 
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet requirements.txt; then
+            echo "No changes detected in requirements.txt"
+            echo "no_changes=true" >> $GITHUB_ENV
+          else
+            echo "Changes detected in requirements.txt"
+            echo "no_changes=false" >> $GITHUB_ENV
+          fi
+
       - name: Set up Git
+        if: steps.check_changes.outputs.no_changes == 'false'
         run: |
           git config --global user.name 'niteshraj2310'
           git config --global user.email 'niteshraj2310@users.noreply.github.com'
 
       - name: Commit updated requirements.txt
+        if: steps.check_changes.outputs.no_changes == 'false'
         env:
           SIGNED_OFF_BY: "Signed-off-by: niteshraj2310 <niteshraj2310@users.noreply.github.com>"
           CO_AUTHORED_BY: "Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
@@ -43,6 +56,7 @@ jobs:
           echo -e "$COMMIT_MESSAGE\n\n$CO_AUTHORED_BY\n$SIGNED_OFF_BY" | git commit -F -
       
       - name: Push changes
+        if: steps.check_changes.outputs.no_changes == 'false'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
