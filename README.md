@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Opinions are like arseholes, everyone has one.</i><br></p>
+<p align="center"><br><i>To improve productivity, always have a shittier task to put off.</i><br></p>
 <!-- ADVICE:END -->
 
 <div align="center">
