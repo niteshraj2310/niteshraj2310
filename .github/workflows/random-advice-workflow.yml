@@ -1,0 +1,25 @@
+name: Advice workflow
+on:
+  push:
+  schedule:
+    - cron: "0 */3 * * *" # Run every three hours
+  workflow_dispatch:
+jobs:
+  update-readme-with-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup node 14
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14.x
+      - name: pull script to get quote
+        uses: ashutoshkrris/random-advice-workflow@master
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "niteshraj231@outlook.com"
+          git config --local user.name "Nitesh"
+          git add .
+          COMMIT_MESSAGE=$(curl -s https://whatthecommit.com/index.txt)
+          git commit -m "$COMMIT_MESSAGE" --signoff
+          git push
