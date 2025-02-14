@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always the burrito.</i><br></p>
+<p align="center"><br><i>Opinions are like arseholes, everyone has one.</i><br></p>
 <!-- ADVICE:END -->
 
 <div align="center">
