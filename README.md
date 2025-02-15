@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Cars are bad investments.</i><br></p>
+<p align="center"><br><i>Always bet on black.</i><br></p>
 <!-- ADVICE:END -->
 
 #
