@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sarcasm is the lowest form of wit. Employ correctly with apt timing.</i><br></p>
+<p align="center"><br><i>Give up your seat for someone who needs it.</i><br></p>
 <!-- ADVICE:END -->
 
 #
