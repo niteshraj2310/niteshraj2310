@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're going bald, don't comb your hair over your bald patch.</i><br></p>
+<p align="center"><br><i>Never write in an email to someone, something which you wouldn't say to that person's face.</i><br></p>
 <!-- ADVICE:END -->
 
 <div align="center">
