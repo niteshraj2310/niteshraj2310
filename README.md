@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never write in an email to someone, something which you wouldn't say to that person's face.</i><br></p>
+<p align="center"><br><i>Cars are bad investments.</i><br></p>
 <!-- ADVICE:END -->
 
 #
