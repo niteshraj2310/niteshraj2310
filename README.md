@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i><br></p>
+<p align="center"><br><i>Try buying a coffee for the creator of a free public API, now and then.</i><br></p>
 <!-- ADVICE:END -->
 
 #
