@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.</i><br></p>
+<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i><br></p>
 <!-- ADVICE:END -->
 
 #
