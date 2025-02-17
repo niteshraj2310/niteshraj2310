@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Big things have small beginnings.</i><br></p>
+<p align="center"><br><i>Hold the door open for the next person.</i><br></p>
 <!-- ADVICE:END -->
 
 #
