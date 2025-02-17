@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the top five regrets people have is that they didn't stay in contact with friends.</i><br></p>
+<p align="center"><br><i>Life is better when you sing about bananas.</i><br></p>
 <!-- ADVICE:END -->
 
 #
