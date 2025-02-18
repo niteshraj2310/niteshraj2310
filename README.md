@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=45&letterSpacing=-1px&pause=1000&color=F7F7F7&vCenter=true&width=501&height=62&lines=Hey+there!+Nitesh+here.+%F0%9F%91%8B)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=45&letterSpacing=-1px&pause=1000&color=F7F7F7&vCenter=true&width=501&height=62&lines=Hey+there!+Nitesh+here.+%F0%9F%91%8B)
 
 <img align="center" src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
