@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never write in an email to someone, something which you wouldn't say to that person's face.</i><br></p>
+<p align="center"><br><i>Some of life's best lessons are learnt at the worst times.</i><br></p>
 <!-- ADVICE:END -->
 
 #
