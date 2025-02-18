@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A nod is as good as a wink to a blind horse.</i><br></p>
+<p align="center"><br><i>Why wait until valentines day for a romantic gesture?</i><br></p>
 <!-- ADVICE:END -->
 
 #
