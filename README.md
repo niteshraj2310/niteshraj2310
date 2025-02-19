@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can fail at what you don't want. So you might as well take a chance on doing what you love.</i><br></p>
+<p align="center"><br><i>If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.</i><br></p>
 <!-- ADVICE:END -->
 
 #
