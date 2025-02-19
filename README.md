@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do, or do not. There is no try.</i><br></p>
+<p align="center"><br><i>Drink a glass of water before meals.</i><br></p>
 <!-- ADVICE:END -->
 
 #
