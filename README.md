@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most things done in secrecy are better left undone.</i><br></p>
+<p align="center"><br><i>Eliminate the unnecessary.</i><br></p>
 <!-- ADVICE:END -->
 
 #
