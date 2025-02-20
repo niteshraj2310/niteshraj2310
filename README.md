@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.</i><br></p>
+<p align="center"><br><i>Try using an old idea.</i><br></p>
 <!-- ADVICE:END -->
 
 #
