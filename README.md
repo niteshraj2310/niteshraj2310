@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's always the quiet ones.</i><br></p>
+<p align="center"><br><i>YOLO</i><br></p>
 <!-- ADVICE:END -->
 
 #
