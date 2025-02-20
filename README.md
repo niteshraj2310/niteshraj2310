@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i><br></p>
+<p align="center"><br><i>It's not about who likes you, it's about who you like.</i><br></p>
 <!-- ADVICE:END -->
 
 #
