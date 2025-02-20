@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try using an old idea.</i><br></p>
+<p align="center"><br><i>When faced with a choice, do both.</i><br></p>
 <!-- ADVICE:END -->
 
 #
