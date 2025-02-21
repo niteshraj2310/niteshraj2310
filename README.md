@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learn from your mistakes.</i><br></p>
+<p align="center"><br><i>Try making a list.</i><br></p>
 <!-- ADVICE:END -->
 
 #
