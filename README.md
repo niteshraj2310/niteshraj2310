@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't give to others advice which you wouldn't follow.</i><br></p>
+<p align="center"><br><i>Always bet on black.</i><br></p>
 <!-- ADVICE:END -->
 
 #
