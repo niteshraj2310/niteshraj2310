@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Accept advice.</i><br></p>
+<p align="center"><br><i>Learn from your mistakes.</i><br></p>
 <!-- ADVICE:END -->
 
 #
