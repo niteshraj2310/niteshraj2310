@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always bet on black.</i><br></p>
+<p align="center"><br><i>Stop procrastinating.</i><br></p>
 <!-- ADVICE:END -->
 
 #
