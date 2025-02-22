@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give up your seat for someone who needs it.</i><br></p>
+<p align="center"><br><i>True happiness always resides in the quest.</i><br></p>
 <!-- ADVICE:END -->
 
 #
