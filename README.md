@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.</i><br></p>
+<p align="center"><br><i>The best sex is fun.</i><br></p>
 <!-- ADVICE:END -->
 
 #
