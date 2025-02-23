@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If it still itches after a week, go to the doctors.</i><br></p>
+<p align="center"><br><i>Life can be a lot more interesting inside your head.</i><br></p>
 <!-- ADVICE:END -->
 
 #
