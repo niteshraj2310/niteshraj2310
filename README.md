@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stop procrastinating.</i><br></p>
+<p align="center"><br><i>Good things come to those who wait.</i><br></p>
 <!-- ADVICE:END -->
 
 #
