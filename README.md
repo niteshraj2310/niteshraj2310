@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Value the people in your life.</i><br></p>
+<p align="center"><br><i>Hold the door open for the next person.</i><br></p>
 <!-- ADVICE:END -->
 
 #
