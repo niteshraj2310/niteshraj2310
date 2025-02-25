@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Smile and the world smiles with you. Frown and you're on your own.</i><br></p>
+<p align="center"><br><i>What could you increase? What could you reduce?</i><br></p>
 <!-- ADVICE:END -->
 
 #
