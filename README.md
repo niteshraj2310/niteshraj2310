@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What could you increase? What could you reduce?</i><br></p>
+<p align="center"><br><i>YOLO</i><br></p>
 <!-- ADVICE:END -->
 
 #
