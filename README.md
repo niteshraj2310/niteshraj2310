@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't assume anything is possible or impossible until you've asked the people who will be doing the work.</i><br></p>
+<p align="center"><br><i>Don't give to others advice which you wouldn't follow.</i><br></p>
 <!-- ADVICE:END -->
 
 #
