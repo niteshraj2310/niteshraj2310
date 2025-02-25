@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fail. Fail again. Fail better.</i><br></p>
+<p align="center"><br><i>Don't assume anything is possible or impossible until you've asked the people who will be doing the work.</i><br></p>
 <!-- ADVICE:END -->
 
 #
