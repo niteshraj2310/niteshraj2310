@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.</i><br></p>
+<p align="center"><br><i>Quality beats quantity.</i><br></p>
 <!-- ADVICE:END -->
 
 #
