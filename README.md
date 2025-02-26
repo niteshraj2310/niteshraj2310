@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>YOLO</i><br></p>
+<p align="center"><br><i>Sometimes it's best to ignore other people's advice.</i><br></p>
 <!-- ADVICE:END -->
 
 #
