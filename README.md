@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Big things have small beginnings.</i><br></p>
+<p align="center"><br><i>Work is never as important as you think it is.</i><br></p>
 <!-- ADVICE:END -->
 
 #
