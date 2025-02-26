@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can't do anything about it, there's no point in worrying about it.</i><br></p>
+<p align="center"><br><i>Big things have small beginnings.</i><br></p>
 <!-- ADVICE:END -->
 
 #
