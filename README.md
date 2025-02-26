@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never regret. If it's good, it's wonderful. If it's bad, it's experience.</i><br></p>
+<p align="center"><br><i>Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.</i><br></p>
 <!-- ADVICE:END -->
 
 #
