@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It always seems impossible, until it's done.</i><br></p>
+<p align="center"><br><i>Everything in moderation, including moderation itself.</i><br></p>
 <!-- ADVICE:END -->
 
 #
