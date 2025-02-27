@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes, you just need to say sorry. Even if it's not your fault.</i><br></p>
+<p align="center"><br><i>Turn jeans inside out when washing them to help preserve their colour.</i><br></p>
 <!-- ADVICE:END -->
 
 #
