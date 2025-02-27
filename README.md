@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.</i><br></p>
+<p align="center"><br><i>Do not check work email on your days off.</i><br></p>
 <!-- ADVICE:END -->
 
 #
