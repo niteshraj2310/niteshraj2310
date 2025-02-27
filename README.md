@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Turn jeans inside out when washing them to help preserve their colour.</i><br></p>
+<p align="center"><br><i>You're not as fat as you think you are.</i><br></p>
 <!-- ADVICE:END -->
 
 #
