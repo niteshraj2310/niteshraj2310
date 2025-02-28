@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being kind is more rewarding than being right.</i><br></p>
+<p align="center"><br><i>Don't feed Mogwais after midnight.</i><br></p>
 <!-- ADVICE:END -->
 
 #
