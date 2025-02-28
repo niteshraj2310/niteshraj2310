@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're not that important; it's what you do that counts.</i><br></p>
+<p align="center"><br><i>When faced with a choice, do both.</i><br></p>
 <!-- ADVICE:END -->
 
 #
