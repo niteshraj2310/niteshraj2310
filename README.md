@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Age is of no importance, unless you are a cheese.</i><br></p>
+<p align="center"><br><i>You're not that important; it's what you do that counts.</i><br></p>
 <!-- ADVICE:END -->
 
 #
