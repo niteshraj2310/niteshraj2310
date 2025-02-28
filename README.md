@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't feed Mogwais after midnight.</i><br></p>
+<p align="center"><br><i>Always block trolls.</i><br></p>
 <!-- ADVICE:END -->
 
 #
