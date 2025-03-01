@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Turn jeans inside out when washing them to help preserve their colour.</i><br></p>
+<p align="center"><br><i>The best nights out are when people around you are simply having fun.</i><br></p>
 <!-- ADVICE:END -->
 
 #
