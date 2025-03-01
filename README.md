@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give up your seat for someone who needs it.</i><br></p>
+<p align="center"><br><i>To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.</i><br></p>
 <!-- ADVICE:END -->
 
 #
