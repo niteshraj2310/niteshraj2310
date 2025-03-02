@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Tell it like it is.</i><br></p>
+<p align="center"><br><i>Life is better when you sing about bananas.</i><br></p>
 <!-- ADVICE:END -->
 
 #
