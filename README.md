@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be brave. Even if you're not, pretend to be. No one can tell the difference.</i><br></p>
+<p align="center"><br><i>You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.</i><br></p>
 <!-- ADVICE:END -->
 
 #
