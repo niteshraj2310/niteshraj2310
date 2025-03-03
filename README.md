@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The sun always shines above the clouds.</i><br></p>
+<p align="center"><br><i>Never run with scissors.</i><br></p>
 <!-- ADVICE:END -->
 
 #
