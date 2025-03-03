@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Gratitude is said to be the secret to happiness.</i><br></p>
+<p align="center"><br><i>A common regret in life is wishing one had the courage to be ones true self.</i><br></p>
 <!-- ADVICE:END -->
 
 #
