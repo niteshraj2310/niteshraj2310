@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never run with scissors.</i><br></p>
+<p align="center"><br><i>Mercy is the better part of justice.</i><br></p>
 <!-- ADVICE:END -->
 
 #
