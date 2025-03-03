@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Plant a tree.</i><br></p>
+<p align="center"><br><i>Gratitude is said to be the secret to happiness.</i><br></p>
 <!-- ADVICE:END -->
 
 #
