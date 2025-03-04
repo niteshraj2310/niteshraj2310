@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When something goes wrong in life, just shout "plot twist!" and carry on.</i><br></p>
+<p align="center"><br><i>If you think your headphones are dying, check the socket for fluff with a straightened paperclip.</i><br></p>
 <!-- ADVICE:END -->
 
 #
