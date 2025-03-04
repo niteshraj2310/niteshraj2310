@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you think your headphones are dying, check the socket for fluff with a straightened paperclip.</i><br></p>
+<p align="center"><br><i>The most important thing is the thing most easily forgotten.</i><br></p>
 <!-- ADVICE:END -->
 
 #
