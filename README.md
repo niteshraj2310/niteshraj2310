@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not seek praise, seek criticism.</i><br></p>
+<p align="center"><br><i>When something goes wrong in life, just shout "plot twist!" and carry on.</i><br></p>
 <!-- ADVICE:END -->
 
 #
