@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never pay full price for a sofa at DFS.</i><br></p>
+<p align="center"><br><i>Be a good lover.</i><br></p>
 <!-- ADVICE:END -->
 
 #
