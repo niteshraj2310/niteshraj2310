@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best sex is fun.</i><br></p>
+<p align="center"><br><i>Age is of no importance, unless you are a cheese.</i><br></p>
 <!-- ADVICE:END -->
 
 #
