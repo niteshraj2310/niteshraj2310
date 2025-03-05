@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's always the quiet ones.</i><br></p>
+<p align="center"><br><i>Why wait until valentines day for a romantic gesture?</i><br></p>
 <!-- ADVICE:END -->
 
 #
