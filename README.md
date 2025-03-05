@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Accentuate the positive, eliminate the negative.</i><br></p>
+<p align="center"><br><i>When faced with a choice, do both.</i><br></p>
 <!-- ADVICE:END -->
 
 #
