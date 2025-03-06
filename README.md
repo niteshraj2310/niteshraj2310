@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you have the chance, take it!</i><br></p>
+<p align="center"><br><i>Respect other people's opinions, even when they differ from your own.</i><br></p>
 <!-- ADVICE:END -->
 
 #
