@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never run with scissors.</i><br></p>
+<p align="center"><br><i>If you can't do anything about it, there's no point in worrying about it.</i><br></p>
 <!-- ADVICE:END -->
 
 #
