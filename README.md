@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you've nothing nice to say, say nothing.</i><br></p>
+<p align="center"><br><i>Do not seek praise, seek criticism.</i><br></p>
 <!-- ADVICE:END -->
 
 #
