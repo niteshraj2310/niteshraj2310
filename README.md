@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can't do anything about it, there's no point in worrying about it.</i><br></p>
+<p align="center"><br><i>There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.</i><br></p>
 <!-- ADVICE:END -->
 
 #
