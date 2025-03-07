@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A problem shared is a problem halved.</i><br></p>
+<p align="center"><br><i>Plant a tree.</i><br></p>
 <!-- ADVICE:END -->
 
 #
