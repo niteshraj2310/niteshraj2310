@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What could you increase? What could you reduce?</i><br></p>
+<p align="center"><br><i>If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.</i><br></p>
 <!-- ADVICE:END -->
 
 #
