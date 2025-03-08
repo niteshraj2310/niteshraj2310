@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.</i><br></p>
+<p align="center"><br><i>If you can't do anything about it, there's no point in worrying about it.</i><br></p>
 <!-- ADVICE:END -->
 
 #
