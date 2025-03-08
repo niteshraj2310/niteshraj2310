@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can't do anything about it, there's no point in worrying about it.</i><br></p>
+<p align="center"><br><i>Some of life's best lessons are learnt at the worst times.</i><br></p>
 <!-- ADVICE:END -->
 
 #
