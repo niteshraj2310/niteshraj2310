@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Value the people in your life.</i><br></p>
+<p align="center"><br><i>Don't let the bastards grind you down.</i><br></p>
 <!-- ADVICE:END -->
 
 #
