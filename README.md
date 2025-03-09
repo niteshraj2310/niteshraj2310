@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have as many hours in a day as the people you admire most.</i><br></p>
+<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i><br></p>
 <!-- ADVICE:END -->
 
 #
