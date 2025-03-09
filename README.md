@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is a journey, not a destination.</i><br></p>
+<p align="center"><br><i>No "brand" is your friend.</i><br></p>
 <!-- ADVICE:END -->
 
 #
