@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have as many hours in a day as the people you admire most.</i><br></p>
+<p align="center"><br><i>Exercise in the rain can really make you feel alive.</i><br></p>
 <!-- ADVICE:END -->
 
 #
