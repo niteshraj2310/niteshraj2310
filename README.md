@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A problem shared is a problem halved.</i><br></p>
+<p align="center"><br><i>You have as many hours in a day as the people you admire most.</i><br></p>
 <!-- ADVICE:END -->
 
 #
