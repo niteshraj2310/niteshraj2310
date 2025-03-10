@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're feeling tired or anxious, a pint of water will almost always make you feel better.</i><br></p>
+<p align="center"><br><i>Always double check you actually attached the file to the email.</i><br></p>
 <!-- ADVICE:END -->
 
 #
