@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never pay full price for a sofa at DFS.</i><br></p>
+<p align="center"><br><i>If you're feeling tired or anxious, a pint of water will almost always make you feel better.</i><br></p>
 <!-- ADVICE:END -->
 
 #
