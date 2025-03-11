@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Exercise in the rain can really make you feel alive.</i><br></p>
+<p align="center"><br><i>Respect your elders.</i><br></p>
 <!-- ADVICE:END -->
 
 #
