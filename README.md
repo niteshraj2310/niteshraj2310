@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's wrong to be right.</i><br></p>
+<p align="center"><br><i>Don't eat non-snow-coloured snow.</i><br></p>
 <!-- ADVICE:END -->
 
 #
