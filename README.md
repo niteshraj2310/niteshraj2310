@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's always the quiet ones.</i><br></p>
+<p align="center"><br><i>The higher up you are in a company, the more likely it is that your boss is a psychopath.</i><br></p>
 <!-- ADVICE:END -->
 
 #
