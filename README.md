@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Eliminate the unnecessary.</i><br></p>
+<p align="center"><br><i>If you need cheering up, try searching online for photos of kittens.</i><br></p>
 <!-- ADVICE:END -->
 
 #
