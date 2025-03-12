@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When in doubt, just take the next small step.</i><br></p>
+<p align="center"><br><i>If you have the chance, take it!</i><br></p>
 <!-- ADVICE:END -->
 
 #
