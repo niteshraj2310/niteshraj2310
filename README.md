@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you have the chance, take it!</i><br></p>
+<p align="center"><br><i>Put a piece of kitchen roll in with your bag of leaves to make them last longer.</i><br></p>
 <!-- ADVICE:END -->
 
 #
