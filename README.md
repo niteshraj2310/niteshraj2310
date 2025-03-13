@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Alway do anything for love, but don't do that.</i><br></p>
+<p align="center"><br><i>Do not check work email on your days off.</i><br></p>
 <!-- ADVICE:END -->
 
 #
