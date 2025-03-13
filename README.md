@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just because you are offended, doesn't mean you are right.</i><br></p>
+<p align="center"><br><i>Things are just things. Don't get too attached to them.</i><br></p>
 <!-- ADVICE:END -->
 
 #
