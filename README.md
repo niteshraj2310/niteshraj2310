@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you get stuck, try doing the opposite of what the solution requires.</i><br></p>
+<p align="center"><br><i>Alway do anything for love, but don't do that.</i><br></p>
 <!-- ADVICE:END -->
 
 #
