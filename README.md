@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It always seems impossible, until it's done.</i><br></p>
+<p align="center"><br><i>You're not as fat as you think you are.</i><br></p>
 <!-- ADVICE:END -->
 
 #
