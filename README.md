@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not check work email on your days off.</i><br></p>
+<p align="center"><br><i>It always seems impossible, until it's done.</i><br></p>
 <!-- ADVICE:END -->
 
 #
