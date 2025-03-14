@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Things are just things. Don't get too attached to them.</i><br></p>
+<p align="center"><br><i>You will always regret the round of Tequila.</i><br></p>
 <!-- ADVICE:END -->
 
 #
