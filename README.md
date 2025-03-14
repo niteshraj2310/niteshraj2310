@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Play is the true mother of invention.</i><br></p>
+<p align="center"><br><i>Make choices and dont look back.</i><br></p>
 <!-- ADVICE:END -->
 
 #
