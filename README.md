@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hold the door open for the next person.</i><br></p>
+<p align="center"><br><i>If it ain't broke don't fix it.</i><br></p>
 <!-- ADVICE:END -->
 
 #
