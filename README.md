@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes, you just need to say sorry. Even if it's not your fault.</i><br></p>
+<p align="center"><br><i>Try to not compliment people on things they don't control.</i><br></p>
 <!-- ADVICE:END -->
 
 #
