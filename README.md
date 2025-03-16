@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't ever name files or folders using the word "Final".</i><br></p>
+<p align="center"><br><i>YOLO</i><br></p>
 <!-- ADVICE:END -->
 
 #
