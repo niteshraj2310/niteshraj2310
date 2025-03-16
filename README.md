@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never buy cheap cling film.</i><br></p>
+<p align="center"><br><i>If you want to be happily married, marry a happy person.</i><br></p>
 <!-- ADVICE:END -->
 
 #
