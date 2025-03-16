@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Share positive energy.</i><br></p>
+<p align="center"><br><i>You will always regret the round of JÃ¤germeister.</i><br></p>
 <!-- ADVICE:END -->
 
 #
