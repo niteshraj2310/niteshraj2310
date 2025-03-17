@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life can be a lot more interesting inside your head.</i><br></p>
+<p align="center"><br><i>The hardest things to say are usually the most important.</i><br></p>
 <!-- ADVICE:END -->
 
 #
