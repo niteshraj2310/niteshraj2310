@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The hardest things to say are usually the most important.</i><br></p>
+<p align="center"><br><i>A common regret in life is wishing one hadn't worked so hard.</i><br></p>
 <!-- ADVICE:END -->
 
 #
