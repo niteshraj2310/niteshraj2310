@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Measure twice, cut once.</i><br></p>
+<p align="center"><br><i>Don't promise what you can't deliver.</i><br></p>
 <!-- ADVICE:END -->
 
 #
