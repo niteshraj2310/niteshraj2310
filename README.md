@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never set an alarm clock unless you know how to switch it off</i><br></p>
+<p align="center"><br><i>Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.</i><br></p>
 <!-- ADVICE:END -->
 
 #
