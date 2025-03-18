@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A common regret in life is wishing one hadn't worked so hard.</i><br></p>
+<p align="center"><br><i>As you get older, learn never to trust a fart.</i><br></p>
 <!-- ADVICE:END -->
 
 #
