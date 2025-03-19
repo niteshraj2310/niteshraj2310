@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sarcasm is the lowest form of wit. Employ correctly with apt timing.</i><br></p>
+<p align="center"><br><i>Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.</i><br></p>
 <!-- ADVICE:END -->
 
 #
