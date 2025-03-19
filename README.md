@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.</i><br></p>
+<p align="center"><br><i>If you don't ask, you don't get.</i><br></p>
 <!-- ADVICE:END -->
 
 #
