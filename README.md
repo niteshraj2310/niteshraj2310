@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hold the door open for the next person.</i><br></p>
+<p align="center"><br><i>Always block trolls.</i><br></p>
 <!-- ADVICE:END -->
 
 #
