@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone has their down days. Don't take it out on innocent bystanders.</i><br></p>
+<p align="center"><br><i>Hold the door open for the next person.</i><br></p>
 <!-- ADVICE:END -->
 
 #
