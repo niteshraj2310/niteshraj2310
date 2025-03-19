@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always block trolls.</i><br></p>
+<p align="center"><br><i>Have a firm handshake.</i><br></p>
 <!-- ADVICE:END -->
 
 #
