@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you think nobody cares if you're alive, try missing a few payments.</i><br></p>
+<p align="center"><br><i>Everyone has their down days. Don't take it out on innocent bystanders.</i><br></p>
 <!-- ADVICE:END -->
 
 #
