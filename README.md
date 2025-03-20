@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never regret. If it's good, it's wonderful. If it's bad, it's experience.</i><br></p>
+<p align="center"><br><i>Try buying a coffee for the creator of a free public API, now and then.</i><br></p>
 <!-- ADVICE:END -->
 
 #
