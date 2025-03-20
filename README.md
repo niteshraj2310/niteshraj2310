@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try buying a coffee for the creator of a free public API, now and then.</i><br></p>
+<p align="center"><br><i>Alway do anything for love, but don't do that.</i><br></p>
 <!-- ADVICE:END -->
 
 #
