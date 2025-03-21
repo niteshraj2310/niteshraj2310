@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.</i><br></p>
+<p align="center"><br><i>When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.</i><br></p>
 <!-- ADVICE:END -->
 
 #
