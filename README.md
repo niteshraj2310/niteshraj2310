@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep it simple.</i><br></p>
+<p align="center"><br><i>Taking photos with tablet devices looks weird.</i><br></p>
 <!-- ADVICE:END -->
 
 #
