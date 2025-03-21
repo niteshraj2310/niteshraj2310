@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.</i><br></p>
+<p align="center"><br><i>Most things look better when you put them in a circle.</i><br></p>
 <!-- ADVICE:END -->
 
 #
