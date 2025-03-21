@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work is never as important as you think it is.</i><br></p>
+<p align="center"><br><i>Keep it simple.</i><br></p>
 <!-- ADVICE:END -->
 
 #
