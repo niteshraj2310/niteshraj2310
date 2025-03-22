@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Plant a tree.</i><br></p>
+<p align="center"><br><i>As you get older, learn never to trust a fart.</i><br></p>
 <!-- ADVICE:END -->
 
 #
