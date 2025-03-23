@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once in a while, eat some sweets you used to enjoy when you were younger.</i><br></p>
+<p align="center"><br><i>Respect your elders.</i><br></p>
 <!-- ADVICE:END -->
 
 #
