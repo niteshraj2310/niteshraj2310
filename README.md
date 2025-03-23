@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Turn jeans inside out when washing them to help preserve their colour.</i><br></p>
+<p align="center"><br><i>Once you find a really good friend don't do anything that could mess up your friendship.</i><br></p>
 <!-- ADVICE:END -->
 
 #
