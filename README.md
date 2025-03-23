@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When something goes wrong in life, just shout "plot twist!" and carry on.</i><br></p>
+<p align="center"><br><i>One of the single best things about being an adult, is being able to buy as much LEGO as you want.</i><br></p>
 <!-- ADVICE:END -->
 
 #
