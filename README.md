@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once you find a really good friend don't do anything that could mess up your friendship.</i><br></p>
+<p align="center"><br><i>When something goes wrong in life, just shout "plot twist!" and carry on.</i><br></p>
 <!-- ADVICE:END -->
 
 #
