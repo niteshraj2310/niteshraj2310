@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be a good lover.</i><br></p>
+<p align="center"><br><i>Don't take life too seriously.</i><br></p>
 <!-- ADVICE:END -->
 
 #
