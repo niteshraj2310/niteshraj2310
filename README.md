@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quieter you become, the more you can hear.</i><br></p>
+<p align="center"><br><i>If you've nothing nice to say, say nothing.</i><br></p>
 <!-- ADVICE:END -->
 
 #
