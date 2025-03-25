@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learn to handle criticism.</i><br></p>
+<p align="center"><br><i>Only those who attempt the impossible can achieve the absurd.</i><br></p>
 <!-- ADVICE:END -->
 
 #
