@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No "brand" is your friend.</i><br></p>
+<p align="center"><br><i>Learn to handle criticism.</i><br></p>
 <!-- ADVICE:END -->
 
 #
