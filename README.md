@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fail. Fail again. Fail better.</i><br></p>
+<p align="center"><br><i>Good advice is something a man gives when he is too old to set a bad example.</i><br></p>
 <!-- ADVICE:END -->
 
 #
