@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only those who attempt the impossible can achieve the absurd.</i><br></p>
+<p align="center"><br><i>It is easy to sit up and take notice, what's difficult is getting up and taking action.</i><br></p>
 <!-- ADVICE:END -->
 
 #
