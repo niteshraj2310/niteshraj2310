@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always get two ciders.</i><br></p>
+<p align="center"><br><i>You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.</i><br></p>
 <!-- ADVICE:END -->
 
 #
