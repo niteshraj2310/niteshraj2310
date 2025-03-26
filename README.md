@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're feeling tired or anxious, a pint of water will almost always make you feel better.</i><br></p>
+<p align="center"><br><i>Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.</i><br></p>
 <!-- ADVICE:END -->
 
 #
