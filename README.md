@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.</i><br></p>
+<p align="center"><br><i>Work is never as important as you think it is.</i><br></p>
 <!-- ADVICE:END -->
 
 #
