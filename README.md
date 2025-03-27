@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you look around and don't see anyone you respect, its time to leave.</i><br></p>
+<p align="center"><br><i>Respect other people's opinions, even when they differ from your own.</i><br></p>
 <!-- ADVICE:END -->
 
 #
