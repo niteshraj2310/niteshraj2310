@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't be afraid of silly ideas.</i><br></p>
+<p align="center"><br><i>Don't drink bleach.</i><br></p>
 <!-- ADVICE:END -->
 
 #
