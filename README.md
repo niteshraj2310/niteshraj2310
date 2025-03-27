@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learn to handle criticism.</i><br></p>
+<p align="center"><br><i>Never buy cheap cling film.</i><br></p>
 <!-- ADVICE:END -->
 
 #
