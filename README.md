@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you're looking up at birds flying overhead, keep your mouth closed.</i><br></p>
+<p align="center"><br><i>Being kind is more rewarding than being right.</i><br></p>
 <!-- ADVICE:END -->
 
 #
