@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To improve productivity, always have a shittier task to put off.</i><br></p>
+<p align="center"><br><i>If you are ever in doubt about whether or not to wash your hair: Wash it.</i><br></p>
 <!-- ADVICE:END -->
 
 #
