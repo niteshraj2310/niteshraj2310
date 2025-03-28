@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Repeat people's names when you meet them.</i><br></p>
+<p align="center"><br><i>You have as many hours in a day as the people you admire most.</i><br></p>
 <!-- ADVICE:END -->
 
 #
