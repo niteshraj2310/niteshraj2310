@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are ever in doubt about whether or not to wash your hair: Wash it.</i><br></p>
+<p align="center"><br><i>When in doubt, just take the next small step.</i><br></p>
 <!-- ADVICE:END -->
 
 #
