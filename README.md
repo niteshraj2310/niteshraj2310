@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.</i><br></p>
+<p align="center"><br><i>If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.</i><br></p>
 <!-- ADVICE:END -->
 
 #
