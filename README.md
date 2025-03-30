@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Eliminate the unnecessary.</i><br></p>
+<p align="center"><br><i>Never waste an opportunity to tell someone you love them.</i><br></p>
 <!-- ADVICE:END -->
 
 #
