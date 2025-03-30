@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is better when you sing about bananas.</i><br></p>
+<p align="center"><br><i>The most important thing is the thing most easily forgotten.</i><br></p>
 <!-- ADVICE:END -->
 
 #
