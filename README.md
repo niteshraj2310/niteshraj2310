@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When the cistern is filling, the seat is probably still warm.</i><br></p>
+<p align="center"><br><i>There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.</i><br></p>
 <!-- ADVICE:END -->
 
 #
