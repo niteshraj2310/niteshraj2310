@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>State the problem in words as clearly as possible.</i><br></p>
+<p align="center"><br><i>Drink a glass of water before meals.</i><br></p>
 <!-- ADVICE:END -->
 
 #
