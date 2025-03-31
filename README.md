@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do a bit more for your friends.</i><br></p>
+<p align="center"><br><i>Don't let the bastards grind you down.</i><br></p>
 <!-- ADVICE:END -->
 
 #
