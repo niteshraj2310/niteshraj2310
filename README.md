@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Drink a glass of water before meals.</i><br></p>
+<p align="center"><br><i>Vinegar is a powerful cleaning agent.</i><br></p>
 <!-- ADVICE:END -->
 
 #
