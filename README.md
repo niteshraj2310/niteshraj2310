@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best sex is fun.</i><br></p>
+<p align="center"><br><i>Walking is a perfectly valid solution to traffic congestion problems.</i><br></p>
 <!-- ADVICE:END -->
 
 #
