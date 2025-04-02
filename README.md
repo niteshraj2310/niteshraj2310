@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never let your Mother cut your hair.</i><br></p>
+<p align="center"><br><i>Do, or do not. There is no try.</i><br></p>
 <!-- ADVICE:END -->
 
 #
