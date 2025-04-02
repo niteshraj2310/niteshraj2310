@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sing in the shower.</i><br></p>
+<p align="center"><br><i>It's unlucky to be superstitious.</i><br></p>
 <!-- ADVICE:END -->
 
 #
