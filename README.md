@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everybody makes mistakes.</i><br></p>
+<p align="center"><br><i>YOLO</i><br></p>
 <!-- ADVICE:END -->
 
 #
