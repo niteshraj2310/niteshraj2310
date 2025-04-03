@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who never made a mistake never made anything.</i><br></p>
+<p align="center"><br><i>Do not compare yourself with others.</i><br></p>
 <!-- ADVICE:END -->
 
 #
