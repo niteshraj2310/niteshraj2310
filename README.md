@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most things look better when you put them in a circle.</i><br></p>
+<p align="center"><br><i>It's always the quiet ones.</i><br></p>
 <!-- ADVICE:END -->
 
 #
