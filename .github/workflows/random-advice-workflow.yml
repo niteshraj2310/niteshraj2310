@@ -7,12 +7,14 @@ on:
 jobs:
   update-readme-with-quote:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup node 14
-        uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - name: Setup node
+        uses: actions/setup-node@v4
         with:
-          node-version: 14.x
+          node-version: 20.x
       - name: pull script to get quote
         uses: ashutoshkrris/random-advice-workflow@master
       - name: Commit and push changes
@@ -21,5 +23,5 @@ jobs:
           git config --local user.name "Nitesh"
           git add .
           COMMIT_MESSAGE=$(curl -s https://whatthecommit.com/index.txt)
-          git commit -m "$COMMIT_MESSAGE" --signoff
+          git commit -m "$COMMIT_MESSAGE" --signoff || echo "No changes to commit"
           git push
