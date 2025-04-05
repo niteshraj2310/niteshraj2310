@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Before preparing to improve the world, first look around your own home three times. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>The best of us sometimes eat our words. </i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 #
