@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best of us sometimes eat our words. </i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>The best mind-altering drug is the truth.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
