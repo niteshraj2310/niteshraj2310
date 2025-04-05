@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.</i><br></p>
+<p align="center"><br><i></i><br></p>
 <!-- ADVICE:END -->
 
 #
