@@ -16,7 +16,10 @@ jobs:
         with:
           node-version: 20.x
       - name: pull script to get quote
-        uses: ashutoshkrris/random-advice-workflow@master
+        run: |
+          for i in {1..5}; do
+            npx ashutoshkrris/random-advice-workflow@master && break || sleep 15
+          done
       - name: Commit and push changes
         run: |
           git config --local user.email "niteshraj231@outlook.com"
