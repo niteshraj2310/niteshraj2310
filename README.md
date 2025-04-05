@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best mind-altering drug is the truth.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>If you can't explain it simply, you don't understand it well enough.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
