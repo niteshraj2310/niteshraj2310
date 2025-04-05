@@ -11,12 +11,18 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Setup node 14
-        uses: actions/setup-node@v2
+      - name: Setup node
+        uses: actions/setup-node@v3
         with:
-          node-version: 14.x
+          node-version: 18.x
       - name: Get random advice
-        uses: ashutoshkrris/random-advice-workflow@master
+        id: advice
+        run: |
+          ADVICE=$(curl -s https://api.adviceslip.com/advice | jq -r '.slip.advice')
+          echo "ADVICE=$ADVICE" >> $GITHUB_ENV
+      - name: Update README with advice
+        run: |
+          sed -i '/<!-- ADVICE:START -->/,/<!-- ADVICE:END -->/c\<!-- ADVICE:START -->\n<p align="center"><br><i>'"$ADVICE"'</i><br></p>\n<!-- ADVICE:END -->' README.md
       - name: Commit and push changes
         run: |
           git config --local user.email "niteshraj231@outlook.com"
