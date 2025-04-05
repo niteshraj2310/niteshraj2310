@@ -15,14 +15,17 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18.x
-      - name: Get random advice
-        id: advice
+      - name: Get random quote
+        id: quote
         run: |
-          ADVICE=$(curl -s https://api.adviceslip.com/advice | jq -r '.slip.advice')
-          echo "ADVICE=$ADVICE" >> $GITHUB_ENV
-      - name: Update README with advice
+          RESPONSE=$(curl -s https://zenquotes.io/api/random)
+          QUOTE=$(echo $RESPONSE | jq -r '.[0].q')
+          AUTHOR=$(echo $RESPONSE | jq -r '.[0].a')
+          echo "QUOTE=$QUOTE" >> $GITHUB_ENV
+          echo "AUTHOR=$AUTHOR" >> $GITHUB_ENV
+      - name: Update README with quote
         run: |
-          sed -i '/<!-- ADVICE:START -->/,/<!-- ADVICE:END -->/c\<!-- ADVICE:START -->\n<p align="center"><br><i>'"$ADVICE"'</i><br></p>\n<!-- ADVICE:END -->' README.md
+          sed -i '/<!-- ADVICE:START -->/,/<!-- ADVICE:END -->/c\<!-- ADVICE:START -->\n<p align="center"><br><i>'"$QUOTE"'</i><br>— '"$AUTHOR"'</p>\n<!-- ADVICE:END -->' README.md
       - name: Commit and push changes
         run: |
           git config --local user.email "niteshraj231@outlook.com"
