@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Not until we are lost do we begin to understand ourselves.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>Weeds are flowers too, once you get to know them.</i><br>— A.A. Milne</p>
 <!-- ADVICE:END -->
 
 #
