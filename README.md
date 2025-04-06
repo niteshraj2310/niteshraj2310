@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are what you believe yourself to be.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Not until we are lost do we begin to understand ourselves.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
