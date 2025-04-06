@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Death is not sad; the sad thing is that most people don't really live at all.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
