@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have the ability, now apply yourself.</i><br>— Benjamin Mays</p>
+<p align="center"><br><i>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
