@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Death is not sad; the sad thing is that most people don't really live at all.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Where the willingness is great, the difficulties cannot be great.</i><br>— Niccolo Machiavelli</p>
 <!-- ADVICE:END -->
 
 #
