@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Weeds are flowers too, once you get to know them.</i><br>— A.A. Milne</p>
+<p align="center"><br><i>You have the ability, now apply yourself.</i><br>— Benjamin Mays</p>
 <!-- ADVICE:END -->
 
 #
