@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can't explain it simply, you don't understand it well enough.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>You don't need anybody to tell you who you are or what you are. You are what you are!</i><br>— John Lennon</p>
 <!-- ADVICE:END -->
 
 #
