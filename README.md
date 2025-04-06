@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't need anybody to tell you who you are or what you are. You are what you are!</i><br>— John Lennon</p>
+<p align="center"><br><i>You are what you believe yourself to be.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
