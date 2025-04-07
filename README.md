@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No one ever is defeated until defeat has been accepted as a reality.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Sometimes adversity is what you need to face in order to become successful.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
