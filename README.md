@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love is not about possession. Love is about appreciation.</i><br>— Osho</p>
+<p align="center"><br><i>Waste no more time arguing about what a good man should be. Be one.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
