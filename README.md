@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes adversity is what you need to face in order to become successful.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>When you have to make a choice and don't make it, that is in itself a choice.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
