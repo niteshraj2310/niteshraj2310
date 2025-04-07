@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
