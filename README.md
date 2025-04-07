@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where the willingness is great, the difficulties cannot be great.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>No one ever is defeated until defeat has been accepted as a reality.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
