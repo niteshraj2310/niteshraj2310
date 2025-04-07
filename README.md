@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Experience is a comb which nature gives us when we are bald. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
