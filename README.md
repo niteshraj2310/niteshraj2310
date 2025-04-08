@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</i><br>— Les Brown</p>
+<p align="center"><br><i>Dance first. Think later. It's the natural order.</i><br>— Samuel Beckett</p>
 <!-- ADVICE:END -->
 
 #
