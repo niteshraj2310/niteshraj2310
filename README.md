@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dance first. Think later. It's the natural order.</i><br>— Samuel Beckett</p>
+<p align="center"><br><i>There's no coming to consciousness without pain</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
