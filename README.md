@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Opportunity is missed by most people because it is dressed in overalls and looks like work.</i><br>— Thomas Edison</p>
+<p align="center"><br><i>There is a difference between giving directions and giving direction.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
