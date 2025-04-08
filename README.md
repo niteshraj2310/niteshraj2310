@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There's no coming to consciousness without pain</i><br>— Carl Jung</p>
+<p align="center"><br><i>People spend too much time doing and not enough time thinking about what they should be doing.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
