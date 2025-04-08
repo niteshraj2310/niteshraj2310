@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is a difference between giving directions and giving direction.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
