@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Experience is a comb which nature gives us when we are bald. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Opportunity is missed by most people because it is dressed in overalls and looks like work.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 #
