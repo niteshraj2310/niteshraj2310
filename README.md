@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People spend too much time doing and not enough time thinking about what they should be doing.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>The finish line is just the beginning of a whole new race.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
