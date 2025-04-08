@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The finish line is just the beginning of a whole new race.</i><br>— Unknown</p>
+<p align="center"><br><i>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
