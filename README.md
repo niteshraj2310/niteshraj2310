@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</i><br>— Christopher Reeve</p>
+<p align="center"><br><i>Eighty percent of success is showing up. </i><br>— Woody Allen</p>
 <!-- ADVICE:END -->
 
 #
