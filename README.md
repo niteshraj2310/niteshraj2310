@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thinking is difficult, that's why most people judge.</i><br>— Carl Jung</p>
+<p align="center"><br><i>Remember the entrance to the sanctuary is inside you.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
