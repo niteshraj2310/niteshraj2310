@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Thinking is difficult, that's why most people judge.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
