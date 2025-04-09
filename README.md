@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Eighty percent of success is showing up. </i><br>— Woody Allen</p>
+<p align="center"><br><i>The world makes way for the man who knows where he is going.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
