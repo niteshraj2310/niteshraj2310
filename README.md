@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love your enemies, for they tell you your faults.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Life is like underwear, should be changed twice a day. </i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 #
