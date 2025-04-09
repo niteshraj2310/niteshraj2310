@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The biggest adventure you can ever take is to live the life of your dreams. </i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Love your enemies, for they tell you your faults.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
