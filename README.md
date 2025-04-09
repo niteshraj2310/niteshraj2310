@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The world makes way for the man who knows where he is going.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
