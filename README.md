@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember the entrance to the sanctuary is inside you.</i><br>— Rumi</p>
+<p align="center"><br><i>The biggest adventure you can ever take is to live the life of your dreams. </i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
