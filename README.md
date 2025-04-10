@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Words, once they are printed, have a life of their own.</i><br>— Carol Burnett</p>
 <!-- ADVICE:END -->
 
 #
