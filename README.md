@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the midst of chaos, there is also opportunity.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
