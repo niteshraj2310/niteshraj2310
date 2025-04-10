@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live calmly. The time will come when the flowers bloom by themselves.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Fear is your worst enemy. Risk is your best friend.</i><br>— Gurbaksh Chahal</p>
 <!-- ADVICE:END -->
 
 #
