@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing ever goes away until it has taught us what we need to know.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>The most important battle is one to conquer yourself.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
