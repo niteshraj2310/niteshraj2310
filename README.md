@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most important battle is one to conquer yourself.</i><br>— Yanni</p>
+<p align="center"><br><i>Live calmly. The time will come when the flowers bloom by themselves.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
