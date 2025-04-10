@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words, once they are printed, have a life of their own.</i><br>— Carol Burnett</p>
+<p align="center"><br><i>Strategy is a commodity, execution is an art.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 #
