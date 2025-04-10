@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Strategy is a commodity, execution is an art.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>Nothing ever goes away until it has taught us what we need to know.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
