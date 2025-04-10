@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is like underwear, should be changed twice a day. </i><br>— Ray Bradbury</p>
+<p align="center"><br><i>In the midst of chaos, there is also opportunity.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
