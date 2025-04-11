@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The important thing is not to stop questioning. Curiosity has its own reason for existing.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>Discipline is the bridge between goals and accomplishment.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
