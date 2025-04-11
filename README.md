@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>It's not what you pay a man, but what he costs you that counts.</i><br>— Will Rogers</p>
 <!-- ADVICE:END -->
 
 #
