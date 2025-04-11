@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Discipline is the bridge between goals and accomplishment.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Love is not about possession. Love is about appreciation.</i><br>— Osho</p>
 <!-- ADVICE:END -->
 
 #
