@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Perpetual optimism is a force multiplier.</i><br>— Colin Powell</p>
+<p align="center"><br><i>The quality of your life is determined by the quality of questions you ask.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
