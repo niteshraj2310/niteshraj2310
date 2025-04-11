@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quality of your life is determined by the quality of questions you ask.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
