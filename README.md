@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear is your worst enemy. Risk is your best friend.</i><br>— Gurbaksh Chahal</p>
+<p align="center"><br><i>The important thing is not to stop questioning. Curiosity has its own reason for existing.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
