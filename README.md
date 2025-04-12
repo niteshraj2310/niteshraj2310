@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Courage is fear that has said its prayers and decided to go forward anyway.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>All problems are illusions of the mind.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
