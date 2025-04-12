@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The world doesn't always give you want, but it often gives you what you need.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Courage is fear that has said its prayers and decided to go forward anyway.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
