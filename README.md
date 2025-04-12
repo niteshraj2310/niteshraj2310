@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All problems are illusions of the mind.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>I try more and more to be myself, caring relatively little whether people approve or disapprove.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
