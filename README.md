@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Talk to someone about themselves and they'll listen for hours.</i><br>— Dale Carnegie</p>
+<p align="center"><br><i>The greatest treasures are those invisible to the eye but found by the heart.</i><br>— Judy Garland</p>
 <!-- ADVICE:END -->
 
 #
