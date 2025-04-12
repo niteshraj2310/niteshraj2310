@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest treasures are those invisible to the eye but found by the heart.</i><br>— Judy Garland</p>
+<p align="center"><br><i>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
