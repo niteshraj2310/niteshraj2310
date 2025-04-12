@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I try more and more to be myself, caring relatively little whether people approve or disapprove.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>Talk to someone about themselves and they'll listen for hours.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
