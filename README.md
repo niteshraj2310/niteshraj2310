@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>The merit of all things lies in their difficulty.</i><br>— Alexandre Dumas</p>
 <!-- ADVICE:END -->
 
 #
