@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>The world doesn't always give you want, but it often gives you what you need.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
