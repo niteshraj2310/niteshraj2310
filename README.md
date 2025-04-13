@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great deeds are usually wrought at great risks.</i><br>— Herodotus</p>
+<p align="center"><br><i>Not all those who wander are lost.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
