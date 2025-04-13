@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Circumstances do not make the man, they reveal him.</i><br>— James Allen</p>
+<p align="center"><br><i>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
