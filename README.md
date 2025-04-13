@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>Circumstances do not make the man, they reveal him.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
