@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>As mortals, we're ruled by conditions, not by ourselves.</i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 #
