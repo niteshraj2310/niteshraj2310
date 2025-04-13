@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The merit of all things lies in their difficulty.</i><br>— Alexandre Dumas</p>
+<p align="center"><br><i>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
