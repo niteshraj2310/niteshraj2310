@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Not all those who wander are lost.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
