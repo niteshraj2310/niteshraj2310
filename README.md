@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Show me a hero, and I'll write you a tragedy.</i><br>— F. Scott Fitzgerald</p>
 <!-- ADVICE:END -->
 
 #
