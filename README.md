@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't wish it were easier, wish you were better.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Life doesn't get easier or more forgiving, we get stronger and more resilient.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
