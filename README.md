@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Show me a hero, and I'll write you a tragedy.</i><br>— F. Scott Fitzgerald</p>
+<p align="center"><br><i>If we did all the things we are capable of, we would literally astound ourselves.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 #
