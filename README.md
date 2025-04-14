@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life doesn't get easier or more forgiving, we get stronger and more resilient.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>The attempt to escape from pain, is what creates more pain.</i><br>— Gabor Mate</p>
 <!-- ADVICE:END -->
 
 #
