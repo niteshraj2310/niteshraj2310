@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </i><br>— George Washington</p>
+<p align="center"><br><i>You'll see it when you believe it. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
