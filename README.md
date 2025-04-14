@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You'll see it when you believe it. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Don't wish it were easier, wish you were better.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
