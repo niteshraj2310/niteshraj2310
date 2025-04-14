@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </i><br>— George Washington</p>
 <!-- ADVICE:END -->
 
 #
