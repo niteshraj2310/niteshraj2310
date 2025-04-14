@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The attempt to escape from pain, is what creates more pain.</i><br>— Gabor Mate</p>
+<p align="center"><br><i>Alone we can do so little; together we can do so much.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
