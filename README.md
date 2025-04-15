@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Originality is the fine art of remembering what you hear but forgetting where you heard it. </i><br>— Laurence J. Peter</p>
+<p align="center"><br><i>We are always complaining that our days are few, and acting as though there would be no end of them. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
