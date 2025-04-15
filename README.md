@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As a man thinketh in his heart, so shall he be.</i><br>— James Allen</p>
+<p align="center"><br><i>Everything is in your own heart.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
