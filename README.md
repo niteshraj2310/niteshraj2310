@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything is in your own heart.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</i><br>— Grace Coddington</p>
 <!-- ADVICE:END -->
 
 #
