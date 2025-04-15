@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Alone we can do so little; together we can do so much.</i><br>— Helen Keller</p>
+<p align="center"><br><i>As a man thinketh in his heart, so shall he be.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
