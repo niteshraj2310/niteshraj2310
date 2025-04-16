@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Within every desire is the mechanics of its fulfillment.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool. </i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 #
