@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We have to live life with a sense of urgency so not a minute is wasted.</i><br>— Les Brown</p>
+<p align="center"><br><i>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
