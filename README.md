@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Faithless is he that says farewell when the road darkens.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>Whenever you find yourself on the side of the majority, it is time to reform.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
