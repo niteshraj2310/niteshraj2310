@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never let your memories be greater than your dreams.</i><br>— Doug Ivester</p>
+<p align="center"><br><i>We have to live life with a sense of urgency so not a minute is wasted.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
