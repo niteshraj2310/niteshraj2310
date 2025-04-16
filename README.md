@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Change is hard at first, messy in the middle and gorgeous at the end.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
