@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The important thing is not what one is born with but what use one makes of that equipment.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
