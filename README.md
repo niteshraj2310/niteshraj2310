@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</i><br>— Buddha</p>
+<p align="center"><br><i>The wise speak only of what they know.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
