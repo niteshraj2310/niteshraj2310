@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once you choose hope, anything's possible.</i><br>— Christopher Reeve</p>
+<p align="center"><br><i>Life is what you make it. Always has been, always will be.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
