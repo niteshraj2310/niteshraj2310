@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The wise speak only of what they know.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>Once you choose hope, anything's possible.</i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
