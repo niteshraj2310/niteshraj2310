@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
