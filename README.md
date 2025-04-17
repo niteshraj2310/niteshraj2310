@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Waste not fresh tears over old griefs.</i><br>— Euripides</p>
 <!-- ADVICE:END -->
 
 #
