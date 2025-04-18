@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Care about what other people think and you will always be their prisoner.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Make your mind your own business.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
