@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is what you make it. Always has been, always will be.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Only when you can be extremely pliable and soft can you be extremely hard and strong.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
