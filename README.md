@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only when you can be extremely pliable and soft can you be extremely hard and strong.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Quiet people have the loudest minds.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
