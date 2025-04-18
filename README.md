@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're not making mistakes, then you're not doing anything.</i><br>— John Wooden</p>
+<p align="center"><br><i>One must be poor to know the luxury of giving.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
