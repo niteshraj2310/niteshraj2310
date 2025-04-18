@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make your mind your own business.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>Be fascinated instead of frustrated.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
