@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Quiet people have the loudest minds.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
