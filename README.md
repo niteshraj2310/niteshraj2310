@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One must be poor to know the luxury of giving.</i><br>— George Eliot</p>
+<p align="center"><br><i>Care about what other people think and you will always be their prisoner.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
