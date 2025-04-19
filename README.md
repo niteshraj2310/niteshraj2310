@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>All religions, arts and sciences are branches of the same tree. </i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
