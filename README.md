@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes good things fall apart so better things can fall together.</i><br>— Marilyn Monroe</p>
+<p align="center"><br><i>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
