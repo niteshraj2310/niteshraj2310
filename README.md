@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A fear of weakness only strengthens weakness.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Never settle for the crumbs of life.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
