@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All religions, arts and sciences are branches of the same tree. </i><br>— Albert Einstein</p>
+<p align="center"><br><i>Few things are more deceptive than memories.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
