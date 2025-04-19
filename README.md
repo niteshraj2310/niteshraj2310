@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never settle for the crumbs of life.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Troubles are often the tools by which God fashions us for better things.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
