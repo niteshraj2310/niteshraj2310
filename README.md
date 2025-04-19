@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I live by letting things happen.</i><br>— Dogen</p>
+<p align="center"><br><i>A fear of weakness only strengthens weakness.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
