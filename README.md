@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Troubles are often the tools by which God fashions us for better things.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Sometimes good things fall apart so better things can fall together.</i><br>— Marilyn Monroe</p>
 <!-- ADVICE:END -->
 
 #
