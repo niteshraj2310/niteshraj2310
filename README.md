@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Obstacles don't block the path, they are the path.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Curiosity is the most powerful thing you own.</i><br>— James Cameron</p>
 <!-- ADVICE:END -->
 
 #
