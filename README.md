@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Big people don't make people feel small.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>If you care about someone enough, you'll always be there for them no matter what.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
