@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be - don't try to become </i><br>— Osho</p>
+<p align="center"><br><i>I want the fishing rod, not the fish.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
