@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live, travel, adventure, bless, and don't be sorry. </i><br>— Jack Kerouac</p>
+<p align="center"><br><i>Big people don't make people feel small.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
