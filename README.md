@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Few things are more deceptive than memories.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Remain calm. Be kind.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
