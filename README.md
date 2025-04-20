@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I want the fishing rod, not the fish.</i><br>— Yanni</p>
+<p align="center"><br><i>Obstacles don't block the path, they are the path.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
