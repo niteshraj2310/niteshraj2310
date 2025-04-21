@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never let the fear of striking out keep you from playing the game.</i><br>— Babe Ruth</p>
+<p align="center"><br><i>Death is not an ending. It is a transformation.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
