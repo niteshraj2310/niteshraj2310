@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you care about someone enough, you'll always be there for them no matter what.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Only those who dare to fail greatly can ever achieve greatly.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 #
