@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</i><br>— Alan Watts</p>
+<p align="center"><br><i>The chief danger in life is that you may take too many precautions.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
