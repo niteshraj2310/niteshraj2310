@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>We have more possibilities available in each moment than we realize.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
