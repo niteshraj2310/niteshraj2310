@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We have more possibilities available in each moment than we realize.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
