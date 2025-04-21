@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only those who dare to fail greatly can ever achieve greatly.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
