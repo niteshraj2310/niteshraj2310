@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The chief danger in life is that you may take too many precautions.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>Never let the fear of striking out keep you from playing the game.</i><br>— Babe Ruth</p>
 <!-- ADVICE:END -->
 
 #
