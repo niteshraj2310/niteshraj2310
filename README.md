@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only those who dare to fail greatly can ever achieve greatly.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>People think about what they don't want and attract more of the same.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
