@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People think about what they don't want and attract more of the same.</i><br>— Unknown</p>
+<p align="center"><br><i>If you want something new, you have to stop doing something old.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 #
