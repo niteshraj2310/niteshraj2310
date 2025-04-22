@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The road to success is always under construction.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Only those who dare to fail greatly can ever achieve greatly.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 #
