@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Without education, we are in a horrible and deadly danger of taking educated people seriously.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>If you are ever the smartest person in the room, you are in the wrong room.</i><br>— C. Sean McGee</p>
 <!-- ADVICE:END -->
 
 #
