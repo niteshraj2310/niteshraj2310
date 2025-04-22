@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want something new, you have to stop doing something old.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>Life is a succession of lessons, which must be lived to be understood.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
