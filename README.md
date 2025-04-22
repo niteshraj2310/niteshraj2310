@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do all things with love.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Without education, we are in a horrible and deadly danger of taking educated people seriously.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
