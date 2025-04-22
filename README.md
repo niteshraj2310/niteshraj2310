@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Do all things with love.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
