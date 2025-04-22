@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a succession of lessons, which must be lived to be understood.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
