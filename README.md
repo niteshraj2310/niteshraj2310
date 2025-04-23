@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are ever the smartest person in the room, you are in the wrong room.</i><br>— C. Sean McGee</p>
+<p align="center"><br><i>A clear conscience never fears midnight knocking.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
