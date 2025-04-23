@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A clever person turns great troubles into little ones, and little ones into none at all. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Some people feel the rain. Others just get wet. </i><br>— Bob Dylan</p>
 <!-- ADVICE:END -->
 
 #
