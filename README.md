@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live your life as an exclamation rather than an explanation.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>You cannot find peace by avoiding life.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 #
