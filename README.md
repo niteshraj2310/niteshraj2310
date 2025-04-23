@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A clear conscience never fears midnight knocking.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
