@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
