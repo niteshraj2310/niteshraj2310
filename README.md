@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
