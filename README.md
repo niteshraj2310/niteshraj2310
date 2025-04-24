@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>All life is an experiment. The more experiments you make, the better.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
