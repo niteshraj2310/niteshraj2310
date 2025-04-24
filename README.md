@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A mountain never yields to the wind no matter how strong it is.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 #
