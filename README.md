@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</i><br>— Bob Marley</p>
+<p align="center"><br><i>A mountain never yields to the wind no matter how strong it is.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
