@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is what we make out of what we have, not what we are given, that separates one person from another.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>When you're the only sane person, you look like the only insane person.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
