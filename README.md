@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't like something change it; if you can't change it, change the way you think about it.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>If you done it, it ain't bragging.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
