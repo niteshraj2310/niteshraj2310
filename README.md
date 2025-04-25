@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Riches don't make a man rich, they only make him busier.</i><br>— Christopher Columbus</p>
+<p align="center"><br><i>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
