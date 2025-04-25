@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All life is an experiment. The more experiments you make, the better.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>If you don't like something change it; if you can't change it, change the way you think about it.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
