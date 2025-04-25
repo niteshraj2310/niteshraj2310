@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The world is changed by your example, not by your opinion.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Riches don't make a man rich, they only make him busier.</i><br>— Christopher Columbus</p>
 <!-- ADVICE:END -->
 
 #
