@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>The world is changed by your example, not by your opinion.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
