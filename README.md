@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</i><br>— Og Mandino</p>
+<p align="center"><br><i>There is no value in anything until it is finished. </i><br>— Genghis Khan</p>
 <!-- ADVICE:END -->
 
 #
