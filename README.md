@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stop being a prisoner of your past. Become the architect of your future.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</i><br>— John Tukey</p>
 <!-- ADVICE:END -->
 
 #
