@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Old age is like everything else. To make a success of it, you've got to start young.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
