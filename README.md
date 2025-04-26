@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Don't let the past steal your present.</i><br>— Cherralea Morgen</p>
 <!-- ADVICE:END -->
 
 #
