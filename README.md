@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the past steal your present.</i><br>— Cherralea Morgen</p>
+<p align="center"><br><i>Trying to define yourself is like trying to bite your own teeth.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
