@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Old age is like everything else. To make a success of it, you've got to start young.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>When you have to make a choice and don't make it, that is in itself a choice.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
