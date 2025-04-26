@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trying to define yourself is like trying to bite your own teeth.</i><br>— Alan Watts</p>
+<p align="center"><br><i>Life is like a beautiful melody, only the lyrics are messed up.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
