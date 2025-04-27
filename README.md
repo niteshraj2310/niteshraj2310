@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The wise warrior avoids the battle.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Everything is possible. The impossible just takes longer.</i><br>— Dan Brown</p>
 <!-- ADVICE:END -->
 
 #
