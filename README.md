@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</i><br>— Unknown</p>
+<p align="center"><br><i>Be yourself; everyone else is already taken </i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
