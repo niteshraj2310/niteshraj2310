@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>Wisdom is doing now what you are going to be happy with later on.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
