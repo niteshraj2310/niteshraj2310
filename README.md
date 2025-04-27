@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wisdom is doing now what you are going to be happy with later on.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
