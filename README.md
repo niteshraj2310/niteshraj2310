@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is like a beautiful melody, only the lyrics are messed up.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Nothing is really work unless you would rather be doing something else. </i><br>— James Matthew Barrie</p>
 <!-- ADVICE:END -->
 
 #
