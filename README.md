@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fashion fades, only style remains the same.</i><br>— Coco Chanel</p>
+<p align="center"><br><i>Live your life and forget your age.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
