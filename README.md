@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is 10% what happens to you and 90% how you react to it. </i><br>— Charles Swindoll</p>
+<p align="center"><br><i>Alone we can do so little; together we can do so much.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
