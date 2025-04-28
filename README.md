@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't be afraid to see what you see.</i><br>— Ronald Reagan</p>
+<p align="center"><br><i>All I can do is be me, whoever that is.</i><br>— Bob Dylan</p>
 <!-- ADVICE:END -->
 
 #
