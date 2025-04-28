@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live your life and forget your age.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Life is 10% what happens to you and 90% how you react to it. </i><br>— Charles Swindoll</p>
 <!-- ADVICE:END -->
 
 #
