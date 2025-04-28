@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Don't be afraid to see what you see.</i><br>— Ronald Reagan</p>
 <!-- ADVICE:END -->
 
 #
