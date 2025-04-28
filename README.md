@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Fashion fades, only style remains the same.</i><br>— Coco Chanel</p>
 <!-- ADVICE:END -->
 
 #
