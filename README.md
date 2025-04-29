@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
