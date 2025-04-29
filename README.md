@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>Everything begins with an idea.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
