@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Throw me to the wolves and I will return leading the pack. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
