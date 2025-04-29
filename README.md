@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first principle of success is desire.</i><br>— Robert Collier</p>
+<p align="center"><br><i>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
