@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything begins with an idea.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
