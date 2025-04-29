@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Throw me to the wolves and I will return leading the pack. </i><br>— Seneca</p>
+<p align="center"><br><i>We are all born ignorant, but one must work hard to remain stupid.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
