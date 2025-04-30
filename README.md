@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is only one thing in the world worse than being talked about, and that is not being talked about. </i><br>— Oscar Wilde</p>
+<p align="center"><br><i>Be regular and orderly in your life, so that you may be violent and original in your work.</i><br>— Gustave Flaubert</p>
 <!-- ADVICE:END -->
 
 #
