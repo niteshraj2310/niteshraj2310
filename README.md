@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be regular and orderly in your life, so that you may be violent and original in your work.</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>First say to yourself what you would be; and then do what you have to do.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
