@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>First say to yourself what you would be; and then do what you have to do.</i><br>— Epictetus</p>
+<p align="center"><br><i>There is a big difference between being centered and being self-centered.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
