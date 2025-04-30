@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Art is to console those who are broken by life.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>Sometimes things become possible if we want them bad enough.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
