@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Would you rather learn to deal with the truth now than be forced to do so later on?</i><br>— Celestine Chua</p>
+<p align="center"><br><i>There is only one thing in the world worse than being talked about, and that is not being talked about. </i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
