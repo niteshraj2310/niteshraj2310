@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If fear is too strong, the genius is suppressed.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Art is to console those who are broken by life.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
