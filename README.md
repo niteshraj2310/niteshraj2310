@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not about what it is, it's about what it can become.</i><br>— Dr. Seuss</p>
+<p align="center"><br><i>Would you rather learn to deal with the truth now than be forced to do so later on?</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
