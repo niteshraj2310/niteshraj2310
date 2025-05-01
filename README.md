@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Do what you can, with what you have, where you are.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
