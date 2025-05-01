@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Contemplation often makes life miserable. We should act more, think less, and stop watching ourselves live.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</i><br>— Orison Swett Marden</p>
 <!-- ADVICE:END -->
 
 #
