@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do what you can, with what you have, where you are.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>Contemplation often makes life miserable. We should act more, think less, and stop watching ourselves live.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
