@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Each day provides it's own gifts.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
