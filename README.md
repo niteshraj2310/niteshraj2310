@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</i><br>— Orison Swett Marden</p>
+<p align="center"><br><i>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
