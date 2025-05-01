@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </i><br>— Martin Luther</p>
+<p align="center"><br><i>Each day provides it's own gifts.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
