@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</i><br>— Robin Sharma</p>
+<p align="center"><br><i>A man who dares to waste one hour of time has not discovered the value of life.</i><br>— Charles Darwin</p>
 <!-- ADVICE:END -->
 
 #
