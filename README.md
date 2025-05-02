@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once a decision was made, I didn't worry about it afterward.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Try not to become a man of success, but rather try to become a man of value.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
