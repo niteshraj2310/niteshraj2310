@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you lose your desire for things that do not matter, you will be free.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Life is ten percent what you experience and ninety percent how you respond to it.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
