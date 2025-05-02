@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man who dares to waste one hour of time has not discovered the value of life.</i><br>— Charles Darwin</p>
+<p align="center"><br><i>When you lose your desire for things that do not matter, you will be free.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
