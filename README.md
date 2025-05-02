@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>It's better to dance than to march through life.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 #
