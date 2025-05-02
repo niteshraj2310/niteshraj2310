@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's better to dance than to march through life.</i><br>— Yoko Ono</p>
+<p align="center"><br><i>The less you open your heart to others, the more your heart suffers.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
