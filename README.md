@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The less you open your heart to others, the more your heart suffers.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Once a decision was made, I didn't worry about it afterward.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
