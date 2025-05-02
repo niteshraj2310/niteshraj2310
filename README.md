@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is ten percent what you experience and ninety percent how you respond to it.</i><br>— Unknown</p>
+<p align="center"><br><i>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
