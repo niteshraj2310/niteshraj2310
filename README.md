@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try not to become a man of success, but rather try to become a man of value.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>Every experience is a lesson. Every loss is a gain.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 #
