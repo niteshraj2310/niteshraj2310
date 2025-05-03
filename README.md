@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </i><br>— Denis Waitley</p>
+<p align="center"><br><i>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
