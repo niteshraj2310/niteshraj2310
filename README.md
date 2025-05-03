@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you praise and celebrate your life, the more there is in life to celebrate. </i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>There are no limitations to the mind except those we acknowledge...</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
