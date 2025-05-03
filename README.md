@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Force has no place where there is need of skill. </i><br>— Herodotus</p>
+<p align="center"><br><i>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
