@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every experience is a lesson. Every loss is a gain.</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>The more you praise and celebrate your life, the more there is in life to celebrate. </i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
