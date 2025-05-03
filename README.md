@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no limitations to the mind except those we acknowledge...</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
