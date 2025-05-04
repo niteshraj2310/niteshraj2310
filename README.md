@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do anything, but let it produce joy.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>Live calmly. The time will come when the flowers bloom by themselves.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
