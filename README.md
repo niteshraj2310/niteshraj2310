@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The right thing to do and the hard thing to do are usually the same.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
