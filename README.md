@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Awakening is possible only for those who seek it and want it.</i><br>— G.I. Gurdjieff</p>
+<p align="center"><br><i>Do anything, but let it produce joy.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
