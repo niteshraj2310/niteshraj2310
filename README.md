@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>20 percent of your activities will account for 80 percent of your results.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Awakening is possible only for those who seek it and want it.</i><br>— G.I. Gurdjieff</p>
 <!-- ADVICE:END -->
 
 #
