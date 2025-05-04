@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live calmly. The time will come when the flowers bloom by themselves.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Man's character is his fate.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
