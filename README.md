@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man's character is his fate.</i><br>— Heraclitus</p>
+<p align="center"><br><i>The right thing to do and the hard thing to do are usually the same.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
