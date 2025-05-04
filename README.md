@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>We must not sit down and wait for miracles. Up and be going!</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 #
