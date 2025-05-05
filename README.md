@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We ordinary people must forge our own beauty.</i><br>— Kenji Miyazawa</p>
+<p align="center"><br><i>While some of us act without thinking, too many of us think without acting.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
