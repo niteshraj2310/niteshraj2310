@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your time is limited, so don't waste it living someone elses. life.</i><br>— Steve Jobs</p>
+<p align="center"><br><i>We ordinary people must forge our own beauty.</i><br>— Kenji Miyazawa</p>
 <!-- ADVICE:END -->
 
 #
