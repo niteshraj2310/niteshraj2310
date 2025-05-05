@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>While some of us act without thinking, too many of us think without acting.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
