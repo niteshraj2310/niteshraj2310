@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>To achieve, you need thought. You have to know what you are doing and that's real power.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
