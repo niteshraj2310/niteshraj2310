@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We must not sit down and wait for miracles. Up and be going!</i><br>— John Eliot</p>
+<p align="center"><br><i>Success comes from knowing that you did your best to become the best that you are capable of becoming.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
