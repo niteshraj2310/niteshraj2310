@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success comes from knowing that you did your best to become the best that you are capable of becoming.</i><br>— John Wooden</p>
+<p align="center"><br><i>Happiness is not the absence of problems, it's the ability to deal with them.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
