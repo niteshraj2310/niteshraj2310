@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>Few things are more deceptive than memories.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
