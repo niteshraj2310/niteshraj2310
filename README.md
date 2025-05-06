@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no accidents... there is only some purpose that we haven't yet understood.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Where there is no struggle, there is no strength. </i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
