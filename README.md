@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learn from the rejection and turn it into an opportunity!</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>There's more to life than being a passenger.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
