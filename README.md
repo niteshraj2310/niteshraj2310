@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want something you've never had you must be willing to do something you've never done.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>You're only given a little spark of madness. You mustn't lose it.</i><br>— Robin Williams</p>
 <!-- ADVICE:END -->
 
 #
