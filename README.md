@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Few things are more deceptive than memories.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>There are no accidents... there is only some purpose that we haven't yet understood.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
