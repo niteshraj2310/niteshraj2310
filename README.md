@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be brave to stand for what you believe in even if you stand alone.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>If you want something you've never had you must be willing to do something you've never done.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
