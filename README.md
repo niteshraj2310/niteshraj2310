@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're only given a little spark of madness. You mustn't lose it.</i><br>— Robin Williams</p>
+<p align="center"><br><i>Learn from the rejection and turn it into an opportunity!</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
