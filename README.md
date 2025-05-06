@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where there is no struggle, there is no strength. </i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Be brave to stand for what you believe in even if you stand alone.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
