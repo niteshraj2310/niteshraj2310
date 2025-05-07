@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All leaders are readers.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Although the world is full of suffering, it is also full of the overcoming of it.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
