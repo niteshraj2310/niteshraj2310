@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let your mind stop you.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>There can be no deep disappointment where there is not deep love.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
