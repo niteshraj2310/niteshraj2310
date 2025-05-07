@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Although the world is full of suffering, it is also full of the overcoming of it.</i><br>— Helen Keller</p>
+<p align="center"><br><i>Art is the signature of civilizations. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
