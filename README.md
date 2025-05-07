@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who says something is impossible should not interrupt the person who is doing it.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>All leaders are readers.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
