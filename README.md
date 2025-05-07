@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There can be no deep disappointment where there is not deep love.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>Everybody needs a passion. That's what keeps life interesting.</i><br>— Betty White</p>
 <!-- ADVICE:END -->
 
 #
