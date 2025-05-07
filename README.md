@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life reflects your own thoughts back to you.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Don't let your mind stop you.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
