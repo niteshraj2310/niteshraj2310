@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There's more to life than being a passenger.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>The person who says something is impossible should not interrupt the person who is doing it.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
