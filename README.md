@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We create the world and ourselves;</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>People inspire you, or they drain you. Pick them wisely.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
