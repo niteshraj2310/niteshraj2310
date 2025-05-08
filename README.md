@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are the only problem you will ever have and you are the only solution.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>It is useless to attempt to reason a man out of a thing he was never reasoned into.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
