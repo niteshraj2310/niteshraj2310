@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Silence is a source of great strength.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>You are the only problem you will ever have and you are the only solution.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 #
