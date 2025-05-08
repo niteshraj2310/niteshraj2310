@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot find peace avoiding life.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>We create the world and ourselves;</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
