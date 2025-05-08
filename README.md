@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am thankful to all those who said no. It's because of them, I did it myself. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>You cannot find peace avoiding life.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 #
