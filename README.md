@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People inspire you, or they drain you. Pick them wisely.</i><br>— Les Brown</p>
+<p align="center"><br><i>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
