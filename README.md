@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
