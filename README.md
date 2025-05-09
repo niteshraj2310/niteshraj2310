@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When reading, only read. When eating, only eat. When thinking, only think.</i><br>— Seungsahn</p>
+<p align="center"><br><i>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
