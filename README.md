@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not the size of the dog in the fight, it's the size of the fight in the dog.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Things turn out best for the people who make the best of the way things turn out.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
