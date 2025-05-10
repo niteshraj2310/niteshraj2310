@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Care about what other people think and you will always be their prisoner.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Speak when you are angry - and you'll make the best speech you'll ever regret.</i><br>— Laurence J. Peter</p>
 <!-- ADVICE:END -->
 
 #
