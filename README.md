@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </i><br>— Henry Ford</p>
+<p align="center"><br><i>If you've made a mistake, it's better just to laugh at it.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
