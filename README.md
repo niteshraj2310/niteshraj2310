@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Mastering others is strength, mastering yourself is true power.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
