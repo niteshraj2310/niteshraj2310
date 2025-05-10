@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</i><br>— Yanni</p>
+<p align="center"><br><i>Mastering others is strength, mastering yourself is true power.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
