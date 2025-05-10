@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Speak when you are angry - and you'll make the best speech you'll ever regret.</i><br>— Laurence J. Peter</p>
+<p align="center"><br><i>Faith is taking the first step even when you don't see the whole staircase.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
