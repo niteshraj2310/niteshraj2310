@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
