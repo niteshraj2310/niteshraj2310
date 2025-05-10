@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Things turn out best for the people who make the best of the way things turn out.</i><br>— John Wooden</p>
+<p align="center"><br><i>Care about what other people think and you will always be their prisoner.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
