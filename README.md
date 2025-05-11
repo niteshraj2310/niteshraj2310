@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Time flies whether you are having fun or not.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Time is a game played beautifully by children.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
