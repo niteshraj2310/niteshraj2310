@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If fear is too strong, the genius is suppressed.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Whether you think you can or think you can't – you are right.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
