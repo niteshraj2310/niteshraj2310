@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People become attached to their burdens sometimes more than the burdens are attached to them.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Everything flows, nothing stands still.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
