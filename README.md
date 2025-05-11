@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you've made a mistake, it's better just to laugh at it.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>I succeeded by saying what everyone else is thinking.</i><br>— Joan Rivers</p>
 <!-- ADVICE:END -->
 
 #
