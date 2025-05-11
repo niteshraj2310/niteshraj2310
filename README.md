@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</i><br>— Charles Darwin</p>
+<p align="center"><br><i>Time flies whether you are having fun or not.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
