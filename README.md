@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whether you think you can or think you can't – you are right.</i><br>— Henry Ford</p>
+<p align="center"><br><i>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</i><br>— Charles Darwin</p>
 <!-- ADVICE:END -->
 
 #
