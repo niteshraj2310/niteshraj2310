@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything flows, nothing stands still.</i><br>— Heraclitus</p>
+<p align="center"><br><i>If fear is too strong, the genius is suppressed.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
