@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You get in life what you have the courage to ask for.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
