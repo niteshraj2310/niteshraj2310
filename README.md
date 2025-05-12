@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>The greatest treasures are those invisible to the eye but found by the heart.</i><br>— Judy Garland</p>
 <!-- ADVICE:END -->
 
 #
