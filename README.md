@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thoughts become things. If you see it in your mind, you will hold it in your hand.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>If you're afraid to die, you're afraid to live. You can't have one without the other.</i><br>— Rita Mae Brown</p>
 <!-- ADVICE:END -->
 
 #
