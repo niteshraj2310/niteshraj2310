@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Turn the pain into power.</i><br>— Unknown</p>
+<p align="center"><br><i>Thoughts become things. If you see it in your mind, you will hold it in your hand.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 #
