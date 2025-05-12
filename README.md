@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future will be shaped by those willing to commit their minds and their bodies to the task.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>Turn the pain into power.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
