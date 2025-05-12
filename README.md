@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Time is a game played beautifully by children.</i><br>— Heraclitus</p>
+<p align="center"><br><i>You get in life what you have the courage to ask for.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
