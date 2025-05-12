@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're afraid to die, you're afraid to live. You can't have one without the other.</i><br>— Rita Mae Brown</p>
+<p align="center"><br><i>It is in your moments of decision that your destiny is shaped.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
