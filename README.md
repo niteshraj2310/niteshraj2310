@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Making your mark on the world is hard. If it were easy, everybody would do it.</i><br>— Barack Obama</p>
+<p align="center"><br><i>Excellence is not an exception, it is a prevailing attitude.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
