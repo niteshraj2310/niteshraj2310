@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Insanity is relative. It depends on who has who locked in what cage. </i><br>— Ray Bradbury</p>
+<p align="center"><br><i>The man who does not value himself, cannot value anything or anyone.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
