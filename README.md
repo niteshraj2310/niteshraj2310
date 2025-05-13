@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're never given a dream without also being given the power to make it true.</i><br>— Richard Bach</p>
+<p align="center"><br><i>Making your mark on the world is hard. If it were easy, everybody would do it.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
