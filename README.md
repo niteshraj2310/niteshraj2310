@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything has beauty but not everyone sees it.</i><br>— Confucius</p>
+<p align="center"><br><i>You're never given a dream without also being given the power to make it true.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
