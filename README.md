@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is in your moments of decision that your destiny is shaped.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Do not believe that you will reach your destination without leaving the shore. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
