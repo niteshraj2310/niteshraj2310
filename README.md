@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not believe that you will reach your destination without leaving the shore. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Insanity is relative. It depends on who has who locked in what cage. </i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 #
