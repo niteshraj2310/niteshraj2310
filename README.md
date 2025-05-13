@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The Art of Peace begins with you.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Everything has beauty but not everyone sees it.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
