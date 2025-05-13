@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The man who does not value himself, cannot value anything or anyone.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>The Art of Peace begins with you.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
