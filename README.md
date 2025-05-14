@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When asked, how do you write? I invariably answer, one word at a time.</i><br>— Stephen King</p>
+<p align="center"><br><i>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
