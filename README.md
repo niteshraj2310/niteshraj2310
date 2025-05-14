@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You miss 100% of the shots you don't take.</i><br>— Wayne Gretzky</p>
+<p align="center"><br><i>The man who removes a mountain begins by carrying away small stones.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
