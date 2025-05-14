@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>You miss 100% of the shots you don't take.</i><br>— Wayne Gretzky</p>
 <!-- ADVICE:END -->
 
 #
