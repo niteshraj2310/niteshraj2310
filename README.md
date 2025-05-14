@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember that sometimes not getting what you want is a wonderful stroke of luck.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>For changes to be of any true value, they've got to be lasting and consistent.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
