@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't want anything. Then you get everything.</i><br>— Seungsahn</p>
+<p align="center"><br><i>Remember that sometimes not getting what you want is a wonderful stroke of luck.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
