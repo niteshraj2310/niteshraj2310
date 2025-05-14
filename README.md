@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Death walks faster than the wind and never returns what he has taken.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>When asked, how do you write? I invariably answer, one word at a time.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
