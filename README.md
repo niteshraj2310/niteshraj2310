@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Excellence is not an exception, it is a prevailing attitude.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Don't want anything. Then you get everything.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
