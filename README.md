@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
