@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A diamond is a piece of charcoal that handled stress exceptionally well.</i><br>— Unknown</p>
+<p align="center"><br><i>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
