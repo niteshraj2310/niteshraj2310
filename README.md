@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The man who removes a mountain begins by carrying away small stones.</i><br>— William Faulkner</p>
+<p align="center"><br><i>If you care about someone enough, you'll always be there for them no matter what.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
