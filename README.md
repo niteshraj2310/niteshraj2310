@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The eyes of others our prisons; their thoughts our cages.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>Treat everyone with politeness and kindness, not because they are nice, but because you are.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
