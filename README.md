@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you build the guts to do something, anything, then you better save enough to face the consequences.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Those who are possessed by nothing possess everything.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
