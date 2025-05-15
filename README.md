@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you care about someone enough, you'll always be there for them no matter what.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>A diamond is a piece of charcoal that handled stress exceptionally well.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
