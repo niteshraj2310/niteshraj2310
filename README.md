@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>The eyes of others our prisons; their thoughts our cages.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 #
