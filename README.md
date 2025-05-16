@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Greatness lies not in being strong, but in the right use of strength.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
