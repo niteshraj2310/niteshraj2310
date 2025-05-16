@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The secret of life isn't what happens to you, but what you do with what happens to you.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Information changes your mind. Action changes your circumstances.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
