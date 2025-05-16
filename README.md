@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change yourself and you have done your part in changing the world.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>At the end of the day, let there be no excuses, no explanations, no regrets.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
