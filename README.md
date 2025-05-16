@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</i><br>— Steve Jobs</p>
+<p align="center"><br><i>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
