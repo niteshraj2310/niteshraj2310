@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Information changes your mind. Action changes your circumstances.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>We never know the love of a parent till we become parents ourselves.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
