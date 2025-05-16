@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>At the end of the day, let there be no excuses, no explanations, no regrets.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 #
