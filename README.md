@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Greatness lies not in being strong, but in the right use of strength.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>The secret of life isn't what happens to you, but what you do with what happens to you.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
