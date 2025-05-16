@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who are possessed by nothing possess everything.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Change yourself and you have done your part in changing the world.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
