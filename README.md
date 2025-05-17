@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The road to success is always under construction.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Tension is who you think you should be. Relaxation is who you are.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
