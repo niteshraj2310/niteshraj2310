@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot find peace avoiding life.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>Muddy water is best cleared by leaving it alone.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
