@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You may forget with whom you laughed, but you will never forget with whom you wept. </i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>You cannot find peace avoiding life.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 #
