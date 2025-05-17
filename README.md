@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give out what you most want to come back.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>The road to success is always under construction.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
