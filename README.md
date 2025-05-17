@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We never know the love of a parent till we become parents ourselves.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it.</i><br>— Gurbaksh Chahal</p>
 <!-- ADVICE:END -->
 
 #
