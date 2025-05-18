@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Muddy water is best cleared by leaving it alone.</i><br>— Alan Watts</p>
+<p align="center"><br><i>Management is doing things right; leadership is doing the right things.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 #
