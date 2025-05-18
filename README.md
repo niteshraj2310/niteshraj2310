@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being wrong brings the opportunity for growth.</i><br>— Mark Manson</p>
+<p align="center"><br><i>Your heart is the size of an ocean. Go find yourself in its hidden depths.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
