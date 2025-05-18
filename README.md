@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Management is doing things right; leadership is doing the right things.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>You don't need anybody to tell you who you are or what you are. You are what you are!</i><br>— John Lennon</p>
 <!-- ADVICE:END -->
 
 #
