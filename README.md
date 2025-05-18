@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Patience is a bitter plant, but its fruit is sweet.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
