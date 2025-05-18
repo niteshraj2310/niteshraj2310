@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't need anybody to tell you who you are or what you are. You are what you are!</i><br>— John Lennon</p>
+<p align="center"><br><i>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
