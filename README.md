@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is impossible. The word itself says 'I'm possible!'</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>Being wrong brings the opportunity for growth.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
