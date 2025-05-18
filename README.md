@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Patience is a bitter plant, but its fruit is sweet.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Nothing is impossible. The word itself says 'I'm possible!'</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 #
