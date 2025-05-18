@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your heart is the size of an ocean. Go find yourself in its hidden depths.</i><br>— Rumi</p>
+<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
