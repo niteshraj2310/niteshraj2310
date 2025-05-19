@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>To improve is to change, so to be perfect is to change often.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
