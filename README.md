@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>No one is useless in this world who lightens the burdens of another.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
