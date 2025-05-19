@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</i><br>— Jack London</p>
 <!-- ADVICE:END -->
 
 #
