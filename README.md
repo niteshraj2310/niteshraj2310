@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Successful people ask better questions, and as a result, they get better answers.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Happiness must be grown in one's own garden.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
