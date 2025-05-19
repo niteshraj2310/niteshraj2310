@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No one is useless in this world who lightens the burdens of another.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Successful people ask better questions, and as a result, they get better answers.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
