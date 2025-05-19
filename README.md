@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</i><br>— Jack London</p>
+<p align="center"><br><i>If you don't know, the thing to do is not to get scared, but to learn.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
