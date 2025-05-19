@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To improve is to change, so to be perfect is to change often.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
