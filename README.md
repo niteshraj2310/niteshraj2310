@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Reality is the leading cause of stress among those in touch with it.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
