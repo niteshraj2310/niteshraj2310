@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your gift is something that you can do innately better than anything else.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Happiness is only real when shared.</i><br>— Christopher McCandless</p>
 <!-- ADVICE:END -->
 
 #
