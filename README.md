@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Victims recite problems, leaders provide solutions.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Reality is the leading cause of stress among those in touch with it.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
