@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't know, the thing to do is not to get scared, but to learn.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>Confidence is like a dragon where, for every head cut off, two more heads grow back.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
