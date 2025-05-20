@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is only real when shared.</i><br>— Christopher McCandless</p>
+<p align="center"><br><i>Be brave. Take risks. Nothing can substitute experience.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
