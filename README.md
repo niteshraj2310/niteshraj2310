@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confidence is like a dragon where, for every head cut off, two more heads grow back.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Your gift is something that you can do innately better than anything else.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
