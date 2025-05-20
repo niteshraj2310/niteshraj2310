@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be brave. Take risks. Nothing can substitute experience.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Victims recite problems, leaders provide solutions.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
