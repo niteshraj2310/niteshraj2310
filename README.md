@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>When the fish is caught we pay no more attention to the trap.</i><br>— Huang Po</p>
 <!-- ADVICE:END -->
 
 #
