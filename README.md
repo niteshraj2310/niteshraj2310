@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.</i><br>— Colin Powell</p>
+<p align="center"><br><i>The biggest room in the world is the room for improvement.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
