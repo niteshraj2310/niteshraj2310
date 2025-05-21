@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The biggest room in the world is the room for improvement.</i><br>— Unknown</p>
+<p align="center"><br><i>What is a friend? A single soul dwelling in two bodies.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
