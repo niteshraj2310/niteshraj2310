@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We win by helping each other win.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>It's easy to wish for health when you're sick. When you're doing well, you need just as much vigilance.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
