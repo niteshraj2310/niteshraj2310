@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>We win by helping each other win.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
