@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Supreme excellence consists of breaking the enemy's resistance without fighting.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
