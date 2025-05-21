@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's easy to wish for health when you're sick. When you're doing well, you need just as much vigilance.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
