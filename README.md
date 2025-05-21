@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When the fish is caught we pay no more attention to the trap.</i><br>— Huang Po</p>
+<p align="center"><br><i>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 #
