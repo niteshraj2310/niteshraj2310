@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Others have seen what is and asked why. I have seen what could be and asked why not</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>One small positive thought can change your whole day.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
