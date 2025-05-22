@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Good entrepreneurs don't fail because they stay at it.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Whatever your mind can conceive and believe, it can achieve.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
