@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to change an opinion than to persist in a wrong one.</i><br>— Socrates</p>
+<p align="center"><br><i>Life itself is the most wonderful fairy tale.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
