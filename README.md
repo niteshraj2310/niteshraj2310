@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can't, you must. If you must, you can.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>It is better to change an opinion than to persist in a wrong one.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
