@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One small positive thought can change your whole day.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Good entrepreneurs don't fail because they stay at it.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
