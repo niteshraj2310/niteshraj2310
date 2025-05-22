@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes, the only way to evolve is to open ourselves fully.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>If you can't, you must. If you must, you can.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
