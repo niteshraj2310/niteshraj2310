@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever your mind can conceive and believe, it can achieve.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Sometimes, the only way to evolve is to open ourselves fully.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
