@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To avoid criticism, do nothing, say nothing, and be nothing.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Never to suffer would never to have been blessed.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
