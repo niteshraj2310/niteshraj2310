@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life itself is the most wonderful fairy tale.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>To avoid criticism, do nothing, say nothing, and be nothing.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
