@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>If there were no God, there would be no atheists.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
