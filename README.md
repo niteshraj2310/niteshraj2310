@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If the only prayer you ever say in your entire life is thank you, it will be enough.</i><br>— Meister Eckhart</p>
+<p align="center"><br><i>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
