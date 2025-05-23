@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</i><br>— Stephen King</p>
+<p align="center"><br><i>The most courageous act is still to think for yourself. Aloud.</i><br>— Coco Chanel</p>
 <!-- ADVICE:END -->
 
 #
