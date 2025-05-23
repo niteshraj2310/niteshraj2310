@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most courageous act is still to think for yourself. Aloud.</i><br>— Coco Chanel</p>
+<p align="center"><br><i>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
