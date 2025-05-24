@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A warrior does not give up what he loves, he finds the love in what he does.</i><br>— Dan Millman</p>
+<p align="center"><br><i>You are what you believe in. You become that which you believe you can become.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
