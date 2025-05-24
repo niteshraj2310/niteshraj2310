@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only thing we have to fear is fear itself.</i><br>— Franklin D. Roosevelt</p>
+<p align="center"><br><i>You'll see it when you believe it. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
