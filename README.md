@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The temptation to give up is strongest just before victory.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>There are few reasons for telling the truth, but for lying the number is infinite.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
