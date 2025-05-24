@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</i><br>— Unknown</p>
+<p align="center"><br><i>Life is a traveling to the edge of knowledge, then a leap taken.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
