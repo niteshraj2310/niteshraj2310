@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are what you believe in. You become that which you believe you can become.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
