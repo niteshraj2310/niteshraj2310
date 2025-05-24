@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a traveling to the edge of knowledge, then a leap taken.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>The only thing we have to fear is fear itself.</i><br>— Franklin D. Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
