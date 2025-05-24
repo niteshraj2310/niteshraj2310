@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You'll see it when you believe it. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>The temptation to give up is strongest just before victory.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
