@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>A warrior does not give up what he loves, he finds the love in what he does.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
