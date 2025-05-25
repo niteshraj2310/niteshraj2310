@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</i><br>— Josh Waitzkin</p>
+<p align="center"><br><i>The best of us sometimes eat our words. </i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 #
