@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can have results or excuses, but not both.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</i><br>— Josh Waitzkin</p>
 <!-- ADVICE:END -->
 
 #
