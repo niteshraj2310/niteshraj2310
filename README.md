@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is never too late to be what you might have been.</i><br>— George Eliot</p>
+<p align="center"><br><i>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
