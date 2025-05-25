@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are few reasons for telling the truth, but for lying the number is infinite.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>A lie can travel half way around the world while the truth is putting on its shoes.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
