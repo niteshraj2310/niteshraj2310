@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best of us sometimes eat our words. </i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>The goal of an artist is to create the definitive work that cannot be surpassed.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
