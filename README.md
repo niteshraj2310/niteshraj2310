@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The goal of an artist is to create the definitive work that cannot be surpassed.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Time goes from present to past.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
