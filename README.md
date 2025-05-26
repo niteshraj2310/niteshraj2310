@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're on earth. There's no cure for that.</i><br>— Samuel Beckett</p>
+<p align="center"><br><i>Whenever you find yourself on the side of the majority, it is time to reform.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
