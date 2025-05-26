@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dreams have only one owner at a time. That's why dreamers are lonely.</i><br>— William Faulkner</p>
+<p align="center"><br><i>You play the hand you're dealt. I think the game's worthwhile. </i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
