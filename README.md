@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>You're on earth. There's no cure for that.</i><br>— Samuel Beckett</p>
 <!-- ADVICE:END -->
 
 #
