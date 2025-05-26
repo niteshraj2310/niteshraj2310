@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>If you don't know where you're going, you will probably end up somewhere else.</i><br>— Laurence J. Peter</p>
 <!-- ADVICE:END -->
 
 #
