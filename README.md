@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't know where you're going, you will probably end up somewhere else.</i><br>— Laurence J. Peter</p>
+<p align="center"><br><i>Dreams have only one owner at a time. That's why dreamers are lonely.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
