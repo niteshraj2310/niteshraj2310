@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is filled with secrets. You can't learn them all at once.</i><br>— Dan Brown</p>
+<p align="center"><br><i>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
