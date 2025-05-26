@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whenever you find yourself on the side of the majority, it is time to reform.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Life is filled with secrets. You can't learn them all at once.</i><br>— Dan Brown</p>
 <!-- ADVICE:END -->
 
 #
