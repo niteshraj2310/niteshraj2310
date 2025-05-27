@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Walk towards the sunshine, and the shadows will fall behind you.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Some people find fault like there is a reward for it. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
