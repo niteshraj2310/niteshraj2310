@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some people find fault like there is a reward for it. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>How you think is as important as as what you think.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
