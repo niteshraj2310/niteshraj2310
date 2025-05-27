@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Falling down is not failure. Failure comes when you stay where you have fallen.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
