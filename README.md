@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can not live your life just based on what everyone else thinks.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Walk towards the sunshine, and the shadows will fall behind you.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
