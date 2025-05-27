@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You play the hand you're dealt. I think the game's worthwhile. </i><br>— Christopher Reeve</p>
+<p align="center"><br><i>The only lost cause is one we give up on before we enter the struggle.</i><br>— Vaclav Havel</p>
 <!-- ADVICE:END -->
 
 #
