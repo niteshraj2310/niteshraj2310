@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The idea of ourselves is our escape from the fact of what we really are.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>You can not live your life just based on what everyone else thinks.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
