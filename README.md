@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Falling down is not failure. Failure comes when you stay where you have fallen.</i><br>— Socrates</p>
+<p align="center"><br><i>The idea of ourselves is our escape from the fact of what we really are.</i><br>— Jiddu Krishnamurti</p>
 <!-- ADVICE:END -->
 
 #
