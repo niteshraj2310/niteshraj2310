@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only lost cause is one we give up on before we enter the struggle.</i><br>— Vaclav Havel</p>
+<p align="center"><br><i>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
