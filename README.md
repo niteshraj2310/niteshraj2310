@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Absence makes the heart grow fonder.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>It's better to stand by someone's side than by yourself.</i><br>— Jack London</p>
 <!-- ADVICE:END -->
 
 #
