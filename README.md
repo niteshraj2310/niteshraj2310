@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's better to stand by someone's side than by yourself.</i><br>— Jack London</p>
+<p align="center"><br><i>Failing is another stepping stone to greatness.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
