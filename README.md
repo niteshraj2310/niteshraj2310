@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failing is another stepping stone to greatness.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>A person hears only what they understand.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
