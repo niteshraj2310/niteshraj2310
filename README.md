@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A person hears only what they understand.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>Learn from the mistakes of others. You can't live long enough to make them all yourself.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
