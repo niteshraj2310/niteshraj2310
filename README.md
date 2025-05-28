@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>How you think is as important as as what you think.</i><br>— Unknown</p>
+<p align="center"><br><i>Absence makes the heart grow fonder.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
