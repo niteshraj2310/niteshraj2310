@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make peace with your inner turmoil.</i><br>— Unknown</p>
+<p align="center"><br><i>Life is really simple, but men insist on making it complicated. </i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
