@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learn from the mistakes of others. You can't live long enough to make them all yourself.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </i><br>— Jack London</p>
 <!-- ADVICE:END -->
 
 #
