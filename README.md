@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Opportunities multiply as they are seized.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Our greatest fears lie in anticipation.</i><br>— Honore de Balzac</p>
 <!-- ADVICE:END -->
 
 #
