@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our greatest fears lie in anticipation.</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>Troubles are often the tools by which God fashions us for better things.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
