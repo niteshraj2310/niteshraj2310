@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You purchase pain with all that joy can give and die of nothing but a rage to live.</i><br>— Alexander Pope</p>
+<p align="center"><br><i>Opportunities multiply as they are seized.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
