@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is really simple, but men insist on making it complicated. </i><br>— Confucius</p>
+<p align="center"><br><i>Do every act of your life as if it were your last.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
