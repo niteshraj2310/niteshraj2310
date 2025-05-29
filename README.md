@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Troubles are often the tools by which God fashions us for better things.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Every day may not be good, but there's something good in every day.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
