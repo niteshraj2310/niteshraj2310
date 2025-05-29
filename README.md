@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do every act of your life as if it were your last.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>All wealth is the product of labor.</i><br>— John Locke</p>
 <!-- ADVICE:END -->
 
 #
