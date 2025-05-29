@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day may not be good, but there's something good in every day.</i><br>— Unknown</p>
+<p align="center"><br><i>Money poisons you when you've got it, and starves you when you haven't.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
