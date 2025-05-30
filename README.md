@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If I love myself I love you. If I love you I love myself.</i><br>— Rumi</p>
+<p align="center"><br><i>The best fighter is never angry.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
