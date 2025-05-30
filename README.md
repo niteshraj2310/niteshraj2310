@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What we know is a drop, what we don't know is an ocean. </i><br>— Isaac Newton</p>
+<p align="center"><br><i>If I love myself I love you. If I love you I love myself.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
