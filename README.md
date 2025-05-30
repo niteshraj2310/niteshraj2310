@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest work that kindness does to others is that it makes them kind themselves.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>What we know is a drop, what we don't know is an ocean. </i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
