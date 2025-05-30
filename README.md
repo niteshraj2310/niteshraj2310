@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best fighter is never angry.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>The way of success is the way of continuous pursuit of knowledge.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
