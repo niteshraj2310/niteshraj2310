@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Money poisons you when you've got it, and starves you when you haven't.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>To every action there is always opposed an equal reaction.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
