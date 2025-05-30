@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do good, live in the most positive and joyful way possible every day.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
