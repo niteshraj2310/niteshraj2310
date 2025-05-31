@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</i><br>— Elon Musk</p>
+<p align="center"><br><i>To lead the people, walk behind them.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
