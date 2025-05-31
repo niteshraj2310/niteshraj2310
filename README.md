@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To lead the people, walk behind them.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>You are today where your thoughts have brought you.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
