@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The difference between winning and losing is most often not quitting.</i><br>— Walt Disney</p>
+<p align="center"><br><i>Each of us is a unique strand in the intricate web of life and here to make a contribution.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
