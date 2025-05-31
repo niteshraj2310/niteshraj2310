@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Each of us is a unique strand in the intricate web of life and here to make a contribution.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Courage Is a Love Affair with the Unknown</i><br>— Osho</p>
 <!-- ADVICE:END -->
 
 #
