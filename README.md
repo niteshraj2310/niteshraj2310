@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Selfishness and greed, individual or national, cause most of our troubles.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Lack of emotion causes lack of progress and lack of motivation.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
