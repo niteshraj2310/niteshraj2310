@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The worst part of success is trying to find someone who is happy for you.</i><br>— Bette Midler</p>
+<p align="center"><br><i>A journey of a thousand miles must begin with a single step.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
