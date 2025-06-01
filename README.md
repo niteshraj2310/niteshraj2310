@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </i><br>— Nikola Tesla</p>
+<p align="center"><br><i>Dream big and dare to fail.</i><br>— Norman Vaughan</p>
 <!-- ADVICE:END -->
 
 #
