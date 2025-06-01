@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work. </i><br>— Estee Lauder</p>
+<p align="center"><br><i>True love stories never have endings.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
