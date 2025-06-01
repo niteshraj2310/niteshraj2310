@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A journey of a thousand miles must begin with a single step.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work. </i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
