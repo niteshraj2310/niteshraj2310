@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </i><br>— Nikola Tesla</p>
 <!-- ADVICE:END -->
 
 #
