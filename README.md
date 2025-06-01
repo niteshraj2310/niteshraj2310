@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>This is the most simple and basic component of life: our struggles determine our successes.</i><br>— Mark Manson</p>
+<p align="center"><br><i>You must be willing to do what others won't do, to have what others won't have.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
