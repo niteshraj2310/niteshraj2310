@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>True love stories never have endings.</i><br>— Richard Bach</p>
+<p align="center"><br><i>This is the most simple and basic component of life: our struggles determine our successes.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
