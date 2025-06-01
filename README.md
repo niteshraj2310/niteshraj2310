@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dream big and dare to fail.</i><br>— Norman Vaughan</p>
+<p align="center"><br><i>The worst part of success is trying to find someone who is happy for you.</i><br>— Bette Midler</p>
 <!-- ADVICE:END -->
 
 #
