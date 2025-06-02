@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
