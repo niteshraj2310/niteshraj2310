@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</i><br>— Steve Jobs</p>
+<p align="center"><br><i>The only defense against the world is a thorough knowledge of it.</i><br>— John Locke</p>
 <!-- ADVICE:END -->
 
 #
