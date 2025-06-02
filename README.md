@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confuse them with your silence and amaze them with your actions.</i><br>— Unknown</p>
+<p align="center"><br><i>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 #
