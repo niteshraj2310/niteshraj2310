@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Contemplation often makes life miserable. We should act more, think less, and stop watching ourselves live.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
