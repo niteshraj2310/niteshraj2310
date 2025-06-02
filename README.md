@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only he who has no use for the empire is fit to be entrusted with it.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 #
