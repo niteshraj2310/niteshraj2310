@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Contemplation often makes life miserable. We should act more, think less, and stop watching ourselves live.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Confuse them with your silence and amaze them with your actions.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
