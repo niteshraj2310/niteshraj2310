@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make each day your masterpiece.</i><br>— John Wooden</p>
+<p align="center"><br><i>Every great change is preceded by chaos.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
