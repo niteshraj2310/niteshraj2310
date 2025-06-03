@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anything becomes interesting if you look at it long enough..</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>No great discovery was ever made without a bold guess. </i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
