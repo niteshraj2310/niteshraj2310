@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Anything becomes interesting if you look at it long enough..</i><br>— Gustave Flaubert</p>
 <!-- ADVICE:END -->
 
 #
