@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You may delay, but time will not.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
