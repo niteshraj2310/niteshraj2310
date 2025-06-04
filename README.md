@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to change an opinion than to persist in a wrong one.</i><br>— Socrates</p>
+<p align="center"><br><i>Reality is the leading cause of stress among those in touch with it.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
