@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Superstars think like superstars long before the fans or the press anoint them.</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 #
