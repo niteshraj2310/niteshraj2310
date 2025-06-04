@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Reality is the leading cause of stress among those in touch with it.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>Help others achieve their dreams and you will achieve yours.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
