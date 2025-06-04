@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Superstars think like superstars long before the fans or the press anoint them.</i><br>— John Eliot</p>
+<p align="center"><br><i>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
