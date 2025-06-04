@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>It is better to change an opinion than to persist in a wrong one.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
