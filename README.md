@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every great change is preceded by chaos.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Great things are not accomplished by those who yield to trends and fads and popular opinion.</i><br>— Jack Kerouac</p>
 <!-- ADVICE:END -->
 
 #
