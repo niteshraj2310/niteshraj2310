@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The decisions of our past are the architects of our present.</i><br>— Dan Brown</p>
+<p align="center"><br><i>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
