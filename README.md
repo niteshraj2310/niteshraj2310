@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Curiosity is the most powerful thing you own.</i><br>— James Cameron</p>
+<p align="center"><br><i>Our greatest fears lie in anticipation.</i><br>— Honore de Balzac</p>
 <!-- ADVICE:END -->
 
 #
