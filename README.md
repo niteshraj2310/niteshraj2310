@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
