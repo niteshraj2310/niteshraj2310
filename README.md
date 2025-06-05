@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't worry about being successful, but work toward being significant and the success will naturally follow.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Curiosity is the most powerful thing you own.</i><br>— James Cameron</p>
 <!-- ADVICE:END -->
 
 #
