@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We run to win, not just to be in the race. </i><br>— Vince Lombardi</p>
+<p align="center"><br><i>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
