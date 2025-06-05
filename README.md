@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always seek out the seed of triumph in every adversity.</i><br>— Og Mandino</p>
+<p align="center"><br><i>We run to win, not just to be in the race. </i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
