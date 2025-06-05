@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our greatest fears lie in anticipation.</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>Always seek out the seed of triumph in every adversity.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
