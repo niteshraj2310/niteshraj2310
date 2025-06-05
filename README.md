@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Help others achieve their dreams and you will achieve yours.</i><br>— Les Brown</p>
+<p align="center"><br><i>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
