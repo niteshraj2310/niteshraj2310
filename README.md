@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Don't worry about being successful, but work toward being significant and the success will naturally follow.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
