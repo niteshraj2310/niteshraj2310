@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep smiling, because life is a beautiful thing and there's so much to smile about.</i><br>— Marilyn Monroe</p>
+<p align="center"><br><i>Love is the energy of life.</i><br>— Robert Browning</p>
 <!-- ADVICE:END -->
 
 #
