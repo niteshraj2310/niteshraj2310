@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
