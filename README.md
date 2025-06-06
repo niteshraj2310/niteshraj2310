@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</i><br>— Epictetus</p>
+<p align="center"><br><i>A man should do his job so well that the living, the dead, and the unborn could do it no better.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
