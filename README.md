@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>Where there's life, there's hope.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
