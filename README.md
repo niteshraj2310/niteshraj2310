@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where there's life, there's hope.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Keep smiling, because life is a beautiful thing and there's so much to smile about.</i><br>— Marilyn Monroe</p>
 <!-- ADVICE:END -->
 
 #
