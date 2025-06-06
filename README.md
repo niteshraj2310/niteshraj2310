@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Pleasure is always derived from something outside you, whereas joy arises from within. </i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
