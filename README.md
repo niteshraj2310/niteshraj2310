@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are your best thing.</i><br>— Toni Morrison</p>
+<p align="center"><br><i>You can't get to a place that you don't believe exists.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
