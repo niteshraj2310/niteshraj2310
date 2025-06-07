@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>But better die than live mechanically a life that is a repetition of repetitions.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
