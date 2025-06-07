@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The eyes of others our prisons; their thoughts our cages.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
