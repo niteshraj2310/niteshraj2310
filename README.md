@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't get to a place that you don't believe exists.</i><br>— Unknown</p>
+<p align="center"><br><i>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</i><br>— Charles Spurgeon</p>
 <!-- ADVICE:END -->
 
 #
