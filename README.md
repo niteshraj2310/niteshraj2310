@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Reality is nothing but a collective hunch.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>You are your best thing.</i><br>— Toni Morrison</p>
 <!-- ADVICE:END -->
 
 #
