@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>But better die than live mechanically a life that is a repetition of repetitions.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
