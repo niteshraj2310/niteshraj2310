@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</i><br>— Charles Spurgeon</p>
+<p align="center"><br><i>The eyes of others our prisons; their thoughts our cages.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 #
