@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </i><br>— Henry Ford</p>
+<p align="center"><br><i>Luck is what happens when preparation meets opportunity. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
