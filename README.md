@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is never final, failure is never fatal. It's courage that counts.</i><br>— John Wooden</p>
+<p align="center"><br><i>Go for it now. The future is promised to no one.</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
