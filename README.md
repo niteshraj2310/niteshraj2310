@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Luck is what happens when preparation meets opportunity. </i><br>— Seneca</p>
+<p align="center"><br><i>Even if you're sure you can win, be careful that you can live with what you lose.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
