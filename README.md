@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.</i><br>— Herodotus</p>
+<p align="center"><br><i>We run to win, not just to be in the race. </i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
