@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Go for it now. The future is promised to no one.</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>It's not how much we give but how much love we put into giving.</i><br>— Mother Teresa</p>
 <!-- ADVICE:END -->
 
 #
