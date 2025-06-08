@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even if you're sure you can win, be careful that you can live with what you lose.</i><br>— Gary Keller</p>
+<p align="center"><br><i>The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
