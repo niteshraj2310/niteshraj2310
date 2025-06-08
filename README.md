@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not how much we give but how much love we put into giving.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</i><br>— Walt Disney</p>
 <!-- ADVICE:END -->
 
 #
