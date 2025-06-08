@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We run to win, not just to be in the race. </i><br>— Vince Lombardi</p>
+<p align="center"><br><i>Success is never final, failure is never fatal. It's courage that counts.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
