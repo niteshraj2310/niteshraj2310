@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>The outer conditions of a person's life will always be found to reflect their inner beliefs.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
