@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>True love stories never have endings.</i><br>— Richard Bach</p>
+<p align="center"><br><i>Arise, slay thy enemies, enjoy a prosperous kingdom.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
