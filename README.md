@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</i><br>— Walt Disney</p>
+<p align="center"><br><i>When you stop questioning, you stop learning.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
