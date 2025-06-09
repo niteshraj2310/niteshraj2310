@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The outer conditions of a person's life will always be found to reflect their inner beliefs.</i><br>— James Allen</p>
+<p align="center"><br><i>Those who cannot change their minds cannot change anything.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
