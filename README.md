@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Arise, slay thy enemies, enjoy a prosperous kingdom.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
