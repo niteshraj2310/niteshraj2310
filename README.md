@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you stop questioning, you stop learning.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>True love stories never have endings.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
