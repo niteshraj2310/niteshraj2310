@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who cannot change their minds cannot change anything.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Giving is living. If you stop wanting to give, there's nothing more to live for.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 #
