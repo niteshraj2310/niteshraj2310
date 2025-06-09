@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Giving is living. If you stop wanting to give, there's nothing more to live for.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>Re-examine all that you have been told... dismiss that which insults your soul.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
