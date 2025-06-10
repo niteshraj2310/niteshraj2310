@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Freedom from desire leads to inner peace.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Life is either a daring adventure, or it is nothing.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
