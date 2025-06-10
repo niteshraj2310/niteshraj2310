@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is either a daring adventure, or it is nothing.</i><br>— Helen Keller</p>
+<p align="center"><br><i>Don't be pushed by your problems; be led by your dreams.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
