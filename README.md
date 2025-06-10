@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quicker you let go of old cheese, the sooner you find new cheese.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Freedom from desire leads to inner peace.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
