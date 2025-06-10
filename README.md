@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Ask no questions, and you'll be told no lies.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>The quicker you let go of old cheese, the sooner you find new cheese.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
