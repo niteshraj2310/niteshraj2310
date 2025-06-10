@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Re-examine all that you have been told... dismiss that which insults your soul.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>If you try to micromanage yourself all you're going to do is make yourself miserable.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
