@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Greatness comes from living with purpose and passion.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>Ask no questions, and you'll be told no lies.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
