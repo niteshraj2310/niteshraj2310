@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
