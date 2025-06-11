@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</i><br>— Jon Kabat-Zinn</p>
+<p align="center"><br><i>Against the assault of laughter nothing can stand.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
