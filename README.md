@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is never final; failure is never fatal.</i><br>— Conrad Hilton</p>
+<p align="center"><br><i>A mistake is only an error, it becomes a mistake when you fail to correct it.</i><br>— John Lennon</p>
 <!-- ADVICE:END -->
 
 #
