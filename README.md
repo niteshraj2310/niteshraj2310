@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a series of choices and all we can do is make them.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Success is never final; failure is never fatal.</i><br>— Conrad Hilton</p>
 <!-- ADVICE:END -->
 
 #
