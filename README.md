@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</i><br>— Unknown</p>
+<p align="center"><br><i>Night is a more quiet time to work. It aids thought.</i><br>— Alexander Graham Bell</p>
 <!-- ADVICE:END -->
 
 #
