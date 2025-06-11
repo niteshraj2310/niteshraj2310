@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Against the assault of laughter nothing can stand.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</i><br>— James Matthew Barrie</p>
 <!-- ADVICE:END -->
 
 #
