@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A mistake is only an error, it becomes a mistake when you fail to correct it.</i><br>— John Lennon</p>
+<p align="center"><br><i>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 #
