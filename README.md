@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Night is a more quiet time to work. It aids thought.</i><br>— Alexander Graham Bell</p>
+<p align="center"><br><i>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</i><br>— Jon Kabat-Zinn</p>
 <!-- ADVICE:END -->
 
 #
