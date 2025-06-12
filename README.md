@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</i><br>— James Matthew Barrie</p>
+<p align="center"><br><i>Give a girl the right shoes, and she can conquer the world.</i><br>— Bette Midler</p>
 <!-- ADVICE:END -->
 
 #
