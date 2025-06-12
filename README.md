@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change is hard at first, messy in the middle and gorgeous at the end.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Common sense is not so common. </i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
