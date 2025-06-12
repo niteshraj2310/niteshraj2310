@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give a girl the right shoes, and she can conquer the world.</i><br>— Bette Midler</p>
+<p align="center"><br><i>The soul is neither born, and nor does it die.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
