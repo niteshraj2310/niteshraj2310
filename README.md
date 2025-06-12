@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being wrong opens us up to the possibility of change.</i><br>— Mark Manson</p>
+<p align="center"><br><i>Change is hard at first, messy in the middle and gorgeous at the end.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
