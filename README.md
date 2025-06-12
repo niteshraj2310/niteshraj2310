@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Common sense is not so common. </i><br>— Voltaire</p>
+<p align="center"><br><i>There are no second chances in life, except to feel remorse.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
