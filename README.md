@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no second chances in life, except to feel remorse.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
