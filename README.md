@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be kind whenever possible. It is always possible.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Attitude, not aptitude, determines altitude. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
