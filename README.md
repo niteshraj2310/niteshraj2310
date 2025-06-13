@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live calmly. The time will come when the flowers bloom by themselves.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Be kind whenever possible. It is always possible.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
