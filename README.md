@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live your life and forget your age.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Live calmly. The time will come when the flowers bloom by themselves.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
