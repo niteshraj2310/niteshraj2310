@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing can dim the light which shines from within.</i><br>— Maya Angelou</p>
+<p align="center"><br><i>Live your life and forget your age.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
