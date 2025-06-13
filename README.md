@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>Don't try to be young. Just open your mind. Stay interested in stuff.</i><br>— Betty White</p>
 <!-- ADVICE:END -->
 
 #
