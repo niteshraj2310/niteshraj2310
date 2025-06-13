@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some people don't like change, but you need to embrace change if the alternative is disaster.</i><br>— Elon Musk</p>
+<p align="center"><br><i>We are always complaining that our days are few, and acting as though there would be no end of them. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
