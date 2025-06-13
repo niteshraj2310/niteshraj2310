@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't try to be young. Just open your mind. Stay interested in stuff.</i><br>— Betty White</p>
+<p align="center"><br><i>Some people don't like change, but you need to embrace change if the alternative is disaster.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
