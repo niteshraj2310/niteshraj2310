@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Attitude, not aptitude, determines altitude. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
