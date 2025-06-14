@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's just a bad day, not a bad life.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>He is not a lover who does not love forever.</i><br>— Euripides</p>
 <!-- ADVICE:END -->
 
 #
