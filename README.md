@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We will act consistently with our view of who we truly are, whether that view is accurate or not.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>In the end, it's not the years in your life that count. It's the life in your years.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
