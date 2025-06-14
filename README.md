@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He is not a lover who does not love forever.</i><br>— Euripides</p>
+<p align="center"><br><i>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
