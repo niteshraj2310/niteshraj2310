@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>A hero is an ordinary person doing things in an extra ordinary way.</i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
