@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the end, it's not the years in your life that count. It's the life in your years.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
