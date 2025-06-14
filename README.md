@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
