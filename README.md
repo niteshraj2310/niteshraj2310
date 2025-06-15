@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just do what must be done. This may not be happiness but it is greatness.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Do not follow the ideas of others, but learn to listen to the voice within yourself.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
