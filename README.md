@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't know who is important to you until you actually lose them.</i><br>— Mahatma Gandhi</p>
+<p align="center"><br><i>Fallacies do not cease to be fallacies because they become fashions.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
