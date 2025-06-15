@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can often change your circumstances by changing your attitude.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>It's not the size of the dog in the fight, it's the size of the fight in the dog.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
