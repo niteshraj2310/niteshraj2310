@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not follow the ideas of others, but learn to listen to the voice within yourself.</i><br>— Dogen</p>
+<p align="center"><br><i>Well done is better than well said.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
