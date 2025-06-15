@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>You don't know who is important to you until you actually lose them.</i><br>— Mahatma Gandhi</p>
 <!-- ADVICE:END -->
 
 #
