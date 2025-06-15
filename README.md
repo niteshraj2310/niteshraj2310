@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fallacies do not cease to be fallacies because they become fashions.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>Just do what must be done. This may not be happiness but it is greatness.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
