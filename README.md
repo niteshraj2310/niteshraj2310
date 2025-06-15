@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One is never afraid of the unknown; one is afraid of the known coming to an end.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>You can often change your circumstances by changing your attitude.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
