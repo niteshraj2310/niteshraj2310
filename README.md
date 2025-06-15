@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Well done is better than well said.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>One is never afraid of the unknown; one is afraid of the known coming to an end.</i><br>— Jiddu Krishnamurti</p>
 <!-- ADVICE:END -->
 
 #
