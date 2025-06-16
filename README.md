@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Peace begins with a smile.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>It's not the size of the dog in the fight, it's the size of the fight in the dog.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
