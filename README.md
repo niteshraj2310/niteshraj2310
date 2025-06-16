@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Truth is such a rare thing, it is delighted to tell it.</i><br>— Emily Dickinson</p>
+<p align="center"><br><i>I have lived with several Zen masters -- all of them cats.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
