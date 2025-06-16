@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A crisis is an opportunity riding the dangerous wind.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>The hard path is often the right one. The river teaches more than the shore.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
