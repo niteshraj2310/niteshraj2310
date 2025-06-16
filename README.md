@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not the size of the dog in the fight, it's the size of the fight in the dog.</i><br>— Mark Twain</p>
+<p align="center"><br><i>It doesn't matter where you are coming from. All that matters is where you are going. </i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
