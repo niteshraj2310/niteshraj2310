@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I have lived with several Zen masters -- all of them cats.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Our greatest glory is not in never falling but in rising every time we fall.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
