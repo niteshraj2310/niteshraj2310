@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It doesn't matter where you are coming from. All that matters is where you are going. </i><br>— Brian Tracy</p>
+<p align="center"><br><i>Truth is such a rare thing, it is delighted to tell it.</i><br>— Emily Dickinson</p>
 <!-- ADVICE:END -->
 
 #
