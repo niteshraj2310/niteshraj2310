@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The hard path is often the right one. The river teaches more than the shore.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>Peace begins with a smile.</i><br>— Mother Teresa</p>
 <!-- ADVICE:END -->
 
 #
