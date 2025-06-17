@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All human beings can alter their lives by altering their attitudes.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>Meditate. It won't be fun but it will surface what you need to deal with.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
