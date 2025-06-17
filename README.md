@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not the size of the dog in the fight, it's the size of the fight in the dog.</i><br>— Mark Twain</p>
+<p align="center"><br><i>The power to make and break habits and learning how to do that is really important.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
