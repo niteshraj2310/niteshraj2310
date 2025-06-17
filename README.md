@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We need never be ashamed of our tears.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Gratitude is the fairest blossom which springs from the soul.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
