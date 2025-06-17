@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Gratitude is the fairest blossom which springs from the soul.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</i><br>— John Lennon</p>
 <!-- ADVICE:END -->
 
 #
