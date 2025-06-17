@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Meditate. It won't be fun but it will surface what you need to deal with.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
