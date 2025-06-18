@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who cheats the earth will be cheated by the earth.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>You may think I'm small, but I have a universe inside my mind.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 #
