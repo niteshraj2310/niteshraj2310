@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</i><br>— Unknown</p>
+<p align="center"><br><i>Don't wish it were easier, wish you were better.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
