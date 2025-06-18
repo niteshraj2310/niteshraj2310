@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everybody has talent, but ability takes hard work.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>There is no one giant step that does it. It's a lot of little steps.</i><br>— Peter A. Cohen</p>
 <!-- ADVICE:END -->
 
 #
