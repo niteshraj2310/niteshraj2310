@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</i><br>— John Lennon</p>
+<p align="center"><br><i>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
