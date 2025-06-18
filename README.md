@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who cheats the earth will be cheated by the earth.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
