@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best mind-altering drug is the truth.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>Thinking is the hardest work there is. That is why so few people engage in it.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
