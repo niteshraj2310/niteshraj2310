@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no one giant step that does it. It's a lot of little steps.</i><br>— Peter A. Cohen</p>
+<p align="center"><br><i>Identification with our mind causes thought to become compulsive.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
