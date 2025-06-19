@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is useless to meet revenge with revenge; it will heal nothing.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>There is nothing like looking if you want to find something.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
