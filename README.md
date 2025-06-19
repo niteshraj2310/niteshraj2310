@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only normal people are the ones you don't know very well.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>It is useless to meet revenge with revenge; it will heal nothing.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
