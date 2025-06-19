@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We make a living by what we get, but we make a life by what we give.</i><br>— Unknown</p>
+<p align="center"><br><i>When we strive to become better than we are, everything around us becomes better, too.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
