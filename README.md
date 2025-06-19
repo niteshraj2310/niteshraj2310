@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is nothing like looking if you want to find something.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>We make a living by what we get, but we make a life by what we give.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
