@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Identification with our mind causes thought to become compulsive.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>The only normal people are the ones you don't know very well.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
