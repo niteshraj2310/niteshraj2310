@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be happy we need something to solve. Happiness is therefore a form of action.</i><br>— Mark Manson</p>
+<p align="center"><br><i>What most people need to learn in life is how to love people and use things instead of using people and loving things.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
