@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thinking is the hardest work there is. That is why so few people engage in it.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Man should fear never beginning to live.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
