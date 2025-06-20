@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Ask no questions, and you'll be told no lies.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>The truth is rarely pure and never simple. </i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
