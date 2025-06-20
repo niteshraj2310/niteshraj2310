@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man should fear never beginning to live.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>Closing your eyes and listening to silence is self-care.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
