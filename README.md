@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Go confidently in the direction of your dreams! Live the life you've imagined.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>Better to die fighting for freedom than be a prisoner all the days of your life.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
