@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The truth is rarely pure and never simple. </i><br>— Oscar Wilde</p>
+<p align="center"><br><i>Go confidently in the direction of your dreams! Live the life you've imagined.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
