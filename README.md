@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Closing your eyes and listening to silence is self-care.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>To be happy we need something to solve. Happiness is therefore a form of action.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
