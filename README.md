@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who know, do. Those that understand, teach.</i><br>— Aristotle</p>
+<p align="center"><br><i>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
