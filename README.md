@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Better to die fighting for freedom than be a prisoner all the days of your life.</i><br>— Bob Marley</p>
+<p align="center"><br><i>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
