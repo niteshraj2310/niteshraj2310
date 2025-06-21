@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes things become possible if we want them bad enough.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>If the only prayer you ever say in your entire life is thank you, it will be enough.</i><br>— Meister Eckhart</p>
 <!-- ADVICE:END -->
 
 #
