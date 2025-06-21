@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
