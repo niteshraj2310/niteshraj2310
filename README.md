@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Find the game where you can win, and then commit your life to playing it; and play to win.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
