@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </i><br>— Jack London</p>
+<p align="center"><br><i>Sometimes things become possible if we want them bad enough.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
