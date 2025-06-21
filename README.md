@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </i><br>— Jack London</p>
 <!-- ADVICE:END -->
 
 #
