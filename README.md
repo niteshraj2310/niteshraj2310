@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The chief danger in life is that you may take too many precautions.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
