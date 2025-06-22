@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You do not read a book for the book's sake, but for your own.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Rest and be kind, you don't have to prove anything.</i><br>— Jack Kerouac</p>
 <!-- ADVICE:END -->
 
 #
