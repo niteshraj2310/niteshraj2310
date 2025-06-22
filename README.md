@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Not doing it is certainly the best way to not getting it. </i><br>— Wayne Gretzky</p>
+<p align="center"><br><i>A very little key will open a very heavy door.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
