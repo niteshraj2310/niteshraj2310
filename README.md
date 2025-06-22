@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If the only prayer you ever say in your entire life is thank you, it will be enough.</i><br>— Meister Eckhart</p>
+<p align="center"><br><i>The chief danger in life is that you may take too many precautions.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
