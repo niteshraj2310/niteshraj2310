@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>Life is like a wheel. Sooner or later, it always comes around to where you started again.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
