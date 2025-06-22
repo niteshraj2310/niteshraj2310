@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is like a wheel. Sooner or later, it always comes around to where you started again.</i><br>— Stephen King</p>
+<p align="center"><br><i>You do not read a book for the book's sake, but for your own.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
