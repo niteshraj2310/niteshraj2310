@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</i><br>— James Allen</p>
+<p align="center"><br><i>Not doing it is certainly the best way to not getting it. </i><br>— Wayne Gretzky</p>
 <!-- ADVICE:END -->
 
 #
