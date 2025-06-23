@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always try to be a little kinder than necessary.</i><br>— James Matthew Barrie</p>
+<p align="center"><br><i>The sun is new each day.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
