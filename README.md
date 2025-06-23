@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our joy does not have to be based on our circumstances.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Sometimes you have to travel a long way to find what is near.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
