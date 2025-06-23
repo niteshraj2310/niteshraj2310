@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man with outward courage dares to die: a man with inner courage dares to live.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
