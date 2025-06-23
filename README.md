@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't get to a place that you don't believe exists.</i><br>— Unknown</p>
+<p align="center"><br><i>Our joy does not have to be based on our circumstances.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
