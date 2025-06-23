@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes you have to travel a long way to find what is near.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
