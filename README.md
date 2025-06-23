@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</i><br>— Heraclitus</p>
+<p align="center"><br><i>Always try to be a little kinder than necessary.</i><br>— James Matthew Barrie</p>
 <!-- ADVICE:END -->
 
 #
