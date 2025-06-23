@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>A man with outward courage dares to die: a man with inner courage dares to live.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
