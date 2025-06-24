@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I must also have a dark side if I am to be whole.</i><br>— Carl Jung</p>
+<p align="center"><br><i>You never know when a moment and a few sincere words can have an impact on a life. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
