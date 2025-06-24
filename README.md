@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is the key to success; each mistake teaches us something.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
