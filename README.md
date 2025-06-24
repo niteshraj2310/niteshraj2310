@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Before you can see the Light, you have to deal with the darkness.</i><br>— Dan Millman</p>
+<p align="center"><br><i>If you've never eaten while crying you don t know what life tastes like.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
