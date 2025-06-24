@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you've never eaten while crying you don t know what life tastes like.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>Where there's life, there's hope.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
