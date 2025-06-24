@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </i><br>— Denis Waitley</p>
+<p align="center"><br><i>Before you can see the Light, you have to deal with the darkness.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
