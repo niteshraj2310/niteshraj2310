@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some people dream of success, while others wake up and work hard at it.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>One of the most difficult things is not to change society - but to change yourself.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 #
