@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People do not decide their futures, they decide their habits and their habits decide their futures.</i><br>— Gary Keller</p>
+<p align="center"><br><i>A fear of weakness only strengthens weakness.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
