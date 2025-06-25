@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You never know when a moment and a few sincere words can have an impact on a life. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>We are like islands in the sea, separate on the surface but connected in the deep.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
