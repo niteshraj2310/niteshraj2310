@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A fear of weakness only strengthens weakness.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
