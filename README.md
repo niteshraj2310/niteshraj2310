@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are like islands in the sea, separate on the surface but connected in the deep.</i><br>— William James</p>
+<p align="center"><br><i>Be yourself; everyone else is already taken </i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
