@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be yourself; everyone else is already taken </i><br>— Oscar Wilde</p>
+<p align="center"><br><i>Some people dream of success, while others wake up and work hard at it.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
