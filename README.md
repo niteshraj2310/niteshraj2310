@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If your mind is empty, it is always ready for anything, it is open to everything.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
