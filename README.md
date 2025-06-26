@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Educating the mind without educating the heart is no education at all.</i><br>— Aristotle</p>
+<p align="center"><br><i>Life has the name of life, but in reality it is death.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
