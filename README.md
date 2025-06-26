@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Educating the mind without educating the heart is no education at all.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
