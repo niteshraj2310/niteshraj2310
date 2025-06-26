@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life has the name of life, but in reality it is death.</i><br>— Heraclitus</p>
+<p align="center"><br><i>Why live an ordinary life, when you can live an extraordinary one.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
