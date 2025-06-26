@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never was anything great achieved without danger.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>Tomorrow is only found in the calendar of fools.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
