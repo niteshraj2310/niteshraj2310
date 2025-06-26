@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Why live an ordinary life, when you can live an extraordinary one.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Those who are possessed by nothing possess everything.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
