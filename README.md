@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Tomorrow is only found in the calendar of fools.</i><br>— Og Mandino</p>
+<p align="center"><br><i>If your mind is empty, it is always ready for anything, it is open to everything.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
