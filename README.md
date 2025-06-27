@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</i><br>— James Cameron</p>
+<p align="center"><br><i>Blessed is he who expects nothing, for he shall never be disappointed.</i><br>— Alexander Pope</p>
 <!-- ADVICE:END -->
 
 #
