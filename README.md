@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</i><br>— James Cameron</p>
 <!-- ADVICE:END -->
 
 #
