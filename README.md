@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who realize their folly are not true fools.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>The best way to predict your future is to create it.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
