@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who are possessed by nothing possess everything.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Those who realize their folly are not true fools.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
