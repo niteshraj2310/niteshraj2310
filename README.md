@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Simplicity is a difficult thing to achieve. </i><br>— Charlie Chaplin</p>
+<p align="center"><br><i>Our view of the world is truly shaped by what we decide to hear.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
