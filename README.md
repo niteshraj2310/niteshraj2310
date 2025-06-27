@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Blessed is he who expects nothing, for he shall never be disappointed.</i><br>— Alexander Pope</p>
+<p align="center"><br><i>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
