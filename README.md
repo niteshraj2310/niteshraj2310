@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man is affected not by events but by the view he takes of them. </i><br>— Seneca</p>
+<p align="center"><br><i>A heart is not judged by how much you love, but by how much you are loved by others.</i><br>— Judy Garland</p>
 <!-- ADVICE:END -->
 
 #
