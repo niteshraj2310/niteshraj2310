@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember that sometimes not getting what you want is a wonderful stroke of luck.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Begin now to be what you will be hereafter.</i><br>— St. Jerome</p>
 <!-- ADVICE:END -->
 
 #
