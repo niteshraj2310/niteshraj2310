@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A heart is not judged by how much you love, but by how much you are loved by others.</i><br>— Judy Garland</p>
+<p align="center"><br><i>The best way out is always through.</i><br>— Robert Frost</p>
 <!-- ADVICE:END -->
 
 #
