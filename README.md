@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The single biggest problem in communication is the illusion that it has taken place.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Remember that sometimes not getting what you want is a wonderful stroke of luck.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
