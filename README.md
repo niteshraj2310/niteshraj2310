@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.</i><br>— Alan Watts</p>
+<p align="center"><br><i>The successful warrior is the average man, with laser-like focus.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
