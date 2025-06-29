@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Go for it now. The future is promised to no one. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
