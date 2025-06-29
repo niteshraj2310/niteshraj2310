@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be true to yourself, help others, make each day your masterpiece</i><br>— John Wooden</p>
+<p align="center"><br><i>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
