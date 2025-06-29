@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Many roads lead to the path, but basically there are only two: reason and practice. </i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 #
