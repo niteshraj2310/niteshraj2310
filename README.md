@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Be true to yourself, help others, make each day your masterpiece</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
