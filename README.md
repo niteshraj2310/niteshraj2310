@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's your outlook on life that counts.</i><br>— Betty White</p>
+<p align="center"><br><i>It's not how much money you make, it's how much money you keep.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
