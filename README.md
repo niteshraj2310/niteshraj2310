@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many roads lead to the path, but basically there are only two: reason and practice. </i><br>— Bodhidharma</p>
+<p align="center"><br><i>It's your outlook on life that counts.</i><br>— Betty White</p>
 <!-- ADVICE:END -->
 
 #
