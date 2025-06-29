@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not how much money you make, it's how much money you keep.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Remember, today is the tomorrow you worried about yesterday.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
