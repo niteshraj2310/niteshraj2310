@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The successful warrior is the average man, with laser-like focus.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>Go for it now. The future is promised to no one. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
