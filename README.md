@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Cleverness is not wisdom.</i><br>— Euripides</p>
+<p align="center"><br><i>No one has ever become poor by giving.</i><br>— Anne Frank</p>
 <!-- ADVICE:END -->
 
 #
