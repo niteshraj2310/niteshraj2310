@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No one has ever become poor by giving.</i><br>— Anne Frank</p>
+<p align="center"><br><i>It's always to soon to quit!</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
