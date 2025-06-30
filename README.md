@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember, today is the tomorrow you worried about yesterday.</i><br>— Dale Carnegie</p>
+<p align="center"><br><i>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
