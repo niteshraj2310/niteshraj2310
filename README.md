@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Optimism, when applied to your life, develops strength and peace within you.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>It is impossible for a man to learn what he thinks he already knows.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
