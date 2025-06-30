@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>We have a duty to maintain the light of consciousness to make sure it continues into the future.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
