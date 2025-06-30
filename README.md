@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is about creating value.</i><br>— Candice Carpenter</p>
+<p align="center"><br><i>Cleverness is not wisdom.</i><br>— Euripides</p>
 <!-- ADVICE:END -->
 
 #
