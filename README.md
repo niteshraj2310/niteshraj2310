@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is impossible for a man to learn what he thinks he already knows.</i><br>— Epictetus</p>
+<p align="center"><br><i>Success is about creating value.</i><br>— Candice Carpenter</p>
 <!-- ADVICE:END -->
 
 #
