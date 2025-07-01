@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>It's much better to do good in a way that no one knows anything about it.</i><br>— Leo Tolstoy</p>
 <!-- ADVICE:END -->
 
 #
