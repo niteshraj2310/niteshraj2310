@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's always to soon to quit!</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
