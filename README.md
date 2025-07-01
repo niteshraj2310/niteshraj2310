@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's much better to do good in a way that no one knows anything about it.</i><br>— Leo Tolstoy</p>
+<p align="center"><br><i>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
