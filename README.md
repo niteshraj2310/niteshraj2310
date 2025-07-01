@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you lose your desire for things that do not matter, you will be free.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>The most difficult times for many of us are the ones we give ourselves.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
