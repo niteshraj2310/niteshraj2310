@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A thing must be loved before it is lovable.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>You're only given a little spark of madness. You mustn't lose it.</i><br>— Robin Williams</p>
 <!-- ADVICE:END -->
 
 #
