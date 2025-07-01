@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Perpetual optimism is a force multiplier.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
