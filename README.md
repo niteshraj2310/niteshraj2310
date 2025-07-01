@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Perpetual optimism is a force multiplier.</i><br>— Colin Powell</p>
+<p align="center"><br><i>When you lose your desire for things that do not matter, you will be free.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
