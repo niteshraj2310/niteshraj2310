@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>At first dreams seem impossible, then improbable, then inevitable.</i><br>— Christopher Reeve</p>
+<p align="center"><br><i>Where there is no struggle, there is no strength. </i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
