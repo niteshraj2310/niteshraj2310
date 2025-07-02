@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who fails to plan, plans to fail.</i><br>— Unknown</p>
+<p align="center"><br><i>Life without love is like a tree without blossoms or fruit.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
