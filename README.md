@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Better to live until you die.</i><br>— Dan Millman</p>
+<p align="center"><br><i>At first dreams seem impossible, then improbable, then inevitable.</i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
