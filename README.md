@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where there is no struggle, there is no strength. </i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Life is the art of drawing sufficient conclusions from insufficient premises.</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 #
