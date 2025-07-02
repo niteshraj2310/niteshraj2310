@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Better to live until you die.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
