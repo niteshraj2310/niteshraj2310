@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is the art of drawing sufficient conclusions from insufficient premises.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>He who fails to plan, plans to fail.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
