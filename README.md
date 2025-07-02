@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're only given a little spark of madness. You mustn't lose it.</i><br>— Robin Williams</p>
+<p align="center"><br><i>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
