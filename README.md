@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life without love is like a tree without blossoms or fruit.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 #
