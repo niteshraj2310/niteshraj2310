@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are far from the enemy, make him believe you are near.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>I am not the outcome. I am never the result. I am only the effort.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
