@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is in changing that we find purpose.</i><br>— Heraclitus</p>
+<p align="center"><br><i>Our happiness depends on the habit of mind we cultivate.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
