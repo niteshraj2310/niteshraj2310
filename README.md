@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make peace with your inner turmoil.</i><br>— Unknown</p>
+<p align="center"><br><i>Never waste a minute of your precious life thinking about people you don't like.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
