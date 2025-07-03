@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am not the outcome. I am never the result. I am only the effort.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Yesterday is gone. Tomorrow has not yet come. We have only today.</i><br>— Mother Teresa</p>
 <!-- ADVICE:END -->
 
 #
