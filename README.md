@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our happiness depends on the habit of mind we cultivate.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Anything becomes interesting if you look at it long enough..</i><br>— Gustave Flaubert</p>
 <!-- ADVICE:END -->
 
 #
