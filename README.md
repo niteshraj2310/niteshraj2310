@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anything becomes interesting if you look at it long enough..</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>If you are far from the enemy, make him believe you are near.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
