@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Yesterday is gone. Tomorrow has not yet come. We have only today.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>Against the assault of laughter nothing can stand.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
