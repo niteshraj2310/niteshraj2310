@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all different. Don't judge, understand instead.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Whatever you decide to do, make sure it makes you happy.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
