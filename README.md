@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </i><br>— Charles Swindoll</p>
+<p align="center"><br><i>The best thing to hold onto in life is each other.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 #
