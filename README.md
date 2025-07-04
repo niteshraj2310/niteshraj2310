@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best mind-altering drug is the truth.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>We are all different. Don't judge, understand instead.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
