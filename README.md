@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Against the assault of laughter nothing can stand.</i><br>— Mark Twain</p>
+<p align="center"><br><i>She who loves roses must be patient and not cry out when she is pierced by thorns.</i><br>— Kenji Miyazawa</p>
 <!-- ADVICE:END -->
 
 #
