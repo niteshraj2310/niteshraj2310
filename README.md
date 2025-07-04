@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>She who loves roses must be patient and not cry out when she is pierced by thorns.</i><br>— Kenji Miyazawa</p>
+<p align="center"><br><i>I don't pretend to know everything; I just only speak on matters I know I'll win.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
