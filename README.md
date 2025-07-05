@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a process. We are a process. The universe is a process.</i><br>— Anne Wilson Schaef</p>
+<p align="center"><br><i>We would accomplish many more things if we did not think of them as impossible.</i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
