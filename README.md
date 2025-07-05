@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Avoiding danger is no safer in the long run than exposure.</i><br>— Helen Keller</p>
+<p align="center"><br><i>Turn your wounds into wisdom. </i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
