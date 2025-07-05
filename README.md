@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Turn your wounds into wisdom. </i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Life is a process. We are a process. The universe is a process.</i><br>— Anne Wilson Schaef</p>
 <!-- ADVICE:END -->
 
 #
