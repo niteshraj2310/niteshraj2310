@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Don't let the silly little dramas of each day get you down. For you are here to do great things.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
