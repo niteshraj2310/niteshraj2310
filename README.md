@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best thing to hold onto in life is each other.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>A golden cage is still just a cage.</i><br>— Anita Krizzan</p>
 <!-- ADVICE:END -->
 
 #
