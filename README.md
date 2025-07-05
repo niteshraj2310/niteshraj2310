@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the silly little dramas of each day get you down. For you are here to do great things.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>Avoiding danger is no safer in the long run than exposure.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
