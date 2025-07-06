@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do good, live in the most positive and joyful way possible every day.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Believe nothing you hear, and only one half that you see.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
