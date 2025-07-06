@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>Anything you may hold firmly in your imagination can be yours.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
