@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe nothing you hear, and only one half that you see.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>In three words I can sum up everything I've learned about life: it goes on.</i><br>— Robert Frost</p>
 <!-- ADVICE:END -->
 
 #
