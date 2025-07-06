@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day may not be good, but there's something good in every day.</i><br>— Unknown</p>
+<p align="center"><br><i>Most people fail in life because they major in minor things.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
