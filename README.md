@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who seek the easy way do not seek the true way.</i><br>— Dogen</p>
+<p align="center"><br><i>Maybe you are searching among the branches, for what only appears in the roots.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
