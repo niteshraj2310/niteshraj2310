@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people fail in life because they major in minor things.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
