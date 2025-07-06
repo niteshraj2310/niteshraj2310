@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In three words I can sum up everything I've learned about life: it goes on.</i><br>— Robert Frost</p>
+<p align="center"><br><i>Every day may not be good, but there's something good in every day.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
