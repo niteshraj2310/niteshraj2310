@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything you've ever wanted is on the other side of fear.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Unless you change how you are, you will always have what you got.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
