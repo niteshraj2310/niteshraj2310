@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Optimism, when applied to your life, develops strength and peace within you.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Experience is a comb which nature gives us when we are bald. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
