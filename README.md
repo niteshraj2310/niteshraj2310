@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest of all mistakes is to do nothing because you think you can only do a little. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Everything you've ever wanted is on the other side of fear.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
