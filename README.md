@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who cannot control his words shows that he cannot control himself.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
