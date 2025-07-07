@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Re-examine all that you have been told... dismiss that which insults your soul.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>The person who cannot control his words shows that he cannot control himself.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
