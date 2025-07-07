@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anything you may hold firmly in your imagination can be yours.</i><br>— William James</p>
+<p align="center"><br><i>The greatest of all mistakes is to do nothing because you think you can only do a little. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
