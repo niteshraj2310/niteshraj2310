@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>Optimism, when applied to your life, develops strength and peace within you.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
