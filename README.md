@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyday you can take a tiny step in the right direction.</i><br>— Unknown</p>
+<p align="center"><br><i>No tree, it is said, can grow to heaven unless its roots reach down to hell.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
