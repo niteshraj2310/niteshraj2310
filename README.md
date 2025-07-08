@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every man is guilty of all the good he did not do. </i><br>— Voltaire</p>
+<p align="center"><br><i>Everyday you can take a tiny step in the right direction.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
