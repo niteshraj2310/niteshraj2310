@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Waste no more time arguing about what a good man should be. Be one.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>To find yourself, think for yourself.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
