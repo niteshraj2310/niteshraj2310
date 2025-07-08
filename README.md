@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To find yourself, think for yourself.</i><br>— Socrates</p>
+<p align="center"><br><i>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
