@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Experience is a comb which nature gives us when we are bald. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Every man is guilty of all the good he did not do. </i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
