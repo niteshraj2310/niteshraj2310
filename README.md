@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We tend to live up to our expectations.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>You may forget with whom you laughed, but you will never forget with whom you wept. </i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
