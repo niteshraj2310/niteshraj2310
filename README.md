@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing is not enough, we must apply. Willing is not enough, we must do. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>The temptation to give up is strongest just before victory.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
