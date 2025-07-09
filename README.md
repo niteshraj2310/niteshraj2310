@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The temptation to give up is strongest just before victory.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>If you try, you might get exactly what you want. If you don't, you don't.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
