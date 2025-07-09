@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</i><br>— Billie Jean King</p>
+<p align="center"><br><i>We tend to live up to our expectations.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
