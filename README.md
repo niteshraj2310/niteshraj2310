@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is easier than fault finding.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Knowing is not enough, we must apply. Willing is not enough, we must do. </i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
