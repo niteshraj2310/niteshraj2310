@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Dreams are for dreamers. Goals are for achievers.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
