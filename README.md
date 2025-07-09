@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You may forget with whom you laughed, but you will never forget with whom you wept. </i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
