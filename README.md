@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your only obligation in any lifetime is to be true to yourself.</i><br>— Richard Bach</p>
+<p align="center"><br><i>The more we have the less we own.</i><br>— Meister Eckhart</p>
 <!-- ADVICE:END -->
 
 #
