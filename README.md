@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You become stronger with every problem you face and every obstacle you overcome.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Man's character is his fate.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
