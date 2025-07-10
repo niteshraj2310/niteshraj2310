@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more we have the less we own.</i><br>— Meister Eckhart</p>
+<p align="center"><br><i>The dream is free, but the hustle is sold separately.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
