@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man's character is his fate.</i><br>— Heraclitus</p>
+<p align="center"><br><i>Your only obligation in any lifetime is to be true to yourself.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
