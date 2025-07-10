@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dreams are for dreamers. Goals are for achievers.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>Work harder on yourself than you do on your job.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
