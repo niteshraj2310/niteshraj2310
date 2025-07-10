@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no limitations to the mind except those we acknowledge...</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Every drop in the ocean counts. </i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 #
