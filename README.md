@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every drop in the ocean counts. </i><br>— Yoko Ono</p>
+<p align="center"><br><i>You become stronger with every problem you face and every obstacle you overcome.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
