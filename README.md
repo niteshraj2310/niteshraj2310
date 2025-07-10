@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work harder on yourself than you do on your job.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>There are no limitations to the mind except those we acknowledge...</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
