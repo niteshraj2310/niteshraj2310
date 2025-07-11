@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take care of your body. It's the only place you have to live.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
