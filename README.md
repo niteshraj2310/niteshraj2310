@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Turn your face to the sun, as flowers know how to do.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
