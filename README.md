@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first principle of success is desire.</i><br>— Robert Collier</p>
+<p align="center"><br><i>Take care of your body. It's the only place you have to live.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
