@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Act the way you want to be and soon you'll be the way you act.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
