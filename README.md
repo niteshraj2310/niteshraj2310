@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are ever the smartest person in the room, you are in the wrong room.</i><br>— C. Sean McGee</p>
+<p align="center"><br><i>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
