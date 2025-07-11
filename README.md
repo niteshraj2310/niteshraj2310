@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Act the way you want to be and soon you'll be the way you act.</i><br>— Les Brown</p>
+<p align="center"><br><i>The first principle of success is desire.</i><br>— Robert Collier</p>
 <!-- ADVICE:END -->
 
 #
