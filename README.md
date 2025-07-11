@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The dream is free, but the hustle is sold separately.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>If you are ever the smartest person in the room, you are in the wrong room.</i><br>— C. Sean McGee</p>
 <!-- ADVICE:END -->
 
 #
