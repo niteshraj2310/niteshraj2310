@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The Only Thing That Is Constant Is Change</i><br>— Heraclitus</p>
+<p align="center"><br><i>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
