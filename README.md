@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day passes whether you participate or not.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
