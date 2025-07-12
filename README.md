@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Tis not too late to seek a newer world.</i><br>— Heraclitus</p>
+<p align="center"><br><i>The Only Thing That Is Constant Is Change</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
