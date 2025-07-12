@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes good things fall apart so better things can fall together.</i><br>— Marilyn Monroe</p>
+<p align="center"><br><i>Every day passes whether you participate or not.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
