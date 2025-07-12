@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The whole is greater than the sum of its parts.</i><br>— Aristotle</p>
+<p align="center"><br><i>Tis not too late to seek a newer world.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
