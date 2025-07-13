@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You came empty handed, and you will leave empty handed.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>We are born from a quiet sleep, and we die to a calm awakening</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
