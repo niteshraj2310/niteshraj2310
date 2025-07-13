@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Argue for your limitations and sure enough, they're yours.</i><br>— Richard Bach</p>
+<p align="center"><br><i>Dreams are for dreamers. Goals are for achievers.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
