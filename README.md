@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</i><br>— Mark Manson</p>
+<p align="center"><br><i>The present moment is filled with joy and happiness. If you are attentive, you will see it.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
