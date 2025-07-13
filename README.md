@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is an iceberg.</i><br>— Unknown</p>
+<p align="center"><br><i>Argue for your limitations and sure enough, they're yours.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
