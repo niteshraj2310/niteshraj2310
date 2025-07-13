@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you have a dream, you've got to grab it and never let go.</i><br>— Carol Burnett</p>
+<p align="center"><br><i>Success is an iceberg.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
