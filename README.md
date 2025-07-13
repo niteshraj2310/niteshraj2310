@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The present moment is filled with joy and happiness. If you are attentive, you will see it.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>Do not ignore the passion that burns in you. Spend time to discover your gift.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
