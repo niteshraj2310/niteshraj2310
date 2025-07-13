@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dreams are for dreamers. Goals are for achievers.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
