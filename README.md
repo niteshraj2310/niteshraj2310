@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are born from a quiet sleep, and we die to a calm awakening</i><br>— Zhuangzi</p>
+<p align="center"><br><i>When you have a dream, you've got to grab it and never let go.</i><br>— Carol Burnett</p>
 <!-- ADVICE:END -->
 
 #
