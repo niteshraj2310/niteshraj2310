@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All power is from within and therefore under our control.</i><br>— Robert Collier</p>
+<p align="center"><br><i>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
