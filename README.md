@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The few who do are the envy of the many who only watch.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>All power is from within and therefore under our control.</i><br>— Robert Collier</p>
 <!-- ADVICE:END -->
 
 #
