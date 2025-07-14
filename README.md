@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do the hard jobs first. The easy jobs will take care of themselves.</i><br>— Dale Carnegie</p>
+<p align="center"><br><i>Dreams are the royal road to the unconscious. </i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
