@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The longer we dwell on our misfortunes, the greater is their power to harm us.</i><br>— Voltaire</p>
+<p align="center"><br><i>Do the hard jobs first. The easy jobs will take care of themselves.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
