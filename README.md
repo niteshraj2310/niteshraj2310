@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Decide what your truth is. Then live it.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>The longer we dwell on our misfortunes, the greater is their power to harm us.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
