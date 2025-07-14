@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dreams are the royal road to the unconscious. </i><br>— Sigmund Freud</p>
+<p align="center"><br><i>The few who do are the envy of the many who only watch.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
