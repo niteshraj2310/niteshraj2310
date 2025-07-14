@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Unless a man is master of his soul, all other kinds of mastery amount to little.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>Decide what your truth is. Then live it.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
