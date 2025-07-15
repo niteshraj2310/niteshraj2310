@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No one is useless in this world who lightens the burdens of another.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Live, travel, adventure, bless, and don't be sorry. </i><br>— Jack Kerouac</p>
 <!-- ADVICE:END -->
 
 #
