@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>From the errors of others, a wise man corrects his own.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>People who avoid failure also avoid success.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
