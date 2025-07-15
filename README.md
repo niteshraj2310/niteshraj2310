@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything will be ok in the end. If it's not ok, it's not the end.</i><br>— John Lennon</p>
+<p align="center"><br><i>My definition of success is control.</i><br>— Kenneth Branagh</p>
 <!-- ADVICE:END -->
 
 #
