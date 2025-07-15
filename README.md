@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>My definition of success is control.</i><br>— Kenneth Branagh</p>
+<p align="center"><br><i>Help others achieve their dreams and you will achieve yours.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
