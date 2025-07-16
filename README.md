@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you like yourself, the less you are like anyone else, which makes you unique.</i><br>— Walt Disney</p>
+<p align="center"><br><i>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</i><br>— Robin Williams</p>
 <!-- ADVICE:END -->
 
 #
