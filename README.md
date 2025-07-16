@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never to suffer would never to have been blessed.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>Faithless is he that says farewell when the road darkens.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
