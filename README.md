@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</i><br>— Robin Williams</p>
+<p align="center"><br><i>There are no accidents... there is only some purpose that we haven't yet understood.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
