@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Faithless is he that says farewell when the road darkens.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>What is a friend? A single soul dwelling in two bodies.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
