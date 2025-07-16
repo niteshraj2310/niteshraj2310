@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no accidents... there is only some purpose that we haven't yet understood.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Sometimes you have to lose all you have to find out who you truly are.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
