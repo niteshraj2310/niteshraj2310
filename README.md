@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What is a friend? A single soul dwelling in two bodies.</i><br>— Aristotle</p>
+<p align="center"><br><i>You can, you should, and if you're brave enough to start, you will.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
