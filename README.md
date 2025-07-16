@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Help others achieve their dreams and you will achieve yours.</i><br>— Les Brown</p>
+<p align="center"><br><i>The more you like yourself, the less you are like anyone else, which makes you unique.</i><br>— Walt Disney</p>
 <!-- ADVICE:END -->
 
 #
