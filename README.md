@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You know the more one does the more one can do.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>It is your attitude, not your aptitude, that determines your altitude.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
