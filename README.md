@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</i><br>— Samuel Beckett</p>
+<p align="center"><br><i>Passion is born deaf and dumb.</i><br>— Honore de Balzac</p>
 <!-- ADVICE:END -->
 
 #
