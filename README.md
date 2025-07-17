@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Passion is born deaf and dumb.</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>You know the more one does the more one can do.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
