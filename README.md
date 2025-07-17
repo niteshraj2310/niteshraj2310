@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't build a reputation on what you are going to do. </i><br>— Henry Ford</p>
+<p align="center"><br><i>Remember, today is the tomorrow you worried about yesterday.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
