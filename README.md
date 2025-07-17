@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can, you should, and if you're brave enough to start, you will.</i><br>— Stephen King</p>
+<p align="center"><br><i>Curiosity is the most powerful thing you own.</i><br>— James Cameron</p>
 <!-- ADVICE:END -->
 
 #
