@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Curiosity is the most powerful thing you own.</i><br>— James Cameron</p>
+<p align="center"><br><i>You can't build a reputation on what you are going to do. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
