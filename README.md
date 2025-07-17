@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most great people have achieved their greatest success just one step beyond their greatest failure.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</i><br>— Samuel Beckett</p>
 <!-- ADVICE:END -->
 
 #
