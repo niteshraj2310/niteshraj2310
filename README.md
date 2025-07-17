@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember, today is the tomorrow you worried about yesterday.</i><br>— Dale Carnegie</p>
+<p align="center"><br><i>Most great people have achieved their greatest success just one step beyond their greatest failure.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
