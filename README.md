@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is your attitude, not your aptitude, that determines your altitude.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>I am thankful to all those who said no. It's because of them, I did it myself. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
