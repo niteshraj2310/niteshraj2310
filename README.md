@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What the mind can conceive and believe, and the heart desire, you can achieve.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>My instinct is always to seek out challenges as opposed to avoiding them.</i><br>— Josh Waitzkin</p>
 <!-- ADVICE:END -->
 
 #
