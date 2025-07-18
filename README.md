@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is literally true that you can succeed best and quickest by helping others succeed.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>What the mind can conceive and believe, and the heart desire, you can achieve.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
