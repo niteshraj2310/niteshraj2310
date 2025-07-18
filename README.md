@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am thankful to all those who said no. It's because of them, I did it myself. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Trusting our intuition often saves us from disaster. </i><br>— Anne Wilson Schaef</p>
 <!-- ADVICE:END -->
 
 #
