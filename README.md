@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the midst of movement and chaos, keep stillness inside of you.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
