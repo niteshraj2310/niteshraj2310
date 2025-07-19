@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In nature there is no alienation. Everything belongs.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
