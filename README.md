@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>In nature there is no alienation. Everything belongs.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
