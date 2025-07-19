@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
