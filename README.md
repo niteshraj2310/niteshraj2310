@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Treat everyone with politeness and kindness, not because they are nice, but because you are.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>We can spend our whole lives escaping from the monsters of our minds.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
