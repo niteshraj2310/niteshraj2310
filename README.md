@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>Treat everyone with politeness and kindness, not because they are nice, but because you are.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
