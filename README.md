@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We can't help everyone, but everyone can help someone.</i><br>— Ronald Reagan</p>
+<p align="center"><br><i>The best answer to anger is silence.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
