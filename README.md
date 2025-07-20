@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The moment you doubt whether you can fly, you cease for ever to be able to do it.</i><br>— James Matthew Barrie</p>
+<p align="center"><br><i>Time goes from present to past.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
