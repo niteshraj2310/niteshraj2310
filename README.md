@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is not final, failure is not fatal: it is the courage to continue that counts.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Pleasure can be supported by an illusion; but happiness rests upon truth. </i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
