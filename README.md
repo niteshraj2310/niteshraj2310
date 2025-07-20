@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We can spend our whole lives escaping from the monsters of our minds.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>We can't help everyone, but everyone can help someone.</i><br>— Ronald Reagan</p>
 <!-- ADVICE:END -->
 
 #
