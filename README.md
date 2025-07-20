@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Pleasure can be supported by an illusion; but happiness rests upon truth. </i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
