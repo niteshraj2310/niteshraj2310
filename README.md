@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you always do what you've always done, you'll always get what you've always got. </i><br>— Henry Ford</p>
+<p align="center"><br><i>Success is not final, failure is not fatal: it is the courage to continue that counts.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
