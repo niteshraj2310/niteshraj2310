@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The enemy is a very good teacher.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Believe and you're halfway there.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
