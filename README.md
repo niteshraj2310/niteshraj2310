@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Knowing is not enough, we must apply. Willing is not enough, we must do. </i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
