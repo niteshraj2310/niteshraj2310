@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is in the darkness that one finds the light.</i><br>— Meister Eckhart</p>
+<p align="center"><br><i>You talk when you cease to be at peace with your thoughts.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
