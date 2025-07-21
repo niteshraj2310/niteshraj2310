@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You talk when you cease to be at peace with your thoughts.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>The enemy is a very good teacher.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
