@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
