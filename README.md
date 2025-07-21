@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>It is in the darkness that one finds the light.</i><br>— Meister Eckhart</p>
 <!-- ADVICE:END -->
 
 #
