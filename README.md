@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe and you're halfway there.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>He who knows, does not speak. He who speaks, does not know.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
