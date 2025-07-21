@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing is not enough, we must apply. Willing is not enough, we must do. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
