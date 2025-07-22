@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Life is about choice. You can choose to be a victim or anything else you like to be.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
