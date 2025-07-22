@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What is planted in each person's soul will sprout. </i><br>— Rumi</p>
+<p align="center"><br><i>It is not the knowing that is difficult, but the doing. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
