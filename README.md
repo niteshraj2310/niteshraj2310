@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing is not enough, we must apply. Willing is not enough, we must do.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
