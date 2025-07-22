@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not the knowing that is difficult, but the doing. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</i><br>— Robert Frost</p>
 <!-- ADVICE:END -->
 
 #
