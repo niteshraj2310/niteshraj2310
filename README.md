@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</i><br>— Robert Frost</p>
+<p align="center"><br><i>Knowing is not enough, we must apply. Willing is not enough, we must do.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
