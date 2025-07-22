@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I believe that potential is unlimited - success depends on daring to act on dreams. </i><br>— Estee Lauder</p>
+<p align="center"><br><i>There is no greatness where there is not simplicity, goodness, and truth.</i><br>— Leo Tolstoy</p>
 <!-- ADVICE:END -->
 
 #
