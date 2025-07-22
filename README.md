@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who knows, does not speak. He who speaks, does not know.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>What is planted in each person's soul will sprout. </i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
