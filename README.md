@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can not live your life just based on what everyone else thinks.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Engage in those actions and thoughts that nurture the good qualities you want to have.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
