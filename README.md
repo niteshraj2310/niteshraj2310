@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Heaven is right where you are standing.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
