@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</i><br>— Gary Keller</p>
+<p align="center"><br><i>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
