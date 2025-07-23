@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no greatness where there is not simplicity, goodness, and truth.</i><br>— Leo Tolstoy</p>
+<p align="center"><br><i>You can not live your life just based on what everyone else thinks.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
