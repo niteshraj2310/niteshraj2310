@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No matter what happens in life, never lose sight of who you are.</i><br>— Yanni</p>
+<p align="center"><br><i>I admire those who do good and expect nothing in return.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
