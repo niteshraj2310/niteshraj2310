@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Engage in those actions and thoughts that nurture the good qualities you want to have.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>Life reflects your own thoughts back to you.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
