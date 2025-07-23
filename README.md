@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</i><br>— Dan Millman</p>
+<p align="center"><br><i>No matter what happens in life, never lose sight of who you are.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
