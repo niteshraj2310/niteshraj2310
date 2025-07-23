@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life reflects your own thoughts back to you.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Heaven is right where you are standing.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
