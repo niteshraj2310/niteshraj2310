@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only thing we have to fear is fear itself.</i><br>— Franklin D. Roosevelt</p>
+<p align="center"><br><i>Do your duty and a little more and the future will take care of itself.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
