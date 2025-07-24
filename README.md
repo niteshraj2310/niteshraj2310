@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Talent is luck. The important thing in life is courage.</i><br>— Woody Allen</p>
+<p align="center"><br><i>The only thing we have to fear is fear itself.</i><br>— Franklin D. Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
