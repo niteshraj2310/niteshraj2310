@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do one thing every day that scares you.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Success is liking yourself, liking what you do, and liking how you do it.</i><br>— Maya Angelou</p>
 <!-- ADVICE:END -->
 
 #
