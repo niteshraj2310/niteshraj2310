@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is liking yourself, liking what you do, and liking how you do it.</i><br>— Maya Angelou</p>
+<p align="center"><br><i>Talent is luck. The important thing in life is courage.</i><br>— Woody Allen</p>
 <!-- ADVICE:END -->
 
 #
