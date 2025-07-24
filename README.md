@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A journey of a thousand miles must begin with a single step.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Do one thing every day that scares you.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
