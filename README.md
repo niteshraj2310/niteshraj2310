@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I admire those who do good and expect nothing in return.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>A journey of a thousand miles must begin with a single step.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
