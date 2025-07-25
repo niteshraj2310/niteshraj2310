@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Difficult roads often lead to beautiful destinations.</i><br>— Unknown</p>
+<p align="center"><br><i>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
