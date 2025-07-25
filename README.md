@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </i><br>— Nikola Tesla</p>
+<p align="center"><br><i>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
