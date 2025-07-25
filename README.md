@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Fear is a natural reaction to moving closer to the truth.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
