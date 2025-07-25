@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear is a natural reaction to moving closer to the truth.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </i><br>— Nikola Tesla</p>
 <!-- ADVICE:END -->
 
 #
