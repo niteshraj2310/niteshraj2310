@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
