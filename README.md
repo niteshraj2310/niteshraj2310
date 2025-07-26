@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't settle, and don't struggle.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Confidence comes from crossing thresholds.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
