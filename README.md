@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Loyalty and friendship are the most precious possessions a man can have.</i><br>— Herbert Hoover</p>
+<p align="center"><br><i>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
