@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Exceptional thinkers ignore their critics and go about their business making history.</i><br>— John Eliot</p>
+<p align="center"><br><i>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
