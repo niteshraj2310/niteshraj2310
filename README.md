@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The Art of Peace begins with you.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Loyalty and friendship are the most precious possessions a man can have.</i><br>— Herbert Hoover</p>
 <!-- ADVICE:END -->
 
 #
