@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing endures but change.</i><br>— Heraclitus</p>
+<p align="center"><br><i>Exceptional thinkers ignore their critics and go about their business making history.</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 #
