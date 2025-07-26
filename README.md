@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confidence comes from crossing thresholds.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>A poet should be so crafty with words that he is envied even for his pains.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
