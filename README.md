@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>The Art of Peace begins with you.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
