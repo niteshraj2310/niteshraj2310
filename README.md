@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As soon as you trust yourself, you will know how to live.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>People become attached to their burdens sometimes more than the burdens are attached to them.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
