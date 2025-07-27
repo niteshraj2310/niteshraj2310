@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People become attached to their burdens sometimes more than the burdens are attached to them.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>One small positive thought can change your whole day.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
