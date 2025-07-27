@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A poet should be so crafty with words that he is envied even for his pains.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Nothing will work unless you do.</i><br>— Maya Angelou</p>
 <!-- ADVICE:END -->
 
 #
