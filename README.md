@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adventure is not outside man; it is within.</i><br>— George Eliot</p>
+<p align="center"><br><i>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
