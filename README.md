@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Creativity is the greatest rebellion in existence.</i><br>— Osho</p>
+<p align="center"><br><i>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
