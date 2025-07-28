@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dreams have only one owner at a time. That's why dreamers are lonely.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Creativity is the greatest rebellion in existence.</i><br>— Osho</p>
 <!-- ADVICE:END -->
 
 #
