@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>Be polite to all, but intimate with few.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
