@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most important single ingredient in the formula of success is knowing how to get along with people.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
