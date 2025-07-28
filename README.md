@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be polite to all, but intimate with few.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Live the moment for the moment.</i><br>— Michael Jordan</p>
 <!-- ADVICE:END -->
 
 #
