@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Nothing is more real than nothing.</i><br>— Samuel Beckett</p>
 <!-- ADVICE:END -->
 
 #
