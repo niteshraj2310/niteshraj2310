@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</i><br>— Kenneth Branagh</p>
+<p align="center"><br><i>No idea, no matter how good, will work if it doesn't get used.</i><br>— Peter A. Cohen</p>
 <!-- ADVICE:END -->
 
 #
