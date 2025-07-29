@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is more real than nothing.</i><br>— Samuel Beckett</p>
+<p align="center"><br><i>Great deeds are usually wrought at great risks.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
