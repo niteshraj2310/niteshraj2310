@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I hear and I forget. I see and I remember. I do and I understand. </i><br>— Confucius</p>
+<p align="center"><br><i>Confidence comes from crossing thresholds.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
