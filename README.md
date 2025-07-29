@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Better late than never.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>I hear and I forget. I see and I remember. I do and I understand. </i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
