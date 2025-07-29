@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great deeds are usually wrought at great risks.</i><br>— Herodotus</p>
+<p align="center"><br><i>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
