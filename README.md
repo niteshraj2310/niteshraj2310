@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quality of your commitments will determine the course of your life.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>Better late than never.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
