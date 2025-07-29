@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confidence comes from crossing thresholds.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</i><br>— Kenneth Branagh</p>
 <!-- ADVICE:END -->
 
 #
