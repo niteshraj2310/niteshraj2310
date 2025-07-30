@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Death is not sad; the sad thing is that most people don't really live at all.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Expect the best, plan for the worst, and prepare to be surprised. </i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
