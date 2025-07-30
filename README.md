@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No idea, no matter how good, will work if it doesn't get used.</i><br>— Peter A. Cohen</p>
+<p align="center"><br><i>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
