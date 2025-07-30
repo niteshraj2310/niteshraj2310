@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Expect the best, plan for the worst, and prepare to be surprised. </i><br>— Denis Waitley</p>
+<p align="center"><br><i>I begin with an idea and then it becomes something else.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
