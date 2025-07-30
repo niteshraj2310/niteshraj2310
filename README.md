@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The highest form of ignorance is when you reject something you don't know anything about. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Death is not sad; the sad thing is that most people don't really live at all.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
