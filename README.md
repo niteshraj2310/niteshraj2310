@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must find the place inside yourself where nothing is impossible.</i><br>— Les Brown</p>
+<p align="center"><br><i>The highest form of ignorance is when you reject something you don't know anything about. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
