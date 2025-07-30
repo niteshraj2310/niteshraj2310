@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>You are the average of the five people you spend the most time with.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
