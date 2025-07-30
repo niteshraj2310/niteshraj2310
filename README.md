@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are the average of the five people you spend the most time with.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>You must find the place inside yourself where nothing is impossible.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
