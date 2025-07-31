@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's wise to tell the truth. It's even wiser to tell it kindly.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>I have not failed. I've just found 10,000 ways that won't work.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 #
