@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never was anything great achieved without danger.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>The soul is neither born, and nor does it die.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
