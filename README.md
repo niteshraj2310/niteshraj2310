@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You came empty handed, and you will leave empty handed.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>The more we have the less we own.</i><br>— Meister Eckhart</p>
 <!-- ADVICE:END -->
 
 #
