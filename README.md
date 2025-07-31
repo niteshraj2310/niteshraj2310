@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I have not failed. I've just found 10,000 ways that won't work.</i><br>— Thomas Edison</p>
+<p align="center"><br><i>People who say it cannot be done should not interrupt those who are doing it.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
