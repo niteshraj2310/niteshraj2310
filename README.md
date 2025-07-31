@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People who say it cannot be done should not interrupt those who are doing it.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>You came empty handed, and you will leave empty handed.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
