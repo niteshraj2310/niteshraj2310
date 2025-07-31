@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</i><br>— Voltaire</p>
+<p align="center"><br><i>Don't talk about what you have done or what you are going to do.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
