@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Understanding that rests in what it does not understand is the finest.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
