@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Someday death will take us to another star.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>It's not the love you make. It's the love you give. </i><br>— Nikola Tesla</p>
 <!-- ADVICE:END -->
 
 #
