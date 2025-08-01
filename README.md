@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything that is done in the world is done by hope.</i><br>— Martin Luther</p>
+<p align="center"><br><i>Keep your friends close, and your enemies closer.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
