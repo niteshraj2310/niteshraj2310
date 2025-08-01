@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not the love you make. It's the love you give. </i><br>— Nikola Tesla</p>
+<p align="center"><br><i>My powers are ordinary. Only my application brings me success.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
