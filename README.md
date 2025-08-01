@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep your friends close, and your enemies closer.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Understanding that rests in what it does not understand is the finest.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
