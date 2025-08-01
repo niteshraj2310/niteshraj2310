@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more we have the less we own.</i><br>— Meister Eckhart</p>
+<p align="center"><br><i>Someday death will take us to another star.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
