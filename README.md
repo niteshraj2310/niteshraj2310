@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Get mad, then get over it.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Conquer the devils with a little thing called love.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
