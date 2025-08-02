@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
