@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Throughout this life, you can never be certain of living long enough to take another breath.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
