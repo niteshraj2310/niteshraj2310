@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Throughout this life, you can never be certain of living long enough to take another breath.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </i><br>— George Washington</p>
 <!-- ADVICE:END -->
 
 #
