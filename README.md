@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </i><br>— George Washington</p>
+<p align="center"><br><i>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
