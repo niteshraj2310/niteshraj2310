@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your setback is just a setup for a comeback.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
