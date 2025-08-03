@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Quiet people have the loudest minds.</i><br>— Stephen King</p>
+<p align="center"><br><i>Your setback is just a setup for a comeback.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
