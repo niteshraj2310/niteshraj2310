@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The key to success is to focus our conscious mind on things we desire not things we fear. </i><br>— Brian Tracy</p>
+<p align="center"><br><i>The world makes way for the man who knows where he is going.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
