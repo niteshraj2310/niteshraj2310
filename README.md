@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</i><br>— Og Mandino</p>
+<p align="center"><br><i>A wise man will be master of his mind, a fool will be its slave.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 #
