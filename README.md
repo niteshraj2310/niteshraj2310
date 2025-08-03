@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A wise man will be master of his mind, a fool will be its slave.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>The key to success is to focus our conscious mind on things we desire not things we fear. </i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
