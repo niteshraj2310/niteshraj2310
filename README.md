@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To travel is to be alive, but to get somewhere is to be dead.</i><br>— Alan Watts</p>
+<p align="center"><br><i>Quiet people have the loudest minds.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
