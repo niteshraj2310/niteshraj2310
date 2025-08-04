@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make each day your masterpiece.</i><br>— John Wooden</p>
+<p align="center"><br><i>It always seems impossible until it's done.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 #
