@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every one of us is the sum total of his own thoughts.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
