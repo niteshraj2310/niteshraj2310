@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It always seems impossible until it's done.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
