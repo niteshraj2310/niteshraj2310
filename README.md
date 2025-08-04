@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Troubles are often the tools by which God fashions us for better things.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Failure is an option here. If things are not failing, you are not innovating enough.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
