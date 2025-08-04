@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's just a bad day, not a bad life.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Troubles are often the tools by which God fashions us for better things.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
