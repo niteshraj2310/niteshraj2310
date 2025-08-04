@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is an option here. If things are not failing, you are not innovating enough.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Every one of us is the sum total of his own thoughts.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
