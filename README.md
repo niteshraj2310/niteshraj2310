@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't have to control your thoughts; you just have to stop letting them control you.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Knowing your own darkness is the best method for dealing with the darknesses of other people.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
