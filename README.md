@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing your own darkness is the best method for dealing with the darknesses of other people.</i><br>— Carl Jung</p>
+<p align="center"><br><i>If you put water into a cup, it becomes the cup.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
