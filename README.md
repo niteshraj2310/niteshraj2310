@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't ever save anything for a special occasion. Being alive is the special occasion.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Live your life as an exclamation rather than an explanation.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
