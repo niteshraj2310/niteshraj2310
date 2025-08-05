@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you put water into a cup, it becomes the cup.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>Catch, then, O catch the transient hour; Improve each moment as it flies! </i><br>— St. Jerome</p>
 <!-- ADVICE:END -->
 
 #
