@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man should do his job so well that the living, the dead, and the unborn could do it no better.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>The key to success is failure.</i><br>— Michael Jordan</p>
 <!-- ADVICE:END -->
 
 #
