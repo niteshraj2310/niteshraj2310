@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live your life as an exclamation rather than an explanation.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>You don't have to control your thoughts; you just have to stop letting them control you.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
