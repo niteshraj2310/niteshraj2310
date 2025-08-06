@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Once you choose hope, anything's possible.</i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
