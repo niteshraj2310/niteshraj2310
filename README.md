@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you truly love Nature, you will find beauty everywhere. </i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>Success is the progressive realization of a worthy goal or ideal.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
