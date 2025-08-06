@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once you choose hope, anything's possible.</i><br>— Christopher Reeve</p>
+<p align="center"><br><i>Life is ours to be spent, not to be saved. </i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
