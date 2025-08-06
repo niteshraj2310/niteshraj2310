@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>The only way out is through.</i><br>— Robert Frost</p>
 <!-- ADVICE:END -->
 
 #
