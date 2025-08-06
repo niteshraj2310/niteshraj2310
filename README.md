@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To forget the whole world is easy; to make the whole world forget you is hard.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>If you truly love Nature, you will find beauty everywhere. </i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
