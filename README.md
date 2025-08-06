@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The key to success is failure.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
