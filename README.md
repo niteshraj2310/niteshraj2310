@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only way out is through.</i><br>— Robert Frost</p>
+<p align="center"><br><i>To forget the whole world is easy; to make the whole world forget you is hard.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
