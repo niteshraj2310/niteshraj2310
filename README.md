@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is ours to be spent, not to be saved. </i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
