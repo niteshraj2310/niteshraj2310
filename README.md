@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In all chaos there is a cosmos, in all disorder a secret order.</i><br>— Carl Jung</p>
+<p align="center"><br><i>The best way to not feel hopeless is to get up and do something.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
