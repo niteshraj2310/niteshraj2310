@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your success and happiness lie in you.</i><br>— Helen Keller</p>
+<p align="center"><br><i>Blessed is he who expects nothing, for he shall be disappointed.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
