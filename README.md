@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best way to not feel hopeless is to get up and do something.</i><br>— Barack Obama</p>
+<p align="center"><br><i>Every day passes whether you participate or not.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
