@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Blessed is he who expects nothing, for he shall be disappointed.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
