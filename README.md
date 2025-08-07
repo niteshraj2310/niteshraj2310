@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is the progressive realization of a worthy goal or ideal.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Your success and happiness lie in you.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
