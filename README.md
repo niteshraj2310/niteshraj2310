@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you repeat a mistake, it is not a mistake anymore: it is a decision.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Obstacles are those frightful things you see when you take your eyes off your goal.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
