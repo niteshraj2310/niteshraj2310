@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Obstacles are those frightful things you see when you take your eyes off your goal.</i><br>— Henry Ford</p>
+<p align="center"><br><i>In all chaos there is a cosmos, in all disorder a secret order.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
