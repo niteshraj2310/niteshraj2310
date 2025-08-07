@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>When you repeat a mistake, it is not a mistake anymore: it is a decision.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
