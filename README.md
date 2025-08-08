@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take responsibility of your own happiness, never put it in other people's hands.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>A rational person can find peace by cultivating indifference to things outside of their control.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
