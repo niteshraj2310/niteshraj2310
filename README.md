@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love is not about possession. Love is about appreciation.</i><br>— Osho</p>
+<p align="center"><br><i>Each day provides it's own gifts.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
