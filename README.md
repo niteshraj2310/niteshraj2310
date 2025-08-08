@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A rational person can find peace by cultivating indifference to things outside of their control.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Don't ever save anything for a special occasion. Being alive is the special occasion.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
