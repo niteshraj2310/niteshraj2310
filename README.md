@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day passes whether you participate or not.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Take responsibility of your own happiness, never put it in other people's hands.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
