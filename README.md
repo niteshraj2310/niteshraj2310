@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>At first dreams seem impossible, then improbable, then inevitable.</i><br>— Christopher Reeve</p>
+<p align="center"><br><i>You can't wait for inspiration. You have to go after it with a club. </i><br>— Jack London</p>
 <!-- ADVICE:END -->
 
 #
