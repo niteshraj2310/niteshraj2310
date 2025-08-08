@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I don't pretend to know everything; I just only speak on matters I know I'll win.</i><br>— Criss Jami</p>
+<p align="center"><br><i>At first dreams seem impossible, then improbable, then inevitable.</i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
