@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Each day provides it's own gifts.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>I don't pretend to know everything; I just only speak on matters I know I'll win.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
