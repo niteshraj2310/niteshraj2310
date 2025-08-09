@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't climb the ladder of success with your hands in your pockets.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>It will never rain roses: when we want to have more roses, we must plant more roses.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
