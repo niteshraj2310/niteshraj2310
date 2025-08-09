@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It doesn't matter where you are, you are nowhere compared to where you can go.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
