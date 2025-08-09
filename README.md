@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't wait for inspiration. You have to go after it with a club. </i><br>— Jack London</p>
+<p align="center"><br><i>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</i><br>— Robin Williams</p>
 <!-- ADVICE:END -->
 
 #
