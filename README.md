@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It will never rain roses: when we want to have more roses, we must plant more roses.</i><br>— George Eliot</p>
+<p align="center"><br><i>It doesn't matter where you are, you are nowhere compared to where you can go.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 #
