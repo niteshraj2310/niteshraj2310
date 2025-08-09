@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>True life is lived when tiny changes occur.</i><br>— Leo Tolstoy</p>
+<p align="center"><br><i>We can either add to our character each day, or we can fritter away our energies in distractions.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
