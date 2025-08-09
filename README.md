@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep your face to the sunshine and you cannot see the shadows.</i><br>— Helen Keller</p>
+<p align="center"><br><i>You can't climb the ladder of success with your hands in your pockets.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
