@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</i><br>— Robin Williams</p>
+<p align="center"><br><i>Keep your face to the sunshine and you cannot see the shadows.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
