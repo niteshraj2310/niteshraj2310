@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Life reflects your own thoughts back to you.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
