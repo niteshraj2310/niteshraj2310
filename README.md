@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The salvation of the world lies in the human heart.</i><br>— Vaclav Havel</p>
+<p align="center"><br><i>The prettiest eyes have cried the most.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
