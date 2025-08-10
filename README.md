@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always render more and better service than is expected of you, no matter what your task may be.</i><br>— Og Mandino</p>
+<p align="center"><br><i>The worst part of success is trying to find someone who is happy for you.</i><br>— Bette Midler</p>
 <!-- ADVICE:END -->
 
 #
