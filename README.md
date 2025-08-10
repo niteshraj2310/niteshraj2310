@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When asked, how do you write? I invariably answer, one word at a time.</i><br>— Stephen King</p>
+<p align="center"><br><i>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
