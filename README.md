@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We can either add to our character each day, or we can fritter away our energies in distractions.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Always render more and better service than is expected of you, no matter what your task may be.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
