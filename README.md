@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life reflects your own thoughts back to you.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>The salvation of the world lies in the human heart.</i><br>— Vaclav Havel</p>
 <!-- ADVICE:END -->
 
 #
