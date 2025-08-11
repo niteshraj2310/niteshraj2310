@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't criticize what you can't understand. </i><br>— Bob Dylan</p>
+<p align="center"><br><i>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
