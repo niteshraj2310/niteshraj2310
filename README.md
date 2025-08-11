@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Understanding that rests in what it does not understand is the finest.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</i><br>— Herbert Hoover</p>
 <!-- ADVICE:END -->
 
 #
