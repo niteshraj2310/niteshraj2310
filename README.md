@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>There's a very deep connection among human beings. All we have to do is open our minds to it.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
