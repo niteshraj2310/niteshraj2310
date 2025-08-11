@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you change the way you look at things, the things you look at change. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Understanding that rests in what it does not understand is the finest.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
