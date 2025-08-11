@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</i><br>— Aristotle</p>
+<p align="center"><br><i>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
