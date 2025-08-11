@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If they wrote it to make money, don't read it.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>If you change the way you look at things, the things you look at change. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
