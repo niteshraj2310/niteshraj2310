@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There's a very deep connection among human beings. All we have to do is open our minds to it.</i><br>— Yanni</p>
+<p align="center"><br><i>If they wrote it to make money, don't read it.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
