@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you are, be a good one.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>Even the smallest person can change the course of the future.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
