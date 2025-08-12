@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even the smallest person can change the course of the future.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>What have you done today to make someone else happy?</i><br>— Deepam Chaterjee</p>
 <!-- ADVICE:END -->
 
 #
