@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The secret of life is to fall seven times and to get up eight times.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Whatever you are, be a good one.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
