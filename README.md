@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Generosity is giving more than you can, and pride is taking less than you need.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>You may think I'm small, but I have a universe inside my mind.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 #
