@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Tradition is the illusion of permanence. </i><br>— Woody Allen</p>
+<p align="center"><br><i>Generosity is giving more than you can, and pride is taking less than you need.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
