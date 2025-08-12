@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</i><br>— Alexander Graham Bell</p>
+<p align="center"><br><i>There is no path to Happiness. Happiness is the path.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
