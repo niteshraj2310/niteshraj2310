@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>Enjoy life. There's plenty of time to be dead.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
