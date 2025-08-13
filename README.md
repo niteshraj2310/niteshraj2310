@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You get in life what you have the courage to ask for.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 #
