@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The goal of an artist is to create the definitive work that cannot be surpassed.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Everyone is a moon, and has a dark side which he never shows to anybody.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
