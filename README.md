@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enjoy life. There's plenty of time to be dead.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>What most people need to learn in life is how to love people and use things instead of using people and loving things.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
