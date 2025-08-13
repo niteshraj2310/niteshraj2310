@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more we have the less we own.</i><br>— Meister Eckhart</p>
+<p align="center"><br><i>You get in life what you have the courage to ask for.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
