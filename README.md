@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no path to Happiness. Happiness is the path.</i><br>— Dan Millman</p>
+<p align="center"><br><i>The goal of an artist is to create the definitive work that cannot be surpassed.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
