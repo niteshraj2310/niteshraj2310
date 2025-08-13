@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</i><br>— Joan Rivers</p>
+<p align="center"><br><i>The more we have the less we own.</i><br>— Meister Eckhart</p>
 <!-- ADVICE:END -->
 
 #
