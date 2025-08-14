@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make your mind your own business.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
