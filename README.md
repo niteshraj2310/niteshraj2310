@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Raise your words, not voice. It is rain that grows flowers, not thunder.</i><br>— Rumi</p>
+<p align="center"><br><i>Sometimes, the only way to evolve is to open ourselves fully.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
