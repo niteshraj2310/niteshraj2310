@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What most people need to learn in life is how to love people and use things instead of using people and loving things.</i><br>— Unknown</p>
+<p align="center"><br><i>We can choose to look at whatever we want. We can look at what's wrong in our life or we can look at what's right.</i><br>— Sonia Ricotti</p>
 <!-- ADVICE:END -->
 
 #
