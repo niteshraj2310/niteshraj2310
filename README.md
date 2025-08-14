@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you've got nothing, you've got nothing to lose.</i><br>— Bob Dylan</p>
+<p align="center"><br><i>Few things are more deceptive than memories.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
