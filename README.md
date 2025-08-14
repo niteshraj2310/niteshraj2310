@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes, the only way to evolve is to open ourselves fully.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>There's no coming to consciousness without pain</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
