@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There's no coming to consciousness without pain</i><br>— Carl Jung</p>
+<p align="center"><br><i>Make your mind your own business.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
