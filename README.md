@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Few things are more deceptive than memories.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Raise your words, not voice. It is rain that grows flowers, not thunder.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
