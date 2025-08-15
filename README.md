@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't be afraid to see what you see.</i><br>— Ronald Reagan</p>
+<p align="center"><br><i>Deliberately seek the company of people who influence you to think and act on building the life you desire.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
