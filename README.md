@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the practice of tolerance, one's enemy is the best teacher.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Open your mind before your mouth.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 #
