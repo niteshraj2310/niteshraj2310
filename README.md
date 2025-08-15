@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>However difficult life may seem, there is always something you can do and succeed at.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>In the practice of tolerance, one's enemy is the best teacher.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
