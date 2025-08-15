@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Don't be afraid to see what you see.</i><br>— Ronald Reagan</p>
 <!-- ADVICE:END -->
 
 #
