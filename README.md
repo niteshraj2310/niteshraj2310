@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Deliberately seek the company of people who influence you to think and act on building the life you desire.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>You don't have to control your thoughts; you just have to stop letting them control you.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
