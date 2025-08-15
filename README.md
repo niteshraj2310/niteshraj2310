@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't have to control your thoughts; you just have to stop letting them control you.</i><br>— Dan Millman</p>
+<p align="center"><br><i>However difficult life may seem, there is always something you can do and succeed at.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
