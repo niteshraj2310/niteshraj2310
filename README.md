@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The degree of responsibility you take for your life determines how much change you can create in it.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
