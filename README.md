@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>The degree of responsibility you take for your life determines how much change you can create in it.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
