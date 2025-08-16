@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Inspire yourself to be great. Being good isn't good enough.</i><br>— Gurbaksh Chahal</p>
+<p align="center"><br><i>Don't let the noise of others' opinions drown out your own inner voice.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 #
