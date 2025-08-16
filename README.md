@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
