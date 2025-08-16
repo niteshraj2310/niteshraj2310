@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
