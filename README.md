@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Honor is the foundation of courage.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
