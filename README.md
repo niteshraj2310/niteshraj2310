@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the noise of others' opinions drown out your own inner voice.</i><br>— Steve Jobs</p>
+<p align="center"><br><i>It is the mark of an educated mind to be able to entertain a thought without accepting it.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
