@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is the mark of an educated mind to be able to entertain a thought without accepting it.</i><br>— Aristotle</p>
+<p align="center"><br><i>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
