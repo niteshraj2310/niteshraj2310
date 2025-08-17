@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We take care of the future best by taking care of the present now.</i><br>— Jon Kabat-Zinn</p>
+<p align="center"><br><i>Generosity is giving more than you can, and pride is taking less than you need.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
