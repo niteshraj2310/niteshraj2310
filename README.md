@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Generosity is giving more than you can, and pride is taking less than you need.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>The best way to predict your future is to create it.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
