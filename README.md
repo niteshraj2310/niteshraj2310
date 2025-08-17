@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When things go wrong, don't go with them.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>Courage is not having the strength to go on; it is going on when you don't have the strength.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
