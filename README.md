@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best way to predict your future is to create it.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>Fiction is the truth inside the lie.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
