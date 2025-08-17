@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fiction is the truth inside the lie.</i><br>— Stephen King</p>
+<p align="center"><br><i>Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
