@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Courage is not having the strength to go on; it is going on when you don't have the strength.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>We take care of the future best by taking care of the present now.</i><br>— Jon Kabat-Zinn</p>
 <!-- ADVICE:END -->
 
 #
