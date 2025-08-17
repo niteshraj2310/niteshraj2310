@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Honor is the foundation of courage.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>When things go wrong, don't go with them.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 #
