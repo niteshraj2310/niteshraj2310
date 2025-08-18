@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you are motivated by Love, The more Fearless & Free your action will be.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
