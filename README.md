@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Integrity is telling myself the truth. And honesty is telling the truth to other people.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
