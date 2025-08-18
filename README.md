@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>The more you are motivated by Love, The more Fearless & Free your action will be.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
