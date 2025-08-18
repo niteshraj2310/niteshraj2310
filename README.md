@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Judge a man by his questions rather than his answers.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
