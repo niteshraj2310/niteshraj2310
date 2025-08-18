@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I defeat my enemies when I make them my friends.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>A clever person turns great troubles into little ones, and little ones into none at all. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
