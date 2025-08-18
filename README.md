@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A clever person turns great troubles into little ones, and little ones into none at all. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Integrity is telling myself the truth. And honesty is telling the truth to other people.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
