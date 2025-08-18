@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Judge a man by his questions rather than his answers.</i><br>— Voltaire</p>
+<p align="center"><br><i>Love is not about possession. Love is about appreciation.</i><br>— Osho</p>
 <!-- ADVICE:END -->
 
 #
