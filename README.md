@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We think too much and feel too little.</i><br>— Charlie Chaplin</p>
+<p align="center"><br><i>I defeat my enemies when I make them my friends.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
