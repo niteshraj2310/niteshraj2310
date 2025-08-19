@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you truly expect something to be difficult, it will be.</i><br>— Peter A. Cohen</p>
+<p align="center"><br><i>A clear conscience never fears midnight knocking.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
