@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you put water into a cup, it becomes the cup.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>Life is one long process of getting tired.</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 #
