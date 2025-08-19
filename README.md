@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love is not about possession. Love is about appreciation.</i><br>— Osho</p>
+<p align="center"><br><i>An un-examined life is not worth living.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
