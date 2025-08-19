@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A clear conscience never fears midnight knocking.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>If you put water into a cup, it becomes the cup.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
