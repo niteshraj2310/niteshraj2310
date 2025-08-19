@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>If you truly expect something to be difficult, it will be.</i><br>— Peter A. Cohen</p>
 <!-- ADVICE:END -->
 
 #
