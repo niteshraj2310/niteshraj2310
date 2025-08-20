@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The salvation of the world lies in the human heart.</i><br>— Vaclav Havel</p>
+<p align="center"><br><i>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
