@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be true to yourself, help others, make each day your masterpiece</i><br>— John Wooden</p>
+<p align="center"><br><i>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
