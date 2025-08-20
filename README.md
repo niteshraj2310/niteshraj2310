@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Ideas do not reach perfection in a day, no matter how much study is put upon them.</i><br>— Alexander Graham Bell</p>
+<p align="center"><br><i>Be true to yourself, help others, make each day your masterpiece</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
