@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</i><br>— Yanni</p>
+<p align="center"><br><i>Whatever satisfies the soul is truth.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
