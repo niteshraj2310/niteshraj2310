@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>The salvation of the world lies in the human heart.</i><br>— Vaclav Havel</p>
 <!-- ADVICE:END -->
 
 #
