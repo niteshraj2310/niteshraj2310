@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>I don't pretend to know everything; I just only speak on matters I know I'll win.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
