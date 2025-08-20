@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Peace of mind is that mental condition in which you have accepted the worst.</i><br>— Lin Yutang</p>
+<p align="center"><br><i>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
