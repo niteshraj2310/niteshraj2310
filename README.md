@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I don't pretend to know everything; I just only speak on matters I know I'll win.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Peace of mind is that mental condition in which you have accepted the worst.</i><br>— Lin Yutang</p>
 <!-- ADVICE:END -->
 
 #
