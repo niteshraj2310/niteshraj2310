@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever satisfies the soul is truth.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>Make peace with your inner turmoil.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
