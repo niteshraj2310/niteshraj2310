@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want something new, you have to stop doing something old.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>You know you are on the road to success if you would do your job and not be paid for it.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
