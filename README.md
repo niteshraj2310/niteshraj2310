@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make peace with your inner turmoil.</i><br>— Unknown</p>
+<p align="center"><br><i>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
