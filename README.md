@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</i><br>— Barack Obama</p>
+<p align="center"><br><i>If you want something new, you have to stop doing something old.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 #
