@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You know you are on the road to success if you would do your job and not be paid for it.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
