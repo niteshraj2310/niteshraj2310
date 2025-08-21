@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The big thing is to make a winning effort. I'm not obsessed with wins.</i><br>— Morgan Wootten</p>
+<p align="center"><br><i>In youth we run into difficulties. In old age difficulties run into us. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
