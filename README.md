@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In youth we run into difficulties. In old age difficulties run into us. </i><br>— Beverly Sills</p>
+<p align="center"><br><i>It is our experiences that mold us into who we are...during times of adversity our true character will show.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
