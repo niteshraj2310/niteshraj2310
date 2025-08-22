@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>None of us can change our yesterdays but all of us can change our tomorrows.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Music is like creating an emotional painting. The sounds are the colors.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
