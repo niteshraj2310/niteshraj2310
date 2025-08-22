@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When we strive to become better than we are, everything around us becomes better, too.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Empty yourself of everything - let the mind become still.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
