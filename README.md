@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Empty yourself of everything - let the mind become still.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</i><br>— G.I. Gurdjieff</p>
 <!-- ADVICE:END -->
 
 #
