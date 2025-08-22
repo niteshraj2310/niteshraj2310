@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sorrow is how we learn to love.</i><br>— Rita Mae Brown</p>
+<p align="center"><br><i>None of us can change our yesterdays but all of us can change our tomorrows.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
