@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your past does not equal your future.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Sorrow is how we learn to love.</i><br>— Rita Mae Brown</p>
 <!-- ADVICE:END -->
 
 #
