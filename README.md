@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To belittle, you have to be little.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>If I can stop one heart from breaking, I shall not live in vain.</i><br>— Emily Dickinson</p>
 <!-- ADVICE:END -->
 
 #
