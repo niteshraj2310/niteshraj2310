@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Music is like creating an emotional painting. The sounds are the colors.</i><br>— Yanni</p>
+<p align="center"><br><i>Good luck is opportunity meeting preparedness.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
