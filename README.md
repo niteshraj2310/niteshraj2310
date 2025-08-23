@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where your talents and the needs of the world cross, there lies your vocation.</i><br>— Aristotle</p>
+<p align="center"><br><i>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</i><br>— James Matthew Barrie</p>
 <!-- ADVICE:END -->
 
 #
