@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear does not have any special power unless you empower it by submitting to it.</i><br>— Les Brown</p>
+<p align="center"><br><i>Where your talents and the needs of the world cross, there lies your vocation.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
