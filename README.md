@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If I can stop one heart from breaking, I shall not live in vain.</i><br>— Emily Dickinson</p>
+<p align="center"><br><i>Fear does not have any special power unless you empower it by submitting to it.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
