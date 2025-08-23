@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You may be one person in this world, but to one person you may mean the world.</i><br>— Unknown</p>
+<p align="center"><br><i>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
