@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Good luck is opportunity meeting preparedness.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>You may be one person in this world, but to one person you may mean the world.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
