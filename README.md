@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</i><br>— W. Clement Stone</p>
+<p align="center"><br><i>Whatever you decide to do, make sure it makes you happy.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
