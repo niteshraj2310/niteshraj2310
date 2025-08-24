@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not regret the past. Look to the future.</i><br>— Soyen Shaku</p>
+<p align="center"><br><i>The secret of happiness is not in doing what you like but in liking what you have to do.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 #
