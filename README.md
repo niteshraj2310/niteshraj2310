@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are the average of the five people you spend the most time with.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Show up even when you don't want to show up.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
