@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Show up even when you don't want to show up.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>The world doesn't always give you want, but it often gives you what you need.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
