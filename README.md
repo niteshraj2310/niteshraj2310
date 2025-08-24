@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A wise man will be master of his mind, a fool will be its slave.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>You are the average of the five people you spend the most time with.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
