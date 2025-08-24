@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you decide to do, make sure it makes you happy.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>A wise man will be master of his mind, a fool will be its slave.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 #
