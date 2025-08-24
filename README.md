@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The secret of happiness is not in doing what you like but in liking what you have to do.</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</i><br>— W. Clement Stone</p>
 <!-- ADVICE:END -->
 
 #
