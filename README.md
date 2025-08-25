@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Love the life you live, live the life you love.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
