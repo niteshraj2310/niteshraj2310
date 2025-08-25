@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone is a moon, and has a dark side which he never shows to anybody.</i><br>— Mark Twain</p>
+<p align="center"><br><i>There's more to life than being a passenger.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
