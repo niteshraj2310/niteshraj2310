@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you do not tell the truth about yourself you cannot tell it about other people.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>Life is not a problem to be solved, but a reality to be experienced.</i><br>— Soren Kierkegaard</p>
 <!-- ADVICE:END -->
 
 #
