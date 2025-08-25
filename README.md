@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Catch, then, O catch the transient hour; Improve each moment as it flies! </i><br>— St. Jerome</p>
+<p align="center"><br><i>If you do not tell the truth about yourself you cannot tell it about other people.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 #
