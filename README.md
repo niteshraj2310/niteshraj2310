@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There's more to life than being a passenger.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>The one who praises you is a thief. The one who criticizes you is your true friend.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
