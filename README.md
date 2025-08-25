@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The world doesn't always give you want, but it often gives you what you need.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Everyone is a moon, and has a dark side which he never shows to anybody.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
