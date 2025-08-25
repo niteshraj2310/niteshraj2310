@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is not a problem to be solved, but a reality to be experienced.</i><br>— Soren Kierkegaard</p>
+<p align="center"><br><i>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
