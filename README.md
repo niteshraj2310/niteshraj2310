@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love the life you live, live the life you love.</i><br>— Bob Marley</p>
+<p align="center"><br><i>Some people don't like change, but you need to embrace change if the alternative is disaster.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
