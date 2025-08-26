@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do good by stealth, and blush to find it fame.</i><br>— Alexander Pope</p>
+<p align="center"><br><i>No one ever said life was fair. Just Eventful.</i><br>— Carol Burnett</p>
 <!-- ADVICE:END -->
 
 #
