@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The whole of life, from the moment you are born to the moment you die, is a process of learning.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>Do good by stealth, and blush to find it fame.</i><br>— Alexander Pope</p>
 <!-- ADVICE:END -->
 
 #
