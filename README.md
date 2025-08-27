@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where violence reigns, reason is weak.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
