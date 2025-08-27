@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult. </i><br>— Seneca</p>
+<p align="center"><br><i>You become stronger with every problem you face and every obstacle you overcome.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
