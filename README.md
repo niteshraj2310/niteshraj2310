@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Exceptional thinkers ignore their critics and go about their business making history.</i><br>— John Eliot</p>
+<p align="center"><br><i>Don't wish it were easier, wish you were better.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
