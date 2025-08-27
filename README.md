@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't wish it were easier, wish you were better.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>The more you lose yourself in something bigger than yourself, the more energy you will have.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
