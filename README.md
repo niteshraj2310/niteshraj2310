@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you lose yourself in something bigger than yourself, the more energy you will have.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>I succeeded by saying what everyone else is thinking.</i><br>— Joan Rivers</p>
 <!-- ADVICE:END -->
 
 #
