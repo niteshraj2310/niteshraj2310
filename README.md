@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Muddy water is best cleared by leaving it alone.</i><br>— Alan Watts</p>
+<p align="center"><br><i>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 #
