@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is far easier to start something than it is to finish it.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>When you stop questioning, you stop learning.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
