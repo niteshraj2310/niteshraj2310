@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>Attitude, not aptitude, determines altitude. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
