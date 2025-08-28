@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You become stronger with every problem you face and every obstacle you overcome.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Muddy water is best cleared by leaving it alone.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
