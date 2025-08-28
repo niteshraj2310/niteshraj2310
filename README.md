@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Best be yourself, imperial, plain, and true.</i><br>— Robert Browning</p>
+<p align="center"><br><i>Better a diamond with a flaw than a pebble without one.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
