@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Attitude, not aptitude, determines altitude. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>If I have seen further than others, it is by standing upon the shoulders of giants.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
