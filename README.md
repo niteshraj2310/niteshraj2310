@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If I have seen further than others, it is by standing upon the shoulders of giants.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>It is far easier to start something than it is to finish it.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
