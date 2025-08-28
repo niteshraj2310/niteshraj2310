@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you stop questioning, you stop learning.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>Best be yourself, imperial, plain, and true.</i><br>— Robert Browning</p>
 <!-- ADVICE:END -->
 
 #
