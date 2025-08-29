@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every man desires to live long, but no man wishes to be old.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Life should be touched, not strangled. </i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 #
