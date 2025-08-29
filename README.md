@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a long lesson in humility. </i><br>— James Matthew Barrie</p>
+<p align="center"><br><i>Knowing is not enough, we must apply. Willing is not enough, we must do.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
