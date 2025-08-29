@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Successful people do what unsuccessful people are not willing to do.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Every man desires to live long, but no man wishes to be old.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
