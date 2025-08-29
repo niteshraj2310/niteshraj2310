@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>Life is a long lesson in humility. </i><br>— James Matthew Barrie</p>
 <!-- ADVICE:END -->
 
 #
