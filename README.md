@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing is not enough, we must apply. Willing is not enough, we must do.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>Far more crucial than what we know or do not know is what we do not want to know.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
