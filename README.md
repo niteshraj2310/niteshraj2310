@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</i><br>— Robert Frost</p>
+<p align="center"><br><i>Successful people do what unsuccessful people are not willing to do.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
