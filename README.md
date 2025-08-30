@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life should be touched, not strangled. </i><br>— Ray Bradbury</p>
+<p align="center"><br><i>Those who look for the bad in people will surely find it.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
