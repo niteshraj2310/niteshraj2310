@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words have no power to impress the mind without the exquisite horror of their reality.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>Men do not attract which they want but that which they are.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
