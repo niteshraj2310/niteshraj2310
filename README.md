@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</i><br>— Criss Jami</p>
+<p align="center"><br><i>The world is open for play, everything and everybody is mockable in a wonderful way.</i><br>— Robin Williams</p>
 <!-- ADVICE:END -->
 
 #
