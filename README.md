@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>We know nothing of tomorrow, our business is to be good and happy today.</i><br>— Sydney Smith</p>
 <!-- ADVICE:END -->
 
 #
