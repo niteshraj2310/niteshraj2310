@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All problems are interpersonal relationship problems.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
