@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Men do not attract which they want but that which they are.</i><br>— James Allen</p>
+<p align="center"><br><i>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
