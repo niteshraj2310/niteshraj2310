@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Age is a very high price to pay for maturity.</i><br>— William James</p>
+<p align="center"><br><i>The hardest arithmetic to master is that which enables us to count our blessings.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
