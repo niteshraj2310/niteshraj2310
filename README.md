@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who violates another's honor loses his own.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>Knowing others is wisdom, knowing yourself is enlightenment.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
