@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The right thing to do and the hard thing to do are usually the same.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Age is a very high price to pay for maturity.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
