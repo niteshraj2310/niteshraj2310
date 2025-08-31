@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The hardest arithmetic to master is that which enables us to count our blessings.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>Instead of thinking outside the box, get rid of the box.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
