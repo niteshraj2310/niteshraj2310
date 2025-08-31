@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing others is wisdom, knowing yourself is enlightenment.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Do anything, but let it produce joy.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
