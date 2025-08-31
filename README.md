@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>He who violates another's honor loses his own.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 #
