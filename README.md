@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The world is open for play, everything and everybody is mockable in a wonderful way.</i><br>— Robin Williams</p>
+<p align="center"><br><i>The right thing to do and the hard thing to do are usually the same.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
