@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I can live without money, but I cannot live without love.</i><br>— Judy Garland</p>
+<p align="center"><br><i>The privilege of a lifetime is to become who you truly are.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
