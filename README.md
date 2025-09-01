@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The privilege of a lifetime is to become who you truly are.</i><br>— Carl Jung</p>
+<p align="center"><br><i>Life is a question and how we live it is our answer.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
