@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A journey of a thousand miles must begin with a single step.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</i><br>— Grace Coddington</p>
 <!-- ADVICE:END -->
 
 #
