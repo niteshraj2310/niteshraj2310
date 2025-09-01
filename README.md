@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do anything, but let it produce joy.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>A journey of a thousand miles must begin with a single step.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
