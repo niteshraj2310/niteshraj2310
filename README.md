@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a question and how we live it is our answer.</i><br>— Gary Keller</p>
+<p align="center"><br><i>The more perfect a person is on the outside, the more demons they have on the inside.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
