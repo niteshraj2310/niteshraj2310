@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</i><br>— Grace Coddington</p>
+<p align="center"><br><i>I can live without money, but I cannot live without love.</i><br>— Judy Garland</p>
 <!-- ADVICE:END -->
 
 #
