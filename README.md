@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more perfect a person is on the outside, the more demons they have on the inside.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>The most wasted day of all is that on which we have not laughed.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
