@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are the only problem you will ever have and you are the only solution.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>Success is about doing the right thing, not about doing everything right.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
