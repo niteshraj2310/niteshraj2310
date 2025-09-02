@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</i><br>— Socrates</p>
+<p align="center"><br><i>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
