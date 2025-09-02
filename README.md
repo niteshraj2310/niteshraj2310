@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>A journey of a thousand miles begins with a single step.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
