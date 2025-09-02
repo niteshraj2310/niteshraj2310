@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Whatever you think the world is withholding from you, you are withholding from the world.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
