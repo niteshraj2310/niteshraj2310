@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must either modify your dreams or magnify your skills.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
