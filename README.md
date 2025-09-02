@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A journey of a thousand miles begins with a single step.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
