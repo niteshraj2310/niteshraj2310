@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>You must either modify your dreams or magnify your skills.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
