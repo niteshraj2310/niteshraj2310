@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I cannot make my days longer so I strive to make them better.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
