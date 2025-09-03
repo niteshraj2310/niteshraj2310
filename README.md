@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
