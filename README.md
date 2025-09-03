@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>Turn your face to the sun, as flowers know how to do.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
