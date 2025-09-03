@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Invisible things are the only realities.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>Faults are yours to fix, not to curse.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
