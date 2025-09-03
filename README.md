@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Faults are yours to fix, not to curse.</i><br>— Colin Powell</p>
+<p align="center"><br><i>The road to success and the road to failure are almost exactly the same.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 #
