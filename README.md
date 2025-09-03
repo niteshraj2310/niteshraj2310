@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is about doing the right thing, not about doing everything right.</i><br>— Gary Keller</p>
+<p align="center"><br><i>I cannot make my days longer so I strive to make them better.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
