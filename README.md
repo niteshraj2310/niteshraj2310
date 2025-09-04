@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I believe that one of life's greatest risks is never daring to risk.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Change is hard at first, messy in the middle and gorgeous at the end.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
