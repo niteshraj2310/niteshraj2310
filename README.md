@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must find the place inside yourself where nothing is impossible.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Instead of worrying about what you cannot control, shift your energy to what you can create.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
