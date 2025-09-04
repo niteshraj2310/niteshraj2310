@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The road to success and the road to failure are almost exactly the same.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>You must find the place inside yourself where nothing is impossible.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
