@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</i><br>— Joan Rivers</p>
+<p align="center"><br><i>I believe that one of life's greatest risks is never daring to risk.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
