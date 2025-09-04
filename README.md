@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Here and now...breathe and relax...in battle and in life.</i><br>— Dan Millman</p>
+<p align="center"><br><i>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
