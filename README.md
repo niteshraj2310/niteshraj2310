@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All cruelty springs from weakness. </i><br>— Seneca</p>
+<p align="center"><br><i>Courage is knowing what not to fear.</i><br>— Plato</p>
 <!-- ADVICE:END -->
 
 #
