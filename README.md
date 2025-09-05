@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change is hard at first, messy in the middle and gorgeous at the end.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Doing the best at this moment puts you in the best place for the next moment.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
