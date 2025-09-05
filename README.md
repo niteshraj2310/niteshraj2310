@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>By words the mind is winged.</i><br>— Aristophanes</p>
+<p align="center"><br><i>You are the only real obstacle in your path to a fulfilling life.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
