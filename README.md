@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Courage is knowing what not to fear.</i><br>— Plato</p>
+<p align="center"><br><i>Everything that is done in the world is done by hope.</i><br>— Martin Luther</p>
 <!-- ADVICE:END -->
 
 #
