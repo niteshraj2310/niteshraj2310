@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</i><br>— Les Brown</p>
+<p align="center"><br><i>All cruelty springs from weakness. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
