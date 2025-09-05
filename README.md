@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Doing the best at this moment puts you in the best place for the next moment.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
