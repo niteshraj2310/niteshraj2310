@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most difficult times for many of us are the ones we give ourselves.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
