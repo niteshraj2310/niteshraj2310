@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To create more positive results in your life, replace 'if only' with 'next time'.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Every poem should remind the reader that they are going to die.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
