@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are the only real obstacle in your path to a fulfilling life.</i><br>— Les Brown</p>
+<p align="center"><br><i>Educating the mind without educating the heart is no education at all.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
