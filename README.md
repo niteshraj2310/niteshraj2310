@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</i><br>— Alan Watts</p>
+<p align="center"><br><i>The most difficult times for many of us are the ones we give ourselves.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
