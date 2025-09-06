@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </i><br>— Lao Tzu</p>
+<p align="center"><br><i>Life is not meant to be easy my child, but take courage: it can be delightful.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
