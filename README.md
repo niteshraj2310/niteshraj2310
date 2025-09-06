@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Educating the mind without educating the heart is no education at all.</i><br>— Aristotle</p>
+<p align="center"><br><i>To create more positive results in your life, replace 'if only' with 'next time'.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
