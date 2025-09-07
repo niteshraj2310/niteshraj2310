@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Imagination is the beginning of creation.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Anger begins with folly, and ends with repentance. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
