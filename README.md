@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our greatest glory is not in never falling but in rising every time we fall.</i><br>— Confucius</p>
+<p align="center"><br><i>It is better to be looked over than overlooked.</i><br>— Mae West</p>
 <!-- ADVICE:END -->
 
 #
