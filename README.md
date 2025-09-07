@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to be successful, you have to jump, there's no way around it.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Our greatest glory is not in never falling but in rising every time we fall.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
