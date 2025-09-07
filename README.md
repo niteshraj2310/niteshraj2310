@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Showing off is the fool's idea of glory. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>We have a duty to maintain the light of consciousness to make sure it continues into the future.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
