@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger begins with folly, and ends with repentance. </i><br>— Beverly Sills</p>
+<p align="center"><br><i>Showing off is the fool's idea of glory. </i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
