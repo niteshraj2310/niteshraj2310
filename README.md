@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is not meant to be easy my child, but take courage: it can be delightful.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>If you want to be successful, you have to jump, there's no way around it.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
