@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to be looked over than overlooked.</i><br>— Mae West</p>
+<p align="center"><br><i>Imagination is the beginning of creation.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
