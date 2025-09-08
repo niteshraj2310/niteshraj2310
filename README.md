@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</i><br>— Les Brown</p>
+<p align="center"><br><i>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
