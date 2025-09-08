@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
