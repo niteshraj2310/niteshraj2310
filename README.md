@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Opportunity is missed by most people because it is dressed in overalls and looks like work.</i><br>— Thomas Edison</p>
+<p align="center"><br><i>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
