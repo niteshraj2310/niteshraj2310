@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Failure is the key to success; each mistake teaches us something.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
