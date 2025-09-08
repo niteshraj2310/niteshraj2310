@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your life does not get better by chance, it gets better by change.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Opportunity is missed by most people because it is dressed in overalls and looks like work.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 #
