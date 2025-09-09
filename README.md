@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being in a good frame of mind helps keep one in the picture of health.</i><br>— Unknown</p>
+<p align="center"><br><i>Keep your friends close, and your enemies closer.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
