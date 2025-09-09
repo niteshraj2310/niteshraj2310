@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is the key to success; each mistake teaches us something.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>By words the mind is winged.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 #
