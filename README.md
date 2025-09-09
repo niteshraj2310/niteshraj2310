@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people achieved their greatest success one step beyond what looked like their greatest failure.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Being in a good frame of mind helps keep one in the picture of health.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
