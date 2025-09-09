@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>By words the mind is winged.</i><br>— Aristophanes</p>
+<p align="center"><br><i>The merit of all things lies in their difficulty.</i><br>— Alexandre Dumas</p>
 <!-- ADVICE:END -->
 
 #
