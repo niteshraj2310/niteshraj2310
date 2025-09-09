@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learn to sit back and observe, not everything needs a reaction.</i><br>— Unknown</p>
+<p align="center"><br><i>The one who boasts does so only out of a feeling of inferiority.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
