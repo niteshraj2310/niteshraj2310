@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is easier to fight for one's principles than to live up to them. </i><br>— Alfred Adler</p>
+<p align="center"><br><i>Learn to sit back and observe, not everything needs a reaction.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
