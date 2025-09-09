@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep your friends close, and your enemies closer.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>It is easier to fight for one's principles than to live up to them. </i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
