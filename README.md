@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear can hold you prisoner. Hope can set you free.</i><br>— Stephen King</p>
+<p align="center"><br><i>Give so much away people insist on paying you.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
