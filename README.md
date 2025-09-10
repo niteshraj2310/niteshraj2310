@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give so much away people insist on paying you.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>You must learn to let go. Release the stress. You were never in control anyway.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
