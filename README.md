@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Fear can hold you prisoner. Hope can set you free.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
