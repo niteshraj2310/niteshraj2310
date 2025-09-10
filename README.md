@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>We would accomplish many more things if we did not think of them as impossible.</i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
