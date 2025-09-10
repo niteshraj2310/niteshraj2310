@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
