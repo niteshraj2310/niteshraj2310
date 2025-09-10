@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The thing about smart people is that they seem like crazy people to dumb people.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
