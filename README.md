@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We would accomplish many more things if we did not think of them as impossible.</i><br>— Vince Lombardi</p>
+<p align="center"><br><i>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
