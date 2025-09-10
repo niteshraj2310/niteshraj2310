@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The one who boasts does so only out of a feeling of inferiority.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>The thing about smart people is that they seem like crazy people to dumb people.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
