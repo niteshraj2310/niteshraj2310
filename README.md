@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>an action committed in anger is an action doomed to failure. </i><br>— Genghis Khan</p>
+<p align="center"><br><i>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. </i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
