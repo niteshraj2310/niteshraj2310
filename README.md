@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All you need is passion. If you have a passion for something, you'll create the talent.</i><br>— Yanni</p>
+<p align="center"><br><i>Great things happen to those who don't stop believing, trying, learning, and being grateful.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
