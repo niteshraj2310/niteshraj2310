@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't learn to do, but learn in doing.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
