@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Greatness comes from living with purpose and passion.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>All you need is passion. If you have a passion for something, you'll create the talent.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
