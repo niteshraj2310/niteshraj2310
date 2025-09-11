@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. </i><br>— Estee Lauder</p>
+<p align="center"><br><i>If you want peace, accept. If you want suffering, expect.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
