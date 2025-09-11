@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Greatness comes from living with purpose and passion.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
