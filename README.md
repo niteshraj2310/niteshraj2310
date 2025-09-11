@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must learn to let go. Release the stress. You were never in control anyway.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Don't learn to do, but learn in doing.</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 #
