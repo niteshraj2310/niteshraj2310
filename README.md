@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</i><br>— David Brinkley</p>
+<p align="center"><br><i>Stop wasting time looking at someone else's reality while doing nothing about yours.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
