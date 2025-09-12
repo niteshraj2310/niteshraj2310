@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stop wasting time looking at someone else's reality while doing nothing about yours.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>No great discovery was ever made without a bold guess. </i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
