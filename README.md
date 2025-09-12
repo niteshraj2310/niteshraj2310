@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </i><br>— Steve Jobs</p>
+<p align="center"><br><i>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</i><br>— David Brinkley</p>
 <!-- ADVICE:END -->
 
 #
