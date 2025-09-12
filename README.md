@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No great discovery was ever made without a bold guess. </i><br>— Isaac Newton</p>
+<p align="center"><br><i>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</i><br>— John Locke</p>
 <!-- ADVICE:END -->
 
 #
