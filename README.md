@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</i><br>— Voltaire</p>
+<p align="center"><br><i>If I can laugh, I can live.</i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
