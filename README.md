@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</i><br>— John Locke</p>
+<p align="center"><br><i>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
