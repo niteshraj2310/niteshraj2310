@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want peace, accept. If you want suffering, expect.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 #
