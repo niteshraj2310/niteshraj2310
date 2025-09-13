@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What the eye doesn't see and the mind doesn't know, doesn't exist.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>Inner peace is when you realize that, in the end, nothing matters.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
