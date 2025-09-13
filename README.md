@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is only one thing that makes a dream impossible to achieve: the fear of failure.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>The first man gets the oyster, the second man gets the shell.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
