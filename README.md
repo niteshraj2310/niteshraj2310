@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trust, but verify.</i><br>— Ronald Reagan</p>
+<p align="center"><br><i>We ordinary people must forge our own beauty.</i><br>— Kenji Miyazawa</p>
 <!-- ADVICE:END -->
 
 #
