@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We ordinary people must forge our own beauty.</i><br>— Kenji Miyazawa</p>
+<p align="center"><br><i>When you're curious, you find lots of interesting things to do.</i><br>— Walt Disney</p>
 <!-- ADVICE:END -->
 
 #
