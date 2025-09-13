@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Greatness lies not in being strong, but in the right use of strength.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>We create the world and ourselves;</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
