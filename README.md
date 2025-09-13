@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first man gets the oyster, the second man gets the shell.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>Greatness lies not in being strong, but in the right use of strength.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
