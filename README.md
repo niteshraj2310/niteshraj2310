@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enjoy life. There's plenty of time to be dead.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Be polite to all, but intimate with few.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
