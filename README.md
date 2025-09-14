@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Kindness is a language which the deaf can hear and the blind can see.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Life has the name of life, but in reality it is death.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
