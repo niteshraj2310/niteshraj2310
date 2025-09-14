@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be polite to all, but intimate with few.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Thinking will not overcome fear but action will. </i><br>— W. Clement Stone</p>
 <!-- ADVICE:END -->
 
 #
