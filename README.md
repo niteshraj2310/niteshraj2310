@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make your stand today. On this spot. On this day.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
