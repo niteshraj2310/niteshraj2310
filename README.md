@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Inner peace is when you realize that, in the end, nothing matters.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>Make your stand today. On this spot. On this day.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
