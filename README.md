@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thinking will not overcome fear but action will. </i><br>— W. Clement Stone</p>
+<p align="center"><br><i>Kindness is a language which the deaf can hear and the blind can see.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
