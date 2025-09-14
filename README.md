@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Enjoy life. There's plenty of time to be dead.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
