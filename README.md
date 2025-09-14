@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life has the name of life, but in reality it is death.</i><br>— Heraclitus</p>
+<p align="center"><br><i>The farther backward you can look, the farther forward you are likely to see.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
