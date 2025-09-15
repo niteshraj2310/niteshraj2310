@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Mastering others is strength, mastering yourself is true power.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>You can't build a reputation on what you are going to do. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
