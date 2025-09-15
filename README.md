@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who leaves the game wins it.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Start each day with a positive thought and a grateful heart.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
