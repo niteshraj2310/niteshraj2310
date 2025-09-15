@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Start each day with a positive thought and a grateful heart.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>The man who does not value himself, cannot value anything or anyone.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
