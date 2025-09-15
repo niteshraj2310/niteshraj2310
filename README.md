@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>True it is, we only hate those whom we do not know.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
