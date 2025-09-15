@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Mastering others is strength, mastering yourself is true power.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
