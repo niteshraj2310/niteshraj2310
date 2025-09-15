@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The farther backward you can look, the farther forward you are likely to see.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Be patient and calm; no one can catch fish in anger.</i><br>— Herbert Hoover</p>
 <!-- ADVICE:END -->
 
 #
