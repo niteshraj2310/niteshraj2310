@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The man who does not value himself, cannot value anything or anyone.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>True it is, we only hate those whom we do not know.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
