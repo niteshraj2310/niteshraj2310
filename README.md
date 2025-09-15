@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be patient and calm; no one can catch fish in anger.</i><br>— Herbert Hoover</p>
+<p align="center"><br><i>He who leaves the game wins it.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
