@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</i><br>— Elon Musk</p>
+<p align="center"><br><i>In the middle of chaos lies opportunity. </i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
