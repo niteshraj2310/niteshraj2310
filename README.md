@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>She who loves roses must be patient and not cry out when she is pierced by thorns.</i><br>— Kenji Miyazawa</p>
+<p align="center"><br><i>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
