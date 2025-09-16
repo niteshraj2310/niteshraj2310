@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</i><br>— Elon Musk</p>
+<p align="center"><br><i>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
