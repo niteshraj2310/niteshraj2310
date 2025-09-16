@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Trust your instincts: my first reaction is almost invariably the right one. </i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
