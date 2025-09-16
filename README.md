@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trust your instincts: my first reaction is almost invariably the right one. </i><br>— Estee Lauder</p>
+<p align="center"><br><i>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
