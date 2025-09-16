@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>She who loves roses must be patient and not cry out when she is pierced by thorns.</i><br>— Kenji Miyazawa</p>
 <!-- ADVICE:END -->
 
 #
