@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't build a reputation on what you are going to do. </i><br>— Henry Ford</p>
+<p align="center"><br><i>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 #
