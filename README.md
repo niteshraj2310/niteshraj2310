@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </i><br>— Franz Kafka</p>
+<p align="center"><br><i>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
