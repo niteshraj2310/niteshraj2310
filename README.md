@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Let not your mind run on what you lack as much as on what you have already.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>The less you open your heart to others, the more your heart suffers.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
