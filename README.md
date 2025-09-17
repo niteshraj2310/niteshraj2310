@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot change your destination overnight but you can change your direction overnight.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>We need never be ashamed of our tears.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
