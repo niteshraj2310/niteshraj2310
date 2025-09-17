@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words have no power to impress the mind without the exquisite horror of their reality.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>You cannot change your destination overnight but you can change your direction overnight.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
