@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Let not your mind run on what you lack as much as on what you have already.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
