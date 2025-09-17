@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our stories may be singular, but our destination is shared.</i><br>— Barack Obama</p>
+<p align="center"><br><i>Whatever you do in life, surround yourself with smart people who'll argue with you.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
