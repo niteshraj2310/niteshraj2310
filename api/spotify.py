@@ -66,14 +66,14 @@ def get(url):
         response = requests.get(
             url, headers={"Authorization": f"Bearer {SPOTIFY_TOKEN}"}
         )
-        # Check status code before parsing JSON
-        if response.status_code == 204:
-            raise Exception(f"{url} returned no data.")
-        return response.json()
-    elif response.status_code == 204:
+    
+    # Check status code before parsing JSON
+    if response.status_code == 204:
         raise Exception(f"{url} returned no data.")
-    else:
-        return response.json()
+    elif response.status_code != 200:
+        raise Exception(f"{url} returned status code {response.status_code}")
+    
+    return response.json()
 
 
 def barGen(barCount):
@@ -94,9 +94,16 @@ def barGen(barCount):
 
 
 def gradientGen(albumArtURL, color_count):
-    colortheif = ColorThief(BytesIO(requests.get(albumArtURL).content))
-    palette = colortheif.get_palette(color_count)
-    return palette
+    try:
+        colortheif = ColorThief(BytesIO(requests.get(albumArtURL).content))
+        palette = colortheif.get_palette(color_count)
+        return palette
+    except Exception:
+        # Return a default palette if color extraction fails
+        if color_count == 2:
+            return [(26, 20, 20), (59, 59, 59)]  # Dark theme colors
+        else:
+            return [(26, 20, 20), (59, 59, 59), (89, 89, 89), (119, 119, 119)]
 
 
 def getTemplate():
@@ -110,8 +117,14 @@ def getTemplate():
 
 
 def loadImageB64(url):
-    response = requests.get(url)
-    return b64encode(response.content).decode("ascii")
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            return b64encode(response.content).decode("ascii")
+        else:
+            return PLACEHOLDER_IMAGE
+    except Exception:
+        return PLACEHOLDER_IMAGE
 
 
 def makeSVG(data, background_color, border_color):
@@ -122,10 +135,18 @@ def makeSVG(data, background_color, border_color):
     if not "is_playing" in data:
         # contentBar = "" #Shows/Hides the EQ bar if no song is currently playing
         currentStatus = "Recently played:"
-        recentPlays = get(RECENTLY_PLAYING_URL)
-        recentPlaysLength = len(recentPlays["items"])
-        itemIndex = random.randint(0, recentPlaysLength - 1)
-        item = recentPlays["items"][itemIndex]["track"]
+        # Use the data passed in instead of making another API call
+        if "items" in data and len(data["items"]) > 0:
+            itemIndex = random.randint(0, len(data["items"]) - 1)
+            item = data["items"][itemIndex]["track"]
+        else:
+            # Fallback if no items
+            item = {
+                "name": "No Recent Tracks",
+                "artists": [{"name": "Unknown", "external_urls": {"spotify": "#"}}],
+                "album": {"images": []},
+                "external_urls": {"spotify": "#"}
+            }
     else:
         item = data["item"]
         currentStatus = "Vibing to:"
@@ -169,10 +190,26 @@ def catch_all(path):
     background_color = request.args.get("background_color") or "181414"
     border_color = request.args.get("border_color") or "181414"
 
+    data = None
     try:
         data = get(NOW_PLAYING_URL)
-    except Exception:
-        data = get(RECENTLY_PLAYING_URL)
+    except Exception as e:
+        print(f"Failed to get currently playing: {e}")
+        try:
+            data = get(RECENTLY_PLAYING_URL)
+        except Exception as e2:
+            print(f"Failed to get recently played: {e2}")
+            # Create fallback data when both API calls fail
+            data = {
+                "items": [{
+                    "track": {
+                        "name": "Spotify Unavailable",
+                        "artists": [{"name": "No Artist", "external_urls": {"spotify": "#"}}],
+                        "album": {"images": []},
+                        "external_urls": {"spotify": "#"}
+                    }
+                }]
+            }
 
     svg = makeSVG(data, background_color, border_color)
 
