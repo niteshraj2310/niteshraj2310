@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Let not your mind run on what you lack as much as on what you have already.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>Words have no power to impress the mind without the exquisite horror of their reality.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
