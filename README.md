@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
