@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The less you open your heart to others, the more your heart suffers.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Words have no power to impress the mind without the exquisite horror of their reality.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
