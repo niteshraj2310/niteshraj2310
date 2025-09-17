@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the middle of chaos lies opportunity. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>The glow of one warm thought is to me worth more than money.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
