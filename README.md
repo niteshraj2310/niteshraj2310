@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We need never be ashamed of our tears.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Our stories may be singular, but our destination is shared.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
