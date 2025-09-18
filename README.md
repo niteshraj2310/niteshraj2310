@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not how much we have, but how much we enjoy, that makes happiness.</i><br>— Charles Spurgeon</p>
+<p align="center"><br><i>Open your mind before your mouth.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 #
