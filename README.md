@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Open your mind before your mouth.</i><br>— Aristophanes</p>
+<p align="center"><br><i>Knowledge isn't power until it is applied.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
