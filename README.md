@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no limit to the amount of good you can do if you don't care who gets the credit.</i><br>— Ronald Reagan</p>
+<p align="center"><br><i>It is not how much we have, but how much we enjoy, that makes happiness.</i><br>— Charles Spurgeon</p>
 <!-- ADVICE:END -->
 
 #
