@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't ever save anything for a special occasion. Being alive is the special occasion.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>The only limits in our life are those we impose on ourselves.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 #
