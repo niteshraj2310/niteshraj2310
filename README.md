@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</i><br>— Osho</p>
+<p align="center"><br><i>If you're afraid - don't do it, - if you're doing it - don't be afraid! </i><br>— Genghis Khan</p>
 <!-- ADVICE:END -->
 
 #
