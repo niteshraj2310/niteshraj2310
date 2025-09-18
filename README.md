@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're afraid - don't do it, - if you're doing it - don't be afraid! </i><br>— Genghis Khan</p>
+<p align="center"><br><i>Don't ever save anything for a special occasion. Being alive is the special occasion.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
