@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only limits in our life are those we impose on ourselves.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>There is no limit to the amount of good you can do if you don't care who gets the credit.</i><br>— Ronald Reagan</p>
 <!-- ADVICE:END -->
 
 #
