@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's easy to be a critic, but being a doer requires effort, risk, and change. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</i><br>— Osho</p>
 <!-- ADVICE:END -->
 
 #
