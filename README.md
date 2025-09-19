@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are free, and that is why you are lost.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>When we have our body and mind in order, everything else will exist in the right place, in the right way.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
