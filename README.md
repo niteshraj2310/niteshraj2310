@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing important is learned; it is simply remembered.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>True prayer has no set form.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
