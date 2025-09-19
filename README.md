@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When we have our body and mind in order, everything else will exist in the right place, in the right way.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
