@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.</i><br>— James Allen</p>
+<p align="center"><br><i>Nothing important is learned; it is simply remembered.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
