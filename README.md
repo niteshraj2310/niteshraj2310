@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>True prayer has no set form.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
