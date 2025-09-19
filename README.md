@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowledge isn't power until it is applied.</i><br>— Dale Carnegie</p>
+<p align="center"><br><i>The trouble with the rat race is that even if you win, you're still a rat.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
