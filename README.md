@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>If the plan doesn't work, change the plan, but never the goal.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
