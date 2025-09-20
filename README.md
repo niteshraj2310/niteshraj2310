@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The biggest room in the world is the room for improvement.</i><br>— Unknown</p>
+<p align="center"><br><i>Either write something worth reading or do something worth writing.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
