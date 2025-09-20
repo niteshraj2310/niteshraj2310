@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</i><br>— Richard Bach</p>
+<p align="center"><br><i>A memory is a beautiful thing, it's almost a desire that you miss.</i><br>— Gustave Flaubert</p>
 <!-- ADVICE:END -->
 
 #
