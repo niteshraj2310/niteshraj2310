@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Either write something worth reading or do something worth writing.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Giving back involves a certain amount of giving up.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
