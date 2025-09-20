@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I do not seek. I find.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>Throw your heart over the fence and the rest will follow</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
