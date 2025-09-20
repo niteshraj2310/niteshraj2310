@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Giving back involves a certain amount of giving up.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
