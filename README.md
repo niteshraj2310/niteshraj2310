@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A memory is a beautiful thing, it's almost a desire that you miss.</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
