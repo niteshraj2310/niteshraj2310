@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is nothing in the world so irresistibly contagious as laughter and good humor.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
