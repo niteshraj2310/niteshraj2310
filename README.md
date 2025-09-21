@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If the plan doesn't work, change the plan, but never the goal.</i><br>— Unknown</p>
+<p align="center"><br><i>Supreme excellence consists of breaking the enemy's resistance without fighting.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
