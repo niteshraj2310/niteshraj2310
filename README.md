@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>There is nothing in the world so irresistibly contagious as laughter and good humor.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
