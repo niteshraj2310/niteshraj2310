@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first step toward getting somewhere is to decide that you are not going to stay where you are.</i><br>— Unknown</p>
+<p align="center"><br><i>A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
