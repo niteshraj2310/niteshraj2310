@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Supreme excellence consists of breaking the enemy's resistance without fighting.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
