@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stress happens when the mind resists what is.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Don't look back - you're not going that way.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
