@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A moving door hinge never corrodes. Flowing water never grows stagnant.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Stress happens when the mind resists what is.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
