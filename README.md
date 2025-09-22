@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Rather than love, than money, than fame, give me truth.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>One mistake does not have to rule a person's entire life.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
