@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Know your gifts and share them.</i><br>— Les Brown</p>
+<p align="center"><br><i>Whatever your mind can conceive and believe, it can achieve.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
