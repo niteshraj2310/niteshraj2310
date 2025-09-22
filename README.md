@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't look back - you're not going that way.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>No valid plans for the future can be made by those who have no capacity for living now.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
