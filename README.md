@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Rather than love, than money, than fame, give me truth.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
