@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most wasted day of all is that on which we have not laughed.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Your neighbor is the man who needs you.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
