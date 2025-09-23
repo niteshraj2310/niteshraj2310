@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your neighbor is the man who needs you.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>The two most important days in your life are the day you are born and the day you find out why.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
