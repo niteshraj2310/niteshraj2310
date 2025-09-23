@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change yourself and you have done your part in changing the world.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>Being wrong brings the opportunity for growth.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
