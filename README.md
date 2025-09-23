@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a balance of holding on and letting go.</i><br>— Rumi</p>
+<p align="center"><br><i>The most wasted day of all is that on which we have not laughed.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
