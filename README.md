@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The two most important days in your life are the day you are born and the day you find out why.</i><br>— Mark Twain</p>
+<p align="center"><br><i>It's just a bad day, not a bad life.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
