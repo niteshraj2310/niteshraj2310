@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Each problem has a positive side.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Life is a balance of holding on and letting go.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
