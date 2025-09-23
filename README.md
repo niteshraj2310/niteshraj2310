@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's just a bad day, not a bad life.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Change yourself and you have done your part in changing the world.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
