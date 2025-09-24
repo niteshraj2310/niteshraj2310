@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you know what you want, and want it bad enough, you will find a way to get it.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>The wiser you get, the less you care to look like a fool.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
