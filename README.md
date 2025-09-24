@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being wrong brings the opportunity for growth.</i><br>— Mark Manson</p>
+<p align="center"><br><i>If there's a definition of freedom, I think it's this: living life on your terms.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
