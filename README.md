@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is only one thing that makes a dream impossible to achieve: the fear of failure.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Happiness is not the absence of problems, it's the ability to deal with them.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
