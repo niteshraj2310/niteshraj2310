@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</i><br>— Alan Watts</p>
+<p align="center"><br><i>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
