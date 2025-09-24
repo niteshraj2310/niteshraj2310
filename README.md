@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is not the absence of problems, it's the ability to deal with them.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>When you know what you want, and want it bad enough, you will find a way to get it.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
