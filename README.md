@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The wiser you get, the less you care to look like a fool.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
