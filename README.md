@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all born ignorant, but one must work hard to remain stupid.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>There is only one thing that makes a dream impossible to achieve: the fear of failure.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
