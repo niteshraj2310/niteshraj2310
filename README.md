@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I can think of nothing less pleasurable than a life devoted to pleasure.</i><br>— John D. Rockefeller</p>
+<p align="center"><br><i>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
