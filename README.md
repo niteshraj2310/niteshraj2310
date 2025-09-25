@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>As a man thinketh in his heart, so shall he be.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
