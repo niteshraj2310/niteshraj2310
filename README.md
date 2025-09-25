@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>You can often change your circumstances by changing your attitude.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
