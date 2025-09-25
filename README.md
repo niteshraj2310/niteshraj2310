@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A good character is the best tombstone. Carve your name on hearts, not on marble.</i><br>— Charles Spurgeon</p>
+<p align="center"><br><i>I can think of nothing less pleasurable than a life devoted to pleasure.</i><br>— John D. Rockefeller</p>
 <!-- ADVICE:END -->
 
 #
