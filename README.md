@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can often change your circumstances by changing your attitude.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>The less you talk about your shame, the more of it you have.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
