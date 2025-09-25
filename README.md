@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The less you talk about your shame, the more of it you have.</i><br>— Mark Manson</p>
+<p align="center"><br><i>Your goals are the road maps that guide you and show you what is possible for your life.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
