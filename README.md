@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As a man thinketh in his heart, so shall he be.</i><br>— James Allen</p>
+<p align="center"><br><i>Your mind is infinite, it's your doubts that are limiting.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
