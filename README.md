@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your mind is infinite, it's your doubts that are limiting.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>A good character is the best tombstone. Carve your name on hearts, not on marble.</i><br>— Charles Spurgeon</p>
 <!-- ADVICE:END -->
 
 #
