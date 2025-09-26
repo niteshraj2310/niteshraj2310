@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The question is not what you look at, but what you see.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>I do not seek. I find.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
