@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Life is a long lesson in humility. </i><br>— James Matthew Barrie</p>
 <!-- ADVICE:END -->
 
 #
