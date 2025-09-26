@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Life reflects your own thoughts back to you.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
