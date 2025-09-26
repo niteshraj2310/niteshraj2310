@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Think and wonder, wonder and think.</i><br>— Dr. Seuss</p>
+<p align="center"><br><i>If you've made a mistake, it's better just to laugh at it.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
