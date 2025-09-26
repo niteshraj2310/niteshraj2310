@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your goals are the road maps that guide you and show you what is possible for your life.</i><br>— Les Brown</p>
+<p align="center"><br><i>Think and wonder, wonder and think.</i><br>— Dr. Seuss</p>
 <!-- ADVICE:END -->
 
 #
