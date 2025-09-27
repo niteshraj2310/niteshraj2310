@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a long lesson in humility. </i><br>— James Matthew Barrie</p>
+<p align="center"><br><i>People do not decide their futures, they decide their habits and their habits decide their futures.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
