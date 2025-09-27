@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must either modify your dreams or magnify your skills.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Lack of emotion causes lack of progress and lack of motivation.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
