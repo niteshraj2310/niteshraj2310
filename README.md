@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life and the simple beauty of it is too good to pass up.</i><br>— Christopher McCandless</p>
+<p align="center"><br><i>Every failure brings with it the seed of an equivalent success.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
