@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every failure brings with it the seed of an equivalent success.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>You must either modify your dreams or magnify your skills.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
