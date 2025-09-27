@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who can, does.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Life and the simple beauty of it is too good to pass up.</i><br>— Christopher McCandless</p>
 <!-- ADVICE:END -->
 
 #
