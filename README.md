@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Lack of emotion causes lack of progress and lack of motivation.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
