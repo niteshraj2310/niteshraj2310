@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make improvements, not excuses. Seek respect, not attention.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
