@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If I can laugh, I can live.</i><br>— Christopher Reeve</p>
+<p align="center"><br><i>You're braver than you believe, and stronger than you seem, and smarter than you think.</i><br>— A.A. Milne</p>
 <!-- ADVICE:END -->
 
 #
