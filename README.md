@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Leadership starts at the top.</i><br>— Morgan Wootten</p>
 <!-- ADVICE:END -->
 
 #
