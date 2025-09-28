@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Not until we are lost do we begin to understand ourselves.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>If I can laugh, I can live.</i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
