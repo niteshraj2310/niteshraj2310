@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>However difficult life may seem, there is always something you can do and succeed at.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Not until we are lost do we begin to understand ourselves.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
