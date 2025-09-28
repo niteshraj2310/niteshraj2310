@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>However difficult life may seem, there is always something you can do and succeed at.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
