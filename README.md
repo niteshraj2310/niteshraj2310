@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Make improvements, not excuses. Seek respect, not attention.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
