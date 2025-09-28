@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're braver than you believe, and stronger than you seem, and smarter than you think.</i><br>— A.A. Milne</p>
+<p align="center"><br><i>There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
