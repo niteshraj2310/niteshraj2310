@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Anger exceeding limits causes fear and excessive kindness eliminates respect.</i><br>— Euripides</p>
 <!-- ADVICE:END -->
 
 #
