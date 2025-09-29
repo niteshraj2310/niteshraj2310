@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can start changing our world for the better daily, no matter how small the action.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
