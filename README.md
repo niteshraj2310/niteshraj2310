@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is only real, when shared.</i><br>— Christopher McCandless</p>
+<p align="center"><br><i>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
