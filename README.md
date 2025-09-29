@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever your heart clings to and confides in, that is really your God.</i><br>— Martin Luther</p>
+<p align="center"><br><i>None of us can change our yesterdays but all of us can change our tomorrows.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
