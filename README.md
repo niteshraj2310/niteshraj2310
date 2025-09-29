@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Leadership starts at the top.</i><br>— Morgan Wootten</p>
+<p align="center"><br><i>You can start changing our world for the better daily, no matter how small the action.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 #
