@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make failure your teacher, not your undertaker. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>The Art of Peace begins with you.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
