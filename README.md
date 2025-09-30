@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To some degree, you control your life by controlling your time.</i><br>— Conrad Hilton</p>
+<p align="center"><br><i>If you are far from the enemy, make him believe you are near.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
