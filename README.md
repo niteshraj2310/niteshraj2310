@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love is the energy of life.</i><br>— Robert Browning</p>
+<p align="center"><br><i>There are more people who wish to be loved than there are who are willing to love. </i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
