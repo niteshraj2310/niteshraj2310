@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are more people who wish to be loved than there are who are willing to love. </i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Those who look for the bad in people will surely find it.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
