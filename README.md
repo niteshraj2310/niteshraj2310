@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are far from the enemy, make him believe you are near.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Love is the energy of life.</i><br>— Robert Browning</p>
 <!-- ADVICE:END -->
 
 #
