@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to offer no excuse than a bad one. </i><br>— George Washington</p>
+<p align="center"><br><i>To some degree, you control your life by controlling your time.</i><br>— Conrad Hilton</p>
 <!-- ADVICE:END -->
 
 #
