@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Allow motion to equal emotion.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Failure is the key to success; each mistake teaches us something.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
