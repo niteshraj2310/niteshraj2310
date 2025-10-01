@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never let the things you can't do stop you from doing what you can.</i><br>— Ronald Reagan</p>
+<p align="center"><br><i>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
