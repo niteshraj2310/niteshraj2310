@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make failure your teacher, not your undertaker. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Never let the things you can't do stop you from doing what you can.</i><br>— Ronald Reagan</p>
 <!-- ADVICE:END -->
 
 #
