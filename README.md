@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who look for the bad in people will surely find it.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>Make failure your teacher, not your undertaker. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
