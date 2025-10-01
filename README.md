@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Allow motion to equal emotion.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
