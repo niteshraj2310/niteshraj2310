@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>The biggest room in the world is the room for improvement.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
