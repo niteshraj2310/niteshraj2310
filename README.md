@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What you do today can improve all your tomorrows.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>The scariest monsters are the ones that lurk within our souls.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
