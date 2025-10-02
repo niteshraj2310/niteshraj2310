@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wisdom is the oneness of mind that guides and permeates all things.</i><br>— Heraclitus</p>
+<p align="center"><br><i>Nothing is really work unless you would rather be doing something else. </i><br>— James Matthew Barrie</p>
 <!-- ADVICE:END -->
 
 #
