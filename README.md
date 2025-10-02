@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is really work unless you would rather be doing something else. </i><br>— James Matthew Barrie</p>
+<p align="center"><br><i>Only those who will risk going too far can possibly find out how far one can go.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
