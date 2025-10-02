@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The scariest monsters are the ones that lurk within our souls.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>If you want more luck, take more chances.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
