@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want more luck, take more chances.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
