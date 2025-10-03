@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only those who will risk going too far can possibly find out how far one can go.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>You cannot find peace avoiding life.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 #
