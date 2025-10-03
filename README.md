@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Music is like creating an emotional painting. The sounds are the colors.</i><br>— Yanni</p>
+<p align="center"><br><i>We must embrace pain and burn it as fuel for our journey.</i><br>— Kenji Miyazawa</p>
 <!-- ADVICE:END -->
 
 #
