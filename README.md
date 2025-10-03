@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
