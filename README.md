@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do Something. If it works, do more of it. If it doesn't, do something else.</i><br>— Franklin D. Roosevelt</p>
+<p align="center"><br><i>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
