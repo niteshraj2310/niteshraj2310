@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>In the midst of chaos, there is also opportunity.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
