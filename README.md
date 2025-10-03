@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the midst of chaos, there is also opportunity.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>It's not about what it is, it's about what it can become.</i><br>— Dr. Seuss</p>
 <!-- ADVICE:END -->
 
 #
