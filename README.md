@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot find peace avoiding life.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>Do Something. If it works, do more of it. If it doesn't, do something else.</i><br>— Franklin D. Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
