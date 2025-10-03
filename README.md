@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not about what it is, it's about what it can become.</i><br>— Dr. Seuss</p>
+<p align="center"><br><i>Music is like creating an emotional painting. The sounds are the colors.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
