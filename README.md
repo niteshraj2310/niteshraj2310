@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</i><br>— G.I. Gurdjieff</p>
+<p align="center"><br><i>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
