@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Be regular and orderly in your life, so that you may be violent and original in your work.</i><br>— Gustave Flaubert</p>
 <!-- ADVICE:END -->
 
 #
