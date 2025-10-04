@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest deception men suffer is from their own opinions.</i><br>— Leonardo da Vinci</p>
+<p align="center"><br><i>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</i><br>— G.I. Gurdjieff</p>
 <!-- ADVICE:END -->
 
 #
