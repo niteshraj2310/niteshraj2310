@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We must embrace pain and burn it as fuel for our journey.</i><br>— Kenji Miyazawa</p>
+<p align="center"><br><i>The greatest deception men suffer is from their own opinions.</i><br>— Leonardo da Vinci</p>
 <!-- ADVICE:END -->
 
 #
