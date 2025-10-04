@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
