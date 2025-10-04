@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</i><br>— Carl Jung</p>
+<p align="center"><br><i>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
