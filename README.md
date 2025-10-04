@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
