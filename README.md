@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be regular and orderly in your life, so that you may be violent and original in your work.</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>Life is simply what our feelings do to us.</i><br>— Honore de Balzac</p>
 <!-- ADVICE:END -->
 
 #
