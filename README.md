@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is simply what our feelings do to us.</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>Thought is so cunning, so clever, that it distorts everything for its own convenience.</i><br>— Jiddu Krishnamurti</p>
 <!-- ADVICE:END -->
 
 #
