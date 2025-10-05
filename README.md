@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is like underwear, should be changed twice a day. </i><br>— Ray Bradbury</p>
+<p align="center"><br><i>The best way to not feel hopeless is to get up and do something.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
