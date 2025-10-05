@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thought is so cunning, so clever, that it distorts everything for its own convenience.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>The greatest treasures are those invisible to the eye but found by the heart.</i><br>— Judy Garland</p>
 <!-- ADVICE:END -->
 
 #
