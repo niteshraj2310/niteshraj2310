@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A real friend is one who walks in when the rest of the world walks out.</i><br>— Unknown</p>
+<p align="center"><br><i>All problems are interpersonal relationship problems.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
