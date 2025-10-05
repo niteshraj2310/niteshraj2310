@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Focus is a matter of deciding what things you're not going to do.</i><br>— John Carmack</p>
+<p align="center"><br><i>Life is like underwear, should be changed twice a day. </i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 #
