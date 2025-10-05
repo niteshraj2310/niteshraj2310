@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All problems are interpersonal relationship problems.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>Focus is a matter of deciding what things you're not going to do.</i><br>— John Carmack</p>
 <!-- ADVICE:END -->
 
 #
