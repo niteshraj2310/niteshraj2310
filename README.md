@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People become attached to their burdens sometimes more than the burdens are attached to them.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>There is no fear for one whose mind is not filled with desires.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
