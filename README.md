@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best way to not feel hopeless is to get up and do something.</i><br>— Barack Obama</p>
+<p align="center"><br><i>Seek not the good in external things;seek it in yourselves.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
