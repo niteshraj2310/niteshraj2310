@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In peace, sons bury their fathers. In war, fathers bury their sons. </i><br>— Herodotus</p>
+<p align="center"><br><i>If you are far from the enemy, make him believe you are near.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
