@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no fear for one whose mind is not filled with desires.</i><br>— Buddha</p>
+<p align="center"><br><i>He is richest who is content with the least, for content is the wealth of nature.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
