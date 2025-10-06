@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't set your own goals by what other people make important.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
