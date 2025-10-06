@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Seek not the good in external things;seek it in yourselves.</i><br>— Epictetus</p>
+<p align="center"><br><i>Don't set your own goals by what other people make important.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
