@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He is richest who is content with the least, for content is the wealth of nature.</i><br>— Socrates</p>
+<p align="center"><br><i>In peace, sons bury their fathers. In war, fathers bury their sons. </i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
