@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Freedom from desire leads to inner peace.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. </i><br>— Orison Swett Marden</p>
 <!-- ADVICE:END -->
 
 #
