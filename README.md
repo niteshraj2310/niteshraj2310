@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Freedom from desire leads to inner peace.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
