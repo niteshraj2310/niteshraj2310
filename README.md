@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Getting lost along your path is a part of finding the path you are meant to be on.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Blessed is he who expects nothing, for he shall be disappointed.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
