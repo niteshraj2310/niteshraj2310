@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
