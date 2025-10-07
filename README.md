@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Listening well is as powerful as talking well, and is also as essential to true conversation.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Getting lost along your path is a part of finding the path you are meant to be on.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
