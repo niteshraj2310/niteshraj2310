@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Blessed is he who expects nothing, for he shall be disappointed.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</i><br>— Benjamin Mays</p>
 <!-- ADVICE:END -->
 
 #
