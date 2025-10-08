@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes you have to shut your eyes, so you can see the real beauty.</i><br>— Kilian Jornet</p>
+<p align="center"><br><i>He who knows best knows how little he knows.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
