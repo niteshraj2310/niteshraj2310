@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</i><br>— Benjamin Mays</p>
+<p align="center"><br><i>Problems remain as problems because people are busy defending them rather than finding solutions.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
