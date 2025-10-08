@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Someday death will take us to another star.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>He suffers more than necessary, who suffers before it is necessary. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
