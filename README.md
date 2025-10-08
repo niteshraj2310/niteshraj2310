@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The secret of getting ahead is getting started.</i><br>— Mark Twain</p>
+<p align="center"><br><i>There is no excuse for not trying.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
