@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Problems remain as problems because people are busy defending them rather than finding solutions.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>The secret of getting ahead is getting started.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
