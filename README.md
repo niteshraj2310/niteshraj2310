@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who knows best knows how little he knows.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Someday death will take us to another star.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
