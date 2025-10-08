@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You may be disappointed if you fail, but you are doomed if you don't try.</i><br>— Beverly Sills</p>
+<p align="center"><br><i>Sometimes you have to shut your eyes, so you can see the real beauty.</i><br>— Kilian Jornet</p>
 <!-- ADVICE:END -->
 
 #
