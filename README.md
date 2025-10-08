@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no excuse for not trying.</i><br>— Barack Obama</p>
+<p align="center"><br><i>You may be disappointed if you fail, but you are doomed if you don't try.</i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
