@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He suffers more than necessary, who suffers before it is necessary. </i><br>— Seneca</p>
+<p align="center"><br><i>When something is important enough, you do it even if the odds are not in your favor.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
