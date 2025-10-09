@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You'll never find rainbows if you're looking down. </i><br>— Charlie Chaplin</p>
+<p align="center"><br><i>It's your outlook on life that counts.</i><br>— Betty White</p>
 <!-- ADVICE:END -->
 
 #
