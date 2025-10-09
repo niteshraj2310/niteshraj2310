@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When something is important enough, you do it even if the odds are not in your favor.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Try all things, hold fast that which is good.</i><br>— John Locke</p>
 <!-- ADVICE:END -->
 
 #
