@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's your outlook on life that counts.</i><br>— Betty White</p>
+<p align="center"><br><i>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
