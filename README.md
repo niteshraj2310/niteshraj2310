@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>You'll never find rainbows if you're looking down. </i><br>— Charlie Chaplin</p>
 <!-- ADVICE:END -->
 
 #
