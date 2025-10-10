@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Write to help yourself, publish to help others.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>We can know only that we know nothing. And that is the highest degree of human wisdom.</i><br>— Leo Tolstoy</p>
 <!-- ADVICE:END -->
 
 #
