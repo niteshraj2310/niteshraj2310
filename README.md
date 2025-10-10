@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We can know only that we know nothing. And that is the highest degree of human wisdom.</i><br>— Leo Tolstoy</p>
+<p align="center"><br><i>Either you run the day or the day runs you.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
