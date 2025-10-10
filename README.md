@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</i><br>— Socrates</p>
+<p align="center"><br><i>Find your Light; They can't love you if they can't see you.</i><br>— Bette Midler</p>
 <!-- ADVICE:END -->
 
 #
