@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>A hut full of laughter is richer than a palace full of sadness.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
