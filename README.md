@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Either you run the day or the day runs you.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
