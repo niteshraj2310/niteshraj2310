@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Find your Light; They can't love you if they can't see you.</i><br>— Bette Midler</p>
+<p align="center"><br><i>Common sense is not so common. </i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
