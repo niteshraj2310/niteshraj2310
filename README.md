@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Numbing the pain for a while will make it worse when you finally feel it.</i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>Failure is acceptable. Not trying is a whole different ball park.</i><br>— Michael Jordan</p>
 <!-- ADVICE:END -->
 
 #
