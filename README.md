@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is acceptable. Not trying is a whole different ball park.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>Just get out and do it. You will be very, very glad that you did.</i><br>— Christopher McCandless</p>
 <!-- ADVICE:END -->
 
 #
