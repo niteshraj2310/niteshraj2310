@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just get out and do it. You will be very, very glad that you did.</i><br>— Christopher McCandless</p>
+<p align="center"><br><i>Life is much more successfully looked at from a single window.</i><br>— F. Scott Fitzgerald</p>
 <!-- ADVICE:END -->
 
 #
