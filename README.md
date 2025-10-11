@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being wrong brings the opportunity for growth.</i><br>— Mark Manson</p>
+<p align="center"><br><i>The goal of an artist is to create the definitive work that cannot be surpassed.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
