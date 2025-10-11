@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who knows best knows how little he knows.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Being wrong brings the opportunity for growth.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
