@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is much more successfully looked at from a single window.</i><br>— F. Scott Fitzgerald</p>
+<p align="center"><br><i>He who knows best knows how little he knows.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
