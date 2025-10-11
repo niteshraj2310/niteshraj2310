@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Common sense is not so common. </i><br>— Voltaire</p>
+<p align="center"><br><i>Numbing the pain for a while will make it worse when you finally feel it.</i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 #
