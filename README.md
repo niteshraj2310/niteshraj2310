@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most important single ingredient in the formula of success is knowing how to get along with people.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</i><br>— Alexander Pope</p>
 <!-- ADVICE:END -->
 
 #
