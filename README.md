@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The goal of an artist is to create the definitive work that cannot be surpassed.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>A single dream is more powerful than a thousand realities.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
