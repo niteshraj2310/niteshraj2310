@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In all chaos there is a cosmos, in all disorder a secret order.</i><br>— Carl Jung</p>
+<p align="center"><br><i>There is a big difference between being centered and being self-centered.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
