@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is a big difference between being centered and being self-centered.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>Your only obligation in any lifetime is to be true to yourself.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
