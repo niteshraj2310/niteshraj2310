@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day may not be good, but there's something good in every day.</i><br>— Unknown</p>
+<p align="center"><br><i>In all chaos there is a cosmos, in all disorder a secret order.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
