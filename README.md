@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your only obligation in any lifetime is to be true to yourself.</i><br>— Richard Bach</p>
+<p align="center"><br><i>The most important single ingredient in the formula of success is knowing how to get along with people.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
