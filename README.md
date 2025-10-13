@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are only encounters in history. There are no accidents.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>Maybe you are searching among the branches, for what only appears in the roots.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
