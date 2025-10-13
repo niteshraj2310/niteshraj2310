@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I would rather be hated for who I am than loved for who I'm not. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
