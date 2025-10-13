@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Inspiration exists, but it has to find you working.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>I would rather be hated for who I am than loved for who I'm not. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
