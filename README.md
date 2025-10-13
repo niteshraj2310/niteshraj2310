@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try all things, hold fast that which is good.</i><br>— John Locke</p>
+<p align="center"><br><i>The secret of life isn't what happens to you, but what you do with what happens to you.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
