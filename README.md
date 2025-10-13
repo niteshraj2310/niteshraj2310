@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>There are only encounters in history. There are no accidents.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
