@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Behind every cloud is another cloud.</i><br>— Judy Garland</p>
+<p align="center"><br><i>Inspiration exists, but it has to find you working.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
