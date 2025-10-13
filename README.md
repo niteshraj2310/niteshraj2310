@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The secret of life isn't what happens to you, but what you do with what happens to you.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>It's not the size of the dog in the fight, it's the size of the fight in the dog.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
