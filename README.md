@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Maybe you are searching among the branches, for what only appears in the roots.</i><br>— Rumi</p>
+<p align="center"><br><i>Try all things, hold fast that which is good.</i><br>— John Locke</p>
 <!-- ADVICE:END -->
 
 #
