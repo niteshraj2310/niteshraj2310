@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
