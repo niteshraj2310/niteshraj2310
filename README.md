@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Embody what you teach, and teach only what you have embodied.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</i><br>— Woody Allen</p>
 <!-- ADVICE:END -->
 
 #
