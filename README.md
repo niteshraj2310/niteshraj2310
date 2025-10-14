@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is ours to be spent, not to be saved. </i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>Keep your dreams, you never know when you might need them.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
