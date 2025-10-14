@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not the size of the dog in the fight, it's the size of the fight in the dog.</i><br>— Mark Twain</p>
+<p align="center"><br><i>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</i><br>— Franklin D. Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
