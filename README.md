@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</i><br>— Franklin D. Roosevelt</p>
+<p align="center"><br><i>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
