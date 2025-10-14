@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep your dreams, you never know when you might need them.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
