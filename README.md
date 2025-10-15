@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the advantages of being disorganized is that one is always having surprising discoveries.</i><br>— A.A. Milne</p>
+<p align="center"><br><i>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
