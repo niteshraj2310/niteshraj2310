@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</i><br>— Woody Allen</p>
+<p align="center"><br><i>He who wishes to be obeyed must know how to command.</i><br>— Niccolo Machiavelli</p>
 <!-- ADVICE:END -->
 
 #
