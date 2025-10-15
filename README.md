@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The salvation of the world lies in the human heart.</i><br>— Vaclav Havel</p>
+<p align="center"><br><i>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 #
