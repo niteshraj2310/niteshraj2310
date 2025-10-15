@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am thankful to all those who said no. It's because of them, I did it myself. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>One of the advantages of being disorganized is that one is always having surprising discoveries.</i><br>— A.A. Milne</p>
 <!-- ADVICE:END -->
 
 #
