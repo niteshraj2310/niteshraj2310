@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who wishes to be obeyed must know how to command.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>The salvation of the world lies in the human heart.</i><br>— Vaclav Havel</p>
 <!-- ADVICE:END -->
 
 #
