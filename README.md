@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>I am thankful to all those who said no. It's because of them, I did it myself. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
