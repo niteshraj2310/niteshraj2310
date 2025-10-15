@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You know the more one does the more one can do.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Success is built sequentially. It's one thing at a time.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
