@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>You know the more one does the more one can do.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
