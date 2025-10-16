@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</i><br>— Robert Frost</p>
 <!-- ADVICE:END -->
 
 #
