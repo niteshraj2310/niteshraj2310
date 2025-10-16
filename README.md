@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Courage Is a Love Affair with the Unknown</i><br>— Osho</p>
+<p align="center"><br><i>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
