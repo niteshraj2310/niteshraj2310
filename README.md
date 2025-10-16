@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot find peace by avoiding life.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>Laziness may appear attractive, but work gives satisfaction.</i><br>— Anne Frank</p>
 <!-- ADVICE:END -->
 
 #
