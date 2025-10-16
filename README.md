@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
