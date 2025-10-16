@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</i><br>— Robert Frost</p>
+<p align="center"><br><i>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
