@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Laziness may appear attractive, but work gives satisfaction.</i><br>— Anne Frank</p>
+<p align="center"><br><i>A loving heart is the truest wisdom.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
