@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is built sequentially. It's one thing at a time.</i><br>— Gary Keller</p>
+<p align="center"><br><i>Courage Is a Love Affair with the Unknown</i><br>— Osho</p>
 <!-- ADVICE:END -->
 
 #
