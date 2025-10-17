@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
