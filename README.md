@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Integrity is telling myself the truth. And honesty is telling the truth to other people.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>To be of use to the world is the only way to be happy.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
