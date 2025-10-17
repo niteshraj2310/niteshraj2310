@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
