@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be kind, for everyone you meet is fighting a harder battle.</i><br>— Plato</p>
+<p align="center"><br><i>I will not walk backward in life.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
