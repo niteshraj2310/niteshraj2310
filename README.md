@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be of use to the world is the only way to be happy.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
