@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Be kind, for everyone you meet is fighting a harder battle.</i><br>— Plato</p>
 <!-- ADVICE:END -->
 
 #
