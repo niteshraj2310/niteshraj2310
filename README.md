@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who is untrue to his own cause cannot command the respect of others.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>Logic is like the sword - those who appeal to it shall perish by it.</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 #
