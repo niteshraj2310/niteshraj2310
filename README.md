@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Logic is like the sword - those who appeal to it shall perish by it.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>Life is a balance of holding on and letting go.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
