@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I will not walk backward in life.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>Don't let the fear of losing be greater than the excitement of winning.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
