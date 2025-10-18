@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>He who is untrue to his own cause cannot command the respect of others.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
