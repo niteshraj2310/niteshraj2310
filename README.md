@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you know what you want, and want it bad enough, you will find a way to get it.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 #
