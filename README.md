@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>When you know what you want, and want it bad enough, you will find a way to get it.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
