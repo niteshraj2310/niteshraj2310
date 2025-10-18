@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the fear of losing be greater than the excitement of winning.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Love is merely the name for the desire and pursuit of the whole.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 #
