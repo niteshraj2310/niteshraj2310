@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love is merely the name for the desire and pursuit of the whole.</i><br>— Aristophanes</p>
+<p align="center"><br><i>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
