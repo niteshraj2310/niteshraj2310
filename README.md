@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>While some of us act without thinking, too many of us think without acting.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Success is often achieved by those who don't know that failure is inevitable.</i><br>— Coco Chanel</p>
 <!-- ADVICE:END -->
 
 #
