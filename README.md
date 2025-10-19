@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you are grateful for what you have the more you will have to be grateful for. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Pleasure in the job puts perfection in the work.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
