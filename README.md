@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is often achieved by those who don't know that failure is inevitable.</i><br>— Coco Chanel</p>
+<p align="center"><br><i>Life is like a beautiful melody, only the lyrics are messed up.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
