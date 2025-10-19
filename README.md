@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enlightenment is intimacy with all things.</i><br>— Dogen</p>
+<p align="center"><br><i>While some of us act without thinking, too many of us think without acting.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
