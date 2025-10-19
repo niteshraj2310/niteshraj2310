@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is like a beautiful melody, only the lyrics are messed up.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Happiness is a quality of the soul...not a function of one's material circumstances.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
