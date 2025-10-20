@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To escape from the world means that one's mind is not concerned with the opinions of the world.</i><br>— Dogen</p>
+<p align="center"><br><i>The reward of suffering is experience.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
