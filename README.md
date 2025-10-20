@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is a quality of the soul...not a function of one's material circumstances.</i><br>— Aristotle</p>
+<p align="center"><br><i>Life becomes easier and more beautiful when we can see the good in other people.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
