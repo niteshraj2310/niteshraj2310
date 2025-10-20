@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The significance of life is living.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>If anything is worth doing, do it with all your heart.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
