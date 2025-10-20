@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The truly rich men are the ones who have health, loved ones and a work they love.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>To escape from the world means that one's mind is not concerned with the opinions of the world.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
