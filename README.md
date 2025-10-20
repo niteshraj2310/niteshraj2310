@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is useless to meet revenge with revenge; it will heal nothing.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>Death is not sad; the sad thing is that most people don't really live at all.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
