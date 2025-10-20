@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life becomes easier and more beautiful when we can see the good in other people.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>The truly rich men are the ones who have health, loved ones and a work they love.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
