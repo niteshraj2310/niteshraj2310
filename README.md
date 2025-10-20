@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The reward of suffering is experience.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>It is useless to meet revenge with revenge; it will heal nothing.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
