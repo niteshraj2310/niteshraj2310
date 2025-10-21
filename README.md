@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people fail in life because they major in minor things.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>If you do not push the boundaries, you will never know where they are.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
