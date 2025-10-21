@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever happens always happens on time.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Most people fail in life because they major in minor things.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
