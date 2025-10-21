@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you do not push the boundaries, you will never know where they are.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
