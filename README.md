@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stay away from people who makes you feel like you are wasting their time.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Whatever happens always happens on time.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
