@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</i><br>— Gurbaksh Chahal</p>
 <!-- ADVICE:END -->
 
 #
