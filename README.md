@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Goodness is the only investment that never fails.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
