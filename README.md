@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>You can only lose something that you have, but you cannot lose something that you are.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
