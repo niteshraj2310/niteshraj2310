@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can only lose something that you have, but you cannot lose something that you are.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
