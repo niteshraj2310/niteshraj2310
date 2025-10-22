@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who wishes to be obeyed must know how to command.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>Goodness is the only investment that never fails.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
