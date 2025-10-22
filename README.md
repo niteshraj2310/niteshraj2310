@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</i><br>— Gurbaksh Chahal</p>
+<p align="center"><br><i>A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
