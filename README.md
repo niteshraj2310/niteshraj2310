@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life moves on and so should we.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>The more you are motivated by Love, The more Fearless & Free your action will be.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
