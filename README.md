@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.</i><br>— Criss Jami</p>
+<p align="center"><br><i>He who wishes to be obeyed must know how to command.</i><br>— Niccolo Machiavelli</p>
 <!-- ADVICE:END -->
 
 #
