@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>Life moves on and so should we.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
