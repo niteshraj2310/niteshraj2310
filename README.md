@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>While we may not be able to control all that happens to us, we can control what happens inside us.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>You can have the mind or you can have the moment.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
