@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you are motivated by Love, The more Fearless & Free your action will be.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
