@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Awaken. Take heed, do not squander your life.</i><br>— Dogen</p>
+<p align="center"><br><i>While we may not be able to control all that happens to us, we can control what happens inside us.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
