@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can have the mind or you can have the moment.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
