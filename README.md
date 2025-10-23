@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stress happens when the mind resists what is.</i><br>— Dan Millman</p>
+<p align="center"><br><i>A heart is not judged by how much you love, but by how much you are loved by others.</i><br>— Judy Garland</p>
 <!-- ADVICE:END -->
 
 #
