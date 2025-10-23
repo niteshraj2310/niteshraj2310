@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</i><br>— Helen Keller</p>
+<p align="center"><br><i>Awaken. Take heed, do not squander your life.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
