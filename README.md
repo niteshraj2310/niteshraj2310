@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A mistake is only an error, it becomes a mistake when you fail to correct it.</i><br>— John Lennon</p>
+<p align="center"><br><i>Stress happens when the mind resists what is.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
