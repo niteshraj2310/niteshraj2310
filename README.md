@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Find something you love and do it better than everyone else.</i><br>— Gurbaksh Chahal</p>
+<p align="center"><br><i>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
