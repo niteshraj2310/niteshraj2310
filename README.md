@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>Just do the best you can. No one can do more than that.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
