@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A heart is not judged by how much you love, but by how much you are loved by others.</i><br>— Judy Garland</p>
+<p align="center"><br><i>Your work is to discover your work and then, with all your heart, to give yourself to it.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
