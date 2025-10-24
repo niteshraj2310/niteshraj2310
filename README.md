@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In all chaos there is a cosmos, in all disorder a secret order.</i><br>— Carl Jung</p>
+<p align="center"><br><i>Find your Light; They can't love you if they can't see you.</i><br>— Bette Midler</p>
 <!-- ADVICE:END -->
 
 #
