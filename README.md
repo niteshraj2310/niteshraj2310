@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just do the best you can. No one can do more than that.</i><br>— John Wooden</p>
+<p align="center"><br><i>It is better to disappoint people with the truth than to appease them with a lie.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
