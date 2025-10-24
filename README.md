@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Find your Light; They can't love you if they can't see you.</i><br>— Bette Midler</p>
+<p align="center"><br><i>Knowing yourself is the beginning of all wisdom.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
