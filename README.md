@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your work is to discover your work and then, with all your heart, to give yourself to it.</i><br>— Buddha</p>
+<p align="center"><br><i>Find something you love and do it better than everyone else.</i><br>— Gurbaksh Chahal</p>
 <!-- ADVICE:END -->
 
 #
