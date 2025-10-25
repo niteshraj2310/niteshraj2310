@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe and you're halfway there.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>If you do not push the boundaries, you will never know where they are.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
