@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The busy man is never wise and the wise man is never busy.</i><br>— Lin Yutang</p>
+<p align="center"><br><i>Attitude is a little thing that makes a big difference.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
