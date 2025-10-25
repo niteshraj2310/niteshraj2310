@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Action is the foundational key to all success.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>You live by what you thrill to, and there's the end of it.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
