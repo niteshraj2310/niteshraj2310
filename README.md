@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you are tempted to give up, your breakthrough is probably just around the corner.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>I put my heart and soul into my work, and I have lost my mind in the process.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
