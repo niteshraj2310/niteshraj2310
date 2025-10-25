@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you do not push the boundaries, you will never know where they are.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>Action is the foundational key to all success.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
