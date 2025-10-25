@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Attitude is a little thing that makes a big difference.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Believe and you're halfway there.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
