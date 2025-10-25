@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You live by what you thrill to, and there's the end of it.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>When you are tempted to give up, your breakthrough is probably just around the corner.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
