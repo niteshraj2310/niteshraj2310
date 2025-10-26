@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Optimism is the one quality more associated with success and happiness than any other.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Remember we're all in this alone.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
