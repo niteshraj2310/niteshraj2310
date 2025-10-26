@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am not what happened to me, I am what I choose to become.</i><br>— Carl Jung</p>
+<p align="center"><br><i>If you see yourself as prosperous, you will be.</i><br>— Robert Collier</p>
 <!-- ADVICE:END -->
 
 #
