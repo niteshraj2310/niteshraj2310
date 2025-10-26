@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Create with the heart; build with the mind.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</i><br>— Wayne Gretzky</p>
 <!-- ADVICE:END -->
 
 #
