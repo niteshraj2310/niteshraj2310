@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I put my heart and soul into my work, and I have lost my mind in the process.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>Muddy water is best cleared by leaving it alone.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
