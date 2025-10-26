@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</i><br>— Wayne Gretzky</p>
+<p align="center"><br><i>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
