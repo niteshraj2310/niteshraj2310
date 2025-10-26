@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>I am not what happened to me, I am what I choose to become.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
