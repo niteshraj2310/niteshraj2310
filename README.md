@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Muddy water is best cleared by leaving it alone.</i><br>— Alan Watts</p>
+<p align="center"><br><i>Create with the heart; build with the mind.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
