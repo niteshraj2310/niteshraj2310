@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you see yourself as prosperous, you will be.</i><br>— Robert Collier</p>
+<p align="center"><br><i>Optimism is the one quality more associated with success and happiness than any other.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
