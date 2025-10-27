@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be prepared is half the victory. </i><br>— Miguel de Cervantes</p>
+<p align="center"><br><i>In youth we run into difficulties. In old age difficulties run into us. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
