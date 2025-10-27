@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>To be prepared is half the victory. </i><br>— Miguel de Cervantes</p>
 <!-- ADVICE:END -->
 
 #
