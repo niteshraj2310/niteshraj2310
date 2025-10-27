@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember we're all in this alone.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>The best mind-altering drug is the truth.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
