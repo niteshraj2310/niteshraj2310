@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In youth we run into difficulties. In old age difficulties run into us. </i><br>— Beverly Sills</p>
+<p align="center"><br><i>Your problem isn't the problem. Your reaction is the problem.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
