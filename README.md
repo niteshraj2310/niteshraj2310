@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The purpose of life is to contribute in some way to making things better.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>When your intuition is strong, follow it.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
