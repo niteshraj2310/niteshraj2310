@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your problem isn't the problem. Your reaction is the problem.</i><br>— Unknown</p>
+<p align="center"><br><i>You win more from losing than winning.</i><br>— Morgan Wootten</p>
 <!-- ADVICE:END -->
 
 #
