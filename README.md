@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best mind-altering drug is the truth.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>The purpose of life is to contribute in some way to making things better.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 #
