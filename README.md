@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your setback is just a setup for a comeback.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Ponder and deliberate before you make a move.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
