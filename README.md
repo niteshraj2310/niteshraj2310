@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Ponder and deliberate before you make a move.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>One beam, no matter how big, cannot support an entire house on its own.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
