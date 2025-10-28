@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One beam, no matter how big, cannot support an entire house on its own.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
