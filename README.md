@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adventure is worthwhile in itself.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Try not to become a man of success, but rather try to become a man of value.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
