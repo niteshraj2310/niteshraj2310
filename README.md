@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Opportunity comes when you continually push forward.</i><br>— Sonia Ricotti</p>
+<p align="center"><br><i>Your setback is just a setup for a comeback.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
