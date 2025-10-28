@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You win more from losing than winning.</i><br>— Morgan Wootten</p>
+<p align="center"><br><i>Adventure is worthwhile in itself.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
