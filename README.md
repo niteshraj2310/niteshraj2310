@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try not to become a man of success, but rather try to become a man of value.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>A man should do his job so well that the living, the dead, and the unborn could do it no better.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
