@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 #
