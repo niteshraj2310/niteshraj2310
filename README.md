@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life has no limitations except the ones you make.</i><br>— Les Brown</p>
+<p align="center"><br><i>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
