@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not titles that honour men, but men that honour titles.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
