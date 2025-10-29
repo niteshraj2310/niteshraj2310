@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</i><br>— Dogen</p>
+<p align="center"><br><i>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</i><br>— Kenneth Branagh</p>
 <!-- ADVICE:END -->
 
 #
