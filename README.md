@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Show me a hero, and I'll write you a tragedy.</i><br>— F. Scott Fitzgerald</p>
 <!-- ADVICE:END -->
 
 #
