@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Show me a hero, and I'll write you a tragedy.</i><br>— F. Scott Fitzgerald</p>
+<p align="center"><br><i>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
