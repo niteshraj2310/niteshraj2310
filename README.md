@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It will never rain roses: when we want to have more roses, we must plant more roses.</i><br>— George Eliot</p>
+<p align="center"><br><i>Every man is guilty of all the good he did not do. </i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
