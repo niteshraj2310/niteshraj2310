@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>First learn the meaning of what you say, and then speak.</i><br>— Epictetus</p>
+<p align="center"><br><i>Don't let someone elses. opinion become your reality.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
