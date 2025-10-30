@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>From a certain point onward there is no longer any turning back. That is the point that must be reached.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>It will never rain roses: when we want to have more roses, we must plant more roses.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
