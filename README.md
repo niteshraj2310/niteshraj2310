@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let someone elses. opinion become your reality.</i><br>— Les Brown</p>
+<p align="center"><br><i>From a certain point onward there is no longer any turning back. That is the point that must be reached.</i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 #
