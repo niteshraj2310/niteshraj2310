@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every man is guilty of all the good he did not do. </i><br>— Voltaire</p>
+<p align="center"><br><i>Wrong does not cease to be wrong because the majority share in it.</i><br>— Leo Tolstoy</p>
 <!-- ADVICE:END -->
 
 #
