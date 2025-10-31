@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you chase two rabbits, you catch none.</i><br>— Confucius</p>
+<p align="center"><br><i>Abundance of knowledge does not teach men to be wise.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
