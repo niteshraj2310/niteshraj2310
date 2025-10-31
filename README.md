@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</i><br>— Kabir</p>
+<p align="center"><br><i>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
