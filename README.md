@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wrong does not cease to be wrong because the majority share in it.</i><br>— Leo Tolstoy</p>
+<p align="center"><br><i>There is no such thing as a great talent without great willpower.</i><br>— Honore de Balzac</p>
 <!-- ADVICE:END -->
 
 #
