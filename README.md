@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
