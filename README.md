@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Abundance of knowledge does not teach men to be wise.</i><br>— Heraclitus</p>
+<p align="center"><br><i>When the time is gone, you can never get it back.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
