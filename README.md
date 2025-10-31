@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>If you chase two rabbits, you catch none.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
