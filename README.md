@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no such thing as a great talent without great willpower.</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</i><br>— Kabir</p>
 <!-- ADVICE:END -->
 
 #
