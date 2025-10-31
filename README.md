@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When the time is gone, you can never get it back.</i><br>— Stephen King</p>
+<p align="center"><br><i>Every day do something that will inch you closer to a better tomorrow.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
