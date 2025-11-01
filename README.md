@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who look for the bad in people will surely find it.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>Night is a more quiet time to work. It aids thought.</i><br>— Alexander Graham Bell</p>
 <!-- ADVICE:END -->
 
 #
