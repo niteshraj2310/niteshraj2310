@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the most difficult things is not to change society - but to change yourself.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>The power of human thought grows exponentially with the number of minds that share that thought.</i><br>— Dan Brown</p>
 <!-- ADVICE:END -->
 
 #
