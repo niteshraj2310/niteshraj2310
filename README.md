@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Night is a more quiet time to work. It aids thought.</i><br>— Alexander Graham Bell</p>
+<p align="center"><br><i>One of the most difficult things is not to change society - but to change yourself.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 #
