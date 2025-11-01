@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A day wasted on others is not wasted on one's self.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Nothing is particularly hard if you divide it into small jobs. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
