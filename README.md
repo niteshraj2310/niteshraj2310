@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more I want to get something done, the less I call it work.</i><br>— Richard Bach</p>
+<p align="center"><br><i>Those who look for the bad in people will surely find it.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
