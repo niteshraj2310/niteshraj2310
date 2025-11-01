@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The single biggest problem in communication is the illusion that it has taken place.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>A day wasted on others is not wasted on one's self.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
