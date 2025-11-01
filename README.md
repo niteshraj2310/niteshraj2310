@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is particularly hard if you divide it into small jobs. </i><br>— Henry Ford</p>
+<p align="center"><br><i>The more I want to get something done, the less I call it work.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
