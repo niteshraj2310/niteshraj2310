@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day do something that will inch you closer to a better tomorrow.</i><br>— Unknown</p>
+<p align="center"><br><i>The single biggest problem in communication is the illusion that it has taken place.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
