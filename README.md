@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let them drag you down by rumors. Just go with what you believe in.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>Take care of your body. It's the only place you have to live.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
