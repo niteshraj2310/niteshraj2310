@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who wishes to be obeyed must know how to command.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>I succeeded by saying what everyone else is thinking.</i><br>— Joan Rivers</p>
 <!-- ADVICE:END -->
 
 #
