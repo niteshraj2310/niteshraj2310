@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I succeeded by saying what everyone else is thinking.</i><br>— Joan Rivers</p>
+<p align="center"><br><i>Don't let them drag you down by rumors. Just go with what you believe in.</i><br>— Michael Jordan</p>
 <!-- ADVICE:END -->
 
 #
