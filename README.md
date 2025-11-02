@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always turn a negative situation into a positive situation.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>Good judgment comes from experience, and experience comes from bad judgment.</i><br>— Rita Mae Brown</p>
 <!-- ADVICE:END -->
 
 #
