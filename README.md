@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take care of your body. It's the only place you have to live.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Always turn a negative situation into a positive situation.</i><br>— Michael Jordan</p>
 <!-- ADVICE:END -->
 
 #
