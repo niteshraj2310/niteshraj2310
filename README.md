@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Good judgment comes from experience, and experience comes from bad judgment.</i><br>— Rita Mae Brown</p>
+<p align="center"><br><i>Faith means believing the unbelievable.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
