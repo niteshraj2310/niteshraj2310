@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Faith means believing the unbelievable.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>It is only depth of character that determines the profundity with which we face life.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
