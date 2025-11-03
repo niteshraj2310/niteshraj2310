@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is love and love is life.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
