@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The health of nations is more important than the wealth of nations.</i><br>— Will Rogers</p>
+<p align="center"><br><i>Progress lies not in enhancing what is, but in advancing toward what will be.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
