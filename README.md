@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>The health of nations is more important than the wealth of nations.</i><br>— Will Rogers</p>
 <!-- ADVICE:END -->
 
 #
