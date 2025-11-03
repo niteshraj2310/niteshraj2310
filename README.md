@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</i><br>— James Allen</p>
+<p align="center"><br><i>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
