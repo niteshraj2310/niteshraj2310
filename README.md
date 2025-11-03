@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Progress lies not in enhancing what is, but in advancing toward what will be.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>The four P's to success are pressure, persistence, perseverance, and prayer.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
