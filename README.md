@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is only depth of character that determines the profundity with which we face life.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>We live only now. Everything else is either passed or is unknown.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
