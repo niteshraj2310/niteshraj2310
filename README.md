@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are always complaining that our days are few, and acting as though there would be no end of them. </i><br>— Seneca</p>
+<p align="center"><br><i>Life should be touched, not strangled. </i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 #
