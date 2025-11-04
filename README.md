@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life should be touched, not strangled. </i><br>— Ray Bradbury</p>
+<p align="center"><br><i>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
