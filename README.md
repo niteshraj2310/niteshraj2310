@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is the mark of an educated mind to be able to entertain a thought without accepting it.</i><br>— Aristotle</p>
+<p align="center"><br><i>True prayer has no set form.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
