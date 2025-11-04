@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</i><br>— Jon Kabat-Zinn</p>
 <!-- ADVICE:END -->
 
 #
