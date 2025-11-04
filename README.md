@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The four P's to success are pressure, persistence, perseverance, and prayer.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>As a man thinketh in his heart, so shall he be.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
