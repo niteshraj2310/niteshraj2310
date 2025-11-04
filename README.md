@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>True prayer has no set form.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Others have seen what is and asked why. I have seen what could be and asked why not</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
