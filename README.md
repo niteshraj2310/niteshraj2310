@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We have no more right to consume happiness without producing it than to consume wealth without producing it.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Every moment of happiness requires a great amount of Ignorance</i><br>— Honore de Balzac</p>
 <!-- ADVICE:END -->
 
 #
