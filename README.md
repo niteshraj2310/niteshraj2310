@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every moment of happiness requires a great amount of Ignorance</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>The soul is neither born, and nor does it die.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
