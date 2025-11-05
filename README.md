@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>Not how long, but how well you have lived is the main thing.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
