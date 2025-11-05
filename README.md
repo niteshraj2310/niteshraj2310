@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The day is for honest men, the night for thieves.</i><br>— Euripides</p>
+<p align="center"><br><i>We have no more right to consume happiness without producing it than to consume wealth without producing it.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
