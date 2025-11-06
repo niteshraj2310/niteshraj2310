@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Victims recite problems, leaders provide solutions.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Man should fear never beginning to live.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
