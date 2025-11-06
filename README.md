@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Storms don't last forever.</i><br>— Unknown</p>
+<p align="center"><br><i>Life is a series of choices and all we can do is make them.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
