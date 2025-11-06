@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The source of a true smile is an awakened mind.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>Victims recite problems, leaders provide solutions.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
