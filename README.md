@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you do the work you get rewarded. There are no shortcuts in life.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>Storms don't last forever.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
