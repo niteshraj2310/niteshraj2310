@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To a mind that is still, the entire universe surrenders.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>If you do the work you get rewarded. There are no shortcuts in life.</i><br>— Michael Jordan</p>
 <!-- ADVICE:END -->
 
 #
