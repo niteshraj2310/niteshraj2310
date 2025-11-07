@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>If you want something you've never had you must be willing to do something you've never done.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
