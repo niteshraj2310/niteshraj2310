@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's easier to lose than to win. </i><br>— Wayne Gretzky</p>
+<p align="center"><br><i>Success is not what you do when you are on top. Success is how high you bounce when you hit the bottom.</i><br>— Sonia Ricotti</p>
 <!-- ADVICE:END -->
 
 #
