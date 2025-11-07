@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man should fear never beginning to live.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
