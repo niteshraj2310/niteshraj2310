@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Death is not sad; the sad thing is that most people don't really live at all.</i><br>— Dan Millman</p>
+<p align="center"><br><i>It is what we make out of what we have, not what we are given, that separates one person from another.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 #
