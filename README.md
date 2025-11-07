@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</i><br>— Stephen King</p>
+<p align="center"><br><i>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
