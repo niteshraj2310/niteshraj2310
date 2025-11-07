@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no excuse for not trying.</i><br>— Barack Obama</p>
+<p align="center"><br><i>It's easier to lose than to win. </i><br>— Wayne Gretzky</p>
 <!-- ADVICE:END -->
 
 #
