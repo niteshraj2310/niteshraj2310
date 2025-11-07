@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want something you've never had you must be willing to do something you've never done.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Death is not sad; the sad thing is that most people don't really live at all.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
