@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Few things are more deceptive than memories.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Your success and happiness lie in you.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
