@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being in a good frame of mind helps keep one in the picture of health.</i><br>— Unknown</p>
+<p align="center"><br><i>Few things are more deceptive than memories.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
