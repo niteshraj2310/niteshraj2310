@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</i><br>— Christopher Reeve</p>
+<p align="center"><br><i>You are not stuck where you are unless you decide to be. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
