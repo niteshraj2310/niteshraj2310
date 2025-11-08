@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Unless you change how you are, you will always have what you got.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>When it hurts - observe. Life is trying to teach you something.</i><br>— Anita Krizzan</p>
 <!-- ADVICE:END -->
 
 #
