@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is not what you do when you are on top. Success is how high you bounce when you hit the bottom.</i><br>— Sonia Ricotti</p>
+<p align="center"><br><i>Unless you change how you are, you will always have what you got.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
