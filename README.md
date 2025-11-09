@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You need to be doing fewer things for more effect instead of doing more things with side effects.</i><br>— Gary Keller</p>
+<p align="center"><br><i>There is peace even in the storm.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
