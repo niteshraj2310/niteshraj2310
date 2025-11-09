@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are not stuck where you are unless you decide to be. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
