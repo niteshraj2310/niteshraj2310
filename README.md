@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The way to love anything is to realize that it may be lost.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>Begin now to be what you will be hereafter.</i><br>— St. Jerome</p>
 <!-- ADVICE:END -->
 
 #
