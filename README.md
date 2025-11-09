@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's easier to go down a hill than up it but the view is much better at the top.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>The way to love anything is to realize that it may be lost.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
