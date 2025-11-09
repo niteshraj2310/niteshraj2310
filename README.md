@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </i><br>— Brian Tracy</p>
+<p align="center"><br><i>The present moment is filled with joy and happiness. If you are attentive, you will see it.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
