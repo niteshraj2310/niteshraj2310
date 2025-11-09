@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Begin now to be what you will be hereafter.</i><br>— St. Jerome</p>
+<p align="center"><br><i>You need to be doing fewer things for more effect instead of doing more things with side effects.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
