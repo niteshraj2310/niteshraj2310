@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greater the impact you want to make, the greater your influence needs to be.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
