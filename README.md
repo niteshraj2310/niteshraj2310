@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</i><br>— Robin Sharma</p>
+<p align="center"><br><i>They say love is the best investment; the more you give, the more you get in return.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 #
