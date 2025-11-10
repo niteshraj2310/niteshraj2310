@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The constant assertion of belief is an indication of fear.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>The greater the impact you want to make, the greater your influence needs to be.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
