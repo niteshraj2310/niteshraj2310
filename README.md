@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every hour of every day is an unspeakably perfect miracle.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>Meditate. It won't be fun but it will surface what you need to deal with.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
