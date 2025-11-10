@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Courage is fear that has said its prayers and decided to go forward anyway.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>If you spend too much time thinking about a thing, you'll never get it done. </i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
