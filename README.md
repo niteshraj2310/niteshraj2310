@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you spend too much time thinking about a thing, you'll never get it done. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
