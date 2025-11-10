@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>They say love is the best investment; the more you give, the more you get in return.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>Every hour of every day is an unspeakably perfect miracle.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
