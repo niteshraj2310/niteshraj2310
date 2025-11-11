@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A life without a cause is a life without effect.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>It is the power of the mind to be unconquerable.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
