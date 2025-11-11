@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not how much we give but how much love we put into giving.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
