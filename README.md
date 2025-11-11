@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>It's not how much we give but how much love we put into giving.</i><br>— Mother Teresa</p>
 <!-- ADVICE:END -->
 
 #
