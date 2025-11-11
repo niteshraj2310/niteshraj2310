@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</i><br>— Jeffrey Gitomer</p>
+<p align="center"><br><i>There is always risk, so learn to manage risk instead of avoiding it.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
