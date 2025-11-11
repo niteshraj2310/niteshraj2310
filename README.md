@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</i><br>— Jeffrey Gitomer</p>
 <!-- ADVICE:END -->
 
 #
