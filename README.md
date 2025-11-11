@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All problems are illusions of the mind.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Be fascinated instead of frustrated.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
