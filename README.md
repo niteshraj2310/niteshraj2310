@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is the power of the mind to be unconquerable.</i><br>— Seneca</p>
+<p align="center"><br><i>All problems are illusions of the mind.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
