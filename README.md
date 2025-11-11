@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is always risk, so learn to manage risk instead of avoiding it.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>A life without a cause is a life without effect.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
