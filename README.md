@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be royal in your own fashion: act like a king to be treated like one.</i><br>— Robert Greene</p>
+<p align="center"><br><i>People who avoid failure also avoid success.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
