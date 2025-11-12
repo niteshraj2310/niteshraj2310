@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People who avoid failure also avoid success.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
