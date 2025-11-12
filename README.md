@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Unless you change how you are, you will always have what you got.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>There is a wisdom of the head, and there is a wisdom of the heart.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
