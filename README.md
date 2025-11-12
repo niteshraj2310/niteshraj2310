@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The deeper the truth in a creative work, the longer it will live. </i><br>— Charlie Chaplin</p>
+<p align="center"><br><i>Who you are is defined by what you're willing to struggle for.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
