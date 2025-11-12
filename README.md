@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Who you are is defined by what you're willing to struggle for.</i><br>— Mark Manson</p>
+<p align="center"><br><i>Unless you change how you are, you will always have what you got.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
