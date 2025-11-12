@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is a wisdom of the head, and there is a wisdom of the heart.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Be royal in your own fashion: act like a king to be treated like one.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
