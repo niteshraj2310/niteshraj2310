@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>Don't let the behavior of others destroy your inner peace.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
