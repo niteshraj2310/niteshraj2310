@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be fascinated instead of frustrated.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>The deeper the truth in a creative work, the longer it will live. </i><br>— Charlie Chaplin</p>
 <!-- ADVICE:END -->
 
 #
