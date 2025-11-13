@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not be so open-minded that your brains fall out.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
