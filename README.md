@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Given the choice between the experience of pain and nothing, I would choose pain.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
