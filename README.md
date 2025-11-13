@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
