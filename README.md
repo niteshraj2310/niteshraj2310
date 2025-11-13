@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>As soon as you truly commit to making something happen, the 'how' will reveal itself.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
