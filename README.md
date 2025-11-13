@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Given the choice between the experience of pain and nothing, I would choose pain.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Selfishness and greed, individual or national, cause most of our troubles.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
