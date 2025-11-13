@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As soon as you truly commit to making something happen, the 'how' will reveal itself.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Do not be so open-minded that your brains fall out.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
