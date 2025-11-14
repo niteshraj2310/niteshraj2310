@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is the mark of an educated mind to be able to entertain a thought without accepting it.</i><br>— Aristotle</p>
+<p align="center"><br><i>You can discover what your enemy fears most by observing the means he uses to frighten you.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
