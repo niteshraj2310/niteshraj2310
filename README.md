@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Beware of false knowledge, it is more dangerous than ignorance.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
