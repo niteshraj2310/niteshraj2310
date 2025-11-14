@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Selfishness and greed, individual or national, cause most of our troubles.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>It is the mark of an educated mind to be able to entertain a thought without accepting it.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
