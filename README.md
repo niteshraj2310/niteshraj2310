@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I was angered, for I had no shoes. Then I met a man who had no feet. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Our stories may be singular, but our destination is shared.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
