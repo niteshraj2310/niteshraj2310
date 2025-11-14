@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Let us rather run the risk of wearing out than rusting out.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>It doesn't matter what you do, only how well you do it.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
