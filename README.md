@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</i><br>— Unknown</p>
+<p align="center"><br><i>Let us rather run the risk of wearing out than rusting out.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
