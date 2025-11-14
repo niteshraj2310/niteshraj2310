@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It doesn't matter what you do, only how well you do it.</i><br>— Dan Millman</p>
+<p align="center"><br><i>I was angered, for I had no shoes. Then I met a man who had no feet. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
