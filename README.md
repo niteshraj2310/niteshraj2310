@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can discover what your enemy fears most by observing the means he uses to frighten you.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>Beware of false knowledge, it is more dangerous than ignorance.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
