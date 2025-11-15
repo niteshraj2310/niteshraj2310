@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more we value things, the less we value ourselves. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>Sometimes you have to lose all you have to find out who you truly are.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
