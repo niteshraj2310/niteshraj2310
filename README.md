@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our stories may be singular, but our destination is shared.</i><br>— Barack Obama</p>
+<p align="center"><br><i>Aim for the moon. If you miss, you may hit a star.</i><br>— W. Clement Stone</p>
 <!-- ADVICE:END -->
 
 #
