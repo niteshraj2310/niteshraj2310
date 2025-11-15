@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Don't let the noise of others' opinions drown out your own inner voice.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 #
