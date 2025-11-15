@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Aim for the moon. If you miss, you may hit a star.</i><br>— W. Clement Stone</p>
+<p align="center"><br><i>The glow of one warm thought is to me worth more than money.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
