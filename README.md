@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the noise of others' opinions drown out your own inner voice.</i><br>— Steve Jobs</p>
+<p align="center"><br><i>There are no differences but differences of degree between different degrees of difference and no difference.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
