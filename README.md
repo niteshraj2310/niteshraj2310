@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no differences but differences of degree between different degrees of difference and no difference.</i><br>— William James</p>
+<p align="center"><br><i>First say to yourself what you would be; and then do what you have to do.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
