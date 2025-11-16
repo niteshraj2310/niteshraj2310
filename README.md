@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If we all did the things we are capable of doing, we would literally astound ourselves.</i><br>— Thomas Edison</p>
+<p align="center"><br><i>The strongest and sweetest songs yet remain to be sung.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
