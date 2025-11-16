@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</i><br>— Charles Darwin</p>
+<p align="center"><br><i>If we all did the things we are capable of doing, we would literally astound ourselves.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 #
