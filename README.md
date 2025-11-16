@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>First say to yourself what you would be; and then do what you have to do.</i><br>— Epictetus</p>
+<p align="center"><br><i>Fools talk, cowards are silent, wise men listen.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
