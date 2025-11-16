@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fools talk, cowards are silent, wise men listen.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Go as far as you can see and you will see further. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
