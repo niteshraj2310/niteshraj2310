@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What one does is what counts. Not what one had the intention of doing.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
