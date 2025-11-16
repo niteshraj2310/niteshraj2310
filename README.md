@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Go as far as you can see and you will see further. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>What one does is what counts. Not what one had the intention of doing.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
