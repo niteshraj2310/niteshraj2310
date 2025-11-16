@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</i><br>— Colin Powell</p>
+<p align="center"><br><i>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</i><br>— Charles Darwin</p>
 <!-- ADVICE:END -->
 
 #
