@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
