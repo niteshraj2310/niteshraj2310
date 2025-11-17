@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</i><br>— Bob Marley</p>
+<p align="center"><br><i>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
