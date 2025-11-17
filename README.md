@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Storms don't last forever.</i><br>— Unknown</p>
+<p align="center"><br><i>The golden opportunity you are seeking is within yourself.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
