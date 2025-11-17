@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The golden opportunity you are seeking is within yourself.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Argue for your limitations and sure enough, they're yours.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
