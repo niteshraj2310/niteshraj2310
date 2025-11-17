@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who knows how to wait need make no concessions.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>The greatest miracle is to be alive.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
