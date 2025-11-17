@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The strongest and sweetest songs yet remain to be sung.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>Storms don't last forever.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
