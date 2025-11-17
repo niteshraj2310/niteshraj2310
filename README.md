@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Argue for your limitations and sure enough, they're yours.</i><br>— Richard Bach</p>
+<p align="center"><br><i>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
