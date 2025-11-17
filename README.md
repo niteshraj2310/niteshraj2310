@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</i><br>— Robert Greene</p>
+<p align="center"><br><i>He who knows how to wait need make no concessions.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
