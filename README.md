@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest miracle is to be alive.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>A self that goes on changing is a self that goes on living.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 #
