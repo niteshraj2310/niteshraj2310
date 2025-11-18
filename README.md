@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give so much away people insist on paying you.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>Evil is whatever distracts. </i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 #
