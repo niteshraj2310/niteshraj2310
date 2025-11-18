@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. </i><br>— Orison Swett Marden</p>
+<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
