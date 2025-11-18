@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Evil is whatever distracts. </i><br>— Franz Kafka</p>
+<p align="center"><br><i>To a mind that is still, the entire universe surrenders.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
