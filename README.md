@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To a mind that is still, the entire universe surrenders.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>Simplicity is a difficult thing to achieve. </i><br>— Charlie Chaplin</p>
 <!-- ADVICE:END -->
 
 #
