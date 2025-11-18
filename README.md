@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A self that goes on changing is a self that goes on living.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>Give so much away people insist on paying you.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
