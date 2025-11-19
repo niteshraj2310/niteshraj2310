@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your greatest asset is your earning ability. Your greatest resource is your time.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>If you do not push the boundaries, you will never know where they are.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
