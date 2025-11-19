@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every one of us is the sum total of his own thoughts.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>You talk when you cease to be at peace with your thoughts.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
