@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</i><br>— Richard Bach</p>
+<p align="center"><br><i>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
