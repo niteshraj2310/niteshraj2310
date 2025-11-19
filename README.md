@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You talk when you cease to be at peace with your thoughts.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>Your greatest asset is your earning ability. Your greatest resource is your time.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
