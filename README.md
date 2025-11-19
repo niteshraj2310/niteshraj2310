@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>The difference between winning and losing is most often not quitting.</i><br>— Walt Disney</p>
 <!-- ADVICE:END -->
 
 #
