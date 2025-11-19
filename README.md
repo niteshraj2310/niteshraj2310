@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</i><br>— Herbert Hoover</p>
+<p align="center"><br><i>Every one of us is the sum total of his own thoughts.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
