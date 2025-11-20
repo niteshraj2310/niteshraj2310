@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always render more and better service than is expected of you, no matter what your task may be.</i><br>— Og Mandino</p>
+<p align="center"><br><i>The Only Thing That Is Constant Is Change</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
