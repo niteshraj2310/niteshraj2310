@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I don't ever give up. I'd have to be dead or completely incapacitated.</i><br>— Elon Musk</p>
+<p align="center"><br><i>My sun sets to rise again.</i><br>— Robert Browning</p>
 <!-- ADVICE:END -->
 
 #
