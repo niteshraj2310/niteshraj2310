@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wheels of justice grind slow but grind fine.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Always render more and better service than is expected of you, no matter what your task may be.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
