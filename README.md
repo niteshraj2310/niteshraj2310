@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The difference between winning and losing is most often not quitting.</i><br>— Walt Disney</p>
+<p align="center"><br><i>You have power over your mind - not outside events. Realize this, and you will find strength.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
