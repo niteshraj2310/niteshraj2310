@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>My sun sets to rise again.</i><br>— Robert Browning</p>
+<p align="center"><br><i>Wheels of justice grind slow but grind fine.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
