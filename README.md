@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have power over your mind - not outside events. Realize this, and you will find strength.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>I don't ever give up. I'd have to be dead or completely incapacitated.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
