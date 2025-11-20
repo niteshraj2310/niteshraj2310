@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The Only Thing That Is Constant Is Change</i><br>— Heraclitus</p>
+<p align="center"><br><i>The destiny of man is in his own soul. </i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
