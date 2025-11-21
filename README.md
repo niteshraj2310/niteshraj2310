@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Peace of mind is that mental condition in which you have accepted the worst.</i><br>— Lin Yutang</p>
+<p align="center"><br><i>Nothing can bring you peace but yourself.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
