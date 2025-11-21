@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you're curious, you find lots of interesting things to do.</i><br>— Walt Disney</p>
+<p align="center"><br><i>Honor is the foundation of courage.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
