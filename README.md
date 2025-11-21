@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hope means hoping when everything seems hopeless.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>You are now, and you do become, what you think about.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
