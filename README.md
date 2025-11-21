@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are now, and you do become, what you think about.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Peace of mind is that mental condition in which you have accepted the worst.</i><br>— Lin Yutang</p>
 <!-- ADVICE:END -->
 
 #
