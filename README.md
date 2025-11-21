@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Honor is the foundation of courage.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Hope means hoping when everything seems hopeless.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
