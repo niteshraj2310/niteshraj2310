@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The majority of what you want will come from the minority of what you do.</i><br>— Gary Keller</p>
+<p align="center"><br><i>When you're curious, you find lots of interesting things to do.</i><br>— Walt Disney</p>
 <!-- ADVICE:END -->
 
 #
