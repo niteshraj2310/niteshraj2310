@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great minds are always feared by lesser minds.</i><br>— Dan Brown</p>
+<p align="center"><br><i>Embody what you teach, and teach only what you have embodied.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
