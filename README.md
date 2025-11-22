@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your greatest asset is your earning ability. Your greatest resource is your time.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Dreams have only one owner at a time. That's why dreamers are lonely.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
