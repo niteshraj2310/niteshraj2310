@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Embody what you teach, and teach only what you have embodied.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Your greatest asset is your earning ability. Your greatest resource is your time.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
