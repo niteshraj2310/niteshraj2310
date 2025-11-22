@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Exceptional thinkers ignore their critics and go about their business making history.</i><br>— John Eliot</p>
+<p align="center"><br><i>I believe that potential is unlimited - success depends on daring to act on dreams. </i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
