@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I never said it would be easy, I only said it would be worth it.</i><br>— Mae West</p>
+<p align="center"><br><i>One of the advantages of being disorganized is that one is always having surprising discoveries.</i><br>— A.A. Milne</p>
 <!-- ADVICE:END -->
 
 #
