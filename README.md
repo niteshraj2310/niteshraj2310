@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the advantages of being disorganized is that one is always having surprising discoveries.</i><br>— A.A. Milne</p>
+<p align="center"><br><i>You'll see it when you believe it. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
