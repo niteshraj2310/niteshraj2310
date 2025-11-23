@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be where your enemy is not.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>I never said it would be easy, I only said it would be worth it.</i><br>— Mae West</p>
 <!-- ADVICE:END -->
 
 #
