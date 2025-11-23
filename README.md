@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no self-discovery without pain and loss.</i><br>— Anita Krizzan</p>
+<p align="center"><br><i>Be where your enemy is not.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
