@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dreams have only one owner at a time. That's why dreamers are lonely.</i><br>— William Faulkner</p>
+<p align="center"><br><i>There is no self-discovery without pain and loss.</i><br>— Anita Krizzan</p>
 <!-- ADVICE:END -->
 
 #
