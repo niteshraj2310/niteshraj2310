@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>Words are the clothing of our thoughts.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
