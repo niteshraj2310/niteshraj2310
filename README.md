@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Anger begins with folly, and ends with repentance. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
