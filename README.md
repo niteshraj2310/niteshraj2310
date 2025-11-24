@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</i><br>— Henry Ford</p>
+<p align="center"><br><i>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
