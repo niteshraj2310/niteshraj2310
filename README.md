@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words are the clothing of our thoughts.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Circumstances rule men; men do not rule circumstances. </i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
