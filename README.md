@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Circumstances rule men; men do not rule circumstances. </i><br>— Herodotus</p>
+<p align="center"><br><i>It isn't what you do, but how you do it.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
