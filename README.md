@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It isn't what you do, but how you do it.</i><br>— John Wooden</p>
+<p align="center"><br><i>Surrender to what is. Let go of what was. Have faith in what will be.</i><br>— Sonia Ricotti</p>
 <!-- ADVICE:END -->
 
 #
