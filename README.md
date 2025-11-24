@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger begins with folly, and ends with repentance. </i><br>— Beverly Sills</p>
+<p align="center"><br><i>You only live once, but if you do it right, once is enough.</i><br>— Mae West</p>
 <!-- ADVICE:END -->
 
 #
