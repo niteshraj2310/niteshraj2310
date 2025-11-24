@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Surrender to what is. Let go of what was. Have faith in what will be.</i><br>— Sonia Ricotti</p>
+<p align="center"><br><i>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
