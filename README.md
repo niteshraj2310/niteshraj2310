@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You only live once, but if you do it right, once is enough.</i><br>— Mae West</p>
+<p align="center"><br><i>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
