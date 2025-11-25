@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All power is from within and therefore under our control.</i><br>— Robert Collier</p>
+<p align="center"><br><i>Remember to look up at the stars and not down at your feet.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
