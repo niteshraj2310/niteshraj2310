@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember to look up at the stars and not down at your feet.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</i><br>— Osho</p>
 <!-- ADVICE:END -->
 
 #
