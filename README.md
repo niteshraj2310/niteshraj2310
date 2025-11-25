@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Life is a question and how we live it is our answer.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
