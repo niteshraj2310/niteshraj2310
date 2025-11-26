@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you think the world is withholding from you, you are withholding from the world.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>We are all born ignorant, but one must work hard to remain stupid.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
