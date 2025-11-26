@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Catch, then, O catch the transient hour; Improve each moment as it flies! </i><br>— St. Jerome</p>
+<p align="center"><br><i>It is never too late to be what you might have been.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
