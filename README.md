@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all born ignorant, but one must work hard to remain stupid.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>The world doesn't owe you anything. It was here first.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
