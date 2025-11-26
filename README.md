@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is never too late to be what you might have been.</i><br>— George Eliot</p>
+<p align="center"><br><i>What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
