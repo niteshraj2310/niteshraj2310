@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>The smallest of actions is always better than the noblest of intentions.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
