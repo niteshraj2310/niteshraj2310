@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The world doesn't owe you anything. It was here first.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Catch, then, O catch the transient hour; Improve each moment as it flies! </i><br>— St. Jerome</p>
 <!-- ADVICE:END -->
 
 #
