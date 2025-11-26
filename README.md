@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I live by letting things happen.</i><br>— Dogen</p>
+<p align="center"><br><i>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</i><br>— Robert Frost</p>
 <!-- ADVICE:END -->
 
 #
