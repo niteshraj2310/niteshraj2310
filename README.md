@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Rivers know this: there is no hurry. We shall get there some day.</i><br>— A.A. Milne</p>
+<p align="center"><br><i>Men are equal; it is not birth but virtue that makes the difference.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
