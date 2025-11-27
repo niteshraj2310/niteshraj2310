@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Someday death will take us to another star.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>Turn off your mind, relax, and float downstream.</i><br>— John Lennon</p>
 <!-- ADVICE:END -->
 
 #
