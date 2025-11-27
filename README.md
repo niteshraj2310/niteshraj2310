@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Men are equal; it is not birth but virtue that makes the difference.</i><br>— Voltaire</p>
+<p align="center"><br><i>Someday death will take us to another star.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
