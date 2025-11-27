@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The smallest of actions is always better than the noblest of intentions.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Rivers know this: there is no hurry. We shall get there some day.</i><br>— A.A. Milne</p>
 <!-- ADVICE:END -->
 
 #
