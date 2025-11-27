@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
