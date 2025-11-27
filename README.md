@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Turn off your mind, relax, and float downstream.</i><br>— John Lennon</p>
+<p align="center"><br><i>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
