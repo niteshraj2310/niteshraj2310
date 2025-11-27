@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All leaders are readers.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>There is no fear for one whose mind is not filled with desires.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
