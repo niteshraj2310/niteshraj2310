@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you see someone without a smile give them one of yours.</i><br>— Unknown</p>
+<p align="center"><br><i>Who wishes to fight must first count the cost.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
