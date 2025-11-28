@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Who wishes to fight must first count the cost.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>It's your outlook on life that counts.</i><br>— Betty White</p>
 <!-- ADVICE:END -->
 
 #
