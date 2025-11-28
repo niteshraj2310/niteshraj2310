@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Perpetual optimism is a force multiplier.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Successful people tend to become more successful because they are always thinking about their successes.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
