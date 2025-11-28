@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's your outlook on life that counts.</i><br>— Betty White</p>
+<p align="center"><br><i>Selfishness and greed, individual or national, cause most of our troubles.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
