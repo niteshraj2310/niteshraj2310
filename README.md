@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Selfishness and greed, individual or national, cause most of our troubles.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Peace begins with a smile.</i><br>— Mother Teresa</p>
 <!-- ADVICE:END -->
 
 #
