@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no fear for one whose mind is not filled with desires.</i><br>— Buddha</p>
+<p align="center"><br><i>Perpetual optimism is a force multiplier.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
