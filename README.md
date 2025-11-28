@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Successful people tend to become more successful because they are always thinking about their successes.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>If you see someone without a smile give them one of yours.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
