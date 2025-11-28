@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Peace begins with a smile.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>Anything you may hold firmly in your imagination can be yours.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
