@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anything you may hold firmly in your imagination can be yours.</i><br>— William James</p>
+<p align="center"><br><i>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
