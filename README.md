@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no sadder sight than a young pessimist.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Know yourself and you will win all battles.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
