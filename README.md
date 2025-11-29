@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To arrive at the simplest truth requires years of contemplation.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>Until you change how you get things done, you'll never know what works best.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
