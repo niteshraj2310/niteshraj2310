@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Until you change how you get things done, you'll never know what works best.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>To lead the people, walk behind them.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
