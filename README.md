@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The less people know, the more stubbornly they know it.</i><br>— Osho</p>
+<p align="center"><br><i>To arrive at the simplest truth requires years of contemplation.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
