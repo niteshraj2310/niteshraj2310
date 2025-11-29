@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To lead the people, walk behind them.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>There is no sadder sight than a young pessimist.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
