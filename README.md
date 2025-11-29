@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</i><br>— Robert Greene</p>
+<p align="center"><br><i>The less people know, the more stubbornly they know it.</i><br>— Osho</p>
 <!-- ADVICE:END -->
 
 #
