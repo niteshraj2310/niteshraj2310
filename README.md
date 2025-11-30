@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quieter you become, the more you are able to hear.</i><br>— Rumi</p>
+<p align="center"><br><i>The thing about smart people is that they seem like crazy people to dumb people.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
