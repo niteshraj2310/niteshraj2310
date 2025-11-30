@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A day wasted on others is not wasted on one's self.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Longevity is a fleeting moment that lasts forever.</i><br>— Vidal Sassoon</p>
 <!-- ADVICE:END -->
 
 #
