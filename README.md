@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The thing about smart people is that they seem like crazy people to dumb people.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Choose a job you love, and you will never have to work a day in your life. </i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
