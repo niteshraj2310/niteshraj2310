@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>Yesterday is but today's memory, tomorrow is today's dream.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
