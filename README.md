@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
