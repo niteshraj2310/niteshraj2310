@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Longevity is a fleeting moment that lasts forever.</i><br>— Vidal Sassoon</p>
+<p align="center"><br><i>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
