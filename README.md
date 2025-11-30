@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Men are disturbed not by things, but by the view which they take of them.</i><br>— Epictetus</p>
+<p align="center"><br><i>A day wasted on others is not wasted on one's self.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
