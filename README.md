@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Yesterday is but today's memory, tomorrow is today's dream.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>The quieter you become, the more you are able to hear.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
