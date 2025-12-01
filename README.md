@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</i><br>— Grace Coddington</p>
+<p align="center"><br><i>Experience is simply the name we give our mistakes. </i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
