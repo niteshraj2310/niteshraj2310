@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</i><br>— Grace Coddington</p>
 <!-- ADVICE:END -->
 
 #
