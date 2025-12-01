@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Integrity is telling myself the truth. And honesty is telling the truth to other people.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>The only place where success comes before work is in the dictionary.</i><br>— Vidal Sassoon</p>
 <!-- ADVICE:END -->
 
 #
