@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I dream my painting and I paint my dream.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
