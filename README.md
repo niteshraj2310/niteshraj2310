@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only he who has no use for the empire is fit to be entrusted with it.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</i><br>— Grace Coddington</p>
 <!-- ADVICE:END -->
 
 #
