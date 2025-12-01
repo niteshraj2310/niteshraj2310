@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Experience is simply the name we give our mistakes. </i><br>— Oscar Wilde</p>
+<p align="center"><br><i>Integrity is telling myself the truth. And honesty is telling the truth to other people.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
