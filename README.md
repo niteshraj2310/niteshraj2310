@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Choose a job you love, and you will never have to work a day in your life. </i><br>— Confucius</p>
+<p align="center"><br><i>Only he who has no use for the empire is fit to be entrusted with it.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
