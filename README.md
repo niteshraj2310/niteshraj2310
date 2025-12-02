@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The deeper the truth in a creative work, the longer it will live. </i><br>— Charlie Chaplin</p>
+<p align="center"><br><i>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</i><br>— Maya Angelou</p>
 <!-- ADVICE:END -->
 
 #
