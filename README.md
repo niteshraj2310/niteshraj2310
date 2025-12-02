@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only those who will risk going too far can possibly find out how far one can go.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</i><br>— Wayne Gretzky</p>
 <!-- ADVICE:END -->
 
 #
