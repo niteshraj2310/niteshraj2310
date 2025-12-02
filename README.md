@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only place where success comes before work is in the dictionary.</i><br>— Vidal Sassoon</p>
+<p align="center"><br><i>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
