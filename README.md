@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</i><br>— Wayne Gretzky</p>
+<p align="center"><br><i>Never settle for the crumbs of life.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
