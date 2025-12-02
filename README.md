@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</i><br>— Maya Angelou</p>
+<p align="center"><br><i>Only those who will risk going too far can possibly find out how far one can go.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
