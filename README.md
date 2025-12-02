@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </i><br>— Henry Ford</p>
+<p align="center"><br><i>The deeper the truth in a creative work, the longer it will live. </i><br>— Charlie Chaplin</p>
 <!-- ADVICE:END -->
 
 #
