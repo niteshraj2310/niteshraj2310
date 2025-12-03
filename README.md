@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some people don't like change, but you need to embrace change if the alternative is disaster.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Embrace the life you have and stop wishing that you could be someone else.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
