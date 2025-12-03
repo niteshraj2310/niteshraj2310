@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Turn your wounds into wisdom. </i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>If you're really truthful with yourself, it's a wonderful guidance. </i><br>— Charlie Chaplin</p>
 <!-- ADVICE:END -->
 
 #
