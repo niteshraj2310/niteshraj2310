@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The fear of death is more to be feared, than death itself.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>Some people don't like change, but you need to embrace change if the alternative is disaster.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
