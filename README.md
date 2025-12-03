@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People who bite the hand that feeds them usually lick the boot that kicks them.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>Don't look for meaning in the words. Listen to the silences.</i><br>— Samuel Beckett</p>
 <!-- ADVICE:END -->
 
 #
