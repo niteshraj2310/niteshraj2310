@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Embrace the life you have and stop wishing that you could be someone else.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>We need never be ashamed of our tears.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
