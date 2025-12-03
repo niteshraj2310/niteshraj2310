@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're really truthful with yourself, it's a wonderful guidance. </i><br>— Charlie Chaplin</p>
+<p align="center"><br><i>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
