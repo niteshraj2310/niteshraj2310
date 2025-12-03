@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We need never be ashamed of our tears.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>People who bite the hand that feeds them usually lick the boot that kicks them.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
