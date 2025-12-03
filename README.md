@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't look for meaning in the words. Listen to the silences.</i><br>— Samuel Beckett</p>
+<p align="center"><br><i>Turn your wounds into wisdom. </i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
