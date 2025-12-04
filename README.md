@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is about doing the right thing, not about doing everything right.</i><br>— Gary Keller</p>
+<p align="center"><br><i>You can't have anything worthwhile without difficulties.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
