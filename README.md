@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone wants to go to Heaven, but no one wants to die.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
