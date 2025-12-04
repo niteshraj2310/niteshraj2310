@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't have anything worthwhile without difficulties.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Everyone wants to go to Heaven, but no one wants to die.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
