@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Aim for the moon. If you miss, you may hit a star.</i><br>— W. Clement Stone</p>
+<p align="center"><br><i>Wealth is the product of man's capacity to think.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
