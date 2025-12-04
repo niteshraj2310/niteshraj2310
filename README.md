@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Goals are the fuel in the furnace of achievement.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Aim for the moon. If you miss, you may hit a star.</i><br>— W. Clement Stone</p>
 <!-- ADVICE:END -->
 
 #
