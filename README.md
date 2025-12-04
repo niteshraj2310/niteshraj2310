@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Goals are the fuel in the furnace of achievement.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
