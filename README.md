@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wealth is the product of man's capacity to think.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>The way we feel is the direct result of what we think.</i><br>— Peter A. Cohen</p>
 <!-- ADVICE:END -->
 
 #
