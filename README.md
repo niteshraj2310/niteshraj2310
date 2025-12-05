@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the middle of chaos lies opportunity. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
