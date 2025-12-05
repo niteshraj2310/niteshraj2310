@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is within the reach of just about everyone.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>In the middle of chaos lies opportunity. </i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
