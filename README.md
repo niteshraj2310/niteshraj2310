@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every strike brings me closer to the next home run. </i><br>— Babe Ruth</p>
+<p align="center"><br><i>Life is about not knowing and then doing something anyway.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
