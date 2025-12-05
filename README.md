@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Quality means doing it right when no one is looking.</i><br>— Henry Ford</p>
+<p align="center"><br><i>Knowing others is wisdom, knowing yourself is enlightenment.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
