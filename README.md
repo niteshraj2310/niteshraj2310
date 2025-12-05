@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only by attracting the best people will you accomplish great deeds.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Every strike brings me closer to the next home run. </i><br>— Babe Ruth</p>
 <!-- ADVICE:END -->
 
 #
