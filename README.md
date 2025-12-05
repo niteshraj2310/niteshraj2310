@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Quality means doing it right when no one is looking.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
