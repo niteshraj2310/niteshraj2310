@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The way we feel is the direct result of what we think.</i><br>— Peter A. Cohen</p>
+<p align="center"><br><i>Only by attracting the best people will you accomplish great deeds.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
