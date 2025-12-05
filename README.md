@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is about not knowing and then doing something anyway.</i><br>— Mark Manson</p>
+<p align="center"><br><i>Success is within the reach of just about everyone.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
