@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </i><br>— Samuel Beckett</p>
+<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
