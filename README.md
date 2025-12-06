@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not believe that you will reach your destination without leaving the shore. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Remember, hope is a good thing, maybe the best of things.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
