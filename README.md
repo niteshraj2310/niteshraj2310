@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where the willingness is great, the difficulties cannot be great.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>The only reason to be alive is to enjoy it.</i><br>— Rita Mae Brown</p>
 <!-- ADVICE:END -->
 
 #
