@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember, hope is a good thing, maybe the best of things.</i><br>— Stephen King</p>
+<p align="center"><br><i>Where the willingness is great, the difficulties cannot be great.</i><br>— Niccolo Machiavelli</p>
 <!-- ADVICE:END -->
 
 #
