@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When your intuition is strong, follow it.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>Do not believe that you will reach your destination without leaving the shore. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
