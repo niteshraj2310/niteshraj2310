@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing others is wisdom, knowing yourself is enlightenment.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>You only live once, but if you do it right, once is enough.</i><br>— Mae West</p>
 <!-- ADVICE:END -->
 
 #
