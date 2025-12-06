@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only reason to be alive is to enjoy it.</i><br>— Rita Mae Brown</p>
+<p align="center"><br><i>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </i><br>— Samuel Beckett</p>
 <!-- ADVICE:END -->
 
 #
