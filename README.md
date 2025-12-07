@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Our greatest glory is not in never falling but in rising every time we fall.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
