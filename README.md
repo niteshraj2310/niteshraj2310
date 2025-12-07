@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You live by what you thrill to, and there's the end of it.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
