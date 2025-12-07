@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you do in life, surround yourself with smart people who'll argue with you.</i><br>— John Wooden</p>
+<p align="center"><br><i>You live by what you thrill to, and there's the end of it.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
