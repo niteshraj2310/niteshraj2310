@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Little minds have little worries, big minds have no time for worries.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
