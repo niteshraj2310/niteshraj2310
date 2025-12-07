@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our greatest glory is not in never falling but in rising every time we fall.</i><br>— Confucius</p>
+<p align="center"><br><i>Dreams provide nourishment for the soul, just as a meal does for the body.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
