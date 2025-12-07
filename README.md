@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>May you live all the days of your life.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Whatever you do in life, surround yourself with smart people who'll argue with you.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
