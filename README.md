@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dreams provide nourishment for the soul, just as a meal does for the body.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
