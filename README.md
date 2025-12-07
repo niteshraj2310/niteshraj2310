@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Little minds have little worries, big minds have no time for worries.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>May you live all the days of your life.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
