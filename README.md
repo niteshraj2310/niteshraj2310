@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowledge is a treasure, but practice is the key to it.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Difficult roads often lead to beautiful destinations.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
