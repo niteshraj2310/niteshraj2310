@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not use life to give life to death. Do not use death to bring death to life.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>Adventure is worthwhile in itself.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
