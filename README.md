@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your happiness is what truly matters most. Do what you have to do in order to be happy.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
