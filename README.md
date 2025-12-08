@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adventure is worthwhile in itself.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Action may not always bring happiness, but there is no happiness without action.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
