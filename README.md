@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Do not use life to give life to death. Do not use death to bring death to life.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
