@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not follow the ideas of others, but learn to listen to the voice within yourself.</i><br>— Dogen</p>
+<p align="center"><br><i>Knowledge is a treasure, but practice is the key to it.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
