@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Action may not always bring happiness, but there is no happiness without action.</i><br>— William James</p>
+<p align="center"><br><i>Your happiness is what truly matters most. Do what you have to do in order to be happy.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
