@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>Learning never exhausts the mind. </i><br>— Leonardo da Vinci</p>
 <!-- ADVICE:END -->
 
 #
