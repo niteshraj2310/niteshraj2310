@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger begins with folly, and ends with repentance. </i><br>— Beverly Sills</p>
+<p align="center"><br><i>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
