@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to learn late than never.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>Do anything, but let it produce joy.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
