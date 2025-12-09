@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 #
