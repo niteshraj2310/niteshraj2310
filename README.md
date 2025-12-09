@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do anything, but let it produce joy.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>Change is inevitable but personal growth is a choice.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 #
