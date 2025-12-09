@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Difficult roads often lead to beautiful destinations.</i><br>— Unknown</p>
+<p align="center"><br><i>It is better to learn late than never.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 #
