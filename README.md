@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change is inevitable but personal growth is a choice.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>Anger begins with folly, and ends with repentance. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
