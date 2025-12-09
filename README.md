@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learning never exhausts the mind. </i><br>— Leonardo da Vinci</p>
+<p align="center"><br><i>People think you're crazy if you talk about things they don't understand.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 #
