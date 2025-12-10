@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing can bring you peace but yourself.</i><br>— Dale Carnegie</p>
+<p align="center"><br><i>Change is hardest at the beginning, messiest in the middle and best at the end.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
