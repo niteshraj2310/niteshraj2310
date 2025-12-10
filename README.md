@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can put lipstick on a pig. It's still a pig.</i><br>— Barack Obama</p>
+<p align="center"><br><i>Believe in your infinite potential. Your only limitations are those you set upon yourself.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
