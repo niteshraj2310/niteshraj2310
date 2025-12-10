@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fools talk, cowards are silent, wise men listen.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Nothing can bring you peace but yourself.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
