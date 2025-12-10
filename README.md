@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe in your infinite potential. Your only limitations are those you set upon yourself.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Only those who do nothing at all make no mistakes.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
