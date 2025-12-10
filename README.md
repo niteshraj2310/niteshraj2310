@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People think you're crazy if you talk about things they don't understand.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>Your business is not to 'get somewhere' - it is to be here.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
