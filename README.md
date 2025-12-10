@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your business is not to 'get somewhere' - it is to be here.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Fools talk, cowards are silent, wise men listen.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
