@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</i><br>— Benjamin Mays</p>
+<p align="center"><br><i>You can put lipstick on a pig. It's still a pig.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
