@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change is hardest at the beginning, messiest in the middle and best at the end.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</i><br>— Benjamin Mays</p>
 <!-- ADVICE:END -->
 
 #
