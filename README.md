@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>The quality of your life is the quality of your relationships.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
