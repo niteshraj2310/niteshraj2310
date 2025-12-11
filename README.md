@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
