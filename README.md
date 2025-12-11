@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more acquaintances you have, the less you know them.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
