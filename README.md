@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only those who do nothing at all make no mistakes.</i><br>— Unknown</p>
+<p align="center"><br><i>The more acquaintances you have, the less you know them.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
