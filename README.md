@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The real measure of your wealth is how much you'd be worth if you lost all your money.</i><br>— Unknown</p>
+<p align="center"><br><i>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
