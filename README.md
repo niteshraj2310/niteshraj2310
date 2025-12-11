@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>We all give up great expectations along the way.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
