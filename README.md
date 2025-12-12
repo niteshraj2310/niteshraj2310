@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I can think of nothing less pleasurable than a life devoted to pleasure.</i><br>— John D. Rockefeller</p>
+<p align="center"><br><i>A life without a cause is a life without effect.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
