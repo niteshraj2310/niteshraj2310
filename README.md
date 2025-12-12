@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is an option, fear is not.</i><br>— James Cameron</p>
+<p align="center"><br><i>Trusting our intuition often saves us from disaster. </i><br>— Anne Wilson Schaef</p>
 <!-- ADVICE:END -->
 
 #
