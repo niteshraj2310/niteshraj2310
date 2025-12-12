@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quality of your life is the quality of your relationships.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>When you want something in life, you just gotta reach out and grab it.</i><br>— Christopher McCandless</p>
 <!-- ADVICE:END -->
 
 #
