@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you want something in life, you just gotta reach out and grab it.</i><br>— Christopher McCandless</p>
+<p align="center"><br><i>It's what you do in the present that will redeem the past and thereby change the future.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
