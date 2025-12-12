@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Peace is letting it be. Letting life flow, letting emotions flow through you.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Failure is an option, fear is not.</i><br>— James Cameron</p>
 <!-- ADVICE:END -->
 
 #
