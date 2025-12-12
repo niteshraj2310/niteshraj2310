@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A life without a cause is a life without effect.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Peace is letting it be. Letting life flow, letting emotions flow through you.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
