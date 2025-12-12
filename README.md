@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's what you do in the present that will redeem the past and thereby change the future.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Others can stop you temporarily - you are the only one who can do it permanently.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
