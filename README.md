@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Others can stop you temporarily - you are the only one who can do it permanently.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>I can think of nothing less pleasurable than a life devoted to pleasure.</i><br>— John D. Rockefeller</p>
 <!-- ADVICE:END -->
 
 #
