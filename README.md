@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only the educated are free.</i><br>— Epictetus</p>
+<p align="center"><br><i>Be kind whenever possible. It is always possible.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
