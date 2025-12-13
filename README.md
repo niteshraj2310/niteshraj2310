@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trusting our intuition often saves us from disaster. </i><br>— Anne Wilson Schaef</p>
+<p align="center"><br><i>Be willing to be a beginner every single morning.</i><br>— Meister Eckhart</p>
 <!-- ADVICE:END -->
 
 #
