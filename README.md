@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be willing to be a beginner every single morning.</i><br>— Meister Eckhart</p>
+<p align="center"><br><i>Real growth comes through intense, difficult, and challenging situations.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
