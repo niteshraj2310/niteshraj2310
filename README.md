@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Real growth comes through intense, difficult, and challenging situations.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Don't let the past steal your present.</i><br>— Cherralea Morgen</p>
 <!-- ADVICE:END -->
 
 #
