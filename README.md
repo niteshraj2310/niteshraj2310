@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the past steal your present.</i><br>— Cherralea Morgen</p>
+<p align="center"><br><i>Art is the signature of civilizations. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
