@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot teach a crab to walk straight.</i><br>— Aristophanes</p>
+<p align="center"><br><i>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
