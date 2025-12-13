@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be kind whenever possible. It is always possible.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>You cannot teach a crab to walk straight.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 #
