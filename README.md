@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Art is the signature of civilizations. </i><br>— Beverly Sills</p>
+<p align="center"><br><i>Only the educated are free.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
