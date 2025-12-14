@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be patient and calm; no one can catch fish in anger.</i><br>— Herbert Hoover</p>
+<p align="center"><br><i>Be brave to stand for what you believe in even if you stand alone.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
