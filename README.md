@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the most difficult things is not to change society - but to change yourself.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>Allow motion to equal emotion.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
