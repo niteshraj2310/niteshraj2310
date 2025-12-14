@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
