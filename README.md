@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Your spirit is the true shield.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
