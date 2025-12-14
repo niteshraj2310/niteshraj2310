@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</i><br>— Socrates</p>
+<p align="center"><br><i>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
