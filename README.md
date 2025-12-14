@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Be patient and calm; no one can catch fish in anger.</i><br>— Herbert Hoover</p>
 <!-- ADVICE:END -->
 
 #
