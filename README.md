@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future belongs to those who believe in the beauty of their dreams.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Our joy does not have to be based on our circumstances.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
