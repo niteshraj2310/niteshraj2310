@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>That some achieve great success is proof to all that others can achieve it as well.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>The energy of the mind is the essence of life.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
