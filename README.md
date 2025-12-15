@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Humans and prosperity never endure side by side for long.</i><br>— Herodotus</p>
+<p align="center"><br><i>The future belongs to those who believe in the beauty of their dreams.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
