@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The energy of the mind is the essence of life.</i><br>— Aristotle</p>
+<p align="center"><br><i>Humans and prosperity never endure side by side for long.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
