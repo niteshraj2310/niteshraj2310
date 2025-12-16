@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The businessman's tool is value.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>Motivation gets you going and habit gets you there. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
