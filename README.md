@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Motivation gets you going and habit gets you there. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Whatever you do in life, surround yourself with smart people who'll argue with you.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
