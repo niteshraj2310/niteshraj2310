@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear of death is fear of the Unknown.</i><br>— Adi Da Samraj</p>
+<p align="center"><br><i>The best way to find yourself is to lose yourself in the service of others.</i><br>— Mahatma Gandhi</p>
 <!-- ADVICE:END -->
 
 #
