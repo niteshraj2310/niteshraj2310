@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you do in life, surround yourself with smart people who'll argue with you.</i><br>— John Wooden</p>
+<p align="center"><br><i>The number one cause of failure is the fear of failure.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
