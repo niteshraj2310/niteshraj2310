@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some men see things as they are and ask why. Others dream things that never were and ask why not.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Fear of death is fear of the Unknown.</i><br>— Adi Da Samraj</p>
 <!-- ADVICE:END -->
 
 #
