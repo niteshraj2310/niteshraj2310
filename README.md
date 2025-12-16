@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best way to find yourself is to lose yourself in the service of others.</i><br>— Mahatma Gandhi</p>
+<p align="center"><br><i>Discipline yourself, and others won't need to.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
