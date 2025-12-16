@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our joy does not have to be based on our circumstances.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>The businessman's tool is value.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
