@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The number one cause of failure is the fear of failure.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Some men see things as they are and ask why. Others dream things that never were and ask why not.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
