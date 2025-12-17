@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you repeat a mistake, it is not a mistake anymore: it is a decision.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>We can have more than we've got because we can become more than we are.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
