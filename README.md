@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't waste time on excuses. Just get it done.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>The present moment is filled with joy and happiness. If you are attentive, you will see it.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
