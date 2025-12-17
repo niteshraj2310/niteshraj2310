@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The present moment is filled with joy and happiness. If you are attentive, you will see it.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>When you repeat a mistake, it is not a mistake anymore: it is a decision.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
