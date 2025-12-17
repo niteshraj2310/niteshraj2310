@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Discipline yourself, and others won't need to.</i><br>— John Wooden</p>
+<p align="center"><br><i>Human beings can alter their lives by altering their attitudes of mind.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
