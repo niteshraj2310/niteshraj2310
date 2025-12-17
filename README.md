@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Human beings can alter their lives by altering their attitudes of mind.</i><br>— William James</p>
+<p align="center"><br><i>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
