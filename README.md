@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We can have more than we've got because we can become more than we are.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>He who knows best knows how little he knows.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
