@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who knows best knows how little he knows.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>When you're the only sane person, you look like the only insane person.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
