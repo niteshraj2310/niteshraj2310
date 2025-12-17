@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Don't waste time on excuses. Just get it done.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
