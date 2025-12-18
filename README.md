@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you're the only sane person, you look like the only insane person.</i><br>— Criss Jami</p>
+<p align="center"><br><i>All things come into being by conflict of opposites.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
