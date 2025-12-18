@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All things come into being by conflict of opposites.</i><br>— Heraclitus</p>
+<p align="center"><br><i>If you want something then you lose everything. If you don't want anything then you already have everything.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
