@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want peace, accept. If you want suffering, expect.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>Success is not to be pursued, it is to be attracted by the person you become.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
