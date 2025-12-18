@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult. </i><br>— Seneca</p>
+<p align="center"><br><i>It is passion that makes man live; wisdom makes one only last.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
