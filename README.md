@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is passion that makes man live; wisdom makes one only last.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Muddy water is best cleared by leaving it alone.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
