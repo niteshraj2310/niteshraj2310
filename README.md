@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is not to be pursued, it is to be attracted by the person you become.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Throw me to the wolves and I will return leading the pack. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
