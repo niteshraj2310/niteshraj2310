@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Muddy water is best cleared by leaving it alone.</i><br>— Alan Watts</p>
+<p align="center"><br><i>If you want peace, accept. If you want suffering, expect.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
