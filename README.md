@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I want the fishing rod, not the fish.</i><br>— Yanni</p>
+<p align="center"><br><i>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
