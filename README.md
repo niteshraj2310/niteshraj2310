@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your gift is something that you can do innately better than anything else.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
