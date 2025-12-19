@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People think you're crazy if you talk about things they don't understand.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>You must welcome change as the rule but not as your ruler. </i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
