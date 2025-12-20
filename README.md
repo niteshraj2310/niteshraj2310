@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wealth consists not in having great possessions, but in having few wants.</i><br>— Epictetus</p>
+<p align="center"><br><i>Be royal in your own fashion: act like a king to be treated like one.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
