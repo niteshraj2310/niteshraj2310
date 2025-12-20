@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Don't criticize what you can't understand. </i><br>— Bob Dylan</p>
 <!-- ADVICE:END -->
 
 #
