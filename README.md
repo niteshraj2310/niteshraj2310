@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be thankful for everything that happens in your life; it's all an experience.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>The more you trust yourself, the less you compare yourself to others.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
