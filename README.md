@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be royal in your own fashion: act like a king to be treated like one.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Be thankful for everything that happens in your life; it's all an experience.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
