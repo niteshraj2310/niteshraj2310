@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I believe that potential is unlimited - success depends on daring to act on dreams. </i><br>— Estee Lauder</p>
+<p align="center"><br><i>Wealth consists not in having great possessions, but in having few wants.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
