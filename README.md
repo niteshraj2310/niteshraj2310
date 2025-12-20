@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't criticize what you can't understand. </i><br>— Bob Dylan</p>
+<p align="center"><br><i>To be able to forget means sanity.</i><br>— Jack London</p>
 <!-- ADVICE:END -->
 
 #
