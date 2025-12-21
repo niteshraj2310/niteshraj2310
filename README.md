@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>The first man gets the oyster, the second man gets the shell.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
