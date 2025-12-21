@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you trust yourself, the less you compare yourself to others.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Everyone is a moon, and has a dark side which he never shows to anybody.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
