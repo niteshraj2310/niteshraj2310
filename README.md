@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Anxiety is the dizziness of freedom.</i><br>— Soren Kierkegaard</p>
 <!-- ADVICE:END -->
 
 #
