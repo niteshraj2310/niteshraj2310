@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone is a moon, and has a dark side which he never shows to anybody.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Some men see things as they are and ask why. Others dream things that never were and ask why not.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
