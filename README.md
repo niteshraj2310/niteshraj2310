@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first man gets the oyster, the second man gets the shell.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>The moment you doubt whether you can fly, you cease for ever to be able to do it.</i><br>— James Matthew Barrie</p>
 <!-- ADVICE:END -->
 
 #
