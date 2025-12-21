@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some men see things as they are and ask why. Others dream things that never were and ask why not.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
