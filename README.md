@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Start each day with a positive thought and a grateful heart.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
