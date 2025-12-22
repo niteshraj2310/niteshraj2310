@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is easy to discover what another has discovered before.</i><br>— Christopher Columbus</p>
+<p align="center"><br><i>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </i><br>— Charles Swindoll</p>
 <!-- ADVICE:END -->
 
 #
