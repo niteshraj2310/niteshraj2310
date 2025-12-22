@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</i><br>— Robert Greene</p>
+<p align="center"><br><i>It is easy to discover what another has discovered before.</i><br>— Christopher Columbus</p>
 <!-- ADVICE:END -->
 
 #
