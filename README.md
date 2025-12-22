@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The moment you doubt whether you can fly, you cease for ever to be able to do it.</i><br>— James Matthew Barrie</p>
+<p align="center"><br><i>I've always lived in the moment.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
