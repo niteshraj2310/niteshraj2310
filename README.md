@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</i><br>— Unknown</p>
+<p align="center"><br><i>The person who is his own master cannot tolerate another boss. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
