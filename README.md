@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never waste a minute of your precious life thinking about people you don't like.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
