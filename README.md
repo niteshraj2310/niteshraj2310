@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I've always lived in the moment.</i><br>— Yanni</p>
+<p align="center"><br><i>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
