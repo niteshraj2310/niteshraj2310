@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </i><br>— Charles Swindoll</p>
+<p align="center"><br><i>The key to success is failure.</i><br>— Michael Jordan</p>
 <!-- ADVICE:END -->
 
 #
