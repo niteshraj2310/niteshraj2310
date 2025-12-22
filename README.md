@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The key to success is failure.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>Never waste a minute of your precious life thinking about people you don't like.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
