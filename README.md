@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The question is not what you look at, but what you see.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
