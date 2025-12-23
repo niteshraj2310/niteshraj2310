@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Each day provides it's own gifts.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>I do not seek. I find.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
