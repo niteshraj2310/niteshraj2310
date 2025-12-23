@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who is his own master cannot tolerate another boss. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Everything is in your own heart.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
