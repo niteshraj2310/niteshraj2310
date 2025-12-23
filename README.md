@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The single biggest problem in communication is the illusion that it has taken place.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>In order to be walked over, you have to be lying down.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
