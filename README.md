@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I do not seek. I find.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>The single biggest problem in communication is the illusion that it has taken place.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
