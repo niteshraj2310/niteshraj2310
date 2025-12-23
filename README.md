@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>By words the mind is winged.</i><br>— Aristophanes</p>
+<p align="center"><br><i>The question is not what you look at, but what you see.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
