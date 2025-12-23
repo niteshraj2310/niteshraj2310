@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Each day provides it's own gifts.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
