@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything is in your own heart.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>By words the mind is winged.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 #
