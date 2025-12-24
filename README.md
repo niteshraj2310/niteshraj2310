@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life without love is like a tree without blossoms or fruit.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>We tend to live up to our expectations.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
