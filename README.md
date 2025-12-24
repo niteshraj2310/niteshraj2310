@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>You are the average of the five people you spend most time with.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
