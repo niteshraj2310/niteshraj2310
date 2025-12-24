@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We tend to live up to our expectations.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Believe nothing you hear, and only one half that you see.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
