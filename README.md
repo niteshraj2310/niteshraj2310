@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If I have seen further than others, it is by standing upon the shoulders of giants.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
