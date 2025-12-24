@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We learn to walk by falling down. If we never fell down, we would never walk.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Life without love is like a tree without blossoms or fruit.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
