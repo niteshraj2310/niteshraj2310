@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In order to be walked over, you have to be lying down.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>If you always do what you've always done, you'll always get what you've always got. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
