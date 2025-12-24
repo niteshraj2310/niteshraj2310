@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe nothing you hear, and only one half that you see.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>If I have seen further than others, it is by standing upon the shoulders of giants.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
