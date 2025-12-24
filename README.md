@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you always do what you've always done, you'll always get what you've always got. </i><br>— Henry Ford</p>
+<p align="center"><br><i>We learn to walk by falling down. If we never fell down, we would never walk.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
