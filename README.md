@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Passion is energy. Feel the power that comes from focusing on what excites you. </i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>To live is to be willing to die over and over again.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
