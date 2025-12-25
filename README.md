@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are the average of the five people you spend most time with.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>He who can, does.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
