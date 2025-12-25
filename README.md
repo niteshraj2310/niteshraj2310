@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Passion is energy. Feel the power that comes from focusing on what excites you. </i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
