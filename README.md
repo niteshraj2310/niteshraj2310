@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes you have to lose all you have to find out who you truly are.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Everybody by your side ain't on your side.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
