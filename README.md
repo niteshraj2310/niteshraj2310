@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To live is to be willing to die over and over again.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>Question everything. Learn something. Answer nothing.</i><br>— Euripides</p>
 <!-- ADVICE:END -->
 
 #
