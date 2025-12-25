@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everybody by your side ain't on your side.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Never to suffer would never to have been blessed.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
