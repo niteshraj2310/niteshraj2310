@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Art, like morality, consists of drawing the line somewhere.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>If you want things to be different, perhaps the answer is to become different yourself.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
