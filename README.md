@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Question everything. Learn something. Answer nothing.</i><br>— Euripides</p>
+<p align="center"><br><i>Every day may not be good, but there's something good in every day.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
