@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day may not be good, but there's something good in every day.</i><br>— Unknown</p>
+<p align="center"><br><i>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</i><br>— Alexandre Dumas</p>
 <!-- ADVICE:END -->
 
 #
