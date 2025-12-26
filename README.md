@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>To perceive is to suffer.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
