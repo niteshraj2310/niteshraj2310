@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who can make you believe absurdities can make you commit atrocities. </i><br>— Voltaire</p>
+<p align="center"><br><i>Art, like morality, consists of drawing the line somewhere.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
