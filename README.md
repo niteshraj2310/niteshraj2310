@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</i><br>— Alexandre Dumas</p>
+<p align="center"><br><i>Those who can make you believe absurdities can make you commit atrocities. </i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
