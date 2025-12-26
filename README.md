@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want things to be different, perhaps the answer is to become different yourself.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
