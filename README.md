@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In order to carry a positive action, we must develop here a positive vision.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Someday death will take us to another star.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
