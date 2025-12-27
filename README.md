@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</i><br>— F. Scott Fitzgerald</p>
+<p align="center"><br><i>Experience is simply the name we give our mistakes. </i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
