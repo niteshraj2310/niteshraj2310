@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What worries you, masters you.</i><br>— John Locke</p>
+<p align="center"><br><i>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
