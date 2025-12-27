@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Experience is simply the name we give our mistakes. </i><br>— Oscar Wilde</p>
+<p align="center"><br><i>The meaning of life is to find your gift. The purpose of life is to give it away.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
