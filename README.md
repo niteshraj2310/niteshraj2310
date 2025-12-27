@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>The future belongs to those who learn more skills and combine them in creative ways.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
