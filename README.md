@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>What worries you, masters you.</i><br>— John Locke</p>
 <!-- ADVICE:END -->
 
 #
