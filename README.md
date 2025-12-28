@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It will never rain roses: when we want to have more roses, we must plant more roses.</i><br>— George Eliot</p>
+<p align="center"><br><i>Don't look for meaning in the words. Listen to the silences.</i><br>— Samuel Beckett</p>
 <!-- ADVICE:END -->
 
 #
