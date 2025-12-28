@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future belongs to those who learn more skills and combine them in creative ways.</i><br>— Robert Greene</p>
+<p align="center"><br><i>The less you talk about your shame, the more of it you have.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
