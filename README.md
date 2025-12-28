@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Life is not just the passing of time. Life is the collection of experiences and their intensity.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
