@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A lot of people have gone further than they thought they could because someone else thought they could.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>When you win, say nothing, when you lose say less.</i><br>— Wayne Gretzky</p>
 <!-- ADVICE:END -->
 
 #
