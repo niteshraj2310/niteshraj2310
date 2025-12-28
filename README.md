@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The less you talk about your shame, the more of it you have.</i><br>— Mark Manson</p>
+<p align="center"><br><i>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
