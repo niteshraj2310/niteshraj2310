@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you win, say nothing, when you lose say less.</i><br>— Wayne Gretzky</p>
+<p align="center"><br><i>The quicker you let go of old cheese, the sooner you find new cheese.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
