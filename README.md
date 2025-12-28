@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is not just the passing of time. Life is the collection of experiences and their intensity.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>It will never rain roses: when we want to have more roses, we must plant more roses.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
