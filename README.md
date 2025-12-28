@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't look for meaning in the words. Listen to the silences.</i><br>— Samuel Beckett</p>
+<p align="center"><br><i>A lot of people have gone further than they thought they could because someone else thought they could.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
