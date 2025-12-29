@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You know you are on the road to success if you would do your job and not be paid for it.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</i><br>— Orison Swett Marden</p>
 <!-- ADVICE:END -->
 
 #
