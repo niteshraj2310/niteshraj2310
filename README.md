@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Raise your words, not voice. It is rain that grows flowers, not thunder.</i><br>— Rumi</p>
+<p align="center"><br><i>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
