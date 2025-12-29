@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
