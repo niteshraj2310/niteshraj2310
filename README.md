@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quicker you let go of old cheese, the sooner you find new cheese.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Not all of us can do great things. But we can do small things with great love.</i><br>— Mother Teresa</p>
 <!-- ADVICE:END -->
 
 #
