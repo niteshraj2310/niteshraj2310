@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Not all of us can do great things. But we can do small things with great love.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>Raise your words, not voice. It is rain that grows flowers, not thunder.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
