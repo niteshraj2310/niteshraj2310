@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</i><br>— Unknown</p>
+<p align="center"><br><i>You know you are on the road to success if you would do your job and not be paid for it.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
