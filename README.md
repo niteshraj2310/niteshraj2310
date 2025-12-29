@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </i><br>— Henry Ford</p>
+<p align="center"><br><i>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
