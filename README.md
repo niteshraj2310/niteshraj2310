@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
