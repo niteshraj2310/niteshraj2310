@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>Anyone who wants to achieve a dream must stay strong, focused and steady.</i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
