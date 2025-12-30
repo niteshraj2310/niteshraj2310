@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not the love you make. It's the love you give. </i><br>— Nikola Tesla</p>
+<p align="center"><br><i>When it hurts - observe. Life is trying to teach you something.</i><br>— Anita Krizzan</p>
 <!-- ADVICE:END -->
 
 #
