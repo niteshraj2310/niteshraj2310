@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When it hurts - observe. Life is trying to teach you something.</i><br>— Anita Krizzan</p>
+<p align="center"><br><i>It is what we make out of what we have, not what we are given, that separates one person from another.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 #
