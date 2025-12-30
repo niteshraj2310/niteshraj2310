@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take interest and even delight in doing the small things well.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>It's not the love you make. It's the love you give. </i><br>— Nikola Tesla</p>
 <!-- ADVICE:END -->
 
 #
