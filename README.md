@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is what we make out of what we have, not what we are given, that separates one person from another.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>Don't let the noise of others opinions drown out your inner voice.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 #
