@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</i><br>— Orison Swett Marden</p>
+<p align="center"><br><i>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
