@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You know the more one does the more one can do.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Take interest and even delight in doing the small things well.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
