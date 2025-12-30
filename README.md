@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anyone who wants to achieve a dream must stay strong, focused and steady.</i><br>— Estee Lauder</p>
+<p align="center"><br><i>You know the more one does the more one can do.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
