@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Absence makes the heart grow fonder.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>You can't let your failures define you. You have to let your failures teach you.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
