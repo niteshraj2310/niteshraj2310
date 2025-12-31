@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>an action committed in anger is an action doomed to failure. </i><br>— Genghis Khan</p>
+<p align="center"><br><i>Absence makes the heart grow fonder.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
