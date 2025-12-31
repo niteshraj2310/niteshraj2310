@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear, uncertainty, and discomfort are your compasses toward growth.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>an action committed in anger is an action doomed to failure. </i><br>— Genghis Khan</p>
 <!-- ADVICE:END -->
 
 #
