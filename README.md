@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Creativity is the greatest rebellion in existence.</i><br>— Osho</p>
+<p align="center"><br><i>I learned the value of hard work by working hard. </i><br>— Margaret Mead</p>
 <!-- ADVICE:END -->
 
 #
