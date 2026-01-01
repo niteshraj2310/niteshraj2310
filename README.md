@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Never confuse a single defeat with a final defeat.</i><br>— F. Scott Fitzgerald</p>
 <!-- ADVICE:END -->
 
 #
