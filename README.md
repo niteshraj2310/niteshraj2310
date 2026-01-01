@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The strength of a wall is neither greater nor less than the courage of the men who defend it. </i><br>— Genghis Khan</p>
+<p align="center"><br><i>Take interest and even delight in doing the small things well.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
