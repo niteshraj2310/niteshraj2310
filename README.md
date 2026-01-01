@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>The most effective way to do it, is to do it.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
