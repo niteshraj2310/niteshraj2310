@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Generosity is giving more than you can, and pride is taking less than you need.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
