@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most effective way to do it, is to do it.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
