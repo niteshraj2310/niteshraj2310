@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are free, and that is why you are lost.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>Generosity is giving more than you can, and pride is taking less than you need.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
