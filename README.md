@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I learned the value of hard work by working hard. </i><br>— Margaret Mead</p>
+<p align="center"><br><i>The strength of a wall is neither greater nor less than the courage of the men who defend it. </i><br>— Genghis Khan</p>
 <!-- ADVICE:END -->
 
 #
