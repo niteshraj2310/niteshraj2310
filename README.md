@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is about choice. You can choose to be a victim or anything else you like to be.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Begin at once to live, and count each separate day as a separate life. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
