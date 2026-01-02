@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>Our joy does not have to be based on our circumstances.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
