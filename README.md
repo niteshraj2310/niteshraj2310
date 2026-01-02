@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Begin at once to live, and count each separate day as a separate life. </i><br>— Seneca</p>
+<p align="center"><br><i>Success and failure come and go, but don't let them define you. It's who you are that matters.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
