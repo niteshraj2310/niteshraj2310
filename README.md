@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success and failure come and go, but don't let them define you. It's who you are that matters.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
