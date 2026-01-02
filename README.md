@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>People tend to complicate their own lives, as if living weren't already complicated enough.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
