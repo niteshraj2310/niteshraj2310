@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</i><br>— Vaclav Havel</p>
+<p align="center"><br><i>Outstanding people have one thing in common: an absolute sense of mission. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
