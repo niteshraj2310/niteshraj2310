@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
