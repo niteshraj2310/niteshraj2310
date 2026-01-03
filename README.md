@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man with outward courage dares to die: a man with inner courage dares to live.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
