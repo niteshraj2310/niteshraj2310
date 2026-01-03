@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Outstanding people have one thing in common: an absolute sense of mission. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>A man with outward courage dares to die: a man with inner courage dares to live.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
