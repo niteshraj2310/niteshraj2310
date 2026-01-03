@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our joy does not have to be based on our circumstances.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Be mindful. Be grateful. Be positive. Be true. Be kind.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
