@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Seek not the good in external things;seek it in yourselves.</i><br>— Epictetus</p>
+<p align="center"><br><i>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</i><br>— Vaclav Havel</p>
 <!-- ADVICE:END -->
 
 #
