@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be mindful. Be grateful. Be positive. Be true. Be kind.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>To get angry is like to revenge yourself for the guilt of others.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
