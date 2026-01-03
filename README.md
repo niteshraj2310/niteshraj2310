@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To get angry is like to revenge yourself for the guilt of others.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Seek not the good in external things;seek it in yourselves.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
