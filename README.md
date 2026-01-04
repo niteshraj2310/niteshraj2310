@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A journey of a thousand miles begins with a single step.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Know the rules well, so you can break them effectively.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
