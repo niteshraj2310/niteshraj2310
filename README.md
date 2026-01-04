@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>This is the most simple and basic component of life: our struggles determine our successes.</i><br>— Mark Manson</p>
+<p align="center"><br><i>Gratitude is the fairest blossom which springs from the soul.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
