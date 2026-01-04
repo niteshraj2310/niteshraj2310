@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To belittle, you have to be little.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>As mortals, we're ruled by conditions, not by ourselves.</i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 #
