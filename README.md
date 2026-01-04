@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</i><br>— Carl Jung</p>
+<p align="center"><br><i>This is the most simple and basic component of life: our struggles determine our successes.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
