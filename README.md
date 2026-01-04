@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What one does is what counts. Not what one had the intention of doing.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>A journey of a thousand miles begins with a single step.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
