@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Know the rules well, so you can break them effectively.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Adventure is not outside man; it is within.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
