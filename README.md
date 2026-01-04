@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Gratitude is the fairest blossom which springs from the soul.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>To belittle, you have to be little.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
