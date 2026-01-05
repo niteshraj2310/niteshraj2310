@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Difficult roads often lead to beautiful destinations.</i><br>— Unknown</p>
+<p align="center"><br><i>Let us rather run the risk of wearing out than rusting out.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
