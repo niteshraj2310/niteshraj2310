@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adventure is not outside man; it is within.</i><br>— George Eliot</p>
+<p align="center"><br><i>There is a big difference between being centered and being self-centered.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
