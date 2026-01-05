@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Freedom lies in being bold.</i><br>— Robert Frost</p>
+<p align="center"><br><i>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
