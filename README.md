@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The educated differ from the uneducated as much as the living differ from the dead.</i><br>— Aristotle</p>
+<p align="center"><br><i>Freedom lies in being bold.</i><br>— Robert Frost</p>
 <!-- ADVICE:END -->
 
 #
