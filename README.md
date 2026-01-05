@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Difficult roads often lead to beautiful destinations.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
