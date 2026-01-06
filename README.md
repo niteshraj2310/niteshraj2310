@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</i><br>— Sydney Smith</p>
 <!-- ADVICE:END -->
 
 #
