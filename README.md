@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Let us rather run the risk of wearing out than rusting out.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>Progress lies not in enhancing what is, but in advancing toward what will be.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
