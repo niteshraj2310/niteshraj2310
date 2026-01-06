@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Progress lies not in enhancing what is, but in advancing toward what will be.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
