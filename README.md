@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No one has ever become poor by giving.</i><br>— Anne Frank</p>
+<p align="center"><br><i>Doing the best at this moment puts you in the best place for the next moment.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
