@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Definiteness of purpose is the starting point of all achievement. </i><br>— W. Clement Stone</p>
+<p align="center"><br><i>No one has ever become poor by giving.</i><br>— Anne Frank</p>
 <!-- ADVICE:END -->
 
 #
