@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</i><br>— Dr. Seuss</p>
+<p align="center"><br><i>Your work is to discover your work and then, with all your heart, to give yourself to it.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
