@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</i><br>— Sydney Smith</p>
+<p align="center"><br><i>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</i><br>— Dr. Seuss</p>
 <!-- ADVICE:END -->
 
 #
