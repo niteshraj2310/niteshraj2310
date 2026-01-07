@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>Some people want it to happen, some wish it would happen, others make it happen.</i><br>— Michael Jordan</p>
 <!-- ADVICE:END -->
 
 #
