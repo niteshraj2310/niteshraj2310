@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some people want it to happen, some wish it would happen, others make it happen.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>The heart that gives, gathers.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
