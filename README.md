@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The measure of wisdom is how calm you are when facing any given situation.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
