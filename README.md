@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>The measure of wisdom is how calm you are when facing any given situation.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
