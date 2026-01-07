@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Doing the best at this moment puts you in the best place for the next moment.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>People who avoid failure also avoid success.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
