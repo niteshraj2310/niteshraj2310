@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>She who loves roses must be patient and not cry out when she is pierced by thorns.</i><br>— Kenji Miyazawa</p>
+<p align="center"><br><i>Be kind, for everyone you meet is fighting a harder battle.</i><br>— Plato</p>
 <!-- ADVICE:END -->
 
 #
