@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Truth is like the sun. You can shut it out for a time, but it ain't going away.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>She who loves roses must be patient and not cry out when she is pierced by thorns.</i><br>— Kenji Miyazawa</p>
 <!-- ADVICE:END -->
 
 #
