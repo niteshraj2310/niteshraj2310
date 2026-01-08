@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The heart that gives, gathers.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Receive without complaint, Work with fate.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
