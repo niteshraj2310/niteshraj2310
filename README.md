@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be kind, for everyone you meet is fighting a harder battle.</i><br>— Plato</p>
+<p align="center"><br><i>The most creative act you will ever undertake is the act of creating yourself.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
