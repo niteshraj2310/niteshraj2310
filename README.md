@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you are tempted to give up, your breakthrough is probably just around the corner.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Don't think money does everything or you are going to end up doing everything for money.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
