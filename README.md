@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Receive without complaint, Work with fate.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
