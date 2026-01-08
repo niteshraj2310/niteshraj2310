@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Truth is like the sun. You can shut it out for a time, but it ain't going away.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 #
