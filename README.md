@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most creative act you will ever undertake is the act of creating yourself.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>When you are tempted to give up, your breakthrough is probably just around the corner.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
