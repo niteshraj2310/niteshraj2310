@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I can live without money, but I cannot live without love.</i><br>— Judy Garland</p>
+<p align="center"><br><i>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
