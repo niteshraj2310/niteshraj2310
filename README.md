@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't need to be better than anyone else, you just need to be better than you used to be.</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
