@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 #
