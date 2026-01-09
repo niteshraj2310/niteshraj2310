@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't think money does everything or you are going to end up doing everything for money.</i><br>— Voltaire</p>
+<p align="center"><br><i>You don't need to be better than anyone else, you just need to be better than you used to be.</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
