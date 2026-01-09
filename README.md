@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We all give up great expectations along the way.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>I can live without money, but I cannot live without love.</i><br>— Judy Garland</p>
 <!-- ADVICE:END -->
 
 #
