@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's wise to tell the truth. It's even wiser to tell it kindly.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
