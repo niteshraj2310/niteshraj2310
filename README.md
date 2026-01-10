@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trying to define yourself is like trying to bite your own teeth.</i><br>— Alan Watts</p>
+<p align="center"><br><i>Convinced myself, I seek not to convince.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
