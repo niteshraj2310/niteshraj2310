@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is a quality of the soul...not a function of one's material circumstances.</i><br>— Aristotle</p>
+<p align="center"><br><i>An intelligent person hires people who are more intelligent than he is.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
