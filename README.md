@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Convinced myself, I seek not to convince.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>It is during our darkest moments that we must focus to see the light.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
