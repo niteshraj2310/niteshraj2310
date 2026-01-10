@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</i><br>— Seungsahn</p>
+<p align="center"><br><i>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</i><br>— Robert Collier</p>
 <!-- ADVICE:END -->
 
 #
