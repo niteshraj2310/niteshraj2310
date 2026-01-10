@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</i><br>— Robert Collier</p>
+<p align="center"><br><i>Happiness is a quality of the soul...not a function of one's material circumstances.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
