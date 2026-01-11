@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The right thing to do and the hard thing to do are usually the same.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>The older you get, the better you get. Unless you're a banana.</i><br>— Betty White</p>
 <!-- ADVICE:END -->
 
 #
