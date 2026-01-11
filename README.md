@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
