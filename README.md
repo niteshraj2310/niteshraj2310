@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to light a single candle than to curse the darkness.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Even though you are on the right track - you will get run over if you just sit there.</i><br>— Will Rogers</p>
 <!-- ADVICE:END -->
 
 #
