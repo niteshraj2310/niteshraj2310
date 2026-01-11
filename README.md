@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</i><br>— Richard Bach</p>
+<p align="center"><br><i>Whatever your heart clings to and confides in, that is really your God.</i><br>— Martin Luther</p>
 <!-- ADVICE:END -->
 
 #
