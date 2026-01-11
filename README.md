@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever your heart clings to and confides in, that is really your God.</i><br>— Martin Luther</p>
+<p align="center"><br><i>It is better to light a single candle than to curse the darkness.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
