@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The older you get, the better you get. Unless you're a banana.</i><br>— Betty White</p>
+<p align="center"><br><i>The best of us sometimes eat our words. </i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 #
