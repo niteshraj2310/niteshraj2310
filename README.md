@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best of us sometimes eat our words. </i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
