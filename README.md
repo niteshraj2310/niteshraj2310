@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</i><br>— Elon Musk</p>
+<p align="center"><br><i>The right thing to do and the hard thing to do are usually the same.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
