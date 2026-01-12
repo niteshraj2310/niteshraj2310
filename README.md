@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Throughout this life, you can never be certain of living long enough to take another breath.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Dream big and dare to fail.</i><br>— Norman Vaughan</p>
 <!-- ADVICE:END -->
 
 #
