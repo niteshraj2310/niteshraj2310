@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even though you are on the right track - you will get run over if you just sit there.</i><br>— Will Rogers</p>
+<p align="center"><br><i>Being wrong brings the opportunity for growth.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
