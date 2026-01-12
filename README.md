@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being wrong brings the opportunity for growth.</i><br>— Mark Manson</p>
+<p align="center"><br><i>Work as though you would live forever, and live as though you would die today. Go another mile.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
