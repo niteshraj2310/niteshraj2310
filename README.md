@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work as though you would live forever, and live as though you would die today. Go another mile.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Imagination is the beginning of creation.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
