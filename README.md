@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Imagination is the beginning of creation.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
