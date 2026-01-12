@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Stop being tormented by everyone else's reaction to you.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
