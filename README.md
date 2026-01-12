@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stop being tormented by everyone else's reaction to you.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>You have to give up some of the old so that you can make room for the new.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
