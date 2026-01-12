@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have to give up some of the old so that you can make room for the new.</i><br>— Yanni</p>
+<p align="center"><br><i>Throughout this life, you can never be certain of living long enough to take another breath.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
