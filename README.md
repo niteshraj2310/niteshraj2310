@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>A little progress each day adds up to big results.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
