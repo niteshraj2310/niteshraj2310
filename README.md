@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future depends on what you do today. </i><br>— Mahatma Gandhi</p>
+<p align="center"><br><i>Sorrow is how we learn to love.</i><br>— Rita Mae Brown</p>
 <!-- ADVICE:END -->
 
 #
