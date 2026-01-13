@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only by acceptance of the past, can you alter it.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>Circumstances rule men; men do not rule circumstances. </i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
