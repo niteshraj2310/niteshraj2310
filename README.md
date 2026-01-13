@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Beauty is not in the face; beauty is a light in the heart.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
