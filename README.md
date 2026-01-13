@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Circumstances rule men; men do not rule circumstances. </i><br>— Herodotus</p>
+<p align="center"><br><i>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 #
