@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Beauty is not in the face; beauty is a light in the heart.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>Only by acceptance of the past, can you alter it.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
