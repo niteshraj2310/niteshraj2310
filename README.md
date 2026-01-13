@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A little progress each day adds up to big results.</i><br>— Unknown</p>
+<p align="center"><br><i>The future depends on what you do today. </i><br>— Mahatma Gandhi</p>
 <!-- ADVICE:END -->
 
 #
