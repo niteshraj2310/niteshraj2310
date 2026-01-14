@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>For every minute you are angry you lose sixty seconds of happiness.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>Art is the signature of civilizations. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
