@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not fair to ask of others what you are not willing to do yourself.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>When angry count to ten before you speak. If very angry, count to one hundred.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
