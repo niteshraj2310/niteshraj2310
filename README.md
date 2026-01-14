@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sorrow is how we learn to love.</i><br>— Rita Mae Brown</p>
+<p align="center"><br><i>For every minute you are angry you lose sixty seconds of happiness.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
