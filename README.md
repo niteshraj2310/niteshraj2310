@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Absurdity is the ecstasy of intellectualism.</i><br>— Criss Jami</p>
+<p align="center"><br><i>It is not fair to ask of others what you are not willing to do yourself.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
