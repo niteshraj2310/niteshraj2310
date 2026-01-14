@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What gets measured gets improved.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Confidence is what you have before you understand the problem.</i><br>— Woody Allen</p>
 <!-- ADVICE:END -->
 
 #
