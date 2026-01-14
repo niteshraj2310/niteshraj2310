@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confidence is what you have before you understand the problem.</i><br>— Woody Allen</p>
+<p align="center"><br><i>Absurdity is the ecstasy of intellectualism.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
