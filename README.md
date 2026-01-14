@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When angry count to ten before you speak. If very angry, count to one hundred.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>None but ourselves can free our minds.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
