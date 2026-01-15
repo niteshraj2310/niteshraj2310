@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You just can't beat the person who never gives up. </i><br>— Babe Ruth</p>
+<p align="center"><br><i>Your dream has to be bigger than your fear.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
