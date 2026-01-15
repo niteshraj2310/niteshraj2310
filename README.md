@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be great is to be misunderstood.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>The measure of wisdom is how calm you are when facing any given situation.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
