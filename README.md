@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>None but ourselves can free our minds.</i><br>— Bob Marley</p>
+<p align="center"><br><i>Most of us will do anything to avoid facing ourselves.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
