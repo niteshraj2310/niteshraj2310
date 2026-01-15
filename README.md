@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Challenge yourself to find the good and beautiful thing inside of everyone.</i><br>— Mark Manson</p>
+<p align="center"><br><i>You just can't beat the person who never gives up. </i><br>— Babe Ruth</p>
 <!-- ADVICE:END -->
 
 #
