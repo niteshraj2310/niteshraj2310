@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The measure of wisdom is how calm you are when facing any given situation.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Challenge yourself to find the good and beautiful thing inside of everyone.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
