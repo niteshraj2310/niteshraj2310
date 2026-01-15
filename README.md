@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your dream has to be bigger than your fear.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Throughout this life, you can never be certain of living long enough to take another breath.</i><br>— Huang Po</p>
 <!-- ADVICE:END -->
 
 #
