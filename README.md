@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most of us will do anything to avoid facing ourselves.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>To be great is to be misunderstood.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
