@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Throughout this life, you can never be certain of living long enough to take another breath.</i><br>— Huang Po</p>
+<p align="center"><br><i>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 #
