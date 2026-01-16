@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you truly love Nature, you will find beauty everywhere. </i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>Nature loves to hide.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
