@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fiction is the truth inside the lie.</i><br>— Stephen King</p>
+<p align="center"><br><i>We have more possibilities available in each moment than we realize.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
