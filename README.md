@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A Rolling Stone Gathers No Moss.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>The idea of ourselves is our escape from the fact of what we really are.</i><br>— Jiddu Krishnamurti</p>
 <!-- ADVICE:END -->
 
 #
