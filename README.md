@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who violates another's honor loses his own.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>If you truly love Nature, you will find beauty everywhere. </i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
