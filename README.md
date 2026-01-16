@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </i><br>— Franz Kafka</p>
+<p align="center"><br><i>Fiction is the truth inside the lie.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
