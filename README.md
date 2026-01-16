@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The primary cause of unhappiness is never the situation but your thoughts about it.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>A Rolling Stone Gathers No Moss.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 #
