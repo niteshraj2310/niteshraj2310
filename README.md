@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nature loves to hide.</i><br>— Heraclitus</p>
+<p align="center"><br><i>The primary cause of unhappiness is never the situation but your thoughts about it.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
