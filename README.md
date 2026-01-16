@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We have more possibilities available in each moment than we realize.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>He who violates another's honor loses his own.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 #
