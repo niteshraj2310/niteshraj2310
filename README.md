@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is up to each of us to sing as we feel moved by the overall song of life.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Life would be tragic if it weren't funny.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
