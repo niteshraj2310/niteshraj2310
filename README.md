@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We must be free not because we claim freedom, but because we practice it.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Others can stop you temporarily - you are the only one who can do it permanently.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
