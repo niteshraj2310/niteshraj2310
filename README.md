@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</i><br>— John Eliot</p>
+<p align="center"><br><i>If you try to micromanage yourself all you're going to do is make yourself miserable.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
