@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Others can stop you temporarily - you are the only one who can do it permanently.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>It is up to each of us to sing as we feel moved by the overall song of life.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
