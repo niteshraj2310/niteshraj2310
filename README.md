@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our attitude toward life determines life's attitude towards us.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>We must be free not because we claim freedom, but because we practice it.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
