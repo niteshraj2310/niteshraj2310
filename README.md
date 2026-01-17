@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life would be tragic if it weren't funny.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 #
