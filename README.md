@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The idea of ourselves is our escape from the fact of what we really are.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>Have a vision. Be demanding.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
