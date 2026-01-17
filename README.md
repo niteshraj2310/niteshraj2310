@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Have a vision. Be demanding.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Our attitude toward life determines life's attitude towards us.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
