@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Realistic people do not accomplish extraordinary things.</i><br>— John Eliot</p>
+<p align="center"><br><i>Don't look back - you're not going that way.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
