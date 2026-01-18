@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is a consequence and must not be a goal.</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>I cannot make my days longer so I strive to make them better.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
