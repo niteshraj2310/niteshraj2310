@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man must use what he has, not hope for what is not.</i><br>— G.I. Gurdjieff</p>
+<p align="center"><br><i>Success is a consequence and must not be a goal.</i><br>— Gustave Flaubert</p>
 <!-- ADVICE:END -->
 
 #
