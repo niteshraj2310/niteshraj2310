@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We build too many walls and not enough bridges.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>Man must use what he has, not hope for what is not.</i><br>— G.I. Gurdjieff</p>
 <!-- ADVICE:END -->
 
 #
