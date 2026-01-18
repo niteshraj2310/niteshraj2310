@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first principle of success is desire.</i><br>— Robert Collier</p>
+<p align="center"><br><i>What we know is a drop, what we don't know is an ocean. </i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
