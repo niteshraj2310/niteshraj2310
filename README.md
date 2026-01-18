@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What we know is a drop, what we don't know is an ocean. </i><br>— Isaac Newton</p>
+<p align="center"><br><i>We build too many walls and not enough bridges.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
