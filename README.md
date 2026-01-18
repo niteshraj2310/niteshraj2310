@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I cannot make my days longer so I strive to make them better.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>Realistic people do not accomplish extraordinary things.</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 #
