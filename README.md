@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
