@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't look back - you're not going that way.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>You are the only real obstacle in your path to a fulfilling life.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
