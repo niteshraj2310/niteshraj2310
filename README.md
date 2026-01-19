@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are the only real obstacle in your path to a fulfilling life.</i><br>— Les Brown</p>
+<p align="center"><br><i>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
