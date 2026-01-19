@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Creative endeavors are by their nature uncertain.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
