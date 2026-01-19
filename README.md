@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</i><br>— Robert Frost</p>
+<p align="center"><br><i>Just living is not enough... one must have sunshine, freedom, and a little flower. </i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
