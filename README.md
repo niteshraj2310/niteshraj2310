@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just living is not enough... one must have sunshine, freedom, and a little flower. </i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Love is the energy of life.</i><br>— Robert Browning</p>
 <!-- ADVICE:END -->
 
 #
