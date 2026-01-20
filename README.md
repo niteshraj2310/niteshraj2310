@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try all things, hold fast that which is good.</i><br>— John Locke</p>
+<p align="center"><br><i>Always do your best. What you plant now, you will harvest later.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
