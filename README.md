@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We can change our lives. We can do, have, and be exactly what we wish.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Try all things, hold fast that which is good.</i><br>— John Locke</p>
 <!-- ADVICE:END -->
 
 #
