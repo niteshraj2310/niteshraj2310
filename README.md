@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </i><br>— Lao Tzu</p>
+<p align="center"><br><i>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
