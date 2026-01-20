@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You talk when you cease to be at peace with your thoughts.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
