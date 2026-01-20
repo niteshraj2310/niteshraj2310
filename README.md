@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Gratitude is the fairest blossom which springs from the soul.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
