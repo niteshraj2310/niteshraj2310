@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Creative endeavors are by their nature uncertain.</i><br>— Robert Greene</p>
+<p align="center"><br><i>We can change our lives. We can do, have, and be exactly what we wish.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
