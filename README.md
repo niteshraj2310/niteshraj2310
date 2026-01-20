@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always do your best. What you plant now, you will harvest later.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Gratitude is the fairest blossom which springs from the soul.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
