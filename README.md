@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Abundance of knowledge does not teach men to be wise.</i><br>— Heraclitus</p>
+<p align="center"><br><i>I hear and I forget. I see and I remember. I do and I understand. </i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
