@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</i><br>— Denis Waitley</p>
+<p align="center"><br><i>Men do not attract which they want but that which they are.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
