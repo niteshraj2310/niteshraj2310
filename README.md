@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to learn late than never.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>Even the smallest person can change the course of the future.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
