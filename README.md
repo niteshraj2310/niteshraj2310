@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even the smallest person can change the course of the future.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>Abundance of knowledge does not teach men to be wise.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
