@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
