@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Men do not attract which they want but that which they are.</i><br>— James Allen</p>
+<p align="center"><br><i>A Penny Saved is a Penny Earned</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
