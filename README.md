@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An investment in knowledge pays the best interest.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Nothing brings down walls as surely as acceptance.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
