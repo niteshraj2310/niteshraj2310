@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>It is dangerous to be right in matters on which the established authorities are wrong.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
