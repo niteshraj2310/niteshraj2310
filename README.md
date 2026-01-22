@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing brings down walls as surely as acceptance.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>The salvation of the world lies in the human heart.</i><br>— Vaclav Havel</p>
 <!-- ADVICE:END -->
 
 #
