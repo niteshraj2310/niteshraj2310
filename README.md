@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember to look up at the stars and not down at your feet.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>An investment in knowledge pays the best interest.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
