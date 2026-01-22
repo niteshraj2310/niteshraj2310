@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A diamond is a piece of charcoal that handled stress exceptionally well.</i><br>— Unknown</p>
+<p align="center"><br><i>Being wrong opens us up to the possibility of change.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
