@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is dangerous to be right in matters on which the established authorities are wrong.</i><br>— Voltaire</p>
+<p align="center"><br><i>A diamond is a piece of charcoal that handled stress exceptionally well.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
