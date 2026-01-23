@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The salvation of the world lies in the human heart.</i><br>— Vaclav Havel</p>
+<p align="center"><br><i>Little minds have little worries, big minds have no time for worries.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
