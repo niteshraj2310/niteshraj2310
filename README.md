@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Little minds have little worries, big minds have no time for worries.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
