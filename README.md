@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sad thing is, you can still love someone and be wrong for them.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>My definition of success is control.</i><br>— Kenneth Branagh</p>
 <!-- ADVICE:END -->
 
 #
