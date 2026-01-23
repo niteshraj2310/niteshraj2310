@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>My definition of success is control.</i><br>— Kenneth Branagh</p>
+<p align="center"><br><i>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</i><br>— James Cameron</p>
 <!-- ADVICE:END -->
 
 #
