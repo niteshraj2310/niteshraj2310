@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Sad thing is, you can still love someone and be wrong for them.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 #
