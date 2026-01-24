@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No matter what happens, always be yourself.</i><br>— Dale Carnegie</p>
+<p align="center"><br><i>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</i><br>— Plato</p>
 <!-- ADVICE:END -->
 
 #
