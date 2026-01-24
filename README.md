@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </i><br>— Denis Waitley</p>
+<p align="center"><br><i>It is amazing what you can accomplish if you do not care who gets the credit.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
