@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</i><br>— Plato</p>
+<p align="center"><br><i>Don't seek, don't avoid, don't expect. Take what comes and be happy.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
