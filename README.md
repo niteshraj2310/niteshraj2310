@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is amazing what you can accomplish if you do not care who gets the credit.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>In the End, we will remember not the words of our enemies, but the silence of our friends.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
