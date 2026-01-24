@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</i><br>— Colin Powell</p>
+<p align="center"><br><i>No matter what happens, always be yourself.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
