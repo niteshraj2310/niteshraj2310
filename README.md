@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't seek, don't avoid, don't expect. Take what comes and be happy.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
