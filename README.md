@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An intelligent person hires people who are more intelligent than he is.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
