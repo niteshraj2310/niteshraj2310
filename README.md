@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sorrow is how we learn to love.</i><br>— Rita Mae Brown</p>
+<p align="center"><br><i>There are people who have money and people who are rich.</i><br>— Coco Chanel</p>
 <!-- ADVICE:END -->
 
 #
