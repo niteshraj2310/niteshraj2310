@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are people who have money and people who are rich.</i><br>— Coco Chanel</p>
+<p align="center"><br><i>To be angry is to revenge the faults of others on ourselves.</i><br>— Alexander Pope</p>
 <!-- ADVICE:END -->
 
 #
