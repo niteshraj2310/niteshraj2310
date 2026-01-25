@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be angry is to revenge the faults of others on ourselves.</i><br>— Alexander Pope</p>
+<p align="center"><br><i>We cannot change anything unless we accept it.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
