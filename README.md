@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You Create Your Own Present By What You Give Your Attention To Today.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Whatever you decide to do, make sure it makes you happy.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
