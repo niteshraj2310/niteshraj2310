@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you decide to do, make sure it makes you happy.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Sorrow is how we learn to love.</i><br>— Rita Mae Brown</p>
 <!-- ADVICE:END -->
 
 #
