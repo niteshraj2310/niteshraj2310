@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the End, we will remember not the words of our enemies, but the silence of our friends.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>You Create Your Own Present By What You Give Your Attention To Today.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
