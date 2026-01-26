@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I begin with an idea and then it becomes something else.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>Tradition is the illusion of permanence. </i><br>— Woody Allen</p>
 <!-- ADVICE:END -->
 
 #
