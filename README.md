@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man suffers only because he takes seriously what the gods made for fun.</i><br>— Alan Watts</p>
+<p align="center"><br><i>The road to success is always under construction..</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
