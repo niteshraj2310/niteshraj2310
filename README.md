@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are dark shadows on the earth, but its lights are stronger in the contrast.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Never lose hope. Storms make people stronger and never last forever.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
