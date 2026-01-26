@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you realize you've made a mistake, take immediate steps to correct it.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
