@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</i><br>— Epictetus</p>
+<p align="center"><br><i>There are dark shadows on the earth, but its lights are stronger in the contrast.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
