@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is nothing more frightful than ignorance in action.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>When you realize you've made a mistake, take immediate steps to correct it.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
