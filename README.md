@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The road to success is always under construction..</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>I begin with an idea and then it becomes something else.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
