@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never lose hope. Storms make people stronger and never last forever.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Man suffers only because he takes seriously what the gods made for fun.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
