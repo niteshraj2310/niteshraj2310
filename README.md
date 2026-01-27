@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Tradition is the illusion of permanence. </i><br>— Woody Allen</p>
+<p align="center"><br><i>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
