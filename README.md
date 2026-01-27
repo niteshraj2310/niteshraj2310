@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The eyes of others our prisons; their thoughts our cages.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>It doesn't matter where you are coming from. All that matters is where you are going. </i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
