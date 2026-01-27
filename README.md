@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't try to be young. Just open your mind. Stay interested in stuff.</i><br>— Betty White</p>
+<p align="center"><br><i>You play the hand you're dealt. I think the game's worthwhile. </i><br>— Christopher Reeve</p>
 <!-- ADVICE:END -->
 
 #
