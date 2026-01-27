@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>The farther backward you can look, the farther forward you are likely to see.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
