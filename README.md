@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You play the hand you're dealt. I think the game's worthwhile. </i><br>— Christopher Reeve</p>
+<p align="center"><br><i>The eyes of others our prisons; their thoughts our cages.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 #
