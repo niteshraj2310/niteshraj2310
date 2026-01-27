@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It doesn't matter where you are coming from. All that matters is where you are going. </i><br>— Brian Tracy</p>
+<p align="center"><br><i>We run to win, not just to be in the race. </i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
