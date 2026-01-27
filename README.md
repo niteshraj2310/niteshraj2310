@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Silence is the great teacher and to learn its lessons you must pay attention to it.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Don't try to be young. Just open your mind. Stay interested in stuff.</i><br>— Betty White</p>
 <!-- ADVICE:END -->
 
 #
