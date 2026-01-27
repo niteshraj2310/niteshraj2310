@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The farther backward you can look, the farther forward you are likely to see.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Silence is the great teacher and to learn its lessons you must pay attention to it.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
