@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who fails to plan, plans to fail.</i><br>— Unknown</p>
+<p align="center"><br><i>The harder you work, the harder it is to surrender.</i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
