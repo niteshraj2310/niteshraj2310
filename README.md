@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dream big. Start small. But most of all, start.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Wherever you are, and whatever you do, be in love.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
