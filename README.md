@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We run to win, not just to be in the race. </i><br>— Vince Lombardi</p>
+<p align="center"><br><i>If you've made a mistake, it's better just to laugh at it.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
