@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is nothing in the world so irresistibly contagious as laughter and good humor.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Dream big. Start small. But most of all, start.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
