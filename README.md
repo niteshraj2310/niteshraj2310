@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wherever you are, and whatever you do, be in love.</i><br>— Rumi</p>
+<p align="center"><br><i>He who fails to plan, plans to fail.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
