@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you've made a mistake, it's better just to laugh at it.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
