@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The harder you work, the harder it is to surrender.</i><br>— Vince Lombardi</p>
+<p align="center"><br><i>Aim for the moon. If you miss, you may hit a star.</i><br>— W. Clement Stone</p>
 <!-- ADVICE:END -->
 
 #
