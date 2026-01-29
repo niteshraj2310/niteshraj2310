@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</i><br>— Criss Jami</p>
+<p align="center"><br><i>It doesn't matter where you are, you are nowhere compared to where you can go.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 #
