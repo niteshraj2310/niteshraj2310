@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Aim for the moon. If you miss, you may hit a star.</i><br>— W. Clement Stone</p>
+<p align="center"><br><i>I'm not afraid of death, but I'm in no hurry to die.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
