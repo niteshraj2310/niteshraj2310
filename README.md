@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Better to light a candle than to curse the darkness. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</i><br>— G.I. Gurdjieff</p>
 <!-- ADVICE:END -->
 
 #
