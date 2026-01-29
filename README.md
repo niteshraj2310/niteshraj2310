@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I'm not afraid of death, but I'm in no hurry to die.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Better to light a candle than to curse the darkness. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
