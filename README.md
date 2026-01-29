@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Genius is one percent inspiration and ninety-nine percent perspiration.</i><br>— Thomas Edison</p>
+<p align="center"><br><i>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
