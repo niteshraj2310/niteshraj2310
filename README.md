@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Allow motion to equal emotion.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Genius is one percent inspiration and ninety-nine percent perspiration.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 #
