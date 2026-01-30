@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</i><br>— Mark Twain</p>
+<p align="center"><br><i>The smallest of actions is always better than the noblest of intentions.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
