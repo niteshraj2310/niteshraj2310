@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no path to Love. Love is the path.</i><br>— Dan Millman</p>
+<p align="center"><br><i>To be truly ignorant, be content with your own knowledge.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
