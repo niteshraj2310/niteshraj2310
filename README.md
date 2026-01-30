@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are not only responsible for what you say, but also for what you do not say. </i><br>— Martin Luther</p>
+<p align="center"><br><i>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
