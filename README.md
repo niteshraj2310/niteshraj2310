@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The smallest of actions is always better than the noblest of intentions.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>There is no path to Love. Love is the path.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
