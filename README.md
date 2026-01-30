@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be truly ignorant, be content with your own knowledge.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>What keeps life fascinating is the constant creativity of the soul.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
