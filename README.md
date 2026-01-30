@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</i><br>— Miguel de Cervantes</p>
+<p align="center"><br><i>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
