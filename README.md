@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>You are not only responsible for what you say, but also for what you do not say. </i><br>— Martin Luther</p>
 <!-- ADVICE:END -->
 
 #
