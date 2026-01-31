@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What keeps life fascinating is the constant creativity of the soul.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>All we have to decide is what to do with the time that is given to us.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
