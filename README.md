@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All we have to decide is what to do with the time that is given to us.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>Troubles are often the tools by which God fashions us for better things.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
