@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Animals don't hate, and we're supposed to be better than them.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 #
