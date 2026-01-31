@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is nothing more truly artistic than to love people.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>You can have the mind or you can have the moment.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
