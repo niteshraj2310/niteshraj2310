@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Animals don't hate, and we're supposed to be better than them.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
