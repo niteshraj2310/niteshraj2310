@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Preoccupied with a single leaf you won't see the tree.</i><br>— Unknown</p>
+<p align="center"><br><i>Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
