@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Troubles are often the tools by which God fashions us for better things.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Preoccupied with a single leaf you won't see the tree.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
