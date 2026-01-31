@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>There is nothing more truly artistic than to love people.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
