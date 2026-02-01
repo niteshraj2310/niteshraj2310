@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No valid plans for the future can be made by those who have no capacity for living now.</i><br>— Alan Watts</p>
+<p align="center"><br><i>When at last you are come to the ocean of happiness, do not go back thirsty.</i><br>— Kabir</p>
 <!-- ADVICE:END -->
 
 #
