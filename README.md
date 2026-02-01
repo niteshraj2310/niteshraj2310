@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The wisdom of life consists in the elimination of the nonessentials.</i><br>— Lin Yutang</p>
+<p align="center"><br><i>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
