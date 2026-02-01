@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who never made a mistake never tried anything new.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>The number one cause of failure is the fear of failure.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
