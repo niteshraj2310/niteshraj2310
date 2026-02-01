@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Don't change your mind just because people are offended; change your mind if you're wrong.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
