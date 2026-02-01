@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can have the mind or you can have the moment.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>The person who never made a mistake never tried anything new.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
