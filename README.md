@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When at last you are come to the ocean of happiness, do not go back thirsty.</i><br>— Kabir</p>
+<p align="center"><br><i>The wisdom of life consists in the elimination of the nonessentials.</i><br>— Lin Yutang</p>
 <!-- ADVICE:END -->
 
 #
