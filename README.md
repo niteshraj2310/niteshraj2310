@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The number one cause of failure is the fear of failure.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>No valid plans for the future can be made by those who have no capacity for living now.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
