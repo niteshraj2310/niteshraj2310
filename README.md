@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>It is better to disappoint people with the truth than to appease them with a lie.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
