@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is permanent in this wicked world - not even our troubles.</i><br>— Charlie Chaplin</p>
+<p align="center"><br><i>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
