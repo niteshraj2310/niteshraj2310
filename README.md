@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We can choose to look at whatever we want. We can look at what's wrong in our life or we can look at what's right.</i><br>— Sonia Ricotti</p>
+<p align="center"><br><i>Nothing is permanent in this wicked world - not even our troubles.</i><br>— Charlie Chaplin</p>
 <!-- ADVICE:END -->
 
 #
