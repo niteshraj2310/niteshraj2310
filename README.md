@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never lose hope. Storms make people stronger and never last forever.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Fallacies do not cease to be fallacies because they become fashions.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
