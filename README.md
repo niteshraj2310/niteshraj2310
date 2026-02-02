@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every moment of happiness requires a great amount of Ignorance</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>We can choose to look at whatever we want. We can look at what's wrong in our life or we can look at what's right.</i><br>— Sonia Ricotti</p>
 <!-- ADVICE:END -->
 
 #
