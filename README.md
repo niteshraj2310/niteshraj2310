@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fallacies do not cease to be fallacies because they become fashions.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</i><br>— Joan Rivers</p>
 <!-- ADVICE:END -->
 
 #
