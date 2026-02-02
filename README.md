@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to disappoint people with the truth than to appease them with a lie.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Never lose hope. Storms make people stronger and never last forever.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
