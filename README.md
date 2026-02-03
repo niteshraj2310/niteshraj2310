@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</i><br>— Franklin D. Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
