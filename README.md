@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</i><br>— Franklin D. Roosevelt</p>
+<p align="center"><br><i>Only in the agony of parting do we look into the depths of love.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
