@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>Realistic people do not accomplish extraordinary things.</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 #
