@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Realistic people do not accomplish extraordinary things.</i><br>— John Eliot</p>
+<p align="center"><br><i>Unless someone truly has the power to say no, they never truly have the power to say yes.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
