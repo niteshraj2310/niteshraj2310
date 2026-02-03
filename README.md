@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Unless someone truly has the power to say no, they never truly have the power to say yes.</i><br>— Dan Millman</p>
+<p align="center"><br><i>The key to success is to focus our conscious mind on things we desire not things we fear. </i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
