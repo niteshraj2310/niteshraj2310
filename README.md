@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The key to success is to focus our conscious mind on things we desire not things we fear. </i><br>— Brian Tracy</p>
+<p align="center"><br><i>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
