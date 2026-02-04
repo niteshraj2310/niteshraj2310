@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love never keeps a man from pursuing his destiny.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Inner peace is when you realize that, in the end, nothing matters.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
