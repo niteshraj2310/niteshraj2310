@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Inner peace is when you realize that, in the end, nothing matters.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>Well done is better than well said.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
