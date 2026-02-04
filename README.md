@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only in the agony of parting do we look into the depths of love.</i><br>— George Eliot</p>
+<p align="center"><br><i>Even when a friend does something you do not like, he continues to be your friend. </i><br>— Genghis Khan</p>
 <!-- ADVICE:END -->
 
 #
