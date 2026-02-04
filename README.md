@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even when a friend does something you do not like, he continues to be your friend. </i><br>— Genghis Khan</p>
+<p align="center"><br><i>Let us always meet each other with smile, for the smile is the beginning of love.</i><br>— Mother Teresa</p>
 <!-- ADVICE:END -->
 
 #
