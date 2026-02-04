@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Well done is better than well said.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Everything is in your own heart.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
