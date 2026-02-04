@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Let us always meet each other with smile, for the smile is the beginning of love.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>We are all in the gutter, but some of us are looking at the stars. </i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
