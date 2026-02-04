@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all in the gutter, but some of us are looking at the stars. </i><br>— Oscar Wilde</p>
+<p align="center"><br><i>Love never keeps a man from pursuing his destiny.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
