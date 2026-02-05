@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Conflict cannot survive without your participation. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>It's the unknown we fear when we look upon death and darkness, nothing more.</i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 #
