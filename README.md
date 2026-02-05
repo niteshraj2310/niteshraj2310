@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trust your instincts: my first reaction is almost invariably the right one. </i><br>— Estee Lauder</p>
+<p align="center"><br><i>Just because something isn't a lie does not mean that it isn't deceptive.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
