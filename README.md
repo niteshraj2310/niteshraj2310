@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i></i><br>— </p>
+<p align="center"><br><i>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
