@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just because something isn't a lie does not mean that it isn't deceptive.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Conflict cannot survive without your participation. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
