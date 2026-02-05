@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's the unknown we fear when we look upon death and darkness, nothing more.</i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>Avoiding failure is to avoid progress.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
