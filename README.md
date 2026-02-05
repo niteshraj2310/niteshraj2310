@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Trust your instincts: my first reaction is almost invariably the right one. </i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
