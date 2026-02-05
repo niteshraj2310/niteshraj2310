@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Avoiding failure is to avoid progress.</i><br>— Unknown</p>
+<p align="center"><br><i>The older you get, the more you understand how your conscience works.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
