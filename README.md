@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the middle of difficulty lies opportunity.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
