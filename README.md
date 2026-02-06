@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our attitude toward life determines life's attitude towards us.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Fear of death is fear of the Unknown.</i><br>— Adi Da Samraj</p>
 <!-- ADVICE:END -->
 
 #
