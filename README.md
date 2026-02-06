@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</i><br>— Brian Tracy</p>
+<p align="center"><br><i>The goal is not to be perfect by the end, the goal is to be better today.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
