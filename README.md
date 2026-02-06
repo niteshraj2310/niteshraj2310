@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People who belittle people, will be LITTLE people, and will accomplish very Little</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Our attitude toward life determines life's attitude towards us.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
