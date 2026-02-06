@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The goal is not to be perfect by the end, the goal is to be better today.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Without the rain there would be no rainbow.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
