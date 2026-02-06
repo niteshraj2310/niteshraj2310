@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Without the rain there would be no rainbow.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>People who belittle people, will be LITTLE people, and will accomplish very Little</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
