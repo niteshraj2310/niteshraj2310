@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear of death is fear of the Unknown.</i><br>— Adi Da Samraj</p>
+<p align="center"><br><i>In the middle of difficulty lies opportunity.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
