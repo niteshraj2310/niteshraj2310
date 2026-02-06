@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Freedom itself demands discomfort.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 #
