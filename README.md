@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</i><br>— Woody Allen</p>
+<p align="center"><br><i>Think and wonder, wonder and think.</i><br>— Dr. Seuss</p>
 <!-- ADVICE:END -->
 
 #
