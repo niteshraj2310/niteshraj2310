@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is the power of thought that gives man power over nature.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>If you don't break your ropes while you're alive, do you think ghosts will do it after?</i><br>— Kabir</p>
 <!-- ADVICE:END -->
 
 #
