@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't break your ropes while you're alive, do you think ghosts will do it after?</i><br>— Kabir</p>
+<p align="center"><br><i>It is truth that liberates, not your effort to be free.</i><br>— Jiddu Krishnamurti</p>
 <!-- ADVICE:END -->
 
 #
