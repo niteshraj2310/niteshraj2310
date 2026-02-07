@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Freedom itself demands discomfort.</i><br>— Mark Manson</p>
+<p align="center"><br><i>It is the power of thought that gives man power over nature.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
