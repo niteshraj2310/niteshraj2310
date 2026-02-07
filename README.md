@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is truth that liberates, not your effort to be free.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</i><br>— Woody Allen</p>
 <!-- ADVICE:END -->
 
 #
