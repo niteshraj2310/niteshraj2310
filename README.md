@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Think and wonder, wonder and think.</i><br>— Dr. Seuss</p>
+<p align="center"><br><i>A wise man can learn more from a foolish question than a fool can learn from a wise answer. </i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
