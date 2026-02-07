@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A wise man can learn more from a foolish question than a fool can learn from a wise answer. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>The people who succeed are irrationally passionate about something.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
