@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The people who succeed are irrationally passionate about something.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
