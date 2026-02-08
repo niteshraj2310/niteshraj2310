@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>My sun sets to rise again.</i><br>— Robert Browning</p>
+<p align="center"><br><i>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
