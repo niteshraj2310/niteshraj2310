@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>A real friend is one who walks in when the rest of the world walks out.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
