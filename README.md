@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We would accomplish many more things if we did not think of them as impossible.</i><br>— Vince Lombardi</p>
+<p align="center"><br><i>Not why the addiction but why the pain.</i><br>— Gabor Mate</p>
 <!-- ADVICE:END -->
 
 #
