@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>If you change the way you look at things, the things you look at change. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
