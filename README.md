@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A real friend is one who walks in when the rest of the world walks out.</i><br>— Unknown</p>
+<p align="center"><br><i>The greatest weariness comes from work not done.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
