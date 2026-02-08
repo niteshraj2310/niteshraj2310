@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest weariness comes from work not done.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>My sun sets to rise again.</i><br>— Robert Browning</p>
 <!-- ADVICE:END -->
 
 #
