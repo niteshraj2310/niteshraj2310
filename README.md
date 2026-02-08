@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you change the way you look at things, the things you look at change. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>We would accomplish many more things if we did not think of them as impossible.</i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
