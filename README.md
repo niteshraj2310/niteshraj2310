@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quality of your life is determined by the quality of your thoughts.</i><br>— Unknown</p>
+<p align="center"><br><i>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
