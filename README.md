@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Why live an ordinary life, when you can live an extraordinary one.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
