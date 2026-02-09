@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</i><br>— Billie Jean King</p>
+<p align="center"><br><i>If life were predictable it would cease to be life, and be without flavor.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
