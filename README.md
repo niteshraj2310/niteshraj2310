@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Why live an ordinary life, when you can live an extraordinary one.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
