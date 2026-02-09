@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Getting lost along your path is a part of finding the path you are meant to be on.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Life is about choice. You can choose to be a victim or anything else you like to be.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
