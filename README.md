@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If life were predictable it would cease to be life, and be without flavor.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Getting lost along your path is a part of finding the path you are meant to be on.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
