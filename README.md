@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</i><br>— Kenneth Branagh</p>
+<p align="center"><br><i>Be a master of change rather than a victim of change.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
