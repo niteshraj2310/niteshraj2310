@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be a master of change rather than a victim of change.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>What one does is what counts. Not what one had the intention of doing.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
