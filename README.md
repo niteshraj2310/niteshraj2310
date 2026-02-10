@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>The goal of an artist is to create the definitive work that cannot be surpassed.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
