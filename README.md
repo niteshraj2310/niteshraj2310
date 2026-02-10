@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Help others achieve their dreams and you will achieve yours.</i><br>— Les Brown</p>
+<p align="center"><br><i>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</i><br>— Kenneth Branagh</p>
 <!-- ADVICE:END -->
 
 #
