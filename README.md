@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is like reaching an important birthday and finding you're exactly the same.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>Failure is simply the opportunity to begin again, this time more intelligently.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
