@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</i><br>— Confucius</p>
+<p align="center"><br><i>Help others achieve their dreams and you will achieve yours.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
