@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The goal of an artist is to create the definitive work that cannot be surpassed.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Success is like reaching an important birthday and finding you're exactly the same.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 #
