@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What one does is what counts. Not what one had the intention of doing.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
