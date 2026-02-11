@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</i><br>— James Allen</p>
+<p align="center"><br><i>Success is built sequentially. It's one thing at a time.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
