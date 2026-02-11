@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</i><br>— Laurence J. Peter</p>
+<p align="center"><br><i>Insanity is relative. It depends on who has who locked in what cage. </i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 #
