@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Insanity is relative. It depends on who has who locked in what cage. </i><br>— Ray Bradbury</p>
+<p align="center"><br><i>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
