@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future depends on what you do today. </i><br>— Mahatma Gandhi</p>
+<p align="center"><br><i>Enthusiasm is a vital element toward the individual success of every man or woman.</i><br>— Conrad Hilton</p>
 <!-- ADVICE:END -->
 
 #
