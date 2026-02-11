@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is simply the opportunity to begin again, this time more intelligently.</i><br>— Henry Ford</p>
+<p align="center"><br><i>Conquer the devils with a little thing called love.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
