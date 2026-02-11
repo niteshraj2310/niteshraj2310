@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Conquer the devils with a little thing called love.</i><br>— Bob Marley</p>
+<p align="center"><br><i>The secret of happiness is not in doing what you like but in liking what you have to do.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 #
