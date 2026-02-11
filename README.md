@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enthusiasm is a vital element toward the individual success of every man or woman.</i><br>— Conrad Hilton</p>
+<p align="center"><br><i>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</i><br>— Laurence J. Peter</p>
 <!-- ADVICE:END -->
 
 #
