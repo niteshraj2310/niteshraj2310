@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>The quality of your life is the quality of your relationships.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
