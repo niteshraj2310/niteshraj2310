@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never give up work. Work gives you meaning and purpose and life is empty without it.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Pleasure in the job puts perfection in the work.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
