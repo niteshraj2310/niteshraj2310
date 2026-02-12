@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's easy to wish for health when you're sick. When you're doing well, you need just as much vigilance.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Be regular and orderly in your life, so that you may be violent and original in your work.</i><br>— Gustave Flaubert</p>
 <!-- ADVICE:END -->
 
 #
