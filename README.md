@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quality of your life is the quality of your relationships.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
