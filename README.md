@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Pleasure in the job puts perfection in the work.</i><br>— Aristotle</p>
+<p align="center"><br><i>Chop your own wood and it will warm you twice. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
