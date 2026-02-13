@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is achieved and maintained by those who try and keep trying. </i><br>— W. Clement Stone</p>
+<p align="center"><br><i>Live your life and forget your age.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
