@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is the sum of small efforts, repeated day in and day out.</i><br>— Robert Collier</p>
+<p align="center"><br><i>Success is achieved and maintained by those who try and keep trying. </i><br>— W. Clement Stone</p>
 <!-- ADVICE:END -->
 
 #
