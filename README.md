@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</i><br>— Kabir</p>
+<p align="center"><br><i>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
