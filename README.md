@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be regular and orderly in your life, so that you may be violent and original in your work.</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</i><br>— Kabir</p>
 <!-- ADVICE:END -->
 
 #
