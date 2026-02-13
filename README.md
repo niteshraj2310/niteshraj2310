@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live your life and forget your age.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Only he who has no use for the empire is fit to be entrusted with it.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
