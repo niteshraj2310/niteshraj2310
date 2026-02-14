@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Judgments prevent us from seeing the good that lies beyond appearances. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>A lie can travel half way around the world while the truth is putting on its shoes.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
