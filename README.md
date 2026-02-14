@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A lie can travel half way around the world while the truth is putting on its shoes.</i><br>— Mark Twain</p>
+<p align="center"><br><i>In the practice of tolerance, one's enemy is the best teacher.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
