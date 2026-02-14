@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want something then you lose everything. If you don't want anything then you already have everything.</i><br>— Seungsahn</p>
+<p align="center"><br><i>Growth is in a series of mistakes. That's the only way you learn.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
