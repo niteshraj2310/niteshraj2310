@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Growth is in a series of mistakes. That's the only way you learn.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Judgments prevent us from seeing the good that lies beyond appearances. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
