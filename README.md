@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing important is learned; it is simply remembered.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>The very essence of instinct is that it's followed independently of reason.</i><br>— Charles Darwin</p>
 <!-- ADVICE:END -->
 
 #
