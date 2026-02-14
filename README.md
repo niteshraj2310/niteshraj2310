@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only he who has no use for the empire is fit to be entrusted with it.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
