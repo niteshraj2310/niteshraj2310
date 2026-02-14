@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The very essence of instinct is that it's followed independently of reason.</i><br>— Charles Darwin</p>
+<p align="center"><br><i>If you want something then you lose everything. If you don't want anything then you already have everything.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
