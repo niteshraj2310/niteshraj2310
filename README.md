@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</i><br>— Buddha</p>
+<p align="center"><br><i>Nothing important is learned; it is simply remembered.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
