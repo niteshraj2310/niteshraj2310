@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more reasons you have for achieving your goal, the more determined you will become.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Always remember that you are absolutely unique. Just like everyone else. </i><br>— Margaret Mead</p>
 <!-- ADVICE:END -->
 
 #
