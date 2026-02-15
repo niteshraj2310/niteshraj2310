@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What people say, what people do, and what they say they do are entirely different things. </i><br>— Margaret Mead</p>
+<p align="center"><br><i>The more reasons you have for achieving your goal, the more determined you will become.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
