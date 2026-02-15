@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing can dim the light which shines from within.</i><br>— Maya Angelou</p>
+<p align="center"><br><i>What people say, what people do, and what they say they do are entirely different things. </i><br>— Margaret Mead</p>
 <!-- ADVICE:END -->
 
 #
