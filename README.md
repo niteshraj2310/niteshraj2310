@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the practice of tolerance, one's enemy is the best teacher.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Imagination is the true magic carpet.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
