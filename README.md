@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Educating the mind without educating the heart is no education at all.</i><br>— Aristotle</p>
+<p align="center"><br><i>Talk sense to a fool and he calls you foolish.</i><br>— Euripides</p>
 <!-- ADVICE:END -->
 
 #
