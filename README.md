@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The difference between treason and patriotism is only a matter of dates.</i><br>— Alexandre Dumas</p>
+<p align="center"><br><i>Follow your instincts. That is where true wisdom manifests itself.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
