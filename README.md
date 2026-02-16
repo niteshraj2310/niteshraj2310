@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Follow your instincts. That is where true wisdom manifests itself.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>We take care of the future best by taking care of the present now.</i><br>— Jon Kabat-Zinn</p>
 <!-- ADVICE:END -->
 
 #
