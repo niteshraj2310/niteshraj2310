@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Talk sense to a fool and he calls you foolish.</i><br>— Euripides</p>
+<p align="center"><br><i>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
