@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We take care of the future best by taking care of the present now.</i><br>— Jon Kabat-Zinn</p>
+<p align="center"><br><i>Educating the mind without educating the heart is no education at all.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
