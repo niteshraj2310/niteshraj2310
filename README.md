@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always remember that you are absolutely unique. Just like everyone else. </i><br>— Margaret Mead</p>
+<p align="center"><br><i>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
