@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never do things others can do and will do if there are things others cannot do or will not do.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>The most important thing is to enjoy your life, to be happy, it's all that matters.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 #
