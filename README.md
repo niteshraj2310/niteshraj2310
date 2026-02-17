@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most important thing is to enjoy your life, to be happy, it's all that matters.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>Life has the name of life, but in reality it is death.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
