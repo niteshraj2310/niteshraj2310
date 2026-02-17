@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</i><br>— Seungsahn</p>
+<p align="center"><br><i>No idea, no matter how good, will work if it doesn't get used.</i><br>— Peter A. Cohen</p>
 <!-- ADVICE:END -->
 
 #
