@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No idea, no matter how good, will work if it doesn't get used.</i><br>— Peter A. Cohen</p>
+<p align="center"><br><i>There is no self-discovery without pain and loss.</i><br>— Anita Krizzan</p>
 <!-- ADVICE:END -->
 
 #
