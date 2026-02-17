@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
