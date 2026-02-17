@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every saint has a past, and every sinner has a future.</i><br>— Oscar Wilde</p>
+<p align="center"><br><i>Never do things others can do and will do if there are things others cannot do or will not do.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
