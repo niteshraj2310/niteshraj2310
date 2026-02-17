@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no self-discovery without pain and loss.</i><br>— Anita Krizzan</p>
+<p align="center"><br><i>Every saint has a past, and every sinner has a future.</i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
