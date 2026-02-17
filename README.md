@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life has the name of life, but in reality it is death.</i><br>— Heraclitus</p>
+<p align="center"><br><i>Anyone who reads a book with a sense of obligation does not understand the art of reading.</i><br>— Lin Yutang</p>
 <!-- ADVICE:END -->
 
 #
