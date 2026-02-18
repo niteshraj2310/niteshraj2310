@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Begin at once to live, and count each separate day as a separate life. </i><br>— Seneca</p>
+<p align="center"><br><i>No great mind has ever existed without a touch of madness.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
