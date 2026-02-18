@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Decide upon your major definite purpose in life and then organize all your activities around it.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>In youth we run into difficulties. In old age difficulties run into us. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
