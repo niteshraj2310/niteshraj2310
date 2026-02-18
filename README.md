@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No great mind has ever existed without a touch of madness.</i><br>— Aristotle</p>
+<p align="center"><br><i>The pen is the tongue of the mind. </i><br>— Miguel de Cervantes</p>
 <!-- ADVICE:END -->
 
 #
