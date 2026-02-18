@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What you seek is seeking you.</i><br>— Rumi</p>
+<p align="center"><br><i>Begin at once to live, and count each separate day as a separate life. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
