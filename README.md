@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anyone who reads a book with a sense of obligation does not understand the art of reading.</i><br>— Lin Yutang</p>
+<p align="center"><br><i>We lie the loudest when we lie to ourselves.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
