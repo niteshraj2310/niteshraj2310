@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am always doing that which I can not do, in order that I may learn how to do it.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>What you seek is seeking you.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
