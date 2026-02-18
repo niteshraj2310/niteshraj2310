@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We lie the loudest when we lie to ourselves.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>Decide upon your major definite purpose in life and then organize all your activities around it.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
