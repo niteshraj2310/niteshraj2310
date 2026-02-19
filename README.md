@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a succession of lessons, which must be lived to be understood.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>You cannot push anyone up a ladder unless he is willing to climb a little himself.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
