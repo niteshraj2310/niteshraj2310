@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The pen is the tongue of the mind. </i><br>— Miguel de Cervantes</p>
+<p align="center"><br><i>I am not what happened to me, I am what I choose to become.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
