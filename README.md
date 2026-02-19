@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is never final, failure is never fatal. It's courage that counts.</i><br>— John Wooden</p>
+<p align="center"><br><i>Life is a succession of lessons, which must be lived to be understood.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
