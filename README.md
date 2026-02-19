@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some men see things as they are and ask why. Others dream things that never were and ask why not.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Success is never final, failure is never fatal. It's courage that counts.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
