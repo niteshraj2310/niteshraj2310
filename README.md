@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The people who succeed are irrationally passionate about something.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Some men see things as they are and ask why. Others dream things that never were and ask why not.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
