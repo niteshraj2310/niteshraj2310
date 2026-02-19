@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot push anyone up a ladder unless he is willing to climb a little himself.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>The majority of what you want will come from the minority of what you do.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
