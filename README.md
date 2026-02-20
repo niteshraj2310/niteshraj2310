@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The reward of suffering is experience.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Confidence is contagious. So is lack of confidence.</i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
