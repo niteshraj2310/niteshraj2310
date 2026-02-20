@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</i><br>— Sydney Smith</p>
+<p align="center"><br><i>The more you trust yourself, the less you compare yourself to others.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
