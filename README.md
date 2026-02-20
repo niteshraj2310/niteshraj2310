@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
