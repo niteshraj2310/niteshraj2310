@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>The power of human thought grows exponentially with the number of minds that share that thought.</i><br>— Dan Brown</p>
 <!-- ADVICE:END -->
 
 #
