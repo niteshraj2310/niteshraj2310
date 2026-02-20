@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything that is done in the world is done by hope.</i><br>— Martin Luther</p>
+<p align="center"><br><i>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</i><br>— Sydney Smith</p>
 <!-- ADVICE:END -->
 
 #
