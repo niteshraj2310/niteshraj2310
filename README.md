@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We will outstretch the hand if you unclench your fist.</i><br>— Barack Obama</p>
+<p align="center"><br><i>It is better to light a single candle than to curse the darkness.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
