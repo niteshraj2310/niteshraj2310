@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Raise your words, not voice. It is rain that grows flowers, not thunder.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
