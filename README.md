@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The journey, not the destination matters.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>The art of being happy lies in the power of extracting happiness from common things.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
