@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
