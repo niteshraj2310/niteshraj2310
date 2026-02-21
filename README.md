@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to light a single candle than to curse the darkness.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>The journey, not the destination matters.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
