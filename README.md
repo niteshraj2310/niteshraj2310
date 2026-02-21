@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The power of human thought grows exponentially with the number of minds that share that thought.</i><br>— Dan Brown</p>
+<p align="center"><br><i>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
