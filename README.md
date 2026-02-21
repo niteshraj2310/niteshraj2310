@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Raise your words, not voice. It is rain that grows flowers, not thunder.</i><br>— Rumi</p>
+<p align="center"><br><i>We will outstretch the hand if you unclench your fist.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
