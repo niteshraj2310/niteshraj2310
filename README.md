@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We build too many walls and not enough bridges.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>I am always doing what I cannot do yet, in order to learn how to do it.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
