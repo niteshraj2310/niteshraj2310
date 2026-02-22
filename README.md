@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Here and now...breathe and relax...in battle and in life.</i><br>— Dan Millman</p>
+<p align="center"><br><i>High thoughts must have high language.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 #
