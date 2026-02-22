@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>We are all like the bright moon, we still have our darker side. </i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
