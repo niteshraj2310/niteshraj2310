@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We have a duty to maintain the light of consciousness to make sure it continues into the future.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Here and now...breathe and relax...in battle and in life.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
