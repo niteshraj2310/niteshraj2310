@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learn from the mistakes of others. You can't live long enough to make them all yourself.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>We have a duty to maintain the light of consciousness to make sure it continues into the future.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
