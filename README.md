@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Learn from the mistakes of others. You can't live long enough to make them all yourself.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
