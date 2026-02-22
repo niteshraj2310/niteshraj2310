@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am always doing what I cannot do yet, in order to learn how to do it.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
