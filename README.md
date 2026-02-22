@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all like the bright moon, we still have our darker side. </i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>We build too many walls and not enough bridges.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
