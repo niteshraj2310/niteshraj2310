@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One's best success comes after their greatest disappointments.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>When you have to make a choice and don't make it, that is in itself a choice.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
