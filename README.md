@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing others is wisdom, knowing yourself is enlightenment.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Hold yourself responsible for a higher standard than anybody else expects of you.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
