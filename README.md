@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>High thoughts must have high language.</i><br>— Aristophanes</p>
+<p align="center"><br><i>Tis not too late to seek a newer world.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
