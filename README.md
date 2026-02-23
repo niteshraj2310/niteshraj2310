@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you have to make a choice and don't make it, that is in itself a choice.</i><br>— William James</p>
+<p align="center"><br><i>The first step is to establish that something is possible; then probability will occur.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
