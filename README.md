@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hold yourself responsible for a higher standard than anybody else expects of you.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
