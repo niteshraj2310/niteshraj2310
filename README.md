@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Tis not too late to seek a newer world.</i><br>— Heraclitus</p>
+<p align="center"><br><i>One's best success comes after their greatest disappointments.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
