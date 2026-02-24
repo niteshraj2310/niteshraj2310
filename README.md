@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All you need is passion. If you have a passion for something, you'll create the talent.</i><br>— Yanni</p>
+<p align="center"><br><i>Debt is the slavery of the free.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 #
