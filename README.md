@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are your best thing.</i><br>— Toni Morrison</p>
+<p align="center"><br><i>Bloom where you are planted!</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
