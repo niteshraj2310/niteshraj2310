@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Real loss is only possible when you love something more than you love yourself.</i><br>— Robin Williams</p>
+<p align="center"><br><i>Opportunity often comes disguised in the form of misfortune or temporary defeat.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 #
