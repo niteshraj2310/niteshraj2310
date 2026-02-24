@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Opportunity often comes disguised in the form of misfortune or temporary defeat.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Realistic people do not accomplish extraordinary things.</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 #
