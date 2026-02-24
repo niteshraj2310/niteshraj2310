@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Realistic people do not accomplish extraordinary things.</i><br>— John Eliot</p>
+<p align="center"><br><i>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
