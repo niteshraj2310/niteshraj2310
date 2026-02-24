@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Winning isn't always championships.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>Real loss is only possible when you love something more than you love yourself.</i><br>— Robin Williams</p>
 <!-- ADVICE:END -->
 
 #
