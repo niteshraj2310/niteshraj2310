@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Debt is the slavery of the free.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>You are your best thing.</i><br>— Toni Morrison</p>
 <!-- ADVICE:END -->
 
 #
