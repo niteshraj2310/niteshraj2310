@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Bloom where you are planted!</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Man suffers only because he takes seriously what the gods made for fun.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
