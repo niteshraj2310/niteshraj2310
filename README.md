@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</i><br>— Seungsahn</p>
+<p align="center"><br><i>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
