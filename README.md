@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Setting goals is the first step in turning the invisible into the visible.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>I put my heart and soul into my work, and I have lost my mind in the process.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 #
