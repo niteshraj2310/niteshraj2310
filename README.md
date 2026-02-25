@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man suffers only because he takes seriously what the gods made for fun.</i><br>— Alan Watts</p>
+<p align="center"><br><i>Every day do something that will inch you closer to a better tomorrow.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
