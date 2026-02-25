@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
