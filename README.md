@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future is the worst thing about the present.</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
