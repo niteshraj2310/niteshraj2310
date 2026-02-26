@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>A change is brought about because ordinary people do extraordinary things.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
