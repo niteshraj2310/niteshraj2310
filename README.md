@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who is not contented with what he has, would not be contented with what he would like to have.</i><br>— Socrates</p>
+<p align="center"><br><i>It doesn't matter where you are coming from. All that matters is where you are going. </i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
