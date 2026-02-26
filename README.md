@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Better to light a candle than to curse the darkness. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>He who is not contented with what he has, would not be contented with what he would like to have.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
