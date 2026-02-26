@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>It will never rain roses: when we want to have more roses, we must plant more roses.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
