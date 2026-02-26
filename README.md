@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</i><br>— Rumi</p>
+<p align="center"><br><i>Better to light a candle than to curse the darkness. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
