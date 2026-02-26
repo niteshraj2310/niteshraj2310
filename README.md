@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It will never rain roses: when we want to have more roses, we must plant more roses.</i><br>— George Eliot</p>
+<p align="center"><br><i>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
