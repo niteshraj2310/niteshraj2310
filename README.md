@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A loving heart is the truest wisdom.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>We lie the loudest when we lie to ourselves.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
