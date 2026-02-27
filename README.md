@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A change is brought about because ordinary people do extraordinary things.</i><br>— Barack Obama</p>
+<p align="center"><br><i>I know not all that may be coming, but be it what it will, I'll go to it laughing.</i><br>— Herman Melville</p>
 <!-- ADVICE:END -->
 
 #
