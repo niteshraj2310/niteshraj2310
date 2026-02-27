@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We lie the loudest when we lie to ourselves.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>Out of your vulnerabilities will come your strength.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
