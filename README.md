@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is in changing that we find purpose.</i><br>— Heraclitus</p>
+<p align="center"><br><i>Peace is not the absence of conflict, but the ability to cope with it.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
