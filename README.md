@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Out of your vulnerabilities will come your strength.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>It is in changing that we find purpose.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
