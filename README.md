@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I know not all that may be coming, but be it what it will, I'll go to it laughing.</i><br>— Herman Melville</p>
+<p align="center"><br><i>A loving heart is the truest wisdom.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
