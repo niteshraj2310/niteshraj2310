@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give out what you most want to come back.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>The grass is greener where you water it.</i><br>— Neil Barringham</p>
 <!-- ADVICE:END -->
 
 #
