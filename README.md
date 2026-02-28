@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The grass is greener where you water it.</i><br>— Neil Barringham</p>
+<p align="center"><br><i>A journey of a thousand miles must begin with a single step.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
