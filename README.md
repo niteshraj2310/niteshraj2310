@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Use your smile to change the world but don't let the world change your smile.</i><br>— Unknown</p>
+<p align="center"><br><i>In the End, we will remember not the words of our enemies, but the silence of our friends.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
