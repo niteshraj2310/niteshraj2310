@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the End, we will remember not the words of our enemies, but the silence of our friends.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>To belittle, you have to be little.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
