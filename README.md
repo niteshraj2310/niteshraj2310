@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A journey of a thousand miles must begin with a single step.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>All you need is passion. If you have a passion for something, you'll create the talent.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
