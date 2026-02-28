@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To belittle, you have to be little.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>The power of human thought grows exponentially with the number of minds that share that thought.</i><br>— Dan Brown</p>
 <!-- ADVICE:END -->
 
 #
