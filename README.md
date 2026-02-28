@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To become what you are not, behave as you do not.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>Use your smile to change the world but don't let the world change your smile.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
