@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</i><br>— Jeffrey Gitomer</p>
+<p align="center"><br><i>The first step is to establish that something is possible; then probability will occur.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
