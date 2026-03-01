@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most important thing in communication is to hear what isn't being said.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>There are no accidents... there is only some purpose that we haven't yet understood.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
