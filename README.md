@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no accidents... there is only some purpose that we haven't yet understood.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</i><br>— Jeffrey Gitomer</p>
 <!-- ADVICE:END -->
 
 #
