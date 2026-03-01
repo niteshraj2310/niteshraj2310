@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All you need is passion. If you have a passion for something, you'll create the talent.</i><br>— Yanni</p>
+<p align="center"><br><i>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</i><br>— Kabir</p>
 <!-- ADVICE:END -->
 
 #
