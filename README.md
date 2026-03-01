@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.</i><br>— Ray Bradbury</p>
+<p align="center"><br><i>Real learning comes about when the competitive spirit has ceased.</i><br>— Jiddu Krishnamurti</p>
 <!-- ADVICE:END -->
 
 #
