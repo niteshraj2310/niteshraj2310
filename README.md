@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When we have our body and mind in order, everything else will exist in the right place, in the right way.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>The most important thing in communication is to hear what isn't being said.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 #
