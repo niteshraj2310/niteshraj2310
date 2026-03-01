@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</i><br>— Kabir</p>
+<p align="center"><br><i>When we have our body and mind in order, everything else will exist in the right place, in the right way.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
