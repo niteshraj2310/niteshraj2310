@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>If the plan doesn't work, change the plan, but never the goal.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
