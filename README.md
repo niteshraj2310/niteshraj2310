@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The heart wants what it wants - or else it does not care.</i><br>— Emily Dickinson</p>
+<p align="center"><br><i>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
