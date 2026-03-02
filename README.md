@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Real learning comes about when the competitive spirit has ceased.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
