@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>How people treat you is their karma; how you react is yours. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
