@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Nature does not hurry, yet everything is accomplished.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
