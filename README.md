@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nature does not hurry, yet everything is accomplished.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>How people treat you is their karma; how you react is yours. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
