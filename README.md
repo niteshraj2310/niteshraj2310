@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If the plan doesn't work, change the plan, but never the goal.</i><br>— Unknown</p>
+<p align="center"><br><i>Be fascinated instead of frustrated.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
