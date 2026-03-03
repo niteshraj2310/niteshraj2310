@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I didn't get there by wishing for it or hoping for it, but by working for it.</i><br>— Estee Lauder</p>
+<p align="center"><br><i>If fear is too strong, the genius is suppressed.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
