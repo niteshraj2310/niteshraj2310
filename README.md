@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you aim at nothing, you will hit it every time. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Never do things others can do and will do if there are things others cannot do or will not do.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
