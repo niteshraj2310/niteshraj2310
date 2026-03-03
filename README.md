@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't ever save anything for a special occasion. Being alive is the special occasion.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>It is not fair to ask of others what you are not willing to do yourself.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
