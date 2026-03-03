@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enlightenment is intimacy with all things.</i><br>— Dogen</p>
+<p align="center"><br><i>Don't ever save anything for a special occasion. Being alive is the special occasion.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
