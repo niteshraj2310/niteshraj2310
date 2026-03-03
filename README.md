@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never do things others can do and will do if there are things others cannot do or will not do.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Life is a question and how we live it is our answer.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
