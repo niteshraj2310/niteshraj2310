@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not fair to ask of others what you are not willing to do yourself.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>If you aim at nothing, you will hit it every time. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
