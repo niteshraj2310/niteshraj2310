@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>I didn't get there by wishing for it or hoping for it, but by working for it.</i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
