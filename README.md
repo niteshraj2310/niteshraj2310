@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If fear is too strong, the genius is suppressed.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Enlightenment is intimacy with all things.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
