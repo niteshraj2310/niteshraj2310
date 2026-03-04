@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>By seeking and blundering we learn.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>The more knowledge you have, the more you're free to rely on your instincts.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
