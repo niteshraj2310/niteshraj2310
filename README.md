@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't try to be young. Just open your mind. Stay interested in stuff.</i><br>— Betty White</p>
+<p align="center"><br><i>Distant water does not put out a nearby fire.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
