@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a question and how we live it is our answer.</i><br>— Gary Keller</p>
+<p align="center"><br><i>By seeking and blundering we learn.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
