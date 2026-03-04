@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Distant water does not put out a nearby fire.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>We must cultivate our garden. </i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
