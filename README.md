@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more knowledge you have, the more you're free to rely on your instincts.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>Imagination is the beginning of creation.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
