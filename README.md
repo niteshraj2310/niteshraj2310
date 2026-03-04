@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Absurdity is the ecstasy of intellectualism.</i><br>— Criss Jami</p>
+<p align="center"><br><i>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
