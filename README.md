@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Imagination is the beginning of creation.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Absurdity is the ecstasy of intellectualism.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
