@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am who I am today because of the choices I made yesterday.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>I would rather be hated for who I am than loved for who I'm not. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
