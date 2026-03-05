@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What most people need to learn in life is how to love people and use things instead of using people and loving things.</i><br>— Unknown</p>
+<p align="center"><br><i>I am who I am today because of the choices I made yesterday.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
