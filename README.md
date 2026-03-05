@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>If you are far from the enemy, make him believe you are near.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
