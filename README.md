@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who cannot be a good follower cannot be a good leader.</i><br>— Aristotle</p>
+<p align="center"><br><i>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
