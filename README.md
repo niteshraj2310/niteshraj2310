@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We must cultivate our garden. </i><br>— Voltaire</p>
+<p align="center"><br><i>He who cannot be a good follower cannot be a good leader.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
