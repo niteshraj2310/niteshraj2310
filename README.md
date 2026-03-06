@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Time is a game played beautifully by children.</i><br>— Heraclitus</p>
+<p align="center"><br><i>By perseverance the snail reached the ark.</i><br>— Charles Spurgeon</p>
 <!-- ADVICE:END -->
 
 #
