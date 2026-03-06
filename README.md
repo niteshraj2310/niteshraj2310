@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The friend is the man who knows all about you, and still likes you.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>The way we feel is the direct result of what we think.</i><br>— Peter A. Cohen</p>
 <!-- ADVICE:END -->
 
 #
