@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A dream you dream alone is only a dream. A dream you dream together is reality.</i><br>— Yoko Ono</p>
+<p align="center"><br><i>Time is a game played beautifully by children.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
