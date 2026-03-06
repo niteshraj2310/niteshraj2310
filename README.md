@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want work well done, select a busy man; the other kind has no time.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>A dream you dream alone is only a dream. A dream you dream together is reality.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 #
