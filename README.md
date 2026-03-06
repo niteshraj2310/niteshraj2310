@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I would rather be hated for who I am than loved for who I'm not. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>We will act consistently with our view of who we truly are, whether that view is accurate or not.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
