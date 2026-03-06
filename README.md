@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>The friend is the man who knows all about you, and still likes you.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
