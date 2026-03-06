@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>By perseverance the snail reached the ark.</i><br>— Charles Spurgeon</p>
+<p align="center"><br><i>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
