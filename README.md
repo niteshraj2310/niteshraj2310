@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The way we feel is the direct result of what we think.</i><br>— Peter A. Cohen</p>
+<p align="center"><br><i>Evil is whatever distracts. </i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 #
