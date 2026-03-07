@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Deeds will not be less valiant because they are upraised.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>You don't need a weatherman to know which way the wind blows.</i><br>— Bob Dylan</p>
 <!-- ADVICE:END -->
 
 #
