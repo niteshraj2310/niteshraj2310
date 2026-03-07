@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</i><br>— Alan Watts</p>
+<p align="center"><br><i>Deeds will not be less valiant because they are upraised.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
