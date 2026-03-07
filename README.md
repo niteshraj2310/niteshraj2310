@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't need a weatherman to know which way the wind blows.</i><br>— Bob Dylan</p>
+<p align="center"><br><i>When we have our body and mind in order, everything else will exist in the right place, in the right way.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
