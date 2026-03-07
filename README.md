@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not how much we give but how much love we put into giving.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>Instead of being intimidated by the limitations, be inspired to find new ways around them.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
