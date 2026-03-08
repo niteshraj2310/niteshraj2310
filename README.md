@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A fear of weakness only strengthens weakness.</i><br>— Criss Jami</p>
+<p align="center"><br><i>We meet ourselves time and again in a thousand disguises on the path of life.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
