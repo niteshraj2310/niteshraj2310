@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We meet ourselves time and again in a thousand disguises on the path of life.</i><br>— Carl Jung</p>
+<p align="center"><br><i>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
