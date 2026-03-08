@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life should be touched, not strangled. </i><br>— Ray Bradbury</p>
+<p align="center"><br><i>What's right is what's left if you do everything else wrong.</i><br>— Robin Williams</p>
 <!-- ADVICE:END -->
 
 #
