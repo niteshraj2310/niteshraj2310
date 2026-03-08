@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Little by little, one travels far.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>You will succeed because most people are lazy.</i><br>— Shahir Zag</p>
 <!-- ADVICE:END -->
 
 #
