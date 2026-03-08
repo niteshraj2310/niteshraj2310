@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What's right is what's left if you do everything else wrong.</i><br>— Robin Williams</p>
+<p align="center"><br><i>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 #
