@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You will succeed because most people are lazy.</i><br>— Shahir Zag</p>
+<p align="center"><br><i>Life should be touched, not strangled. </i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 #
