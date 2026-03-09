@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What the eye doesn't see and the mind doesn't know, doesn't exist.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>Conquer the devils with a little thing called love.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
