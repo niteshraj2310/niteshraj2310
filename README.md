@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't want anything. Then you get everything.</i><br>— Seungsahn</p>
+<p align="center"><br><i>What the eye doesn't see and the mind doesn't know, doesn't exist.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
