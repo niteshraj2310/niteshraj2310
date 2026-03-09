@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No man is more cheated than the selfish man.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
