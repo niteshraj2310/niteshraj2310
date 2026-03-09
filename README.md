@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no limit to the amount of good you can do if you don't care who gets the credit.</i><br>— Ronald Reagan</p>
+<p align="center"><br><i>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
