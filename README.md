@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>Less is more.</i><br>— Robert Browning</p>
 <!-- ADVICE:END -->
 
 #
