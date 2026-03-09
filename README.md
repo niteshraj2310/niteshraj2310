@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear, uncertainty, and discomfort are your compasses toward growth.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Don't want anything. Then you get everything.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
