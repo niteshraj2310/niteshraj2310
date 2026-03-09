@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>There is no limit to the amount of good you can do if you don't care who gets the credit.</i><br>— Ronald Reagan</p>
 <!-- ADVICE:END -->
 
 #
