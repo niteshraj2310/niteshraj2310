@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Conquer the devils with a little thing called love.</i><br>— Bob Marley</p>
+<p align="center"><br><i>No man is more cheated than the selfish man.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
