@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The fear of death is more to be feared, than death itself.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>Reality is nothing but a collective hunch.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
