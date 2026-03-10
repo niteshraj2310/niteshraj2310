@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Reality is nothing but a collective hunch.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>Faults are yours to fix, not to curse.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
