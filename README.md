@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Less is more.</i><br>— Robert Browning</p>
+<p align="center"><br><i>We run to win, not just to be in the race. </i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
