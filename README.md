@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are what you do, not what you say you'll do.</i><br>— Carl Jung</p>
+<p align="center"><br><i>None of us can change our yesterdays but all of us can change our tomorrows.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
