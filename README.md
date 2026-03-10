@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</i><br>— Henry Ford</p>
+<p align="center"><br><i>Opportunities multiply as they are seized.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
