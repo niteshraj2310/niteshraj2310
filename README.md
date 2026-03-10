@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We run to win, not just to be in the race. </i><br>— Vince Lombardi</p>
+<p align="center"><br><i>The fear of death is more to be feared, than death itself.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 #
