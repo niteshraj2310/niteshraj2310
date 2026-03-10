@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Opportunities multiply as they are seized.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>You are what you do, not what you say you'll do.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
