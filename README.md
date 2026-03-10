@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Faults are yours to fix, not to curse.</i><br>— Colin Powell</p>
+<p align="center"><br><i>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
