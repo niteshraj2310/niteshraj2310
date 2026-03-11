@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>None of us can change our yesterdays but all of us can change our tomorrows.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Great loves too must be endured.</i><br>— Coco Chanel</p>
 <!-- ADVICE:END -->
 
 #
