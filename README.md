@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great loves too must be endured.</i><br>— Coco Chanel</p>
+<p align="center"><br><i>No man is free who is not master of himself.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
