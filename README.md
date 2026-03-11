@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be happy now, without reason - or you never will be at all.</i><br>— Dan Millman</p>
+<p align="center"><br><i>It's easier to go down a hill than up it but the view is much better at the top.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
