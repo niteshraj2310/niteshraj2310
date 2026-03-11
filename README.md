@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>Be happy now, without reason - or you never will be at all.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
