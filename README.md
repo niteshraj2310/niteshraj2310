@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No man is free who is not master of himself.</i><br>— Epictetus</p>
+<p align="center"><br><i>The man who removes a mountain begins by carrying away small stones.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
