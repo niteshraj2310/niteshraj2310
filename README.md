@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The man who removes a mountain begins by carrying away small stones.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
