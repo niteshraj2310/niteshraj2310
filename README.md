@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Art, like morality, consists of drawing the line somewhere.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>Sometimes you will never know the value of something, until it becomes a memory.</i><br>— Dr. Seuss</p>
 <!-- ADVICE:END -->
 
 #
