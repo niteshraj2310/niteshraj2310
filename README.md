@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When it is dark enough, you can see the stars.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>What people need and what they want may be very different.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
