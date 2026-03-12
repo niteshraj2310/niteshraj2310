@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not what you pay a man, but what he costs you that counts.</i><br>— Will Rogers</p>
+<p align="center"><br><i>The hard path is often the right one. The river teaches more than the shore.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
