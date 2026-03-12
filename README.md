@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What people need and what they want may be very different.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Insanity: doing the same thing over and over again and expecting different results.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
