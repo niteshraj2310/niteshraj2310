@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Falling down is not failure. Failure comes when you stay where you have fallen.</i><br>— Socrates</p>
+<p align="center"><br><i>Youth has no age.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
