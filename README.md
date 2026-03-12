@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The hard path is often the right one. The river teaches more than the shore.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>When it is dark enough, you can see the stars.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
