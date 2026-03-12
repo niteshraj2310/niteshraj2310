@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Insanity: doing the same thing over and over again and expecting different results.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>Falling down is not failure. Failure comes when you stay where you have fallen.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
