@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is the absence of the striving for happiness.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>Life is a process. We are a process. The universe is a process.</i><br>— Anne Wilson Schaef</p>
 <!-- ADVICE:END -->
 
 #
