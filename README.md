@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When we allow negative messages to fester in our head, they take on a life of their own.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>The art of being happy lies in the power of extracting happiness from common things.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
