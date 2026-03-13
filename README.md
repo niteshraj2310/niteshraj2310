@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The art of being happy lies in the power of extracting happiness from common things.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>You are free, and that is why you are lost.</i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 #
