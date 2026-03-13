@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a process. We are a process. The universe is a process.</i><br>— Anne Wilson Schaef</p>
+<p align="center"><br><i>Nothing good ever comes of violence.</i><br>— Martin Luther</p>
 <!-- ADVICE:END -->
 
 #
