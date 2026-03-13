@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The wisdom of life consists in the elimination of the nonessentials.</i><br>— Lin Yutang</p>
+<p align="center"><br><i>The wise man reads both books and life itself.</i><br>— Lin Yutang</p>
 <!-- ADVICE:END -->
 
 #
