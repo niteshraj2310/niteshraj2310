@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Integrity is telling myself the truth. And honesty is telling the truth to other people.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>When we allow negative messages to fester in our head, they take on a life of their own.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
