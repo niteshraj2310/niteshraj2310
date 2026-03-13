@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are free, and that is why you are lost.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>Happiness is the absence of the striving for happiness.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
