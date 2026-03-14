@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To lead an orchestra, you must turn your back on the crowd.</i><br>— Aristotle</p>
+<p align="center"><br><i>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
