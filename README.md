@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </i><br>— Miguel de Cervantes</p>
+<p align="center"><br><i>The opposite of courage in our society is not cowardice... it is conformity.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
