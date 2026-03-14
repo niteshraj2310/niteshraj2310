@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The wise man reads both books and life itself.</i><br>— Lin Yutang</p>
+<p align="center"><br><i>The quality, not the longevity, of one's life is what is important.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
