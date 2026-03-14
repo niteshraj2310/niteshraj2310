@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quality, not the longevity, of one's life is what is important.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>To lead an orchestra, you must turn your back on the crowd.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
