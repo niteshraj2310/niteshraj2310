@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When something is important enough, you do it even if the odds are not in your favor.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Time heals what reason cannot. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
