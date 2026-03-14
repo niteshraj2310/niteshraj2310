@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The opposite of courage in our society is not cowardice... it is conformity.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>When something is important enough, you do it even if the odds are not in your favor.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
