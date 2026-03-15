@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest deception men suffer is from their own opinions.</i><br>— Leonardo da Vinci</p>
+<p align="center"><br><i>Today you are you, that is truer than true. There is no one alive who is you-er than you.</i><br>— Dr. Seuss</p>
 <!-- ADVICE:END -->
 
 #
