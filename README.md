@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>The greatest deception men suffer is from their own opinions.</i><br>— Leonardo da Vinci</p>
 <!-- ADVICE:END -->
 
 #
