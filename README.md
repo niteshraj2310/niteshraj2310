@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Evil is whatever distracts. </i><br>— Franz Kafka</p>
+<p align="center"><br><i>When you reach the end of your rope, tie a knot in it and hang on.</i><br>— Franklin D. Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
