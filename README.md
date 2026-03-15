@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.</i><br>— John Eliot</p>
+<p align="center"><br><i>Words are clothes that thoughts wear</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 #
