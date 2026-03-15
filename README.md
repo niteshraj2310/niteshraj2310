@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words are clothes that thoughts wear</i><br>— Samuel Butler</p>
+<p align="center"><br><i>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
