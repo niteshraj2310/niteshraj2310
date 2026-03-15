@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you reach the end of your rope, tie a knot in it and hang on.</i><br>— Franklin D. Roosevelt</p>
+<p align="center"><br><i>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
