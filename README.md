@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today you are you, that is truer than true. There is no one alive who is you-er than you.</i><br>— Dr. Seuss</p>
+<p align="center"><br><i>Evil is whatever distracts. </i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 #
