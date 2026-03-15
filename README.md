@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
