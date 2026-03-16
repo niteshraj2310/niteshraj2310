@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Victims recite problems, leaders provide solutions.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>A gentleman is one who puts more into the world than he takes out.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
