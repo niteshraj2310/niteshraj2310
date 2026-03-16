@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A gentleman is one who puts more into the world than he takes out.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>You are today where your thoughts have brought you.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
