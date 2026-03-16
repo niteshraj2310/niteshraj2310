@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is difficult to free fools from the chains they revere. </i><br>— Voltaire</p>
+<p align="center"><br><i>Victims recite problems, leaders provide solutions.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 #
