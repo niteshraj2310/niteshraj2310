@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Heroes don't need to talk about what they did.</i><br>— W.P. Kinsella</p>
+<p align="center"><br><i>Instead of being intimidated by the limitations, be inspired to find new ways around them.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
