@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Instead of being intimidated by the limitations, be inspired to find new ways around them.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>Trust is the foundation of great leadership.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
