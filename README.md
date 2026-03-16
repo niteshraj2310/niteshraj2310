@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Identify your problems, but give your power and energy to solutions.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Heroes don't need to talk about what they did.</i><br>— W.P. Kinsella</p>
 <!-- ADVICE:END -->
 
 #
