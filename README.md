@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trust is the foundation of great leadership.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>The most difficult times for many of us are the ones we give ourselves.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
