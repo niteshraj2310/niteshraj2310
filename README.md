@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The biggest room in the world is the room for improvement.</i><br>— Unknown</p>
+<p align="center"><br><i>Don't let the fear of losing be greater than the excitement of winning.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
