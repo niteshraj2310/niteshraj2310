@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most difficult times for many of us are the ones we give ourselves.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>Don't let the behavior of others destroy your inner peace.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
