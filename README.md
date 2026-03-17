@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Much learning does not teach understanding.</i><br>— Heraclitus</p>
+<p align="center"><br><i>He who fails to plan, plans to fail.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
