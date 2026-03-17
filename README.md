@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>The biggest room in the world is the room for improvement.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
