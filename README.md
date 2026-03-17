@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The sun shines upon good and bad alike.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Much learning does not teach understanding.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
