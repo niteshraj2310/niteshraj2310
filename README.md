@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the behavior of others destroy your inner peace.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>The sun shines upon good and bad alike.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
