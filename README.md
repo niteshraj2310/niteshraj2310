@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Beware of false knowledge, it is more dangerous than ignorance.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
