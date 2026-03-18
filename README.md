@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can calculate the worth of a man by the number of his enemies.</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>Our life isn't how much we can take out, but how much we can put in. </i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
