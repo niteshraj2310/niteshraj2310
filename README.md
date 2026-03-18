@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't shortchange yourself when it comes to investing in your own better future.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>The longer we dwell on our misfortunes, the greater is their power to harm us.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
