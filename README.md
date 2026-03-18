@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our life isn't how much we can take out, but how much we can put in. </i><br>— Estee Lauder</p>
+<p align="center"><br><i>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
