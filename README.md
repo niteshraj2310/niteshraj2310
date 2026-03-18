@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Plants grow weak without wind.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>You can calculate the worth of a man by the number of his enemies.</i><br>— Gustave Flaubert</p>
 <!-- ADVICE:END -->
 
 #
