@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</i><br>— Unknown</p>
+<p align="center"><br><i>Plants grow weak without wind.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
