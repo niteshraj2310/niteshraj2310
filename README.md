@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the fear of losing be greater than the excitement of winning.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Beware of false knowledge, it is more dangerous than ignorance.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
