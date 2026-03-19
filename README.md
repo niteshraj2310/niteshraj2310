@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wherever you are, it's the place you need to be.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>Cease striving. Then there will be transformation.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
