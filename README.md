@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
