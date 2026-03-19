@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have to keep breaking your heart until it opens.</i><br>— Rumi</p>
+<p align="center"><br><i>Wherever you are, it's the place you need to be.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 #
