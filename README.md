@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>The most important things are the hardest to say.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
