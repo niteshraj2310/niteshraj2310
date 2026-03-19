@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The longer we dwell on our misfortunes, the greater is their power to harm us.</i><br>— Voltaire</p>
+<p align="center"><br><i>You have to keep breaking your heart until it opens.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
