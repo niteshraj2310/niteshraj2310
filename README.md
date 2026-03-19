@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most important things are the hardest to say.</i><br>— Stephen King</p>
+<p align="center"><br><i>Trusting our intuition often saves us from disaster. </i><br>— Anne Wilson Schaef</p>
 <!-- ADVICE:END -->
 
 #
