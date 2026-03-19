@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trusting our intuition often saves us from disaster. </i><br>— Anne Wilson Schaef</p>
+<p align="center"><br><i>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
