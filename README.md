@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
