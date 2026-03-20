@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great things happen to those who don't stop believing, trying, learning, and being grateful.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Focus is a matter of deciding what things you're not going to do.</i><br>— John Carmack</p>
 <!-- ADVICE:END -->
 
 #
