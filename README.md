@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You came empty handed, and you will leave empty handed.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>The impossible can always be broken down into possibilities.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
