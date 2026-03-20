@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The impossible can always be broken down into possibilities.</i><br>— Unknown</p>
+<p align="center"><br><i>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 #
