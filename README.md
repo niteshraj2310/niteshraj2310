@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>One of the keys to happiness is a bad memory.</i><br>— Rita Mae Brown</p>
 <!-- ADVICE:END -->
 
 #
