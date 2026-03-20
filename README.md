@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Focus is a matter of deciding what things you're not going to do.</i><br>— John Carmack</p>
+<p align="center"><br><i>You came empty handed, and you will leave empty handed.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
