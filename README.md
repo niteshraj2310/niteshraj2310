@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the keys to happiness is a bad memory.</i><br>— Rita Mae Brown</p>
+<p align="center"><br><i>The more we value things, the less we value ourselves. </i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
