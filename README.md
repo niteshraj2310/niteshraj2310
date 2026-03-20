@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>Great things happen to those who don't stop believing, trying, learning, and being grateful.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
