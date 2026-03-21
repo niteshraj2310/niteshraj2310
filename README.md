@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our attitude toward life determines life's attitude towards us.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Passion is energy. Feel the power that comes from focusing on what excites you. </i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
