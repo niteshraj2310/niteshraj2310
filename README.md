@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is useless to attempt to reason a man out of a thing he was never reasoned into.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Remember the entrance to the sanctuary is inside you.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 #
