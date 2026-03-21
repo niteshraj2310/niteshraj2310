@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more we value things, the less we value ourselves. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
