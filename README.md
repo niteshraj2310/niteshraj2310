@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Passion is energy. Feel the power that comes from focusing on what excites you. </i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>It is useless to attempt to reason a man out of a thing he was never reasoned into.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
