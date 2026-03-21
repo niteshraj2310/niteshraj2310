@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember the entrance to the sanctuary is inside you.</i><br>— Rumi</p>
+<p align="center"><br><i>Good luck is opportunity meeting preparedness.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
