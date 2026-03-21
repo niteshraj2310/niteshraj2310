@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Good luck is opportunity meeting preparedness.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>All cruelty springs from weakness. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
