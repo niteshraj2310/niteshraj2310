@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't climb the ladder of success with your hands in your pockets.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
