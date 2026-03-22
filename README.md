@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</i><br>— Colin Powell</p>
+<p align="center"><br><i>You can't wait for inspiration. You have to go after it with a club. </i><br>— Jack London</p>
 <!-- ADVICE:END -->
 
 #
