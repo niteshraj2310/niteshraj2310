@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There will always be suffering. But we must not suffer over the suffering.</i><br>— Alan Watts</p>
+<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
