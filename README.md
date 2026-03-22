@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </i><br>— Herodotus</p>
+<p align="center"><br><i>A Penny Saved is a Penny Earned</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
