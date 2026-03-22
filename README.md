@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A Penny Saved is a Penny Earned</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Within every desire is the mechanics of its fulfillment.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
