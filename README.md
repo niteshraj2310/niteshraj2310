@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Within every desire is the mechanics of its fulfillment.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>There will always be suffering. But we must not suffer over the suffering.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
