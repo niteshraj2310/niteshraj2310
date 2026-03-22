@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>You can't climb the ladder of success with your hands in your pockets.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
