@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All cruelty springs from weakness. </i><br>— Seneca</p>
+<p align="center"><br><i>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
