@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>Loyalty and friendship are the most precious possessions a man can have.</i><br>— Herbert Hoover</p>
 <!-- ADVICE:END -->
 
 #
