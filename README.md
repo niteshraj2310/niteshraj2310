@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</i><br>— Og Mandino</p>
+<p align="center"><br><i>You are not stuck where you are unless you decide to be. </i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 #
