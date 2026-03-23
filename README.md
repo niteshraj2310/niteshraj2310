@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In order to carry a positive action, we must develop here a positive vision.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 #
