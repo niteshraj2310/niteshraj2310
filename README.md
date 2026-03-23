@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Loyalty and friendship are the most precious possessions a man can have.</i><br>— Herbert Hoover</p>
+<p align="center"><br><i>Don't wait for the right opportunity: create it.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
