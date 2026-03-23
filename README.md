@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are now, and you do become, what you think about.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Engage in those actions and thoughts that nurture the good qualities you want to have.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
