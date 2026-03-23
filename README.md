@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't wait for inspiration. You have to go after it with a club. </i><br>— Jack London</p>
+<p align="center"><br><i>You are now, and you do become, what you think about.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
