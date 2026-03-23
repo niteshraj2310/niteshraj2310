@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are not stuck where you are unless you decide to be. </i><br>— Wayne Dyer</p>
+<p align="center"><br><i>In order to carry a positive action, we must develop here a positive vision.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
