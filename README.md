@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>Money poisons you when you've got it, and starves you when you haven't.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
