@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always forgive your enemies - nothing annoys them so much. </i><br>— Oscar Wilde</p>
+<p align="center"><br><i>Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
