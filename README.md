@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't wait for the right opportunity: create it.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Happiness is the absence of the striving for happiness.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
