@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We must be free not because we claim freedom, but because we practice it.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Words, once they are printed, have a life of their own.</i><br>— Carol Burnett</p>
 <!-- ADVICE:END -->
 
 #
