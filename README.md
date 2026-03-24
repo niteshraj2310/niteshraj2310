@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>We must be free not because we claim freedom, but because we practice it.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
