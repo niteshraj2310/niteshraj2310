@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is the absence of the striving for happiness.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>Always forgive your enemies - nothing annoys them so much. </i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
