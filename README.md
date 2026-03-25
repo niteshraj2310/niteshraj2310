@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He that can have patience can have what he will.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>It takes a very long time to become young.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
