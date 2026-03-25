@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I no doubt deserved my enemies, but I don't believe I deserved my friends.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>All I can do is be me, whoever that is.</i><br>— Bob Dylan</p>
 <!-- ADVICE:END -->
 
 #
