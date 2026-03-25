@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.</i><br>— Margaret Mead</p>
+<p align="center"><br><i>I no doubt deserved my enemies, but I don't believe I deserved my friends.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
