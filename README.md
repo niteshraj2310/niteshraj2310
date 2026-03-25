@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words, once they are printed, have a life of their own.</i><br>— Carol Burnett</p>
+<p align="center"><br><i>Do it with passion, or not at all.</i><br>— Rosa Nouchette Carey</p>
 <!-- ADVICE:END -->
 
 #
