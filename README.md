@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do it with passion, or not at all.</i><br>— Rosa Nouchette Carey</p>
+<p align="center"><br><i>The right thing to do and the hard thing to do are usually the same.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
