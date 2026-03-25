@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It takes a very long time to become young.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.</i><br>— Margaret Mead</p>
 <!-- ADVICE:END -->
 
 #
