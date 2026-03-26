@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If we did all the things we are capable of, we would literally astound ourselves.</i><br>— Thomas Edison</p>
+<p align="center"><br><i>The wise speak only of what they know.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
