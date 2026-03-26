@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>FOCUS - Follow One Course Until Successful</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
