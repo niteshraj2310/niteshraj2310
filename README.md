@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The wise speak only of what they know.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>FOCUS - Follow One Course Until Successful</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
