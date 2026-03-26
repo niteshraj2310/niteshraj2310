@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>There is no one giant step that does it. It's a lot of little steps.</i><br>— Peter A. Cohen</p>
 <!-- ADVICE:END -->
 
 #
