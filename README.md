@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Only by acceptance of the past, can you alter it.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
