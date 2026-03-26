@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>A clever person turns great troubles into little ones, and little ones into none at all. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
