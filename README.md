@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only by acceptance of the past, can you alter it.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
