@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>To every action there is always opposed an equal reaction.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
