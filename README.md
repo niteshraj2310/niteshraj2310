@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people fail in life because they major in minor things.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>As mortals, we're ruled by conditions, not by ourselves.</i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 #
