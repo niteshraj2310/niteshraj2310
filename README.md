@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To every action there is always opposed an equal reaction.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>Adventure is worthwhile in itself.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
