@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The secret of life is to fall seven times and to get up eight times.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Give so much away people insist on paying you.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
