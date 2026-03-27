@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best way to understanding is a few good examples.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>The secret of life is to fall seven times and to get up eight times.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
