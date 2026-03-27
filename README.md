@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give so much away people insist on paying you.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
