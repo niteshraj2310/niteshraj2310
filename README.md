@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As mortals, we're ruled by conditions, not by ourselves.</i><br>— Bodhidharma</p>
+<p align="center"><br><i>The best way to understanding is a few good examples.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
