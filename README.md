@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A clever person turns great troubles into little ones, and little ones into none at all. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Most people fail in life because they major in minor things.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
