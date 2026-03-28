@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The power of man has grown in every sphere, except over himself.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>There are no accidents... there is only some purpose that we haven't yet understood.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
