@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We forge the chains we wear in life.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>The power of man has grown in every sphere, except over himself.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
