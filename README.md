@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adventure is worthwhile in itself.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Discontent is the first necessity of progress.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 #
