@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A gentleman is one who puts more into the world than he takes out.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>A dream doesn't become reality through magic it takes sweat, determination and hard work.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
