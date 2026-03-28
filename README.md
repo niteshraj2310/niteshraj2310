@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A dream doesn't become reality through magic it takes sweat, determination and hard work.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
