@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all like the bright moon, we still have our darker side. </i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>A gentleman is one who puts more into the world than he takes out.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
