@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I skate to where the puck is going to be, not where it has been.</i><br>— Wayne Gretzky</p>
+<p align="center"><br><i>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
