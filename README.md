@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you judge another, you do not define them, you define yourself</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>I skate to where the puck is going to be, not where it has been.</i><br>— Wayne Gretzky</p>
 <!-- ADVICE:END -->
 
 #
