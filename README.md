@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Giving back involves a certain amount of giving up.</i><br>— Colin Powell</p>
+<p align="center"><br><i>We must accept finite disappointment, but never lose infinite hope.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
