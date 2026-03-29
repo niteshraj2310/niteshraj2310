@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The cost of leadership is self-interest.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</i><br>— Josh Waitzkin</p>
 <!-- ADVICE:END -->
 
 #
