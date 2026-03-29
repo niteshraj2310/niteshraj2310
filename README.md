@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no accidents... there is only some purpose that we haven't yet understood.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>The cost of leadership is self-interest.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
