@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Giving back involves a certain amount of giving up.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
