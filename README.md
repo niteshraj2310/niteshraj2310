@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</i><br>— Josh Waitzkin</p>
+<p align="center"><br><i>The greatest treasures are those invisible to the eye but found by the heart.</i><br>— Judy Garland</p>
 <!-- ADVICE:END -->
 
 #
