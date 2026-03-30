@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing important is learned; it is simply remembered.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>20 percent of your activities will account for 80 percent of your results.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
