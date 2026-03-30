@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am who I am today because of the choices I made yesterday.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Nothing important is learned; it is simply remembered.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
