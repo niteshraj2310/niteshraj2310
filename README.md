@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trying to define yourself is like trying to bite your own teeth.</i><br>— Alan Watts</p>
+<p align="center"><br><i>Happiness is not something ready made. It comes from your own actions.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
