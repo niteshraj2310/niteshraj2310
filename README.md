@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>For fast-acting relief try slowing down.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>Trying to define yourself is like trying to bite your own teeth.</i><br>— Alan Watts</p>
 <!-- ADVICE:END -->
 
 #
