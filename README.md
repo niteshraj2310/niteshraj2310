@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You may think I'm small, but I have a universe inside my mind.</i><br>— Yoko Ono</p>
+<p align="center"><br><i>I am who I am today because of the choices I made yesterday.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
