@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is not something ready made. It comes from your own actions.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>You may think I'm small, but I have a universe inside my mind.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 #
