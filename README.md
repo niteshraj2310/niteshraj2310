@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The golden opportunity you are seeking is within yourself.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Relax. Nothing is under control.</i><br>— Adi Da Samraj</p>
 <!-- ADVICE:END -->
 
 #
