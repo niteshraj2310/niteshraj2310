@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some people feel the rain. Others just get wet. </i><br>— Bob Dylan</p>
+<p align="center"><br><i>Courage is resistance to fear, mastery of fear - not absence of fear.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
