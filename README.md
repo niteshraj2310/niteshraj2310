@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>20 percent of your activities will account for 80 percent of your results.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Some people feel the rain. Others just get wet. </i><br>— Bob Dylan</p>
 <!-- ADVICE:END -->
 
 #
