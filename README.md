@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It doesn't matter how slow you go, as long as you don't stop.</i><br>— Confucius</p>
+<p align="center"><br><i>The golden opportunity you are seeking is within yourself.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 #
