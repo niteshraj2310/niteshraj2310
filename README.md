@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</i><br>— Emily Dickinson</p>
+<p align="center"><br><i>Making your mark on the world is hard. If it were easy, everybody would do it.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
