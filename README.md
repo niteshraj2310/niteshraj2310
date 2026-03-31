@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Making your mark on the world is hard. If it were easy, everybody would do it.</i><br>— Barack Obama</p>
+<p align="center"><br><i>It doesn't matter how slow you go, as long as you don't stop.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
