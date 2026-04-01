@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As you think, you travel, and as you love, you attract.</i><br>— James Allen</p>
+<p align="center"><br><i>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</i><br>— Jeffrey Gitomer</p>
 <!-- ADVICE:END -->
 
 #
