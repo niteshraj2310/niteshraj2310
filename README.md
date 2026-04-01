@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</i><br>— Stephen King</p>
+<p align="center"><br><i>For things to change, you have to change.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
