@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Relax. Nothing is under control.</i><br>— Adi Da Samraj</p>
+<p align="center"><br><i>We win by helping each other win.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
