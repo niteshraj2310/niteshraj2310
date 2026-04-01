@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To forgive means pardoning the unpardonable.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>As you think, you travel, and as you love, you attract.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
