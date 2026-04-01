@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change yourself and you have done your part in changing the world.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>To forgive means pardoning the unpardonable.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
