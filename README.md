@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We win by helping each other win.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>Change yourself and you have done your part in changing the world.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
