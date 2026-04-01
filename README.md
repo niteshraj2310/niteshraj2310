@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
