@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</i><br>— Jeffrey Gitomer</p>
+<p align="center"><br><i>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
