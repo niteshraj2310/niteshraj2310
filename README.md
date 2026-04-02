@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>Don't wish it were easier, wish you were better.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
