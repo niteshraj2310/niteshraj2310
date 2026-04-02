@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
