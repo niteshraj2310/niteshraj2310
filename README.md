@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confidence is what you have before you understand the problem.</i><br>— Woody Allen</p>
+<p align="center"><br><i>To every action there is always opposed an equal reaction.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
