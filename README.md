@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
