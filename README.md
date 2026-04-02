@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>For things to change, you have to change.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Do something worth remembering.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 #
