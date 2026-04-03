@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is ours to be spent, not to be saved. </i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>He will win who knows when to fight and when not to fight.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
