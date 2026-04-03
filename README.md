@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only when one allows themself the right to die, do they then give yourself the permission to live.</i><br>— C. Sean McGee</p>
+<p align="center"><br><i>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
