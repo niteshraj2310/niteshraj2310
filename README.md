@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He will win who knows when to fight and when not to fight.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>You don't know who is important to you until you actually lose them.</i><br>— Mahatma Gandhi</p>
 <!-- ADVICE:END -->
 
 #
