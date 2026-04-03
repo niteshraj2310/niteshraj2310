@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To every action there is always opposed an equal reaction.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>The businessman's tool is value.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
