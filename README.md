@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The businessman's tool is value.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>Life is ours to be spent, not to be saved. </i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
