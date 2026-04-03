@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't know who is important to you until you actually lose them.</i><br>— Mahatma Gandhi</p>
+<p align="center"><br><i>Believe and you're halfway there.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
