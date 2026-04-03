@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe and you're halfway there.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Only when one allows themself the right to die, do they then give yourself the permission to live.</i><br>— C. Sean McGee</p>
 <!-- ADVICE:END -->
 
 #
