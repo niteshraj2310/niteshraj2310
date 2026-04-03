@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</i><br>— William James</p>
+<p align="center"><br><i>For fast-acting relief try slowing down.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
