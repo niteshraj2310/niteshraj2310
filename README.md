@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to keep your memories, you first have to live them.</i><br>— Bob Dylan</p>
+<p align="center"><br><i>One day, in retrospect, the years of struggle will strike you as the most beautiful.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
