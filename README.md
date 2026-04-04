@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The opportunity of defeating the enemy is provided by the enemy himself.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>I'm not afraid of death, but I'm in no hurry to die.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
