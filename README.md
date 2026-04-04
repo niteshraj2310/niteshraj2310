@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>For fast-acting relief try slowing down.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>Failure is the highway to success.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
