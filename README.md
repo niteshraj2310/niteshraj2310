@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is the highway to success.</i><br>— Og Mandino</p>
+<p align="center"><br><i>One mistake does not have to rule a person's entire life.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
