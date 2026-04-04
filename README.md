@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One day, in retrospect, the years of struggle will strike you as the most beautiful.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>Failing is another stepping stone to greatness.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
