@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I'm not afraid of death, but I'm in no hurry to die.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
