@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One mistake does not have to rule a person's entire life.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>The opportunity of defeating the enemy is provided by the enemy himself.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
