@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not allow your inner doubts to keep you from achieving what you can do.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>Sometimes adversity is what you need to face in order to become successful.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
