@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is safer to search in the maze than to remain in a cheeseless situation.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Do not allow your inner doubts to keep you from achieving what you can do.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
