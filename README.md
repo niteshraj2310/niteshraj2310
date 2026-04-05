@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The glow of one warm thought is to me worth more than money.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</i><br>— Charles Spurgeon</p>
 <!-- ADVICE:END -->
 
 #
