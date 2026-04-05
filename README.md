@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes adversity is what you need to face in order to become successful.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
