@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Start the day with love, spend the day with love, fill the day with love and end the day with love.</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>Many of life's failures are people who did not realize how close they were to success when they gave up.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 #
