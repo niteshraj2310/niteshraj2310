@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confidence comes not from always being right but not fearing to be wrong.</i><br>— Unknown</p>
+<p align="center"><br><i>Words are clothes that thoughts wear</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 #
