@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man is affected not by events but by the view he takes of them. </i><br>— Seneca</p>
+<p align="center"><br><i>The primary point of this existence is to live, and all living things move and grow.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
