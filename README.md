@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>Confidence comes not from always being right but not fearing to be wrong.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
