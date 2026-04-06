@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</i><br>— Charles Spurgeon</p>
+<p align="center"><br><i>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
