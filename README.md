@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>Man is affected not by events but by the view he takes of them. </i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
