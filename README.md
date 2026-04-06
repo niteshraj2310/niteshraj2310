@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you do in life, surround yourself with smart people who'll argue with you.</i><br>— John Wooden</p>
+<p align="center"><br><i>Life is a succession of lessons, which must be lived to be understood.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
