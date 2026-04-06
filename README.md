@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The primary point of this existence is to live, and all living things move and grow.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 #
