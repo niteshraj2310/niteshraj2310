@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
