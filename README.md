@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </i><br>— Denis Waitley</p>
+<p align="center"><br><i>You're never too old for anything.</i><br>— Betty White</p>
 <!-- ADVICE:END -->
 
 #
