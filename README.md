@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a succession of lessons, which must be lived to be understood.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>I succeeded by saying what everyone else is thinking.</i><br>— Joan Rivers</p>
 <!-- ADVICE:END -->
 
 #
