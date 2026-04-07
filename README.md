@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 #
