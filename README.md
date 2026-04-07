@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I succeeded by saying what everyone else is thinking.</i><br>— Joan Rivers</p>
+<p align="center"><br><i></i><br>— </p>
 <!-- ADVICE:END -->
 
 #
