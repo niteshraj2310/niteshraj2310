@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you put water into a cup, it becomes the cup.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>You must welcome change as the rule but not as your ruler. </i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
