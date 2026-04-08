@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Age is a very high price to pay for maturity.</i><br>— William James</p>
+<p align="center"><br><i>Life is ours to be spent, not to be saved. </i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
