@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life has the name of life, but in reality it is death.</i><br>— Heraclitus</p>
+<p align="center"><br><i>Age is a very high price to pay for maturity.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
