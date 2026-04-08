@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You do not read a book for the book's sake, but for your own.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Life has the name of life, but in reality it is death.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
