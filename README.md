@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're never too old for anything.</i><br>— Betty White</p>
+<p align="center"><br><i>You do not read a book for the book's sake, but for your own.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
