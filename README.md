@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to see things just as they are, then you yourself must practice just as you are.</i><br>— Dogen</p>
+<p align="center"><br><i>Life has more imagination than we carry in our dreams.</i><br>— Christopher Columbus</p>
 <!-- ADVICE:END -->
 
 #
