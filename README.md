@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life has more imagination than we carry in our dreams.</i><br>— Christopher Columbus</p>
+<p align="center"><br><i>If you put water into a cup, it becomes the cup.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
