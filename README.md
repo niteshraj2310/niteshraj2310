@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A life without a cause is a life without effect.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Tall oaks grow from little acorns.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
