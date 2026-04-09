@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must welcome change as the rule but not as your ruler. </i><br>— Denis Waitley</p>
+<p align="center"><br><i>The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
