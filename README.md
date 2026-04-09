@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Each time we don't say what we wanna say, we're dying.</i><br>— Yoko Ono</p>
+<p align="center"><br><i>All life is an experiment. The more experiments you make, the better.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
