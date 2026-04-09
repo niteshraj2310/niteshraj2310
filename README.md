@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Tall oaks grow from little acorns.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>Each time we don't say what we wanna say, we're dying.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 #
