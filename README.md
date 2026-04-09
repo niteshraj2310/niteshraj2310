@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once a decision was made, I didn't worry about it afterward.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>A life without a cause is a life without effect.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
