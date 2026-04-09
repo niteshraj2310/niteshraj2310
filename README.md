@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most wasted day of all is that on which we have not laughed.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Nourish the mind like you would your body. The mind cannot survive on junk food.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
