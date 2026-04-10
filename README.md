@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nourish the mind like you would your body. The mind cannot survive on junk food.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>If anything is worth doing, do it with all your heart.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
