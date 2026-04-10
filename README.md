@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If anything is worth doing, do it with all your heart.</i><br>— Buddha</p>
+<p align="center"><br><i>A clear conscience never fears midnight knocking.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
