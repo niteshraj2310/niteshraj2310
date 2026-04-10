@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep others in suspense, cultivate an air of unpredictability.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Care about what other people think and you will always be their prisoner.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
