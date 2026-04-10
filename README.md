@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In order to attain the impossible, one must attempt the absurd.</i><br>— Miguel de Cervantes</p>
+<p align="center"><br><i>Generosity is giving more than you can, and pride is taking less than you need.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
