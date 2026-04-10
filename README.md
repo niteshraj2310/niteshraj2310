@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A clear conscience never fears midnight knocking.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>In order to attain the impossible, one must attempt the absurd.</i><br>— Miguel de Cervantes</p>
 <!-- ADVICE:END -->
 
 #
