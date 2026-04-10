@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Care about what other people think and you will always be their prisoner.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
