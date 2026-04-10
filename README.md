@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Generosity is giving more than you can, and pride is taking less than you need.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>Keep others in suspense, cultivate an air of unpredictability.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
