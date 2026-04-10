@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</i><br>— Unknown</p>
+<p align="center"><br><i>Life is too important to be taken seriously.</i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 #
