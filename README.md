@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everybody by your side ain't on your side.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Facts are the enemy of truth. </i><br>— Miguel de Cervantes</p>
 <!-- ADVICE:END -->
 
 #
