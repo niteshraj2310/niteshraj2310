@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All that we see or seem is but a dream within a dream.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>Within every desire is the mechanics of its fulfillment.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
