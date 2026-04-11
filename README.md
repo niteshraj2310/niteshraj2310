@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only when one allows themself the right to die, do they then give yourself the permission to live.</i><br>— C. Sean McGee</p>
+<p align="center"><br><i>Humans and prosperity never endure side by side for long.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
