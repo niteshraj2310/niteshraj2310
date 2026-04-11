@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enlightenment is intimacy with all things.</i><br>— Dogen</p>
+<p align="center"><br><i>The meaning of life is that it stops.</i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 #
