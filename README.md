@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The meaning of life is that it stops.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>All that we see or seem is but a dream within a dream.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 #
