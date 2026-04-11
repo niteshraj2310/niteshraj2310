@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Within every desire is the mechanics of its fulfillment.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>Everybody by your side ain't on your side.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
