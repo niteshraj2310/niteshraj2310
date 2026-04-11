@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Humans and prosperity never endure side by side for long.</i><br>— Herodotus</p>
+<p align="center"><br><i>Enlightenment is intimacy with all things.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
