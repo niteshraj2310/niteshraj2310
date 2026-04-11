@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is too important to be taken seriously.</i><br>— Oscar Wilde</p>
+<p align="center"><br><i>Only when one allows themself the right to die, do they then give yourself the permission to live.</i><br>— C. Sean McGee</p>
 <!-- ADVICE:END -->
 
 #
