@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can easily judge the character of a man by how he treats those who can do nothing for him.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
