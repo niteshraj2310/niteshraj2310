@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We never know the love of a parent till we become parents ourselves.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>You can easily judge the character of a man by how he treats those who can do nothing for him.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
