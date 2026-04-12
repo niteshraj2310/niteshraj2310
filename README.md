@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Whatever you do in life, surround yourself with smart people who'll argue with you.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
