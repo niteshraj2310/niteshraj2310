@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Facts are the enemy of truth. </i><br>— Miguel de Cervantes</p>
+<p align="center"><br><i>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
