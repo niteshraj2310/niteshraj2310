@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Make your stand today. On this spot. On this day.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
