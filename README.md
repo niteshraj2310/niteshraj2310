@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make your stand today. On this spot. On this day.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 #
