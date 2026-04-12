@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</i><br>— Dan Millman</p>
+<p align="center"><br><i>We never know the love of a parent till we become parents ourselves.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
