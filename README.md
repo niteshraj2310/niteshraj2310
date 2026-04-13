@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life may be full of pain but that's not an excuse to give up.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 #
