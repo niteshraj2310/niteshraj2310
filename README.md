@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We will act consistently with our view of who we truly are, whether that view is accurate or not.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>The man who does not value himself, cannot value anything or anyone.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
