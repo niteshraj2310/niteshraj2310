@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The man who does not value himself, cannot value anything or anyone.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>Life may be full of pain but that's not an excuse to give up.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
