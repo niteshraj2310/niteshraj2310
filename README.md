@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</i><br>— James Allen</p>
+<p align="center"><br><i>Wheels of justice grind slow but grind fine.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
