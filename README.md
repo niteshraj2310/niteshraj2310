@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Darkness is the absence of light.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>If you want to see things just as they are, then you yourself must practice just as you are.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
