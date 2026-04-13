@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is safer to search in the maze than to remain in a cheeseless situation.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Darkness is the absence of light.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 #
