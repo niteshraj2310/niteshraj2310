@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The fewer the words, the better the prayer.</i><br>— Martin Luther</p>
+<p align="center"><br><i>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
