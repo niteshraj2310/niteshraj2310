@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</i><br>— Les Brown</p>
 <!-- ADVICE:END -->
 
 #
