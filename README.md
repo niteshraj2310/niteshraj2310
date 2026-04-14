@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If no one ever broke the rules, then we'd never advance.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>An investment in knowledge pays the best interest.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
