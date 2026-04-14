@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</i><br>— Les Brown</p>
+<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
