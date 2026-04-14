@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
