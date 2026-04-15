@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hardly anybody recognizes the most significant moments of their life at the time they happen.</i><br>— W.P. Kinsella</p>
+<p align="center"><br><i>The greatest value of a picture is when it forces us to notice what we never expected to see.</i><br>— John Tukey</p>
 <!-- ADVICE:END -->
 
 #
