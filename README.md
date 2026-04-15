@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If I persist long enough I will win.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Hardly anybody recognizes the most significant moments of their life at the time they happen.</i><br>— W.P. Kinsella</p>
 <!-- ADVICE:END -->
 
 #
