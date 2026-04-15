@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</i><br>— Aristotle</p>
+<p align="center"><br><i>What you resist, persists.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
