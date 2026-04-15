@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all here for some special reason.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>If I persist long enough I will win.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 #
