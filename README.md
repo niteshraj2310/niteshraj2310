@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest value of a picture is when it forces us to notice what we never expected to see.</i><br>— John Tukey</p>
+<p align="center"><br><i>Intense love does not measure, it just gives.</i><br>— Mother Teresa</p>
 <!-- ADVICE:END -->
 
 #
