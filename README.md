@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anything you may hold firmly in your imagination can be yours.</i><br>— William James</p>
+<p align="center"><br><i>To live outside the law, you must be honest. </i><br>— Bob Dylan</p>
 <!-- ADVICE:END -->
 
 #
