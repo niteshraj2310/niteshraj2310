@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you lose yourself in something bigger than yourself, the more energy you will have.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>The more reasons you have for achieving your goal, the more determined you will become.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
