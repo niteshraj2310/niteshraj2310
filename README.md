@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more reasons you have for achieving your goal, the more determined you will become.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</i><br>— Jeffrey Gitomer</p>
 <!-- ADVICE:END -->
 
 #
