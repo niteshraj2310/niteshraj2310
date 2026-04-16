@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Intense love does not measure, it just gives.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>Nature loves to hide.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
