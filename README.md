@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People become attached to their burdens sometimes more than the burdens are attached to them.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Anything you may hold firmly in your imagination can be yours.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
