@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</i><br>— Jeffrey Gitomer</p>
+<p align="center"><br><i>People become attached to their burdens sometimes more than the burdens are attached to them.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
