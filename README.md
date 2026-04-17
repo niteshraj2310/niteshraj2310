@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stop wasting time defending your problems and work on addressing them instead.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>You are not only responsible for what you say, but also for what you do not say. </i><br>— Martin Luther</p>
 <!-- ADVICE:END -->
 
 #
