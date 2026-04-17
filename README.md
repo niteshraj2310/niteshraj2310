@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The difference between winning and losing is most often not quitting.</i><br>— Walt Disney</p>
+<p align="center"><br><i>Intense love does not measure, it just gives.</i><br>— Mother Teresa</p>
 <!-- ADVICE:END -->
 
 #
