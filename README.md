@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Intense love does not measure, it just gives.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 #
