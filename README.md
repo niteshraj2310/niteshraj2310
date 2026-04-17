@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are not only responsible for what you say, but also for what you do not say. </i><br>— Martin Luther</p>
+<p align="center"><br><i>Attitude, not aptitude, determines altitude. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
