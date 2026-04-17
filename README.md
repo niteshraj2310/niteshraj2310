@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You will succeed because most people are lazy.</i><br>— Shahir Zag</p>
+<p align="center"><br><i>Stop wasting time defending your problems and work on addressing them instead.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
