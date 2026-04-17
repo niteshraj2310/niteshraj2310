@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To live outside the law, you must be honest. </i><br>— Bob Dylan</p>
+<p align="center"><br><i>The difference between winning and losing is most often not quitting.</i><br>— Walt Disney</p>
 <!-- ADVICE:END -->
 
 #
