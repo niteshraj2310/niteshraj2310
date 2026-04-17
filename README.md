@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Attitude, not aptitude, determines altitude. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone. </i><br>— Jack Kerouac</p>
 <!-- ADVICE:END -->
 
 #
