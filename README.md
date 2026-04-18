@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The grass is greener where you water it.</i><br>— Neil Barringham</p>
+<p align="center"><br><i>The idea of ourselves is our escape from the fact of what we really are.</i><br>— Jiddu Krishnamurti</p>
 <!-- ADVICE:END -->
 
 #
