@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</i><br>— Denis Waitley</p>
+<p align="center"><br><i>Opportunity is missed by most people because it is dressed in overalls and looks like work.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 #
