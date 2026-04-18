@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The idea of ourselves is our escape from the fact of what we really are.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>Listening well is as powerful as talking well, and is also as essential to true conversation.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
