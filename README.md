@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Listening well is as powerful as talking well, and is also as essential to true conversation.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>With the new day comes new strength and new thoughts.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
