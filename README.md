@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</i><br>— Joan Rivers</p>
+<p align="center"><br><i>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
