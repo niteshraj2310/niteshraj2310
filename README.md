@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>With the new day comes new strength and new thoughts.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Everything you've ever wanted is on the other side of fear.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
