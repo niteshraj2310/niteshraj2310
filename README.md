@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When angry count to ten before you speak. If very angry, count to one hundred.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Throw your heart over the bar and your body will follow.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
