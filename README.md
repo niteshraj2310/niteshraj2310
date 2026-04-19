@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Throw your heart over the bar and your body will follow.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Some people don't like change, but you need to embrace change if the alternative is disaster.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
