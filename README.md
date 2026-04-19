@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some people don't like change, but you need to embrace change if the alternative is disaster.</i><br>— Elon Musk</p>
+<p align="center"><br><i>We ordinary people must forge our own beauty.</i><br>— Kenji Miyazawa</p>
 <!-- ADVICE:END -->
 
 #
