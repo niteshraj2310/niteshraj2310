@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>When angry count to ten before you speak. If very angry, count to one hundred.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
