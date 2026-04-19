@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We ordinary people must forge our own beauty.</i><br>— Kenji Miyazawa</p>
+<p align="center"><br><i>We must not sit down and wait for miracles. Up and be going!</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 #
