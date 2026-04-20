@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Turn the pain into power.</i><br>— Unknown</p>
+<p align="center"><br><i>To the mind that is still, the whole universe surrenders.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
