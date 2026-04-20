@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The past has no power over the present moment. </i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Man should fear never beginning to live.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 #
