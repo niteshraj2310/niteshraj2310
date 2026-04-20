@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man should fear never beginning to live.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>Do it with passion, or not at all.</i><br>— Rosa Nouchette Carey</p>
 <!-- ADVICE:END -->
 
 #
