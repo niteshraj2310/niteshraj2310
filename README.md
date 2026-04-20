@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do it with passion, or not at all.</i><br>— Rosa Nouchette Carey</p>
+<p align="center"><br><i>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
