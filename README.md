@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>This is such a short and precious life that it's really important that you don't spend it being unhappy.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Thinking is the hardest work there is. That is why so few people engage in it.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
