@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You get paid in direct proportion to the difficulty of problems you solve.</i><br>— Elon Musk</p>
+<p align="center"><br><i>This is such a short and precious life that it's really important that you don't spend it being unhappy.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
