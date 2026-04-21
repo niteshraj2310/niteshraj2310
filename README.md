@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Give more than you think you can, trusting that you are richer than you think.</i><br>— Jon Kabat-Zinn</p>
 <!-- ADVICE:END -->
 
 #
