@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest doer must also be a great dreamer.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>Things turn out best for the people who make the best of the way things turn out.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
