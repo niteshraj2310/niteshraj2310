@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our happiness depends on the habit of mind we cultivate.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
