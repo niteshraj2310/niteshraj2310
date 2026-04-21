@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</i><br>— Robert Collier</p>
+<p align="center"><br><i>The greatest doer must also be a great dreamer.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
