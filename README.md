@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Things turn out best for the people who make the best of the way things turn out.</i><br>— John Wooden</p>
+<p align="center"><br><i>Our happiness depends on the habit of mind we cultivate.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
