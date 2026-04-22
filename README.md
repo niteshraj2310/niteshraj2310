@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger begins with folly, and ends with repentance. </i><br>— Beverly Sills</p>
+<p align="center"><br><i>Whatever happens always happens on time.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
