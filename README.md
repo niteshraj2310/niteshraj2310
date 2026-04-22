@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Deliberately seek the company of people who influence you to think and act on building the life you desire.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Anger begins with folly, and ends with repentance. </i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 #
