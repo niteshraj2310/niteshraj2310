@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give more than you think you can, trusting that you are richer than you think.</i><br>— Jon Kabat-Zinn</p>
+<p align="center"><br><i>Stop wasting time looking at someone else's reality while doing nothing about yours.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
