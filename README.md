@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Prefer to be defeated in the presence of the wise than to excel among fools.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
