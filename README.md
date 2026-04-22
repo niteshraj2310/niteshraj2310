@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is not uncommon for people to spend their whole life waiting to start living.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Give more than you think you can, trusting that you are richer than you think.</i><br>— Jon Kabat-Zinn</p>
 <!-- ADVICE:END -->
 
 #
