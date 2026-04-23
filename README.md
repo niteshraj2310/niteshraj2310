@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>Each time we don't say what we wanna say, we're dying.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 #
