@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Prefer to be defeated in the presence of the wise than to excel among fools.</i><br>— Dogen</p>
+<p align="center"><br><i>Guilt is perhaps the most painful companion of death.</i><br>— Coco Chanel</p>
 <!-- ADVICE:END -->
 
 #
