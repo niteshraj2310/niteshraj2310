@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A hopeless man is a very desperate and dangerous man, almost a dead man.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>We build too many walls and not enough bridges.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
