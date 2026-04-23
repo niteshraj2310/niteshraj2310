@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only normal people are the ones you don't know very well.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
