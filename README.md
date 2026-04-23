@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Guilt is perhaps the most painful companion of death.</i><br>— Coco Chanel</p>
+<p align="center"><br><i>The only normal people are the ones you don't know very well.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 #
