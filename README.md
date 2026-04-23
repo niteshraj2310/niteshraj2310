@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To accomplish big things, I am convinced you must first dream big dreams.</i><br>— Conrad Hilton</p>
+<p align="center"><br><i>A hopeless man is a very desperate and dangerous man, almost a dead man.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 #
