@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
