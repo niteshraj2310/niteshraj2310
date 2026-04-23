@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Each time we don't say what we wanna say, we're dying.</i><br>— Yoko Ono</p>
+<p align="center"><br><i>To accomplish big things, I am convinced you must first dream big dreams.</i><br>— Conrad Hilton</p>
 <!-- ADVICE:END -->
 
 #
