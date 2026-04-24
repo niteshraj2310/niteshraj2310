@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have to make time, even for something as universal as staring at the stars.</i><br>— W.P. Kinsella</p>
+<p align="center"><br><i>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </i><br>— Orison Swett Marden</p>
 <!-- ADVICE:END -->
 
 #
