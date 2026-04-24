@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Our stories may be singular, but our destination is shared.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
