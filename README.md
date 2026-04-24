@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A poet should be so crafty with words that he is envied even for his pains.</i><br>— Criss Jami</p>
+<p align="center"><br><i>It is passion that makes man live; wisdom makes one only last.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
