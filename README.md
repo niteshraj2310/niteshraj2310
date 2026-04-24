@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is passion that makes man live; wisdom makes one only last.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>Be as fluid as water, do not give your enemies anything solid to attack.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
