@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life begins where fear ends.</i><br>— Osho</p>
+<p align="center"><br><i>A poet should be so crafty with words that he is envied even for his pains.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
