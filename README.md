@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be as fluid as water, do not give your enemies anything solid to attack.</i><br>— Robert Greene</p>
+<p align="center"><br><i>You have to make time, even for something as universal as staring at the stars.</i><br>— W.P. Kinsella</p>
 <!-- ADVICE:END -->
 
 #
