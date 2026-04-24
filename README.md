@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </i><br>— Orison Swett Marden</p>
+<p align="center"><br><i>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 #
