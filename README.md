@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Rudeness is the weak man's imitation of strength.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>Don't let the noise of others' opinions drown out your own inner voice.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 #
