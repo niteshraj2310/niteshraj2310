@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Science can flourish only in an atmosphere of free speech. </i><br>— Albert Einstein</p>
+<p align="center"><br><i>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
