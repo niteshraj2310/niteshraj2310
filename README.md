@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is when what you think, what you say, and what you do are in harmony.</i><br>— Mahatma Gandhi</p>
+<p align="center"><br><i>Acknowledging the good that you already have in your life is the foundation for all abundance.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
