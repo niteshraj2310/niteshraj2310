@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want work well done, select a busy man; the other kind has no time.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Happiness is when what you think, what you say, and what you do are in harmony.</i><br>— Mahatma Gandhi</p>
 <!-- ADVICE:END -->
 
 #
