@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our stories may be singular, but our destination is shared.</i><br>— Barack Obama</p>
+<p align="center"><br><i>Science can flourish only in an atmosphere of free speech. </i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
