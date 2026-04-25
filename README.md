@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the noise of others' opinions drown out your own inner voice.</i><br>— Steve Jobs</p>
+<p align="center"><br><i>Anyone who wants to achieve a dream must stay strong, focused and steady.</i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
