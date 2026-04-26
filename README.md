@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you lose your desire for things that do not matter, you will be free.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Even if you're sure you can win, be careful that you can live with what you lose.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
