@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</i><br>— Steve Jobs</p>
+<p align="center"><br><i>Instead of worrying about what you cannot control, shift your energy to what you can create.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
