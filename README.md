@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even if you're sure you can win, be careful that you can live with what you lose.</i><br>— Gary Keller</p>
+<p align="center"><br><i>Whatever you are, be a good one.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
