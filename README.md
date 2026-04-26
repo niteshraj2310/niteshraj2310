@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The Only Thing That Is Constant Is Change</i><br>— Heraclitus</p>
+<p align="center"><br><i>Don't settle, and don't struggle.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 #
