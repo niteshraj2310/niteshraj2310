@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anyone who wants to achieve a dream must stay strong, focused and steady.</i><br>— Estee Lauder</p>
+<p align="center"><br><i>If you don't find the time, if you don't do the work, you don't get the results.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
