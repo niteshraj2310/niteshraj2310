@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't find the time, if you don't do the work, you don't get the results.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 #
