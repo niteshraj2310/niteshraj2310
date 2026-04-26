@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Instead of worrying about what you cannot control, shift your energy to what you can create.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>The Only Thing That Is Constant Is Change</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
