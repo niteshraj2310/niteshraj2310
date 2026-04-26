@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't settle, and don't struggle.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>When you lose your desire for things that do not matter, you will be free.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
