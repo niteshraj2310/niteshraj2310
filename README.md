@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Better to have, and not need, than to need, and not have.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
