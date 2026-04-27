@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The heart wants what it wants. There's no logic. </i><br>— Woody Allen</p>
+<p align="center"><br><i>Nothing good ever comes of violence.</i><br>— Martin Luther</p>
 <!-- ADVICE:END -->
 
 #
