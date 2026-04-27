@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing good ever comes of violence.</i><br>— Martin Luther</p>
+<p align="center"><br><i>In the midst of movement and chaos, keep stillness inside of you.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
