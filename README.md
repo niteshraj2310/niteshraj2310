@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you are, be a good one.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>The heart wants what it wants. There's no logic. </i><br>— Woody Allen</p>
 <!-- ADVICE:END -->
 
 #
