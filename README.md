@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Things may come to those who wait, but only the things left by those who hustle.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>The more people you help become successful the more successful you become.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
