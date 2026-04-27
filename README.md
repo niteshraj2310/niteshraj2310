@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</i><br>— Voltaire</p>
+<p align="center"><br><i>Things may come to those who wait, but only the things left by those who hustle.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
