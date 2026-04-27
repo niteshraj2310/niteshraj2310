@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more people you help become successful the more successful you become.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
