@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I was angered, for I had no shoes. Then I met a man who had no feet. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Most people achieved their greatest success one step beyond what looked like their greatest failure.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
