@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. </i><br>— Estee Lauder</p>
+<p align="center"><br><i>I was angered, for I had no shoes. Then I met a man who had no feet. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
