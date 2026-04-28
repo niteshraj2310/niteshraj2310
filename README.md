@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your work is to discover your work and then, with all your heart, to give yourself to it.</i><br>— Buddha</p>
+<p align="center"><br><i>He who possesses most must be most afraid of loss.</i><br>— Leonardo da Vinci</p>
 <!-- ADVICE:END -->
 
 #
