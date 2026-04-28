@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people achieved their greatest success one step beyond what looked like their greatest failure.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Do not look for approval except for the consciousness of doing your best.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 #
