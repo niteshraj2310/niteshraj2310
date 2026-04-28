@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not look for approval except for the consciousness of doing your best.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>Only those who dare to fail greatly can ever achieve greatly.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 #
