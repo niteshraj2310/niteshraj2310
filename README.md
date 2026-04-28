@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only those who dare to fail greatly can ever achieve greatly.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>Your work is to discover your work and then, with all your heart, to give yourself to it.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
