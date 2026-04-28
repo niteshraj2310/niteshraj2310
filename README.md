@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</i><br>— Barack Obama</p>
+<p align="center"><br><i>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. </i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 #
