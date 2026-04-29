@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never fear quarrels, but seek hazardous adventures.</i><br>— Alexandre Dumas</p>
+<p align="center"><br><i>Absorb what is useful, discard what is useless and add what is specifically your own. </i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
