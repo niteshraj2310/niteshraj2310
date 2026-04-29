@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Absorb what is useful, discard what is useless and add what is specifically your own. </i><br>— Bruce Lee</p>
+<p align="center"><br><i>Absurdity is the ecstasy of intellectualism.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
