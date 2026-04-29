@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The one who praises you is a thief. The one who criticizes you is your true friend.</i><br>— Seungsahn</p>
+<p align="center"><br><i>He who can, does.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
