@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Absurdity is the ecstasy of intellectualism.</i><br>— Criss Jami</p>
+<p align="center"><br><i>The measure of who we are is what we do with what we have.</i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
