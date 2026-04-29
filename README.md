@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your spirit is the true shield.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Never fear quarrels, but seek hazardous adventures.</i><br>— Alexandre Dumas</p>
 <!-- ADVICE:END -->
 
 #
