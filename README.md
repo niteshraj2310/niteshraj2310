@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The measure of who we are is what we do with what we have.</i><br>— Vince Lombardi</p>
+<p align="center"><br><i>The one who praises you is a thief. The one who criticizes you is your true friend.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
