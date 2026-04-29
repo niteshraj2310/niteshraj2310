@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who possesses most must be most afraid of loss.</i><br>— Leonardo da Vinci</p>
+<p align="center"><br><i>Your spirit is the true shield.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 #
