@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</i><br>— Dan Brown</p>
+<p align="center"><br><i>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 #
