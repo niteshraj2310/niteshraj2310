@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is getting what you want... Happiness is wanting what you get.</i><br>— Dale Carnegie</p>
+<p align="center"><br><i>Everyday is a second chance.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
