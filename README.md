@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
