@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>From error to error one discovers the entire truth.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
