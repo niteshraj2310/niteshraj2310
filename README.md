@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>From error to error one discovers the entire truth.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</i><br>— Dan Brown</p>
 <!-- ADVICE:END -->
 
 #
