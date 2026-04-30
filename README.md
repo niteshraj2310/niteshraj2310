@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
