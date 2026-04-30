@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
