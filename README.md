@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyday is a second chance.</i><br>— Unknown</p>
+<p align="center"><br><i>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
