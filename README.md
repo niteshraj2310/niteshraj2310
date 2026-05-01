@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's the possibility of having a dream come true that makes life interesting.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>We are shaped and fashioned by what we love.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 #
