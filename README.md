@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are shaped and fashioned by what we love.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>We must not sit down and wait for miracles. Up and be going!</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 #
