@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The single most powerful asset we all have is our mind.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>It's the possibility of having a dream come true that makes life interesting.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
