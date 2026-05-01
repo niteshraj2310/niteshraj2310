@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A Penny Saved is a Penny Earned</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Failure is an option here. If things are not failing, you are not innovating enough.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
