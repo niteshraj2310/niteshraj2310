@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you make a choice, you change the future.</i><br>— Deepak Chopra</p>
+<p align="center"><br><i>The single most powerful asset we all have is our mind.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
