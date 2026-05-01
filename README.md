@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>When you make a choice, you change the future.</i><br>— Deepak Chopra</p>
 <!-- ADVICE:END -->
 
 #
