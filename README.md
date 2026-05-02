@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change happens when the pain of holding on becomes greater than the fear of letting go.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Life is too short to waste your time on people who don't respect, appreciate, and value you.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
