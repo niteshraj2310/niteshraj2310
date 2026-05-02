@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is an option here. If things are not failing, you are not innovating enough.</i><br>— Elon Musk</p>
+<p align="center"><br><i>The truth is simple. If it was complicated, everyone would understand it.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
