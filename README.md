@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You may forget with whom you laughed, but you will never forget with whom you wept. </i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>A fall into a ditch makes you wiser.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
