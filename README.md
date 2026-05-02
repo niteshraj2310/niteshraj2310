@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A fall into a ditch makes you wiser.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Happiness depends upon ourselves.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
