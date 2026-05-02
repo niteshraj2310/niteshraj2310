@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is too short to waste your time on people who don't respect, appreciate, and value you.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Rather than love, than money, than fame, give me truth.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
