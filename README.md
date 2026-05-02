@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness depends upon ourselves.</i><br>— Aristotle</p>
+<p align="center"><br><i>Change happens when the pain of holding on becomes greater than the fear of letting go.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
