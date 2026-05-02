@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The truth is simple. If it was complicated, everyone would understand it.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>You may forget with whom you laughed, but you will never forget with whom you wept. </i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 #
