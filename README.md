@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To bear trials with a calm mind robs misfortune of its strength and burden.</i><br>— Seneca</p>
+<p align="center"><br><i>A thing must be loved before it is lovable.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 #
