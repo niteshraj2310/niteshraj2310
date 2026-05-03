@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To the world you may be one person; but to one person you may be the world.</i><br>— Dr. Seuss</p>
+<p align="center"><br><i>Remember, hope is a good thing, maybe the best of things.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 #
