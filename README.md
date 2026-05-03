@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A thing must be loved before it is lovable.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>To the world you may be one person; but to one person you may be the world.</i><br>— Dr. Seuss</p>
 <!-- ADVICE:END -->
 
 #
