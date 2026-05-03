@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>It is our experiences that mold us into who we are...during times of adversity our true character will show.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
