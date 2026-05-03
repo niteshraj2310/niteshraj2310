@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What have you done today to make someone else happy?</i><br>— Deepam Chaterjee</p>
+<p align="center"><br><i>Goals are the fuel in the furnace of achievement.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
