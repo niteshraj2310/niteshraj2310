@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Goals are the fuel in the furnace of achievement.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>To bear trials with a calm mind robs misfortune of its strength and burden.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
