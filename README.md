@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is our experiences that mold us into who we are...during times of adversity our true character will show.</i><br>— Unknown</p>
+<p align="center"><br><i>Until you make the unconscious conscious, it will direct your life and you will call it fate.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
