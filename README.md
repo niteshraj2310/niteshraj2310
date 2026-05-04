@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to learn late than never.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>For changes to be of any true value, they've got to be lasting and consistent.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
