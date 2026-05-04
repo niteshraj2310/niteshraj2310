@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hope is a waking dream.</i><br>— Aristotle</p>
+<p align="center"><br><i>Optimism, when applied to your life, develops strength and peace within you.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 #
