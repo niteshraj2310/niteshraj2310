@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Correct what you can. Learn from what you can't.</i><br>— Toni Morrison</p>
+<p align="center"><br><i>It is better to learn late than never.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 #
