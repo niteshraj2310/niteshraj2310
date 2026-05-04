@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Until you make the unconscious conscious, it will direct your life and you will call it fate.</i><br>— Carl Jung</p>
+<p align="center"><br><i>Correct what you can. Learn from what you can't.</i><br>— Toni Morrison</p>
 <!-- ADVICE:END -->
 
 #
