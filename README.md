@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want peace, you won't get it with violence.</i><br>— John Lennon</p>
+<p align="center"><br><i>Hope is a waking dream.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
