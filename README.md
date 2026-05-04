@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Optimism, when applied to your life, develops strength and peace within you.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
