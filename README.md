@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Not how long, but how well you have lived is the main thing.</i><br>— Seneca</p>
+<p align="center"><br><i>Be a good animal, true to your instincts.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 #
