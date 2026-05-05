@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be a good animal, true to your instincts.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>When your intuition is strong, follow it.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
