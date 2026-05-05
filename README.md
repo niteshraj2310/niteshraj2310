@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're brave enough to say goodbye, life will reward you with a new hello.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
