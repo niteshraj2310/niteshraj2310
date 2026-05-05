@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>If you're brave enough to say goodbye, life will reward you with a new hello.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
