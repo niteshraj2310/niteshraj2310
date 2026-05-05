@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is the power of the mind to be unconquerable.</i><br>— Seneca</p>
+<p align="center"><br><i>Not how long, but how well you have lived is the main thing.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
