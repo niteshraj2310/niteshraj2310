@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>It is the power of the mind to be unconquerable.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 #
