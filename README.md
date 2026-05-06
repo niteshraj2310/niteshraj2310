@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>It's easier to go down a hill than up it but the view is much better at the top.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
