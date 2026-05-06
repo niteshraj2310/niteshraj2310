@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you have only one smile in you give it to the people you love.</i><br>— Maya Angelou</p>
+<p align="center"><br><i>Those who know, do. Those that understand, teach.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
