@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Leadership is solving problems</i><br>— Colin Powell</p>
+<p align="center"><br><i>If you have only one smile in you give it to the people you love.</i><br>— Maya Angelou</p>
 <!-- ADVICE:END -->
 
 #
