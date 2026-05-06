@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A mistake is only an error, it becomes a mistake when you fail to correct it.</i><br>— John Lennon</p>
+<p align="center"><br><i>We can have more than we've got because we can become more than we are.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
