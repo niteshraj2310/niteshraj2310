@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We can have more than we've got because we can become more than we are.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Life can only be understood backwards; but it must be lived forwards.</i><br>— Soren Kierkegaard</p>
 <!-- ADVICE:END -->
 
 #
