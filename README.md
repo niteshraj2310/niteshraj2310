@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life can only be understood backwards; but it must be lived forwards.</i><br>— Soren Kierkegaard</p>
+<p align="center"><br><i>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
