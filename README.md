@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is only real when shared.</i><br>— Christopher McCandless</p>
+<p align="center"><br><i>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
