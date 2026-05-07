@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who know, do. Those that understand, teach.</i><br>— Aristotle</p>
+<p align="center"><br><i>Discipline is the mark of intelligent living.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 #
