@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</i><br>— Bob Marley</p>
+<p align="center"><br><i>Happiness depends on your mindset and attitude.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
