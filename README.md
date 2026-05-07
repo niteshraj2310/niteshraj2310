@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is a wisdom of the head, and there is a wisdom of the heart.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 #
