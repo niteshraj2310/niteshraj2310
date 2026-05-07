@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness depends on your mindset and attitude.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>You have to give up some of the old so that you can make room for the new.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 #
