@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Discipline is the mark of intelligent living.</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>There is a wisdom of the head, and there is a wisdom of the heart.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
