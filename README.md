@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>Happiness is only real when shared.</i><br>— Christopher McCandless</p>
 <!-- ADVICE:END -->
 
 #
