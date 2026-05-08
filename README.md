@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who knows best knows how little he knows.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Chop your own wood and it will warm you twice. </i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 #
