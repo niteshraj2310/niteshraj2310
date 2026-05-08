@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>The best way to predict your future is to create it.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
