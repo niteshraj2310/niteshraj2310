@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best way to predict your future is to create it.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>Your problem isn't the problem. Your reaction is the problem.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
