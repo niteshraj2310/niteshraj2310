@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Chop your own wood and it will warm you twice. </i><br>— Henry Ford</p>
+<p align="center"><br><i>Only he who has no use for the empire is fit to be entrusted with it.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 #
