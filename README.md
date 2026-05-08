@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your problem isn't the problem. Your reaction is the problem.</i><br>— Unknown</p>
+<p align="center"><br><i>He who knows best knows how little he knows.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
