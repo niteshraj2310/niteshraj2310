@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The number one cause of failure is the fear of failure.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
