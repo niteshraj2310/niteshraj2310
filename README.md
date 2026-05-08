@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Presents are made for the pleasure of who gives them, not the merits of who receives them.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>The number one cause of failure is the fear of failure.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
