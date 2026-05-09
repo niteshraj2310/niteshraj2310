@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</i><br>— Confucius</p>
+<p align="center"><br><i>Don't wish it were easier, wish you were better.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
