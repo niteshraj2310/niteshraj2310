@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only thing new in the world is the history you do not know.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>If your happiness depends on what somebody else does, I guess you do have a problem.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
