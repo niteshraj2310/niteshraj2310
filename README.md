@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Much learning does not teach understanding.</i><br>— Heraclitus</p>
+<p align="center"><br><i>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
