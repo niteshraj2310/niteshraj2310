@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Muddy water is best cleared by leaving it alone.</i><br>— Alan Watts</p>
+<p align="center"><br><i>The only thing new in the world is the history you do not know.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
