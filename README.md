@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</i><br>— Anne Wilson Schaef</p>
+<p align="center"><br><i>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
