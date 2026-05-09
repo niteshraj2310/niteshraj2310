@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Much learning does not teach understanding.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 #
