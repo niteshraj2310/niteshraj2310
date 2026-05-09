@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
