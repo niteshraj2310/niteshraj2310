@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Act as if what you do makes a difference. It does.</i><br>— William James</p>
+<p align="center"><br><i>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
