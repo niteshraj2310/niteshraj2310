@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.</i><br>— Jiddu Krishnamurti</p>
+<p align="center"><br><i>Act as if what you do makes a difference. It does.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
