@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If your happiness depends on what somebody else does, I guess you do have a problem.</i><br>— Richard Bach</p>
+<p align="center"><br><i>If you are far from the enemy, make him believe you are near.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
