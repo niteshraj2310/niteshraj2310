@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A lie can travel half way around the world while the truth is putting on its shoes.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Your only obligation in any lifetime is to be true to yourself.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
