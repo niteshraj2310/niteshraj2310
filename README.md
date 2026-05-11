@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where does a thought go when it's forgotten?</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>Don't let the past steal your present.</i><br>— Cherralea Morgen</p>
 <!-- ADVICE:END -->
 
 #
