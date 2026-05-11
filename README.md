@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your only obligation in any lifetime is to be true to yourself.</i><br>— Richard Bach</p>
+<p align="center"><br><i>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 #
