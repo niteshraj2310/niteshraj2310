@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Where does a thought go when it's forgotten?</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
