@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i></i><br>— </p>
+<p align="center"><br><i>The busy man is never wise and the wise man is never busy.</i><br>— Lin Yutang</p>
 <!-- ADVICE:END -->
 
 #
