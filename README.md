@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The busy man is never wise and the wise man is never busy.</i><br>— Lin Yutang</p>
+<p align="center"><br><i>Go confidently in the direction of your dreams! Live the life you've imagined.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 #
