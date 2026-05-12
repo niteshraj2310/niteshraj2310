@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Go confidently in the direction of your dreams! Live the life you've imagined.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>No matter what happens, always be yourself.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
