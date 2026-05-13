@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The world is a puzzle; no need to make sense out of it.</i><br>— Socrates</p>
+<p align="center"><br><i>Life is like stepping onto a boat which is about to sail out to sea and sink.</i><br>— Shunryu Suzuki</p>
 <!-- ADVICE:END -->
 
 #
