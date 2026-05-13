@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
