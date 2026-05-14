@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being ignorant is not so much a shame, as being unwilling to learn.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>No matter what happens, always be yourself.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
