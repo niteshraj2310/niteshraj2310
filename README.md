@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is like stepping onto a boat which is about to sail out to sea and sink.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
