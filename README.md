@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is like stepping onto a boat which is about to sail out to sea and sink.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>A zen master's life is one continuous mistake.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
