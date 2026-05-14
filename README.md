@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A zen master's life is one continuous mistake.</i><br>— Dogen</p>
+<p align="center"><br><i>He who cheats the earth will be cheated by the earth.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
