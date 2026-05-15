@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who cheats the earth will be cheated by the earth.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>The person who never made a mistake never tried anything new.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
