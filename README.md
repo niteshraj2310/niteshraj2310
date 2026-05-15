@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>The world is a puzzle; no need to make sense out of it.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 #
