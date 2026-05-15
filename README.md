@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who never made a mistake never tried anything new.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
