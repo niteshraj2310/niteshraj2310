@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who never made a mistake never tried anything new.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>The attempt to escape from pain, is what creates more pain.</i><br>— Gabor Mate</p>
 <!-- ADVICE:END -->
 
 #
