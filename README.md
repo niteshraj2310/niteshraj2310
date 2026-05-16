@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Contemplation often makes life miserable. We should act more, think less, and stop watching ourselves live.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>No matter what happens, always be yourself.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 #
