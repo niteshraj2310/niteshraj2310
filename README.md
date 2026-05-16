@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being ignorant is not so much a shame, as being unwilling to learn.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
