@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>Being ignorant is not so much a shame, as being unwilling to learn.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
