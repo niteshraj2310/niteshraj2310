@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</i><br>— Bob Marley</p>
+<p align="center"><br><i>Contemplation often makes life miserable. We should act more, think less, and stop watching ourselves live.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
