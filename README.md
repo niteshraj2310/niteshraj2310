@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Engage in those actions and thoughts that nurture the good qualities you want to have.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
