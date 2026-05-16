@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The attempt to escape from pain, is what creates more pain.</i><br>— Gabor Mate</p>
+<p align="center"><br><i>Engage in those actions and thoughts that nurture the good qualities you want to have.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
