@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Growth is in a series of mistakes. That's the only way you learn.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 #
