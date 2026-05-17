@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>The search for happiness is one of the chief sources of unhappiness.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 #
