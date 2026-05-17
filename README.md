@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Not all those who wander are lost.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>Growth is in a series of mistakes. That's the only way you learn.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 #
