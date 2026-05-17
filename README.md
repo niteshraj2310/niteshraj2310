@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Growth is in a series of mistakes. That's the only way you learn.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 #
