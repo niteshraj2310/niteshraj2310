@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you know what you want, and you want it bad enough, you will find a way to get it.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>There is no significance in life without struggle.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
