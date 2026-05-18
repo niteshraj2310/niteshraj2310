@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</i><br>— Emily Dickinson</p>
+<p align="center"><br><i>It's the job that's never started that takes the longest to finish.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
