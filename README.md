@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</i><br>— George Eliot</p>
+<p align="center"><br><i>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</i><br>— Emily Dickinson</p>
 <!-- ADVICE:END -->
 
 #
