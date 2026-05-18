@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To avoid criticism, do nothing, say nothing, and be nothing.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Our view of the world is truly shaped by what we decide to hear.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
