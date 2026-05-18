@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's the job that's never started that takes the longest to finish.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>When you know what you want, and you want it bad enough, you will find a way to get it.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
