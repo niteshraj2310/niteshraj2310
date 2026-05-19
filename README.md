@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Whatever satisfies the soul is truth.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 #
