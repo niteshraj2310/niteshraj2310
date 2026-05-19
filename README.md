@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep your dreams, you never know when you might need them.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</i><br>— Alexander Pope</p>
 <!-- ADVICE:END -->
 
 #
