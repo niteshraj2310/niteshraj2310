@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our view of the world is truly shaped by what we decide to hear.</i><br>— William James</p>
+<p align="center"><br><i>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 #
