@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever satisfies the soul is truth.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>Keep your dreams, you never know when you might need them.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
