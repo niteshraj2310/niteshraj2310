@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</i><br>— Alexander Pope</p>
+<p align="center"><br><i>The finish line is just the beginning of a whole new race.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
