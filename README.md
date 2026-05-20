@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes it is more important to discover what one cannot do, than what one can do.</i><br>— Lin Yutang</p>
+<p align="center"><br><i>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</i><br>— Epictetus</p>
 <!-- ADVICE:END -->
 
 #
