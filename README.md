@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear does not have any special power unless you empower it by submitting to it.</i><br>— Les Brown</p>
+<p align="center"><br><i>Sometimes it is more important to discover what one cannot do, than what one can do.</i><br>— Lin Yutang</p>
 <!-- ADVICE:END -->
 
 #
