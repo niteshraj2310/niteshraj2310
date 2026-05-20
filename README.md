@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</i><br>— Epictetus</p>
+<p align="center"><br><i>It is ignorance that causes most mistakes.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
