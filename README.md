@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>We have a duty to maintain the light of consciousness to make sure it continues into the future.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
