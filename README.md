@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If fear is too strong, the genius is suppressed.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</i><br>— Ronald Reagan</p>
 <!-- ADVICE:END -->
 
 #
