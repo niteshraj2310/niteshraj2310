@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't explain your philosophy. Embody it.</i><br>— Epictetus</p>
+<p align="center"><br><i>Those who cannot change their minds cannot change anything.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
