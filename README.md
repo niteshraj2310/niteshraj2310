@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who cannot change their minds cannot change anything.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Discipline is the bridge between goals and accomplishment.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
