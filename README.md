@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>If fear is too strong, the genius is suppressed.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
