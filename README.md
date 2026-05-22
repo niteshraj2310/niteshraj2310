@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't criticize what you can't understand. </i><br>— Bob Dylan</p>
+<p align="center"><br><i>Teachers open the door. You enter by yourself. </i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
