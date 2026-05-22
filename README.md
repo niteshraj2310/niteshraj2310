@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you are grateful for what you have the more you will have to be grateful for. </i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Live your life as an exclamation rather than an explanation.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
