@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Teachers open the door. You enter by yourself. </i><br>— Chinese Proverb</p>
+<p align="center"><br><i>There is an essence of when you are fearless, you become more creative.</i><br>— Gurbaksh Chahal</p>
 <!-- ADVICE:END -->
 
 #
