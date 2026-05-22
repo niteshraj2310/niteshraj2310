@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Changing minds is harder than finding people who already agree.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>The more you are grateful for what you have the more you will have to be grateful for. </i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
