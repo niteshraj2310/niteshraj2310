@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is an essence of when you are fearless, you become more creative.</i><br>— Gurbaksh Chahal</p>
+<p align="center"><br><i>The heart wants what it wants. There's no logic. </i><br>— Woody Allen</p>
 <!-- ADVICE:END -->
 
 #
