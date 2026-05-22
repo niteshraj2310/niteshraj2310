@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</i><br>— Ronald Reagan</p>
+<p align="center"><br><i>Changing minds is harder than finding people who already agree.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
