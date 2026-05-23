@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't worry about being successful, but work toward being significant and the success will naturally follow.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Ability is a poor man's wealth.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
