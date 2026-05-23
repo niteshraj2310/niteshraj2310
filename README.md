@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people dabble their way through life, never deciding to master anything in particular.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>I know not all that may be coming, but be it what it will, I'll go to it laughing.</i><br>— Herman Melville</p>
 <!-- ADVICE:END -->
 
 #
