@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's wise to tell the truth. It's even wiser to tell it kindly.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>Don't worry about being successful, but work toward being significant and the success will naturally follow.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
