@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You change the world by being yourself.</i><br>— Yoko Ono</p>
+<p align="center"><br><i>Most people dabble their way through life, never deciding to master anything in particular.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
