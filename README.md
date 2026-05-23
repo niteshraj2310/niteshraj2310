@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many roads lead to the path, but basically there are only two: reason and practice. </i><br>— Bodhidharma</p>
+<p align="center"><br><i>You change the world by being yourself.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 #
