@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Surrender to what is. Let go of what was. Have faith in what will be.</i><br>— Sonia Ricotti</p>
 <!-- ADVICE:END -->
 
 #
