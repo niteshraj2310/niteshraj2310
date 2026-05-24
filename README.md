@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We have no more right to consume happiness without producing it than to consume wealth without producing it.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>When I let go of what I am, I become what I might be.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
