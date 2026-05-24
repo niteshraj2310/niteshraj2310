@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When I let go of what I am, I become what I might be.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>You can do two things at once, but you can't focus effectively on two things at once.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
