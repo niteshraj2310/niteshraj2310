@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Ability is a poor man's wealth.</i><br>— John Wooden</p>
+<p align="center"><br><i>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
