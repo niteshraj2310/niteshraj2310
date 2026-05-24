@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Surrender to what is. Let go of what was. Have faith in what will be.</i><br>— Sonia Ricotti</p>
+<p align="center"><br><i>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 #
