@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Elegance does not consist in putting on a new dress.</i><br>— Coco Chanel</p>
+<p align="center"><br><i>I am not what happened to me, I am what I choose to become.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 #
