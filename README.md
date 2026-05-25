@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only lost cause is one we give up on before we enter the struggle.</i><br>— Vaclav Havel</p>
+<p align="center"><br><i>Remember to look up at the stars and not down at your feet.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 #
