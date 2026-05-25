@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can do two things at once, but you can't focus effectively on two things at once.</i><br>— Gary Keller</p>
+<p align="center"><br><i>Smile, breathe and go slowly.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 #
