@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am not what happened to me, I am what I choose to become.</i><br>— Carl Jung</p>
+<p align="center"><br><i>The only lost cause is one we give up on before we enter the struggle.</i><br>— Vaclav Havel</p>
 <!-- ADVICE:END -->
 
 #
