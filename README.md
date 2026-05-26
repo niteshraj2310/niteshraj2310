@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Truth is the offspring of silence and meditation.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>Where you are right now doesn't have to determine where you'll end up.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 #
