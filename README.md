@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life without love is like a tree without blossoms or fruit.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>Our joy does not have to be based on our circumstances.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
