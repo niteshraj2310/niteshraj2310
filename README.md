@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't try to be young. Just open your mind. Stay interested in stuff.</i><br>— Betty White</p>
+<p align="center"><br><i>Truth is the offspring of silence and meditation.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 #
