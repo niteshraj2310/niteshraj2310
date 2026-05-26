@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our joy does not have to be based on our circumstances.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Don't try to be young. Just open your mind. Stay interested in stuff.</i><br>— Betty White</p>
 <!-- ADVICE:END -->
 
 #
