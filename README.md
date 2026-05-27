@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where you are right now doesn't have to determine where you'll end up.</i><br>— Barack Obama</p>
+<p align="center"><br><i>Humans and prosperity never endure side by side for long.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 #
