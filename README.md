@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I will not walk backward in life.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 #
