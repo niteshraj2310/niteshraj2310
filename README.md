@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everybody has talent, but ability takes hard work.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>I will not walk backward in life.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
