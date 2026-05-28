@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</i><br>— Dogen</p>
+<p align="center"><br><i>A needle is not sharp at both ends.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
