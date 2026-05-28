@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A needle is not sharp at both ends.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Throughout this life, you can never be certain of living long enough to take another breath.</i><br>— Huang Po</p>
 <!-- ADVICE:END -->
 
 #
