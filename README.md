@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</i><br>— Jon Kabat-Zinn</p>
+<p align="center"><br><i>Knowledge is a treasure, but practice is the key to it.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
