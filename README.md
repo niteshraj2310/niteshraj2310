@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Presents are made for the pleasure of who gives them, not the merits of who receives them.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
