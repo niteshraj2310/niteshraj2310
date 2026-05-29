@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear can hold you prisoner. Hope can set you free.</i><br>— Stephen King</p>
+<p align="center"><br><i>Normal is the average of deviance.</i><br>— Rita Mae Brown</p>
 <!-- ADVICE:END -->
 
 #
