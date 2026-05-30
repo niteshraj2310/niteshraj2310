@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best way out is always through.</i><br>— Robert Frost</p>
+<p align="center"><br><i>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 #
