@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Little by little, one travels far.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>What people say, what people do, and what they say they do are entirely different things.</i><br>— Margaret Mead</p>
 <!-- ADVICE:END -->
 
 #
