@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want something then you lose everything. If you don't want anything then you already have everything.</i><br>— Seungsahn</p>
+<p align="center"><br><i>It is dangerous to be right in matters on which the established authorities are wrong.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 #
