@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</i><br>— Richard Bach</p>
+<p align="center"><br><i>FOCUS - Follow One Course Until Successful</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 #
