@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is dangerous to be right in matters on which the established authorities are wrong.</i><br>— Voltaire</p>
+<p align="center"><br><i>I admire those who do good and expect nothing in return.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
