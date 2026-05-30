@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>FOCUS - Follow One Course Until Successful</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Little by little, one travels far.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 #
