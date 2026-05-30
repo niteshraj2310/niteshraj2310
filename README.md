@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What people say, what people do, and what they say they do are entirely different things.</i><br>— Margaret Mead</p>
+<p align="center"><br><i>If you want something then you lose everything. If you don't want anything then you already have everything.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 #
