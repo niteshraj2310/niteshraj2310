@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I admire those who do good and expect nothing in return.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>If ever you feel like an animal among men, be a lion.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 #
