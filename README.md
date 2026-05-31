@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work out your own salvation. Do not depend on others.</i><br>— Buddha</p>
+<p align="center"><br><i>Whatever you think the world is withholding from you, you are withholding from the world.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
