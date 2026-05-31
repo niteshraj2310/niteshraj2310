@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is the dancer and you are the dance.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Showing off is the fool's idea of glory.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
