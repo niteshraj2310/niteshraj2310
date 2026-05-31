@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Showing off is the fool's idea of glory.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.</i><br>— Denis Waitley</p>
 <!-- ADVICE:END -->
 
 #
