@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.</i><br>— Denis Waitley</p>
+<p align="center"><br><i>Work out your own salvation. Do not depend on others.</i><br>— Buddha</p>
 <!-- ADVICE:END -->
 
 #
