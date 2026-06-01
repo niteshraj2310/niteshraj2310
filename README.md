@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you think the world is withholding from you, you are withholding from the world.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Quality is not an act, it is a habit.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 #
