@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All great truths begin as blasphemies.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Honesty is a very expensive gift, Don't expect it from cheap people.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 #
