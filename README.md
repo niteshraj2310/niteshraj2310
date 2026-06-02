@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Any fool can paint a picture, but it takes a wise man to be able to sell it.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 #
