@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There's no next time. It's now or never.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Any fool can paint a picture, but it takes a wise man to be able to sell it.</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 #
