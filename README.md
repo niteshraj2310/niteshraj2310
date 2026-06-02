@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to disappoint people with the truth than to appease them with a lie.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>There's no next time. It's now or never.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 #
