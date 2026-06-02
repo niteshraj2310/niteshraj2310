@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Honesty is a very expensive gift, Don't expect it from cheap people.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>No man is more cheated than the selfish man.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
