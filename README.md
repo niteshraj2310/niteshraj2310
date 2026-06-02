@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No man is more cheated than the selfish man.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>It is better to disappoint people with the truth than to appease them with a lie.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
