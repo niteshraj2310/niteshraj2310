@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you correct your mind, the rest of your life will fall into place.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</i><br>— Joan Rivers</p>
 <!-- ADVICE:END -->
 
 #
