@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Never do to others what you would not like them to do to you.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 #
