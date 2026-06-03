@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never do to others what you would not like them to do to you.</i><br>— Confucius</p>
+<p align="center"><br><i>If you correct your mind, the rest of your life will fall into place.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
