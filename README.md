@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</i><br>— John Wooden</p>
+<p align="center"><br><i>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 #
