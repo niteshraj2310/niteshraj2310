@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adults are just children who earn money.</i><br>— Kenneth Branagh</p>
+<p align="center"><br><i>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 #
