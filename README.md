@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is 10% what happens to you and 90% how you react to it.</i><br>— Charles Swindoll</p>
+<p align="center"><br><i>Adults are just children who earn money.</i><br>— Kenneth Branagh</p>
 <!-- ADVICE:END -->
 
 #
