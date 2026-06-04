@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Don't watch the clock; do what it does. Keep going.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 #
