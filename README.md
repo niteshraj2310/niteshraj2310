@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Shoot for the moon, because even if you miss, you'll land among the stars.</i><br>— Les Brown</p>
+<p align="center"><br><i>Life is 10% what happens to you and 90% how you react to it.</i><br>— Charles Swindoll</p>
 <!-- ADVICE:END -->
 
 #
