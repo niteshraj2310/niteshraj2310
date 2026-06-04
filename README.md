@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't watch the clock; do what it does. Keep going.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
