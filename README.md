@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Reality is nothing but a collective hunch.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 #
