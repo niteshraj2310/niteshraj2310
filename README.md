@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 #
