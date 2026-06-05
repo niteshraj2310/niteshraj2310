@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The trouble with the rat race is that even if you win, you're still a rat.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>The opposite of courage in our society is not cowardice... it is conformity.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
