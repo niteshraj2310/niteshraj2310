@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Motivation is what gets you started. Habit is what keeps you going.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>There is a difference between giving directions and giving direction.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 #
