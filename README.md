@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is a difference between giving directions and giving direction.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Actions are the seeds of fate. Deeds grow into destiny.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 #
