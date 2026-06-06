@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your next step is simple. You are the first domino.</i><br>— Gary Keller</p>
+<p align="center"><br><i>Motivation is what gets you started. Habit is what keeps you going.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
