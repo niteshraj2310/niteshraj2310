@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</i><br>— Og Mandino</p>
+<p align="center"><br><i>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
