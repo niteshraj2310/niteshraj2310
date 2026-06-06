@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Your next step is simple. You are the first domino.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 #
