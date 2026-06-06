@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Actions are the seeds of fate. Deeds grow into destiny.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Change yourself and you have done your part in changing the world.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 #
