@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The goal of an artist is to create the definitive work that cannot be surpassed.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Youth has no age.</i><br>— Pablo Picasso</p>
 <!-- ADVICE:END -->
 
 #
