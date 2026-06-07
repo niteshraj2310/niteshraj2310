@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is hard to fail, but it is worse never to have tried to succeed.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>No matter how great the talent or efforts, some things just take time.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 #
