@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No matter how great the talent or efforts, some things just take time.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>Productize your perspective.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 #
