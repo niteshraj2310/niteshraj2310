@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Youth has no age.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>The act of taking the first step is what separates the winners from the losers.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 #
