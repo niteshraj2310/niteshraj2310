@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Productize your perspective.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>Success in any endeavor depends on the degree to which it is an expression of your true self.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
