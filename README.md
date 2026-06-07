@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't think money does everything or you are going to end up doing everything for money.</i><br>— Voltaire</p>
+<p align="center"><br><i>It is hard to fail, but it is worse never to have tried to succeed.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
