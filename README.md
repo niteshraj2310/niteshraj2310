@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The day is for honest men, the night for thieves.</i><br>— Euripides</p>
+<p align="center"><br><i>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 #
