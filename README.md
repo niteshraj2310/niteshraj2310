@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no way to happiness - happiness is the way.</i><br>— Thich Nhat Hanh</p>
+<p align="center"><br><i>We are like islands in the sea, separate on the surface but connected in the deep.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
