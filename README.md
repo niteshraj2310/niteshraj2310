@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are like islands in the sea, separate on the surface but connected in the deep.</i><br>— William James</p>
+<p align="center"><br><i>The worst part of success is trying to find someone who is happy for you.</i><br>— Bette Midler</p>
 <!-- ADVICE:END -->
 
 #
