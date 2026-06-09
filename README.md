@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success does not consist in never making mistakes but in never making the same one a second time.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>The person who is his own master cannot tolerate another boss.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 #
