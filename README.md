@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A gentleman is one who puts more into the world than he takes out.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Never lose hope. Storms make people stronger and never last forever.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 #
