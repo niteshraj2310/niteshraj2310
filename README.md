@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>Success does not consist in never making mistakes but in never making the same one a second time.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 #
