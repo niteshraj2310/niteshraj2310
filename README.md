@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never lose hope. Storms make people stronger and never last forever.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Life moves on and so should we.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 #
