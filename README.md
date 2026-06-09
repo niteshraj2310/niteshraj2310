@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who is his own master cannot tolerate another boss.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Where does a thought go when it's forgotten?</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
