@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't find the time, if you don't do the work, you don't get the results.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>Perpetual optimism is a force multiplier.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 #
