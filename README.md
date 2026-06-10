@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>If you don't find the time, if you don't do the work, you don't get the results.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 #
