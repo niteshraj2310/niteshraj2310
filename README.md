@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
