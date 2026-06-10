@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You miss 100% of the shots you don't take.</i><br>— Wayne Gretzky</p>
+<p align="center"><br><i>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 #
