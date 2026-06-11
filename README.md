@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</i><br>— Elon Musk</p>
+<p align="center"><br><i>I like the dreams of the future better than the history of the past.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 #
