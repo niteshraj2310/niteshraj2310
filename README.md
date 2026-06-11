@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Perpetual optimism is a force multiplier.</i><br>— Colin Powell</p>
+<p align="center"><br><i>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.</i><br>— Miguel de Cervantes</p>
 <!-- ADVICE:END -->
 
 #
