@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.</i><br>— Miguel de Cervantes</p>
+<p align="center"><br><i>If you correct your mind, the rest of your life will fall into place.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 #
