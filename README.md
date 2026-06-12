@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I like the dreams of the future better than the history of the past.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Don't blame others. it won't make you a better person.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 #
