@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When things are a disappointment, try not to be so discouraged.</i><br>— Carol Burnett</p>
+<p align="center"><br><i>Science can flourish only in an atmosphere of free speech.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 #
