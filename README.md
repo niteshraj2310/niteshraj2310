@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Dreams have only one owner at a time. That's why dreamers are lonely.</i><br>— William Faulkner</p>
+<p align="center"><br><i>When things are a disappointment, try not to be so discouraged.</i><br>— Carol Burnett</p>
 <!-- ADVICE:END -->
 
 #
