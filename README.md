@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear not the path of Truth for the lack of People walking on it.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
