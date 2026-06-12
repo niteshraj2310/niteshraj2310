@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Science can flourish only in an atmosphere of free speech.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>Fear not the path of Truth for the lack of People walking on it.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 #
