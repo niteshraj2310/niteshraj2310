@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't blame others. it won't make you a better person.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>Dreams have only one owner at a time. That's why dreamers are lonely.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
