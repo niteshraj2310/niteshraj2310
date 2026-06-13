@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>That some achieve great success is proof to all that others can achieve it as well.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>Courage is fear that has said its prayers and decided to go forward anyway.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
