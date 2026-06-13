@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just do the best you can. No one can do more than that.</i><br>— John Wooden</p>
+<p align="center"><br><i>The few who do are the envy of the many who only watch.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 #
