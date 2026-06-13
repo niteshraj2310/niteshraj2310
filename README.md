@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't get to a place that you don't believe exists.</i><br>— Unknown</p>
+<p align="center"><br><i>We have a duty to maintain the light of consciousness to make sure it continues into the future.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 #
