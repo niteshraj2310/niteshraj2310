@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Courage is fear that has said its prayers and decided to go forward anyway.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Just do the best you can. No one can do more than that.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 #
