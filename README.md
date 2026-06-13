@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</i><br>— Toni Morrison</p>
+<p align="center"><br><i>That some achieve great success is proof to all that others can achieve it as well.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
