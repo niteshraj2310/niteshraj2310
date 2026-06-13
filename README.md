@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The few who do are the envy of the many who only watch.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>You can't get to a place that you don't believe exists.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 #
