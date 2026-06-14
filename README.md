@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We have a duty to maintain the light of consciousness to make sure it continues into the future.</i><br>— Elon Musk</p>
+<p align="center"><br><i>You can not live your life just based on what everyone else thinks.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 #
