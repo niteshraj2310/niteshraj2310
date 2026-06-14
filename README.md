@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>It's easier to go down a hill than up it but the view is much better at the top.</i><br>— Henry Ward Beecher</p>
 <!-- ADVICE:END -->
 
 #
