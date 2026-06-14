@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot swim for new horizons until you have courage to lose sight of the shore.</i><br>— William Faulkner</p>
+<p align="center"><br><i>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
