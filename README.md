@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</i><br>— Confucius</p>
+<p align="center"><br><i>You cannot swim for new horizons until you have courage to lose sight of the shore.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 #
