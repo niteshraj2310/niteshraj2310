@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 #
