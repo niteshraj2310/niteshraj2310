@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The temptation to give up is strongest just before victory.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>The most wasted day of all is that on which we have not laughed.</i><br>— Nicolas Chamfort</p>
 <!-- ADVICE:END -->
 
 #
