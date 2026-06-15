@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We turn not older with years but newer every day.</i><br>— Emily Dickinson</p>
+<p align="center"><br><i>Ideas do not reach perfection in a day, no matter how much study is put upon them.</i><br>— Alexander Graham Bell</p>
 <!-- ADVICE:END -->
 
 #
