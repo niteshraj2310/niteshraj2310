@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's easier to go down a hill than up it but the view is much better at the top.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>The temptation to give up is strongest just before victory.</i><br>— Zen Proverb</p>
 <!-- ADVICE:END -->
 
 #
