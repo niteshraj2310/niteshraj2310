@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most wasted day of all is that on which we have not laughed.</i><br>— Nicolas Chamfort</p>
+<p align="center"><br><i>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 #
