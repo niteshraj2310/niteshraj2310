@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love is not about possession. Love is about appreciation.</i><br>— Osho</p>
+<p align="center"><br><i>Even the finest sword plunged into salt water will eventually rust.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 #
