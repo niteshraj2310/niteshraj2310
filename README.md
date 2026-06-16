@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Love the life you live, live the life you love.</i><br>— Bob Marley</p>
+<p align="center"><br><i>Showing off is the fool's idea of glory.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 #
