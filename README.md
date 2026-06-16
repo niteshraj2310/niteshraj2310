@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Ideas do not reach perfection in a day, no matter how much study is put upon them.</i><br>— Alexander Graham Bell</p>
+<p align="center"><br><i>Love the life you live, live the life you love.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 #
