@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Showing off is the fool's idea of glory.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>Love is not about possession. Love is about appreciation.</i><br>— Osho</p>
 <!-- ADVICE:END -->
 
 #
