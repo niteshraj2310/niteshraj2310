@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even the finest sword plunged into salt water will eventually rust.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>I would rather be a little nobody, then to be an evil somebody.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 #
