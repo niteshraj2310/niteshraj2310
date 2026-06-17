@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Riches don't make a man rich, they only make him busier.</i><br>— Christopher Columbus</p>
+<p align="center"><br><i>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 #
