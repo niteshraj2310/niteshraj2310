@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Integrity is the ability to stand by an idea.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 #
