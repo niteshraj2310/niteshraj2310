@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 #
