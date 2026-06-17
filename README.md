@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I would rather be a little nobody, then to be an evil somebody.</i><br>— Abraham Lincoln</p>
+<p align="center"><br><i>Riches don't make a man rich, they only make him busier.</i><br>— Christopher Columbus</p>
 <!-- ADVICE:END -->
 
 #
