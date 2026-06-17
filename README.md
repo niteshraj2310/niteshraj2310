@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Integrity is the ability to stand by an idea.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>Looking after my health today gives me a better hope for tomorrow.</i><br>— Anne Wilson Schaef</p>
 <!-- ADVICE:END -->
 
 #
