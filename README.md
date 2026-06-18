@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful.</i><br>— David Brinkley</p>
+<p align="center"><br><i>Do what you can, with what you have, where you are.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 #
