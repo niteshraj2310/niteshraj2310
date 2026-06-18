@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful.</i><br>— David Brinkley</p>
 <!-- ADVICE:END -->
 
 #
