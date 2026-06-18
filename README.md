@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Looking after my health today gives me a better hope for tomorrow.</i><br>— Anne Wilson Schaef</p>
+<p align="center"><br><i>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 #
