@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People learn from their failures. Seldom do they learn anything from success.</i><br>— Ryan Holiday</p>
+<p align="center"><br><i>Passion is energy. Feel the power that comes from focusing on what excites you.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
