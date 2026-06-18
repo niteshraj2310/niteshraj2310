@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do what you can, with what you have, where you are.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>People learn from their failures. Seldom do they learn anything from success.</i><br>— Ryan Holiday</p>
 <!-- ADVICE:END -->
 
 #
