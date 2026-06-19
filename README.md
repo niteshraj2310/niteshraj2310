@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Passion is energy. Feel the power that comes from focusing on what excites you.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Ideas do not reach perfection in a day, no matter how much study is put upon them.</i><br>— Alexander Graham Bell</p>
 <!-- ADVICE:END -->
 
 #
