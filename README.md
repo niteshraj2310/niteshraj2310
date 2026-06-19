@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all self-made, but only the successful will admit it.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Who can say for sure that one will live to see tomorrow.</i><br>— Tibetan Proverb</p>
 <!-- ADVICE:END -->
 
 #
