@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Ideas do not reach perfection in a day, no matter how much study is put upon them.</i><br>— Alexander Graham Bell</p>
+<p align="center"><br><i>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</i><br>— Ralph Marston</p>
 <!-- ADVICE:END -->
 
 #
