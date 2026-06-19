@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</i><br>— Ralph Marston</p>
+<p align="center"><br><i>We are all self-made, but only the successful will admit it.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 #
