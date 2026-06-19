@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Who can say for sure that one will live to see tomorrow.</i><br>— Tibetan Proverb</p>
+<p align="center"><br><i>Sometimes things become possible if we want them bad enough.</i><br>— T.S. Eliot</p>
 <!-- ADVICE:END -->
 
 #
