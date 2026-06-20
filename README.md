@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do all things with love.</i><br>— Og Mandino</p>
+<p align="center"><br><i>From error to error one discovers the entire truth.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 #
