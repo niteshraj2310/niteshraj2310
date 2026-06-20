@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 #
