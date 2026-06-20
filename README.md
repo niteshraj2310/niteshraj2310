@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Our view of the world is truly shaped by what we decide to hear.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 #
