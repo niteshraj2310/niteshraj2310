@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our view of the world is truly shaped by what we decide to hear.</i><br>— William James</p>
+<p align="center"><br><i>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 #
