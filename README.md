@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>We are all born ignorant, but one must work hard to remain stupid.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 #
