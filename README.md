@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all born ignorant, but one must work hard to remain stupid.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Winning isn't everything, but wanting to win is.</i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 #
