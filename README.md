@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only place success comes before work is in the dictionary.</i><br>— Vince Lombardi</p>
+<p align="center"><br><i>The wise learn many things from their enemies.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 #
