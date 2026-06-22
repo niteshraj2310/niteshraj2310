@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Peace if possible, truth at all costs.</i><br>— Martin Luther</p>
+<p align="center"><br><i>Most people fail in life because they major in minor things.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 #
