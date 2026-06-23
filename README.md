@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The right thing to do and the hard thing to do are usually the same.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>The only place where success comes before work is in the dictionary.</i><br>— Vidal Sassoon</p>
 <!-- ADVICE:END -->
 
 <!--
