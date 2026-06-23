@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The ego wants to go fast. The soul needs to go slow.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 <!--
