@@ -2,7 +2,7 @@
 <p align="center"><br><i>The right thing to do and the hard thing to do are usually the same.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
-```
+<!--
 #
 
 <div align="center">
@@ -36,7 +36,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-```
+
 ## 💻 Skills & Technologies
 
 ### Languages
@@ -101,5 +101,4 @@ I enjoy listening to music. Here's what I'm currently listening to:
 From [niteshraj2310](https://github.com/niteshraj2310)
 
 </div>
-
-```
+-->
