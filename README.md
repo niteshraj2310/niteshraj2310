@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</i><br>— Criss Jami</p>
+<p align="center"><br><i>There is a big difference between being centered and being self-centered.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 <!--
