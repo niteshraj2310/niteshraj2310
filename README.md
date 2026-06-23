@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>A mistake is only an error, it becomes a mistake when you fail to correct it.</i><br>— John Lennon</p>
 <!-- ADVICE:END -->
 
 <!--
