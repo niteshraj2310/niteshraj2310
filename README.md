@@ -2,6 +2,7 @@
 <p align="center"><br><i>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
+```
 #
 
 <div align="center">
@@ -35,7 +36,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
+```
 ## 💻 Skills & Technologies
 
 ### Languages
@@ -100,3 +101,5 @@ I enjoy listening to music. Here's what I'm currently listening to:
 From [niteshraj2310](https://github.com/niteshraj2310)
 
 </div>
+
+```
