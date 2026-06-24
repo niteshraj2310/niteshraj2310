@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Empty yourself of everything - let the mind become still.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>No one can confidently say that he will still be living tomorrow.</i><br>— Euripides</p>
 <!-- ADVICE:END -->
 
 <!--
