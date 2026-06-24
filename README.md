@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No one can confidently say that he will still be living tomorrow.</i><br>— Euripides</p>
+<p align="center"><br><i>Night is a more quiet time to work. It aids thought.</i><br>— Alexander Graham Bell</p>
 <!-- ADVICE:END -->
 
 <!--
