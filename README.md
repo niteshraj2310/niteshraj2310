@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A mistake is only an error, it becomes a mistake when you fail to correct it.</i><br>— John Lennon</p>
+<p align="center"><br><i>You are your best thing.</i><br>— Toni Morrison</p>
 <!-- ADVICE:END -->
 
 <!--
