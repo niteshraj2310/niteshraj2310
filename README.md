@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do something worth remembering.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>Confidence is contagious. So is lack of confidence.</i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 <!--
