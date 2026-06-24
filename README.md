@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confidence is contagious. So is lack of confidence.</i><br>— Vince Lombardi</p>
+<p align="center"><br><i>Empty yourself of everything - let the mind become still.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
