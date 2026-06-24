@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are your best thing.</i><br>— Toni Morrison</p>
+<p align="center"><br><i>Do something worth remembering.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 <!--
