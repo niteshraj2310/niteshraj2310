@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you tell the truth, you don't have to remember anything.</i><br>— Mark Twain</p>
+<p align="center"><br><i>You don't earn loyalty in a day. You earn loyalty day-by-day.</i><br>— Jeffrey Gitomer</p>
 <!-- ADVICE:END -->
 
 <!--
