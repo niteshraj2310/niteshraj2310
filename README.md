@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Prefer to be defeated in the presence of the wise than to excel among fools.</i><br>— Dogen</p>
+<p align="center"><br><i>Storms don't last forever.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 <!--
