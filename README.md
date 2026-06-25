@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't earn loyalty in a day. You earn loyalty day-by-day.</i><br>— Jeffrey Gitomer</p>
+<p align="center"><br><i>Either get busy living or get busy dying.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 <!--
