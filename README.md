@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The beautiful journey of today can only begin when we learn to let go of yesterday.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Prefer to be defeated in the presence of the wise than to excel among fools.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 <!--
