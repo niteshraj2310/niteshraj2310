@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Either get busy living or get busy dying.</i><br>— Stephen King</p>
+<p align="center"><br><i>Take the high road; it's far less crowded.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 <!--
