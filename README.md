@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A diamond is a piece of charcoal that handled stress exceptionally well.</i><br>— Unknown</p>
+<p align="center"><br><i>The beautiful journey of today can only begin when we learn to let go of yesterday.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 <!--
