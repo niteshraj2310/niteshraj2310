@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Storms don't last forever.</i><br>— Unknown</p>
+<p align="center"><br><i>If you tell the truth, you don't have to remember anything.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 <!--
