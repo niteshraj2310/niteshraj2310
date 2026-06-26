@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take the high road; it's far less crowded.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>Change is hardest at the beginning, messiest in the middle and best at the end.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 <!--
