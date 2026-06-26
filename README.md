@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>The only man who never makes mistakes is the man who never does anything.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
