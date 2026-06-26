@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Trusting our intuition often saves us from disaster.</i><br>— Anne Wilson Schaef</p>
+<p align="center"><br><i>Tall oaks grow from little acorns.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 <!--
