@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change is hardest at the beginning, messiest in the middle and best at the end.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 <!--
