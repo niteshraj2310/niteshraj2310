@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only man who never makes mistakes is the man who never does anything.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>The future is not a gift. It is an achievement.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 <!--
