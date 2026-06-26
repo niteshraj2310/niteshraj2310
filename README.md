@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Tall oaks grow from little acorns.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>Follow your heart, listen to your inner voice, stop caring about what others think.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
