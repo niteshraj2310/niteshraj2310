@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Follow your heart, listen to your inner voice, stop caring about what others think.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 <!--
