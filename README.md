@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All leaders are readers.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>We must not sit down and wait for miracles. Up and be going!</i><br>— John Eliot</p>
 <!-- ADVICE:END -->
 
 <!--
