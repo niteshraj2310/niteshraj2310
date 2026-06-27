@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.</i><br>— Orison Swett Marden</p>
 <!-- ADVICE:END -->
 
 <!--
