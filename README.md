@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great acts are made up of small deeds.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Always seek out the seed of triumph in every adversity.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 <!--
