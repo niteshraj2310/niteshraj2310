@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>Honesty is a very expensive gift, Don't expect it from cheap people.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 <!--
