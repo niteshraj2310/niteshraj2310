@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always seek out the seed of triumph in every adversity.</i><br>— Og Mandino</p>
+<p align="center"><br><i>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 <!--
