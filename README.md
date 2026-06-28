@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Honesty is a very expensive gift, Don't expect it from cheap people.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 <!--
