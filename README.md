@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 <!--
