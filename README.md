@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Older men declare war. But it is youth that must fight and die.</i><br>— Herbert Hoover</p>
 <!-- ADVICE:END -->
 
 <!--
