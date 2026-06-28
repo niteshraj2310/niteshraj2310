@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Loyalty and friendship are the most precious possessions a man can have.</i><br>— Herbert Hoover</p>
+<p align="center"><br><i>Great acts are made up of small deeds.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
