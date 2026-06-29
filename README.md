@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Older men declare war. But it is youth that must fight and die.</i><br>— Herbert Hoover</p>
+<p align="center"><br><i>Invisible things are the only realities.</i><br>— Edgar Allan Poe</p>
 <!-- ADVICE:END -->
 
 <!--
