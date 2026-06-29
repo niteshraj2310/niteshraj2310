@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company.</i><br>— George Washington</p>
+<p align="center"><br><i>You cannot change your destination overnight but you can change your direction overnight.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 <!--
