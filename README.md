@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot change your destination overnight but you can change your direction overnight.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</i><br>— G.I. Gurdjieff</p>
 <!-- ADVICE:END -->
 
 <!--
