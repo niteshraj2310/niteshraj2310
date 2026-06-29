@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Invisible things are the only realities.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company.</i><br>— George Washington</p>
 <!-- ADVICE:END -->
 
 <!--
