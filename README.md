@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The clock indicates the moment...but what does eternity indicate?</i><br>— Walt Whitman</p>
+<p align="center"><br><i>Listen to the secret sound, the real sound, which is inside you.</i><br>— Kabir</p>
 <!-- ADVICE:END -->
 
 <!--
