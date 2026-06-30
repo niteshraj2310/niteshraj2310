@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</i><br>— G.I. Gurdjieff</p>
+<p align="center"><br><i>Your chances of success in any undertaking can always be measured by your belief in yourself.</i><br>— Robert Collier</p>
 <!-- ADVICE:END -->
 
 <!--
