@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is best to begin at the beginning.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Wise men speak because they have something to say; Fools because they have to say something.</i><br>— Plato</p>
 <!-- ADVICE:END -->
 
 <!--
