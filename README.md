@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wise men speak because they have something to say; Fools because they have to say something.</i><br>— Plato</p>
+<p align="center"><br><i>The clock indicates the moment...but what does eternity indicate?</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 <!--
