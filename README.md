@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your chances of success in any undertaking can always be measured by your belief in yourself.</i><br>— Robert Collier</p>
+<p align="center"><br><i>Repetition does not transform a lie into a truth.</i><br>— Franklin D. Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
