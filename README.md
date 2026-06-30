@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Repetition does not transform a lie into a truth.</i><br>— Franklin D. Roosevelt</p>
+<p align="center"><br><i>The scariest moment is always just before you start. After that, things can only get better.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 <!--
