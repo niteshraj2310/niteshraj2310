@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The scariest moment is always just before you start. After that, things can only get better.</i><br>— Stephen King</p>
+<p align="center"><br><i>It is best to begin at the beginning.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 <!--
