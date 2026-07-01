@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Listen to the secret sound, the real sound, which is inside you.</i><br>— Kabir</p>
+<p align="center"><br><i>It doesn't matter where you are, you are nowhere compared to where you can go.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 <!--
