@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you've never eaten while crying you don t know what life tastes like.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>Each day provides it's own gifts.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 <!--
