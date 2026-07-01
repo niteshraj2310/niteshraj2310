@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Winning isn't everything, but wanting to win is.</i><br>— Vince Lombardi</p>
+<p align="center"><br><i>If you've never eaten while crying you don t know what life tastes like.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 <!--
