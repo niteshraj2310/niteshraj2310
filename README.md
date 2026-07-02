@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our view of the world is truly shaped by what we decide to hear.</i><br>— William James</p>
+<p align="center"><br><i>The future belongs to those who learn more skills and combine them in creative ways.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 <!--
