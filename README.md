@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone sees what you appear to be, few experience what you really are.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>It doesn't matter what you do, only how well you do it.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 <!--
