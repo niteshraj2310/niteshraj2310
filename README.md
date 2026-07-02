@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future belongs to those who learn more skills and combine them in creative ways.</i><br>— Robert Greene</p>
+<p align="center"><br><i>The universe doesn't allow perfection.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 <!--
