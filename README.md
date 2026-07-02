@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It doesn't matter what you do, only how well you do it.</i><br>— Dan Millman</p>
+<p align="center"><br><i>We have more possibilities available in each moment than we realize.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 <!--
