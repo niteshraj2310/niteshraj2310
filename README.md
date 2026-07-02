@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The universe doesn't allow perfection.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>We are all here for some special reason.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 <!--
