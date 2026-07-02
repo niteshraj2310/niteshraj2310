@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all here for some special reason.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Everyone sees what you appear to be, few experience what you really are.</i><br>— Niccolo Machiavelli</p>
 <!-- ADVICE:END -->
 
 <!--
