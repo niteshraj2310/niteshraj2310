@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An action committed in anger is an action doomed to failure.</i><br>— Genghis Khan</p>
+<p align="center"><br><i>Do every act of your life as if it were your last.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 <!--
