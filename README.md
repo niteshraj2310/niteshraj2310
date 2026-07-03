@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't wait for the right opportunity: create it.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>An action committed in anger is an action doomed to failure.</i><br>— Genghis Khan</p>
 <!-- ADVICE:END -->
 
 <!--
