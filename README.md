@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you have only one smile in you give it to the people you love.</i><br>— Maya Angelou</p>
+<p align="center"><br><i>Don't wait for the right opportunity: create it.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 <!--
