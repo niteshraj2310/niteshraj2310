@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do every act of your life as if it were your last.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>The giving of love is an education in itself.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
