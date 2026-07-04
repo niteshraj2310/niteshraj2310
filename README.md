@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The giving of love is an education in itself.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>You change the world by being yourself.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 <!--
