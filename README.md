@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enjoy life. There's plenty of time to be dead.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Life becomes easier and more beautiful when we can see the good in other people.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
