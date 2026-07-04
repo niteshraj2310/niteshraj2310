@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You change the world by being yourself.</i><br>— Yoko Ono</p>
+<p align="center"><br><i>Enjoy life. There's plenty of time to be dead.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 <!--
