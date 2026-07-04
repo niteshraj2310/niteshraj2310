@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is only the one reality, neither to be realized nor attained.</i><br>— Huang Po</p>
+<p align="center"><br><i>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.</i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 <!--
