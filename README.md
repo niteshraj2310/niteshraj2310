@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is love and love is life.</i><br>— Elvis Presley</p>
+<p align="center"><br><i>There is only the one reality, neither to be realized nor attained.</i><br>— Huang Po</p>
 <!-- ADVICE:END -->
 
 <!--
