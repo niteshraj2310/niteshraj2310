@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life becomes easier and more beautiful when we can see the good in other people.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Life is love and love is life.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 <!--
