@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The reward of suffering is experience.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 <!--
