@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>The important thing is not to stop questioning. Curiosity has its own reason for existing.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 <!--
