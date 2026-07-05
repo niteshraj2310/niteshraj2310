@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 <!--
