@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</i><br>— James Allen</p>
+<p align="center"><br><i>All you need is passion. If you have a passion for something, you'll create the talent.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 <!--
