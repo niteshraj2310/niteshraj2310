@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The important thing is not to stop questioning. Curiosity has its own reason for existing.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 <!--
