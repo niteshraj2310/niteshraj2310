@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't look for meaning in the words. Listen to the silences.</i><br>— Samuel Beckett</p>
+<p align="center"><br><i>The reward of suffering is experience.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 <!--
