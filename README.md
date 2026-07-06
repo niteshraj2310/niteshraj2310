@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your dream has to be bigger than your fear.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>I didn't get there by wishing for it or hoping for it, but by working for it.</i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 <!--
