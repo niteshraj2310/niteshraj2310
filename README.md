@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only way round is through.</i><br>— Robert Frost</p>
+<p align="center"><br><i>We can see through others only when we can see through ourselves.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 <!--
