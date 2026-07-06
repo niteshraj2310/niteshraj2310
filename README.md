@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>Your dream has to be bigger than your fear.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 <!--
