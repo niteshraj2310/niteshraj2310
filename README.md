@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
