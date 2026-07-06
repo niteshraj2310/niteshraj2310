@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We can see through others only when we can see through ourselves.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>You must learn to let go. Release the stress. You were never in control anyway.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 <!--
