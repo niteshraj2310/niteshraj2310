@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</i><br>— Joan Rivers</p>
+<p align="center"><br><i>Circumstances rule men; men do not rule circumstances.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 <!--
