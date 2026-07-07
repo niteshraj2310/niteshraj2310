@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Circumstances rule men; men do not rule circumstances.</i><br>— Herodotus</p>
+<p align="center"><br><i>The clock indicates the moment...but what does eternity indicate?</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 <!--
