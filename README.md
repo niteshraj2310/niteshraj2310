@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The eye with which I see God is the same eye with which God sees me.</i><br>— Meister Eckhart</p>
+<p align="center"><br><i>Poverty and hardship are created by false thinking.</i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 <!--
