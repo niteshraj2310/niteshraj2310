@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You must learn to let go. Release the stress. You were never in control anyway.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>The eye with which I see God is the same eye with which God sees me.</i><br>— Meister Eckhart</p>
 <!-- ADVICE:END -->
 
 <!--
