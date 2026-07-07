@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Poverty and hardship are created by false thinking.</i><br>— Bodhidharma</p>
+<p align="center"><br><i>If light is in your heart, you will find your way home.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 <!--
