@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We win by helping each other win.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>The first step toward getting somewhere is to decide that you are not going to stay where you are.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 <!--
