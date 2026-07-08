@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>We win by helping each other win.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 <!--
