@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To wish you were someone else is to waste the person you are.</i><br>— Unknown</p>
+<p align="center"><br><i>Turn off your mind, relax, and float downstream.</i><br>— John Lennon</p>
 <!-- ADVICE:END -->
 
 <!--
