@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We must learn to live together as brothers or perish together as fools.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>Plants grow weak without wind.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 <!--
