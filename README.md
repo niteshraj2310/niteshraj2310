@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Plants grow weak without wind.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 <!--
