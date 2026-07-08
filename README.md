@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The clock indicates the moment...but what does eternity indicate?</i><br>— Walt Whitman</p>
+<p align="center"><br><i>To wish you were someone else is to waste the person you are.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 <!--
