@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You do not read a book for the book's sake, but for your own.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>We must learn to live together as brothers or perish together as fools.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 <!--
