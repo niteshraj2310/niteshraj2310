@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first step toward getting somewhere is to decide that you are not going to stay where you are.</i><br>— Unknown</p>
+<p align="center"><br><i>To improve is to change, so to be perfect is to change often.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 <!--
