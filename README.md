@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If your happiness depends on what somebody else does, I guess you do have a problem.</i><br>— Richard Bach</p>
+<p align="center"><br><i>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 <!--
