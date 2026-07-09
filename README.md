@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A Rolling Stone Gathers No Moss.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>Be brave to stand for what you believe in even if you stand alone.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
