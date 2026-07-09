@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be brave to stand for what you believe in even if you stand alone.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>If your happiness depends on what somebody else does, I guess you do have a problem.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 <!--
