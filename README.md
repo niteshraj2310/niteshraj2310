@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To improve is to change, so to be perfect is to change often.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>A Rolling Stone Gathers No Moss.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 <!--
