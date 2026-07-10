@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</i><br>— Herbert Hoover</p>
+<p align="center"><br><i>Doing what you love is the cornerstone of having abundance in your life.</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 <!--
