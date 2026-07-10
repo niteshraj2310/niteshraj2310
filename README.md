@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have a brain and mind of your own. Use it, and reach your own decisions.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</i><br>— Ronald Reagan</p>
 <!-- ADVICE:END -->
 
 <!--
