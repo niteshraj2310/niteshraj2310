@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Who looks outside, dreams; who looks inside, awakes.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>You have a brain and mind of your own. Use it, and reach your own decisions.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 <!--
