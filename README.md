@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Faith means believing the unbelievable.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</i><br>— Herbert Hoover</p>
 <!-- ADVICE:END -->
 
 <!--
