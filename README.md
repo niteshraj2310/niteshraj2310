@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Who looks outside, dreams; who looks inside, awakes.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 <!--
