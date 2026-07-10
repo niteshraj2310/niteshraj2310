@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is well known that those who do not trust themselves never trust others.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>Faith means believing the unbelievable.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 <!--
