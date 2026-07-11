@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life has more imagination than we carry in our dreams.</i><br>— Christopher Columbus</p>
+<p align="center"><br><i>Success is liking yourself, liking what you do, and liking how you do it.</i><br>— Maya Angelou</p>
 <!-- ADVICE:END -->
 
 <!--
