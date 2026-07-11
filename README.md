@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We live only now. Everything else is either passed or is unknown.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>A man is literally what he thinks.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 <!--
