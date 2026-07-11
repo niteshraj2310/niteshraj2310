@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man is literally what he thinks.</i><br>— James Allen</p>
+<p align="center"><br><i>Life has more imagination than we carry in our dreams.</i><br>— Christopher Columbus</p>
 <!-- ADVICE:END -->
 
 <!--
