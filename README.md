@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>We live only now. Everything else is either passed or is unknown.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 <!--
