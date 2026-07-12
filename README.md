@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whenever people agree with me I always feel I must be wrong.</i><br>— Oscar Wilde</p>
+<p align="center"><br><i>What's right is what's left if you do everything else wrong.</i><br>— Robin Williams</p>
 <!-- ADVICE:END -->
 
 <!--
