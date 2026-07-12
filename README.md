@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>They who have conquered doubt and fear have conquered failure.</i><br>— James Allen</p>
+<p align="center"><br><i>The more you give, the more comes back to you.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 <!--
