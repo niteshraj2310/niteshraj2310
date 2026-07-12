@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is liking yourself, liking what you do, and liking how you do it.</i><br>— Maya Angelou</p>
+<p align="center"><br><i>They who have conquered doubt and fear have conquered failure.</i><br>— James Allen</p>
 <!-- ADVICE:END -->
 
 <!--
