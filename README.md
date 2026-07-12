@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What's right is what's left if you do everything else wrong.</i><br>— Robin Williams</p>
+<p align="center"><br><i>Success and failure come and go, but don't let them define you. It's who you are that matters.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
