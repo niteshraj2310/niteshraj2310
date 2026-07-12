@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success and failure come and go, but don't let them define you. It's who you are that matters.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 <!--
