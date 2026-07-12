@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 <!--
