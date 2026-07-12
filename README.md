@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The degree of responsibility you take for your life determines how much change you can create in it.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Whenever people agree with me I always feel I must be wrong.</i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 <!--
