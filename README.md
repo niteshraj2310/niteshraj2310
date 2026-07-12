@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you give, the more comes back to you.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>The degree of responsibility you take for your life determines how much change you can create in it.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 <!--
