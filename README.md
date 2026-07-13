@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is nothing like looking if you want to find something.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>It's easy to be a critic, but being a doer requires effort, risk, and change.</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 <!--
