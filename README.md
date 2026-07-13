@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's easy to be a critic, but being a doer requires effort, risk, and change.</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Your world is a living expression of how you are using and have used your mind.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 <!--
