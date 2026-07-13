@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</i><br>— Bette Midler</p>
+<p align="center"><br><i>Anyone telling you it's pointless to share your perspective is sharing their perspective.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 <!--
