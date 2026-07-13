@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</i><br>— Bette Midler</p>
 <!-- ADVICE:END -->
 
 <!--
