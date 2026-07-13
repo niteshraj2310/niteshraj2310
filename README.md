@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anyone telling you it's pointless to share your perspective is sharing their perspective.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>There is nothing like looking if you want to find something.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 <!--
