@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</i><br>— Alexander Graham Bell</p>
+<p align="center"><br><i>Nothing can bring you peace but yourself.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 <!--
