@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is better to point out your own mistakes than have somebody else do it.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 <!--
