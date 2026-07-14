@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>We are all born ignorant, but one must work hard to remain stupid.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 <!--
