@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are all born ignorant, but one must work hard to remain stupid.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Creative people are often found either disagreeable or intimidating by mediocrities.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 <!--
