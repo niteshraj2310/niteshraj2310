@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is the key to success; each mistake teaches us something.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>It is better to point out your own mistakes than have somebody else do it.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 <!--
