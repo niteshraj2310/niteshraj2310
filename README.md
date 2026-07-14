@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future is not a gift. It is an achievement.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</i><br>— Alexander Graham Bell</p>
 <!-- ADVICE:END -->
 
 <!--
