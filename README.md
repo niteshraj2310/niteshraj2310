@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Creative people are often found either disagreeable or intimidating by mediocrities.</i><br>— Criss Jami</p>
+<p align="center"><br><i>When you want to be honored by others, you learn to honor them first.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 <!--
