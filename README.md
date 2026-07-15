@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you want to be honored by others, you learn to honor them first.</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>To be fully alive is to feel that everything is possible.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 <!--
