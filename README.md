@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest value of a picture is when it forces us to notice what we never expected to see.</i><br>— John Tukey</p>
+<p align="center"><br><i>It is useless to attempt to reason a man out of a thing he was never reasoned into.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 <!--
