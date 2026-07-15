@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is useless to attempt to reason a man out of a thing he was never reasoned into.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>To arrive at the simplest truth requires years of contemplation.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 <!--
