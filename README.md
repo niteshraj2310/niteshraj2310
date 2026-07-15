@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>If you believe you can, you can. If you believe you can't, then, well you can't.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 <!--
