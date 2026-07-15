@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To arrive at the simplest truth requires years of contemplation.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>All our knowledge has its origins in our perceptions.</i><br>— Leonardo da Vinci</p>
 <!-- ADVICE:END -->
 
 <!--
