@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All our knowledge has its origins in our perceptions.</i><br>— Leonardo da Vinci</p>
+<p align="center"><br><i>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 <!--
