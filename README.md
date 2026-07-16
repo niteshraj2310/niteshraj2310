@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Excellence is not an exception, it is a prevailing attitude.</i><br>— Colin Powell</p>
+<p align="center"><br><i>If you don't break your ropes while you're alive, do you think ghosts will do it after?</i><br>— Kabir</p>
 <!-- ADVICE:END -->
 
 <!--
