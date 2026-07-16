@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is going from failure to failure without losing your enthusiasm</i><br>— Winston Churchill</p>
+<p align="center"><br><i>To a mind that is still, the entire universe surrenders.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 <!--
