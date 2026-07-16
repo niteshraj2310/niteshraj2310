@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>Success is going from failure to failure without losing your enthusiasm</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 <!--
