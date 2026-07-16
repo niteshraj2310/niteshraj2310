@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Silence is a source of great strength.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
