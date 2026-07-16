@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you believe you can, you can. If you believe you can't, then, well you can't.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Excellence is not an exception, it is a prevailing attitude.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 <!--
