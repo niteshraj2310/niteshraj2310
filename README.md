@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 <!--
