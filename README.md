@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even if you persuade me, you won't persuade me.</i><br>— Aristophanes</p>
+<p align="center"><br><i>Walk towards the sunshine, and the shadows will fall behind you.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 <!--
