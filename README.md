@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>Every second you have on this planet is very precious and it's your responsibility that you're happy.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
