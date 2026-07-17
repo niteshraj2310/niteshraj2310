@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every second you have on this planet is very precious and it's your responsibility that you're happy.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>What the mind can conceive, it can achieve.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 <!--
