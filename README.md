@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Silence is a source of great strength.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
