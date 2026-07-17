@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What the mind can conceive, it can achieve.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>The harder you work for something, the greater you'll feel when you achieve it.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
