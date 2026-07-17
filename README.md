@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The harder you work for something, the greater you'll feel when you achieve it.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>Even if you persuade me, you won't persuade me.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 <!--
