@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words are the clothing of our thoughts.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Behind every cloud is another cloud.</i><br>— Judy Garland</p>
 <!-- ADVICE:END -->
 
 <!--
