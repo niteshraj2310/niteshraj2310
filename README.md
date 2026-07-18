@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whether you think you can or think you can't – you are right.</i><br>— Henry Ford</p>
+<p align="center"><br><i>Freeing oneself from words is liberation.</i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 <!--
