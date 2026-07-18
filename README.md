@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Walk towards the sunshine, and the shadows will fall behind you.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Words are the clothing of our thoughts.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 <!--
