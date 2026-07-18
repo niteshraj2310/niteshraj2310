@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You Create Your Own Present By What You Give Your Attention To Today.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>The truth is rarely pure and never simple.</i><br>— Oscar Wilde</p>
 <!-- ADVICE:END -->
 
 <!--
