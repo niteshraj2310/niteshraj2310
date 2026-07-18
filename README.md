@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The truth is rarely pure and never simple.</i><br>— Oscar Wilde</p>
+<p align="center"><br><i>The strongest and sweetest songs yet remain to be sung.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 <!--
