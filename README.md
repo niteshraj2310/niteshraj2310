@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The strongest and sweetest songs yet remain to be sung.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>Whether you think you can or think you can't – you are right.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 <!--
