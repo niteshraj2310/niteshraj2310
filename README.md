@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The way to move out of judgement is to move into gratitude.</i><br>— Neale Donald Walsch</p>
+<p align="center"><br><i>You Create Your Own Present By What You Give Your Attention To Today.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 <!--
