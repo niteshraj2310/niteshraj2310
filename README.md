@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Behind every cloud is another cloud.</i><br>— Judy Garland</p>
+<p align="center"><br><i>The way to move out of judgement is to move into gratitude.</i><br>— Neale Donald Walsch</p>
 <!-- ADVICE:END -->
 
 <!--
