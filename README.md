@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you are content to be simply yourself and don't compare or compete, everybody will respect you.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Peaceful is the one who expects nothing.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 <!--
