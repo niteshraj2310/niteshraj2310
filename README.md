@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.</i><br>— Ray Bradbury</p>
+<p align="center"><br><i>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 <!--
