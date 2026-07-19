@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Peaceful is the one who expects nothing.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>All wealth is the product of labor.</i><br>— John Locke</p>
 <!-- ADVICE:END -->
 
 <!--
