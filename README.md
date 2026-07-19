@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>The way of success is the way of continuous pursuit of knowledge.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 <!--
