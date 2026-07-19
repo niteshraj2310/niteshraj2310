@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The way of success is the way of continuous pursuit of knowledge.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>It's better to dance than to march through life.</i><br>— Yoko Ono</p>
 <!-- ADVICE:END -->
 
 <!--
