@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>First learn the meaning of what you say, and then speak.</i><br>— Epictetus</p>
+<p align="center"><br><i>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 <!--
