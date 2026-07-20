@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>Remember the entrance to the sanctuary is inside you.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 <!--
