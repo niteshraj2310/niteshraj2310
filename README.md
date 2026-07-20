@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's better to dance than to march through life.</i><br>— Yoko Ono</p>
+<p align="center"><br><i>The truth is heavy, therefore few care to carry it.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 <!--
