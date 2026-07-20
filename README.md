@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember the entrance to the sanctuary is inside you.</i><br>— Rumi</p>
+<p align="center"><br><i>You can't go forward and backwards at the same time.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 <!--
