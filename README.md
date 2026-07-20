@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't go forward and backwards at the same time.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Desire for the fruits of work must never be your motive in working.</i><br>— Bhagavad Gita</p>
 <!-- ADVICE:END -->
 
 <!--
