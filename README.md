@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Care about what other people think and you will always be their prisoner.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Just do the best you can. No one can do more than that.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 <!--
