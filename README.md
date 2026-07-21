@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>The privilege of a lifetime is to become who you truly are.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 <!--
