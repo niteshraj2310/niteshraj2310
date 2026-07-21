@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep your eyes on the goal, and just keep taking the next step towards completing it.</i><br>— John Carmack</p>
+<p align="center"><br><i>Here and now...breathe and relax...in battle and in life.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 <!--
