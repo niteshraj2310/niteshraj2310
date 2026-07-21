@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The privilege of a lifetime is to become who you truly are.</i><br>— Carl Jung</p>
+<p align="center"><br><i>We will outstretch the hand if you unclench your fist.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 <!--
