@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be kind, for everyone you meet is fighting a harder battle.</i><br>— Plato</p>
+<p align="center"><br><i>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 <!--
