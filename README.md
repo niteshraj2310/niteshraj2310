@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Desire for the fruits of work must never be your motive in working.</i><br>— Bhagavad Gita</p>
+<p align="center"><br><i>Keep your eyes on the goal, and just keep taking the next step towards completing it.</i><br>— John Carmack</p>
 <!-- ADVICE:END -->
 
 <!--
