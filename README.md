@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The power of man has grown in every sphere, except over himself.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>I am not what happened to me, I am what I choose to become.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 <!--
