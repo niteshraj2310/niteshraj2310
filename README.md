@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am not what happened to me, I am what I choose to become.</i><br>— Carl Jung</p>
+<p align="center"><br><i>Fools talk, cowards are silent, wise men listen.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 <!--
