@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fools talk, cowards are silent, wise men listen.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Life is simply what our feelings do to us.</i><br>— Honore de Balzac</p>
 <!-- ADVICE:END -->
 
 <!--
