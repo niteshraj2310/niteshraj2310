@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just do the best you can. No one can do more than that.</i><br>— John Wooden</p>
+<p align="center"><br><i>Pursue what catches your heart, not what catches your eyes.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
