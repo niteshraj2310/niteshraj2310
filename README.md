@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Pursue what catches your heart, not what catches your eyes.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>The power of man has grown in every sphere, except over himself.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 <!--
