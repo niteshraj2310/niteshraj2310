@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is simply what our feelings do to us.</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>Nothing like a health problem to turn up the contrast dial for the rest of life.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
