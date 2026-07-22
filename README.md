@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing like a health problem to turn up the contrast dial for the rest of life.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 <!--
