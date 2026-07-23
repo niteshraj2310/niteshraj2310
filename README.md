@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>There is no greater agony than bearing an untold story inside you.</i><br>— Maya Angelou</p>
 <!-- ADVICE:END -->
 
 <!--
