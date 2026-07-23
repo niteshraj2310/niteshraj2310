@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are unable to find the truth right where you are, where else do you expect to find it?</i><br>— Dogen</p>
+<p align="center"><br><i>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 <!--
