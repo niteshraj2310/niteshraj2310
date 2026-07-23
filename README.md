@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not how much money you make, it's how much money you keep.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 <!--
