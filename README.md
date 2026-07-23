@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</i><br>— Unknown</p>
+<p align="center"><br><i>Be happy now, without reason - or you never will be at all.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 <!--
