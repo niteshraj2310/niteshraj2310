@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be happy now, without reason - or you never will be at all.</i><br>— Dan Millman</p>
+<p align="center"><br><i>If what you're doing is not your passion, you have nothing to lose.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 <!--
