@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is like playing the violin in public and learning the instrument as one goes on.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
