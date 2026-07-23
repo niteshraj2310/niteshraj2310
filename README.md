@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If what you're doing is not your passion, you have nothing to lose.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Life is like playing the violin in public and learning the instrument as one goes on.</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 <!--
