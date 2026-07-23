@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no greater agony than bearing an untold story inside you.</i><br>— Maya Angelou</p>
+<p align="center"><br><i>If you are unable to find the truth right where you are, where else do you expect to find it?</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 <!--
