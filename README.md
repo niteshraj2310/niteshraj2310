@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As mortals, we're ruled by conditions, not by ourselves.</i><br>— Bodhidharma</p>
+<p align="center"><br><i>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company.</i><br>— George Washington</p>
 <!-- ADVICE:END -->
 
 <!--
