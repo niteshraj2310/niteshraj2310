@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</i><br>— Kabir</p>
+<p align="center"><br><i>You can tell more about a person by what he says about others than you can by what others say about him.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 <!--
