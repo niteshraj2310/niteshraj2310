@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One must be deeply aware of the impermanence of the world.</i><br>— Dogen</p>
+<p align="center"><br><i>As mortals, we're ruled by conditions, not by ourselves.</i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 <!--
