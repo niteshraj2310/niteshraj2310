@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</i><br>— John Lennon</p>
 <!-- ADVICE:END -->
 
 <!--
