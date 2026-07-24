@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</i><br>— John Lennon</p>
+<p align="center"><br><i>One must be deeply aware of the impermanence of the world.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 <!--
