@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can tell more about a person by what he says about others than you can by what others say about him.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>Riches don't make a man rich, they only make him busier.</i><br>— Christopher Columbus</p>
 <!-- ADVICE:END -->
 
 <!--
