@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All our dreams can come true, if we have the courage to pursue them.</i><br>— Walt Disney</p>
+<p align="center"><br><i>Just do what must be done. This may not be happiness but it is greatness.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 <!--
