@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Where there is no struggle, there is no strength.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>I don't ever give up. I'd have to be dead or completely incapacitated.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 <!--
