@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Riches don't make a man rich, they only make him busier.</i><br>— Christopher Columbus</p>
+<p align="center"><br><i>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 <!--
