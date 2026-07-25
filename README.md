@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.</i><br>— John D. Rockefeller</p>
+<p align="center"><br><i>Change is not a four letter word...but often your reaction to it is!</i><br>— Jeffrey Gitomer</p>
 <!-- ADVICE:END -->
 
 <!--
