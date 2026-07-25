@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just do what must be done. This may not be happiness but it is greatness.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Where there is no struggle, there is no strength.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 <!--
