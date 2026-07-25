@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I don't ever give up. I'd have to be dead or completely incapacitated.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Keep your dreams, you never know when you might need them.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 <!--
