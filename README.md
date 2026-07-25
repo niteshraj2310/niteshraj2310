@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change is not a four letter word...but often your reaction to it is!</i><br>— Jeffrey Gitomer</p>
+<p align="center"><br><i>All our dreams can come true, if we have the courage to pursue them.</i><br>— Walt Disney</p>
 <!-- ADVICE:END -->
 
 <!--
