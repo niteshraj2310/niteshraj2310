@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>Nothing external to you has any power over you.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 <!--
