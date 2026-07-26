@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Better to die fighting for freedom than be a prisoner all the days of your life.</i><br>— Bob Marley</p>
+<p align="center"><br><i>Success is walking from failure to failure with no loss of enthusiasm.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
