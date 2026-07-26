@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The universe doesn't allow perfection.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Wrong turns are as important as right turns. More important, sometimes.</i><br>— Richard Bach</p>
 <!-- ADVICE:END -->
 
 <!--
