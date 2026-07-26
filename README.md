@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing external to you has any power over you.</i><br>— Ralph Waldo Emerson</p>
+<p align="center"><br><i>The universe doesn't allow perfection.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 <!--
