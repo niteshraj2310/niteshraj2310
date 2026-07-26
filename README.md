@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is about doing the right thing, not about doing everything right.</i><br>— Gary Keller</p>
+<p align="center"><br><i>Better to die fighting for freedom than be a prisoner all the days of your life.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 <!--
