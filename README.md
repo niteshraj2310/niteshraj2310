@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wrong turns are as important as right turns. More important, sometimes.</i><br>— Richard Bach</p>
+<p align="center"><br><i>Pain results from a judgment you have made about a thing. Remove the judgment and the pain disappears.</i><br>— Neale Donald Walsch</p>
 <!-- ADVICE:END -->
 
 <!--
