@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Decide what your truth is. Then live it.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>Life itself is the most wonderful fairy tale.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 <!--
