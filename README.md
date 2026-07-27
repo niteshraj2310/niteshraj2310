@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is walking from failure to failure with no loss of enthusiasm.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>Life is all about mistakes. It is constant change and growth.</i><br>— Neale Donald Walsch</p>
 <!-- ADVICE:END -->
 
 <!--
