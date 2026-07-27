@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life itself is the most wonderful fairy tale.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.</i><br>— Ray Bradbury</p>
 <!-- ADVICE:END -->
 
 <!--
