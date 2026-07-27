@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I have lost friends, some by death...others by sheer inability to cross the street.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>Decide what your truth is. Then live it.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
