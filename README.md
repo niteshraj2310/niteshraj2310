@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is all about mistakes. It is constant change and growth.</i><br>— Neale Donald Walsch</p>
+<p align="center"><br><i>I have lost friends, some by death...others by sheer inability to cross the street.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 <!--
