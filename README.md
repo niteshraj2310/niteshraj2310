@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.</i><br>— Ray Bradbury</p>
+<p align="center"><br><i>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
