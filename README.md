@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness depends on your mindset and attitude.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 <!--
