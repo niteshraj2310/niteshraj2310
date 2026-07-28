@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Re-examine all that you have been told... dismiss that which insults your soul.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>Just get out and do it. You will be very, very glad that you did.</i><br>— Christopher McCandless</p>
 <!-- ADVICE:END -->
 
 <!--
