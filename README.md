@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is simply the opportunity to begin again, this time more intelligently.</i><br>— Henry Ford</p>
+<p align="center"><br><i>Happiness depends on your mindset and attitude.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
