@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing others is wisdom, knowing yourself is enlightenment.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Failure is simply the opportunity to begin again, this time more intelligently.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 <!--
