@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today I begin a new life. I will greet this day with love in my heart.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Re-examine all that you have been told... dismiss that which insults your soul.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 <!--
