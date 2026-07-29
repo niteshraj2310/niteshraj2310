@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thoughts become things. If you see it in your mind, you will hold it in your hand.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>Better late than never.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 <!--
