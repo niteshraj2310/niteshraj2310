@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Throughout this life, you can never be certain of living long enough to take another breath.</i><br>— Huang Po</p>
+<p align="center"><br><i>We love the things we love for what they are.</i><br>— Robert Frost</p>
 <!-- ADVICE:END -->
 
 <!--
