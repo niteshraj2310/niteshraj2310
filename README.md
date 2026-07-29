@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>We take care of the future best by taking care of the present now.</i><br>— Jon Kabat-Zinn</p>
 <!-- ADVICE:END -->
 
 <!--
