@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We love the things we love for what they are.</i><br>— Robert Frost</p>
+<p align="center"><br><i>A Quitter never wins - and - a Winner never quits.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 <!--
