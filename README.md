@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is hopeless; we must hope for everything.</i><br>— Euripides</p>
+<p align="center"><br><i>Thoughts become things. If you see it in your mind, you will hold it in your hand.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 <!--
