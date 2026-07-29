@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We take care of the future best by taking care of the present now.</i><br>— Jon Kabat-Zinn</p>
+<p align="center"><br><i>Nothing is hopeless; we must hope for everything.</i><br>— Euripides</p>
 <!-- ADVICE:END -->
 
 <!--
