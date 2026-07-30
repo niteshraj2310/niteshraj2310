@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't go forward and backwards at the same time.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>No great mind has ever existed without a touch of madness.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 <!--
