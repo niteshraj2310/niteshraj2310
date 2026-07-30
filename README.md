@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The man who removes a mountain begins by carrying away small stones.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Fool me once, shame on you; fool me twice, shame on me.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 <!--
