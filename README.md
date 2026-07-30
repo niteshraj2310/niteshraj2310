@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All problems are interpersonal relationship problems.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>You can't go forward and backwards at the same time.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 <!--
