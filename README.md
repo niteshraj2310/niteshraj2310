@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fool me once, shame on you; fool me twice, shame on me.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>All problems are interpersonal relationship problems.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 <!--
