@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No great mind has ever existed without a touch of madness.</i><br>— Aristotle</p>
+<p align="center"><br><i>The best way to predict your future is to create it.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 <!--
