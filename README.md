@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Judge a man by his questions rather than his answers.</i><br>— Voltaire</p>
+<p align="center"><br><i>The man who removes a mountain begins by carrying away small stones.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 <!--
