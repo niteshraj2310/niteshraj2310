@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure comes from ego, greed, envy, fear, and imitation.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>Hope is a waking dream.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 <!--
