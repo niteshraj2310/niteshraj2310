@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do good by stealth, and blush to find it fame.</i><br>— Alexander Pope</p>
+<p align="center"><br><i>Failure comes from ego, greed, envy, fear, and imitation.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 <!--
