@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Facts are the enemy of truth.</i><br>— Miguel de Cervantes</p>
+<p align="center"><br><i>Who looks outside, dreams; who looks inside, awakes.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 <!--
