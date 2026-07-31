@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Do good by stealth, and blush to find it fame.</i><br>— Alexander Pope</p>
 <!-- ADVICE:END -->
 
 <!--
