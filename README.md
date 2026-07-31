@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only put off until tomorrow what you are willing to die having left undone.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 <!--
