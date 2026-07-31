@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Who looks outside, dreams; who looks inside, awakes.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>Nothing is hopeless; we must hope for everything.</i><br>— Euripides</p>
 <!-- ADVICE:END -->
 
 <!--
