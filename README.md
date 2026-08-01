@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest value of a picture is when it forces us to notice what we never expected to see.</i><br>— John Tukey</p>
+<p align="center"><br><i>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 <!--
