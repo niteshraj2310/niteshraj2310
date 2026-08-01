@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 <!--
