@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When asked, how do you write? I invariably answer, one word at a time.</i><br>— Stephen King</p>
+<p align="center"><br><i>If you don't know where you're going, you will probably end up somewhere else.</i><br>— Laurence J. Peter</p>
 <!-- ADVICE:END -->
 
 <!--
