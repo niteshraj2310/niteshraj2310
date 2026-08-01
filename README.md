@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't know where you're going, you will probably end up somewhere else.</i><br>— Laurence J. Peter</p>
+<p align="center"><br><i>Be like a postage stamp. Stick to it until you get there.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 <!--
