@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</i><br>— Elon Musk</p>
+<p align="center"><br><i>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 <!--
