@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can see it in your mind, you can hold it in your mind.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>When asked, how do you write? I invariably answer, one word at a time.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 <!--
