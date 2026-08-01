@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be like a postage stamp. Stick to it until you get there.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>By seeking and blundering we learn.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 <!--
