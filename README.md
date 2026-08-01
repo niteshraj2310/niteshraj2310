@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is hopeless; we must hope for everything.</i><br>— Euripides</p>
+<p align="center"><br><i>The greatest value of a picture is when it forces us to notice what we never expected to see.</i><br>— John Tukey</p>
 <!-- ADVICE:END -->
 
 <!--
