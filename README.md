@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Stress happens when the mind resists what is.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 <!--
