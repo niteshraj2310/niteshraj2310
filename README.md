@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</i><br>— Alexandre Dumas</p>
+<p align="center"><br><i>There's a very deep connection among human beings. All we have to do is open our minds to it.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 <!--
