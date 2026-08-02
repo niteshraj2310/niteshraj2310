@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be royal in your own fashion: act like a king to be treated like one.</i><br>— Robert Greene</p>
+<p align="center"><br><i>The meaning of life is that it stops.</i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 <!--
