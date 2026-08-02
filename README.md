@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>By seeking and blundering we learn.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 <!--
