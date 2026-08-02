@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Music is like creating an emotional painting. The sounds are the colors.</i><br>— Yanni</p>
+<p align="center"><br><i>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</i><br>— Alexandre Dumas</p>
 <!-- ADVICE:END -->
 
 <!--
