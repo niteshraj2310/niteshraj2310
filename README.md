@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 <!--
