@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stress happens when the mind resists what is.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Music is like creating an emotional painting. The sounds are the colors.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 <!--
