@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't Let Yesterday Take Up Too Much Of Today.</i><br>— Will Rogers</p>
+<p align="center"><br><i>Quality means doing it right when no one is looking.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 <!--
