@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The meaning of life is that it stops.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>Only in the agony of parting do we look into the depths of love.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 <!--
