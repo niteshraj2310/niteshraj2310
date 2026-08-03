@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>There are no second chances in life, except to feel remorse.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 <!--
