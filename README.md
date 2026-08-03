@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</i><br>— William James</p>
+<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 <!--
