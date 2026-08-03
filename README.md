@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only in the agony of parting do we look into the depths of love.</i><br>— George Eliot</p>
+<p align="center"><br><i>Don't Let Yesterday Take Up Too Much Of Today.</i><br>— Will Rogers</p>
 <!-- ADVICE:END -->
 
 <!--
