@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Quality means doing it right when no one is looking.</i><br>— Henry Ford</p>
+<p align="center"><br><i>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 <!--
