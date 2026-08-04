@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your problem isn't the problem. Your reaction is the problem.</i><br>— Unknown</p>
+<p align="center"><br><i>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
