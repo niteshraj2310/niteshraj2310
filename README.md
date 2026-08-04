@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>Go for it now. The future is promised to no one.</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 <!--
