@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thoughts become things. If you see it in your mind, you will hold it in your hand.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>Your problem isn't the problem. Your reaction is the problem.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 <!--
