@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do good, live in the most positive and joyful way possible every day.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 <!--
