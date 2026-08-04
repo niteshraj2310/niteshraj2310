@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Go for it now. The future is promised to no one.</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>Do good, live in the most positive and joyful way possible every day.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
