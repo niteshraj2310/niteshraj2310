@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All human wisdom is contained in these two words - Wait and Hope</i><br>— Alexandre Dumas</p>
+<p align="center"><br><i>Go confidently in the direction of your dreams. Live the life you've imagined.</i><br>— Arnold Schwarzenegger</p>
 <!-- ADVICE:END -->
 
 <!--
