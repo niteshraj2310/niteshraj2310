@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</i><br>— Kabir</p>
+<p align="center"><br><i>All human wisdom is contained in these two words - Wait and Hope</i><br>— Alexandre Dumas</p>
 <!-- ADVICE:END -->
 
 <!--
