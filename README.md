@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot control the behavior of others, but you can always choose how you respond to it.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Opportunities multiply as they are seized.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
