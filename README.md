@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who are easily shocked should be shocked more often.</i><br>— Mae West</p>
+<p align="center"><br><i>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</i><br>— Kabir</p>
 <!-- ADVICE:END -->
 
 <!--
