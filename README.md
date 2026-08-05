@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</i><br>— Dan Millman</p>
+<p align="center"><br><i>Those who are easily shocked should be shocked more often.</i><br>— Mae West</p>
 <!-- ADVICE:END -->
 
 <!--
