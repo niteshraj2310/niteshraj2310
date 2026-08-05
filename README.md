@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What do we live for if not to make life less difficult for each other?</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>You cannot control the behavior of others, but you can always choose how you respond to it.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
