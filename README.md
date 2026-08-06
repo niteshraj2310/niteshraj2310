@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Go confidently in the direction of your dreams. Live the life you've imagined.</i><br>— Arnold Schwarzenegger</p>
+<p align="center"><br><i>The merit of all things lies in their difficulty.</i><br>— Alexandre Dumas</p>
 <!-- ADVICE:END -->
 
 <!--
