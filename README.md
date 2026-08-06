@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing good ever comes of violence.</i><br>— Martin Luther</p>
+<p align="center"><br><i>Identify your problems, but give your power and energy to solutions.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 <!--
