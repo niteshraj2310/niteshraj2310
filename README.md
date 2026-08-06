@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failing is another stepping stone to greatness.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Nothing good ever comes of violence.</i><br>— Martin Luther</p>
 <!-- ADVICE:END -->
 
 <!--
