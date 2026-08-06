@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Identify your problems, but give your power and energy to solutions.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>The scariest moment is always just before you start. After that, things can only get better.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 <!--
