@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Take the high road; it's far less crowded.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>Happiness must be grown in one's own garden.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 <!--
