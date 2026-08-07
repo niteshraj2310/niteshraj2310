@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We're responsible for everything that happens to us.</i><br>— Yanni</p>
+<p align="center"><br><i>Never fear quarrels, but seek hazardous adventures.</i><br>— Alexandre Dumas</p>
 <!-- ADVICE:END -->
 
 <!--
