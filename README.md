@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 <!--
