@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness must be grown in one's own garden.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>We're responsible for everything that happens to us.</i><br>— Yanni</p>
 <!-- ADVICE:END -->
 
 <!--
