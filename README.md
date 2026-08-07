@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</i><br>— Socrates</p>
+<p align="center"><br><i>The difference between winning and losing is most often not quitting.</i><br>— Walt Disney</p>
 <!-- ADVICE:END -->
 
 <!--
