@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The scariest moment is always just before you start. After that, things can only get better.</i><br>— Stephen King</p>
+<p align="center"><br><i>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 <!--
