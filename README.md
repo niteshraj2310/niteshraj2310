@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The difference between winning and losing is most often not quitting.</i><br>— Walt Disney</p>
+<p align="center"><br><i>Take the high road; it's far less crowded.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 <!--
