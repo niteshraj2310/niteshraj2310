@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always turn a negative situation into a positive situation.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>Nothing can dim the light which shines from within.</i><br>— Maya Angelou</p>
 <!-- ADVICE:END -->
 
 <!--
