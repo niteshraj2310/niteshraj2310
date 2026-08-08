@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is within the reach of just about everyone.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>That some achieve great success is proof to all that others can achieve it as well.</i><br>— Abraham Lincoln</p>
 <!-- ADVICE:END -->
 
 <!--
