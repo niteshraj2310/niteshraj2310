@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The beautiful journey of today can only begin when we learn to let go of yesterday.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.</i><br>— Adi Da Samraj</p>
 <!-- ADVICE:END -->
 
 <!--
