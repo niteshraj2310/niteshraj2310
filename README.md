@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Let us always meet each other with smile, for the smile is the beginning of love.</i><br>— Mother Teresa</p>
+<p align="center"><br><i>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 <!--
