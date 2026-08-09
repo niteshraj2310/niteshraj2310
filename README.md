@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't know, the thing to do is not to get scared, but to learn.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>He who can, does.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 <!--
