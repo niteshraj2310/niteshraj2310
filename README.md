@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The sweetest pleasure arises from difficulties overcome.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>The glow of one warm thought is to me worth more than money.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 <!--
