@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.</i><br>— Adi Da Samraj</p>
+<p align="center"><br><i>The sweetest pleasure arises from difficulties overcome.</i><br>— Publilius Syrus</p>
 <!-- ADVICE:END -->
 
 <!--
