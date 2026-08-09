@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who can, does.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Life is but one dream flowing into another.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 <!--
