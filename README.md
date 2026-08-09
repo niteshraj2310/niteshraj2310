@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The great use of life is to spend it for something that will outlast it.</i><br>— William James</p>
+<p align="center"><br><i>Inner peace is when you realize that, in the end, nothing matters.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 <!--
