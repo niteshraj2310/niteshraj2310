@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Inner peace is when you realize that, in the end, nothing matters.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>If you don't know, the thing to do is not to get scared, but to learn.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 <!--
