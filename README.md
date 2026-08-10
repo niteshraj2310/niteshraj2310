@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>My powers are ordinary. Only my application brings me success.</i><br>— Isaac Newton</p>
+<p align="center"><br><i>Life is what happens to you while you're busy making other plans.</i><br>— John Lennon</p>
 <!-- ADVICE:END -->
 
 <!--
