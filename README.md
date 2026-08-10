@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is what happens to you while you're busy making other plans.</i><br>— John Lennon</p>
+<p align="center"><br><i>Until you make the unconscious conscious, it will direct your life and you will call it fate.</i><br>— Carl Jung</p>
 <!-- ADVICE:END -->
 
 <!--
