@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Until you make the unconscious conscious, it will direct your life and you will call it fate.</i><br>— Carl Jung</p>
+<p align="center"><br><i>Often in the real world, it's not the smart that get ahead, but the bold.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 <!--
