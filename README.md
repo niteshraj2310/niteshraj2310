@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Often in the real world, it's not the smart that get ahead, but the bold.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>The opposite of courage in our society is not cowardice... it is conformity.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 <!--
