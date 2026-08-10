@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If there's a definition of freedom, I think it's this: living life on your terms.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>My powers are ordinary. Only my application brings me success.</i><br>— Isaac Newton</p>
 <!-- ADVICE:END -->
 
 <!--
