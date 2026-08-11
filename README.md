@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</i><br>— Unknown</p>
+<p align="center"><br><i>A man that flies from his fear may find that he has only taken a short cut to meet it.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 <!--
