@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do what is right, not what is easy, nor what is popular.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>We turn not older with years but newer every day.</i><br>— Emily Dickinson</p>
 <!-- ADVICE:END -->
 
 <!--
