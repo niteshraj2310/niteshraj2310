@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The truth is simple. If it was complicated, everyone would understand it.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 <!--
