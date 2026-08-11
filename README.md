@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember, today is the tomorrow you worried about yesterday.</i><br>— Dale Carnegie</p>
+<p align="center"><br><i>Do what is right, not what is easy, nor what is popular.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
