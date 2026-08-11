@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every day passes whether you participate or not.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>The truth is simple. If it was complicated, everyone would understand it.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 <!--
