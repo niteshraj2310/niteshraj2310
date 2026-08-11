@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We turn not older with years but newer every day.</i><br>— Emily Dickinson</p>
+<p align="center"><br><i>Every day passes whether you participate or not.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 <!--
