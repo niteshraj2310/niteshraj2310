@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man that flies from his fear may find that he has only taken a short cut to meet it.</i><br>— J.R.R. Tolkien</p>
+<p align="center"><br><i>Remember, today is the tomorrow you worried about yesterday.</i><br>— Dale Carnegie</p>
 <!-- ADVICE:END -->
 
 <!--
