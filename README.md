@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To achieve, you need thought. You have to know what you are doing and that's real power.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>Patience is a bitter plant, but its fruit is sweet.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 <!--
