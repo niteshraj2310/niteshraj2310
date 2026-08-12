@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can handle rejection, you'll learn to get everything you want.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Don't worry about being successful, but work toward being significant and the success will naturally follow.</i><br>— Oprah Winfrey</p>
 <!-- ADVICE:END -->
 
 <!--
