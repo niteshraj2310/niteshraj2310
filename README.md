@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live as if you were to die tomorrow. Learn as if you were to live forever.</i><br>— Mahatma Gandhi</p>
+<p align="center"><br><i>Great deeds are usually wrought at great risks.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 <!--
