@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't worry about being successful, but work toward being significant and the success will naturally follow.</i><br>— Oprah Winfrey</p>
+<p align="center"><br><i>Live as if you were to die tomorrow. Learn as if you were to live forever.</i><br>— Mahatma Gandhi</p>
 <!-- ADVICE:END -->
 
 <!--
