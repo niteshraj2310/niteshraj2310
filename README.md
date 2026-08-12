@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you reach the top of the mountain, keep climbing.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Art is the signature of civilizations.</i><br>— Beverly Sills</p>
 <!-- ADVICE:END -->
 
 <!--
