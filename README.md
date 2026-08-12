@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great deeds are usually wrought at great risks.</i><br>— Herodotus</p>
+<p align="center"><br><i>To achieve, you need thought. You have to know what you are doing and that's real power.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 <!--
