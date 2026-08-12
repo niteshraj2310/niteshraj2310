@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Art is the signature of civilizations.</i><br>— Beverly Sills</p>
+<p align="center"><br><i>If you can handle rejection, you'll learn to get everything you want.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 <!--
