@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Patience is a bitter plant, but its fruit is sweet.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Success is about doing the right thing, not about doing everything right.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 <!--
