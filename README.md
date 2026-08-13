@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Begin now to be what you will be hereafter.</i><br>— St. Jerome</p>
+<p align="center"><br><i>Either get busy living or get busy dying.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 <!--
