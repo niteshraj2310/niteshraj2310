@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is about doing the right thing, not about doing everything right.</i><br>— Gary Keller</p>
+<p align="center"><br><i>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 <!--
