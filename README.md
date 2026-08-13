@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>You're only given a little spark of madness. You mustn't lose it.</i><br>— Robin Williams</p>
 <!-- ADVICE:END -->
 
 <!--
