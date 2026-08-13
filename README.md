@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be calm is the highest achievement of the self.</i><br>— Zen Proverb</p>
+<p align="center"><br><i>Every man gotta right to decide his own destiny.</i><br>— Bob Marley</p>
 <!-- ADVICE:END -->
 
 <!--
