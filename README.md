@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't look back - you're not going that way.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Don't ever save anything for a special occasion. Being alive is the special occasion.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 <!--
