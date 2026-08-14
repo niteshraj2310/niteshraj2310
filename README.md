@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't ever save anything for a special occasion. Being alive is the special occasion.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>If you want to see things just as they are, then you yourself must practice just as you are.</i><br>— Dogen</p>
 <!-- ADVICE:END -->
 
 <!--
