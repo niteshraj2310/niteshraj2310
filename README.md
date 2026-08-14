@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Unless you're ashamed of yourself now and then, you're not honest.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Don't look back - you're not going that way.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 <!--
