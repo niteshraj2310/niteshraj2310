@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>When you judge another, you do not define them, you define yourself</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 <!--
