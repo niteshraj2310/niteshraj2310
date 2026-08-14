@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you judge another, you do not define them, you define yourself</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 <!--
