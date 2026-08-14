@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every man gotta right to decide his own destiny.</i><br>— Bob Marley</p>
+<p align="center"><br><i>Unless you're ashamed of yourself now and then, you're not honest.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 <!--
