@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>However difficult life may seem, there is always something you can do and succeed at.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 <!--
