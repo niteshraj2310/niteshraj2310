@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear, uncertainty, and discomfort are your compasses toward growth.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>A day without laughter is a day wasted.</i><br>— Charlie Chaplin</p>
 <!-- ADVICE:END -->
 
 <!--
