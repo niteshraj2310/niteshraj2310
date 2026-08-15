@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The way to change others' minds is with affection, and not anger.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>Fear, uncertainty, and discomfort are your compasses toward growth.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 <!--
