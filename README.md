@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want something then you lose everything. If you don't want anything then you already have everything.</i><br>— Seungsahn</p>
+<p align="center"><br><i>Failure is the key to success; each mistake teaches us something.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 <!--
