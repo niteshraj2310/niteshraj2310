@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</i><br>— Henry Ford</p>
+<p align="center"><br><i>The great use of life is to spend it for something that will outlast it.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 <!--
