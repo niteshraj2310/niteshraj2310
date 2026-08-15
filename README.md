@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>However difficult life may seem, there is always something you can do and succeed at.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 <!--
