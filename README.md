@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is the key to success; each mistake teaches us something.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>The way to change others' minds is with affection, and not anger.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 <!--
