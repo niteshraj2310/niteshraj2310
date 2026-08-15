@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 <!--
