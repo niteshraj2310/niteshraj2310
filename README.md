@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The great use of life is to spend it for something that will outlast it.</i><br>— William James</p>
+<p align="center"><br><i>If you want something then you lose everything. If you don't want anything then you already have everything.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 <!--
