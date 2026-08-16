@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 <!--
