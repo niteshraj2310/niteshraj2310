@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Strategy is a commodity, execution is an art.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 <!--
