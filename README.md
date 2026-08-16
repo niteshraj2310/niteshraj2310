@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't have anything worthwhile without difficulties.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
