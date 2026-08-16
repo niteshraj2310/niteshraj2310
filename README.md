@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A day without laughter is a day wasted.</i><br>— Charlie Chaplin</p>
+<p align="center"><br><i>If I persist long enough I will win.</i><br>— Og Mandino</p>
 <!-- ADVICE:END -->
 
 <!--
