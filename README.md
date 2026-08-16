@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Strategy is a commodity, execution is an art.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 <!--
