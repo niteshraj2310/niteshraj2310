@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 <!--
