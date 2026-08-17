@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</i><br>— Seneca</p>
+<p align="center"><br><i>The best mind-altering drug is the truth.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 <!--
