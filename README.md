@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can not live your life just based on what everyone else thinks.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>Associate with people who are likely to improve you.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 <!--
