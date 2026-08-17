@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</i><br>— T.S. Eliot</p>
+<p align="center"><br><i>You can not live your life just based on what everyone else thinks.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 <!--
