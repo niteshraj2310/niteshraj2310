@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Associate with people who are likely to improve you.</i><br>— Seneca</p>
+<p align="center"><br><i>Everything begins with an idea.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 <!--
