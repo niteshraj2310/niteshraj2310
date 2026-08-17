@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything begins with an idea.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 <!--
