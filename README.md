@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</i><br>— Unknown</p>
+<p align="center"><br><i>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 <!--
