@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</i><br>— Stephen King</p>
+<p align="center"><br><i>Live in the sunshine, swim the sea, drink the wild air.</i><br>— Ralph Waldo Emerson</p>
 <!-- ADVICE:END -->
 
 <!--
