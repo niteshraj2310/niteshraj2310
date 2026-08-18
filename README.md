@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Talk does not cook rice.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 <!--
