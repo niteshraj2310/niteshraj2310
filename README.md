@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words have no power to impress the mind without the exquisite horror of their reality.</i><br>— Edgar Allan Poe</p>
+<p align="center"><br><i>Make failure your teacher, not your undertaker.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 <!--
