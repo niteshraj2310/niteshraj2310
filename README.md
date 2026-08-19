@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Honor is the foundation of courage.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 <!--
