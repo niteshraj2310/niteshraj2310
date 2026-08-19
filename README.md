@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Memory is the scribe of the soul.</i><br>— Aristotle</p>
+<p align="center"><br><i>Honor is the foundation of courage.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 <!--
