@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>Great acts are made up of small deeds.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
