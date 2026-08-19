@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Memory is the scribe of the soul.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 <!--
