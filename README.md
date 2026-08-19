@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>True ignorance is not the absence of knowledge, it's the refusal to acquire it.</i><br>— Jeff Booth</p>
+<p align="center"><br><i>Creative endeavors are by their nature uncertain.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 <!--
