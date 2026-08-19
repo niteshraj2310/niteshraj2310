@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great acts are made up of small deeds.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Obstacles are those frightful things you see when you take your eyes off your goals.</i><br>— Sydney Smith</p>
 <!-- ADVICE:END -->
 
 <!--
