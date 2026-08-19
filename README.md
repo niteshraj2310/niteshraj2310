@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Obstacles are those frightful things you see when you take your eyes off your goals.</i><br>— Sydney Smith</p>
+<p align="center"><br><i>True ignorance is not the absence of knowledge, it's the refusal to acquire it.</i><br>— Jeff Booth</p>
 <!-- ADVICE:END -->
 
 <!--
