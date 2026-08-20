@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</i><br>— Socrates</p>
+<p align="center"><br><i>Success and failure come and go, but don't let them define you. It's who you are that matters.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
