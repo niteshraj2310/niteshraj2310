@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Friendship is like money, easier made than kept.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>Most great people have achieved their greatest success just one step beyond their greatest failure.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 <!--
