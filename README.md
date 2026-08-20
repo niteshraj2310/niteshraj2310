@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who is not contented with what he has, would not be contented with what he would like to have.</i><br>— Socrates</p>
+<p align="center"><br><i>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 <!--
