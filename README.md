@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Our view of the world is truly shaped by what we decide to hear.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 <!--
