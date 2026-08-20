@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The meaning of life is that it stops.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>Friendship is like money, easier made than kept.</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 <!--
