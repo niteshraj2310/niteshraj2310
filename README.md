@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What one does is what counts. Not what one had the intention of doing.</i><br>— Pablo Picasso</p>
+<p align="center"><br><i>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 <!--
