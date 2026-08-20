@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our view of the world is truly shaped by what we decide to hear.</i><br>— William James</p>
+<p align="center"><br><i>He who is not contented with what he has, would not be contented with what he would like to have.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 <!--
