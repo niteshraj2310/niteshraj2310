@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success and failure come and go, but don't let them define you. It's who you are that matters.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>The meaning of life is that it stops.</i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 <!--
