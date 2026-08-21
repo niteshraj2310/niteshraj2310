@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He is richest who is content with the least, for content is the wealth of nature.</i><br>— Socrates</p>
+<p align="center"><br><i>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 <!--
