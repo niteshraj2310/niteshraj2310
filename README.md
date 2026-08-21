@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Luck is what happens when preparation meets opportunity.</i><br>— Seneca</p>
+<p align="center"><br><i>Whatever you decide to do, make sure it makes you happy.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 <!--
