@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most great people have achieved their greatest success just one step beyond their greatest failure.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>Luck is what happens when preparation meets opportunity.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 <!--
