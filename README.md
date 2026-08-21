@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you decide to do, make sure it makes you happy.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Adventure is not outside man; it is within.</i><br>— George Eliot</p>
 <!-- ADVICE:END -->
 
 <!--
