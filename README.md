@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adventure is not outside man; it is within.</i><br>— George Eliot</p>
+<p align="center"><br><i>What is a friend? A single soul dwelling in two bodies.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 <!--
