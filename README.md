@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Expectations ruin relationships.</i><br>— Neale Donald Walsch</p>
+<p align="center"><br><i>Life is a constant series of opportunities.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 <!--
