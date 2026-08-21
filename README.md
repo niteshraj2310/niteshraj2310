@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What is a friend? A single soul dwelling in two bodies.</i><br>— Aristotle</p>
+<p align="center"><br><i>He is richest who is content with the least, for content is the wealth of nature.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 <!--
