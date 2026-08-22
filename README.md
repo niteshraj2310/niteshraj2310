@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can live a whole life time never being awake.</i><br>— Dan Millman</p>
+<p align="center"><br><i>The opposite of courage in our society is not cowardice... it is conformity.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 <!--
