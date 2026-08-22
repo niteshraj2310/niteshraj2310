@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do what is right, not what is easy, nor what is popular.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Do your duty and a little more and the future will take care of itself.</i><br>— Andrew Carnegie</p>
 <!-- ADVICE:END -->
 
 <!--
