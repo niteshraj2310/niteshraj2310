@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The opposite of courage in our society is not cowardice... it is conformity.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Fortunate are those who take the first steps.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 <!--
