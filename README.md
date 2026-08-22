@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is built sequentially. It's one thing at a time.</i><br>— Gary Keller</p>
+<p align="center"><br><i>Never close your lips to those whom you have already opened your heart.</i><br>— Charles Dickens</p>
 <!-- ADVICE:END -->
 
 <!--
