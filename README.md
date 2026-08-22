@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never close your lips to those whom you have already opened your heart.</i><br>— Charles Dickens</p>
+<p align="center"><br><i>The important thing is not what one is born with but what use one makes of that equipment.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 <!--
