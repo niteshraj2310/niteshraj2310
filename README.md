@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do your duty and a little more and the future will take care of itself.</i><br>— Andrew Carnegie</p>
+<p align="center"><br><i>Success is built sequentially. It's one thing at a time.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 <!--
