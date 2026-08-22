@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is a constant series of opportunities.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>You can live a whole life time never being awake.</i><br>— Dan Millman</p>
 <!-- ADVICE:END -->
 
 <!--
