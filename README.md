@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We win by helping each other win.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</i><br>— Elvis Presley</p>
 <!-- ADVICE:END -->
 
 <!--
