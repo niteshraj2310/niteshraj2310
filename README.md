@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Misfortune shows those who are not really friends.</i><br>— Aristotle</p>
+<p align="center"><br><i>Change is not a four letter word...but often your reaction to it is!</i><br>— Jeffrey Gitomer</p>
 <!-- ADVICE:END -->
 
 <!--
