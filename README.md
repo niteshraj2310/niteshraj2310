@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What would you do if you weren't afraid?</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Success is about doing the right thing, not about doing everything right.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 <!--
