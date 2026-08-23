@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is about doing the right thing, not about doing everything right.</i><br>— Gary Keller</p>
+<p align="center"><br><i>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 <!--
