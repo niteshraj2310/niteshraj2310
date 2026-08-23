@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do one thing every day that scares you.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Misfortune shows those who are not really friends.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 <!--
