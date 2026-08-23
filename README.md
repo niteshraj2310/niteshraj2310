@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Do one thing every day that scares you.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
