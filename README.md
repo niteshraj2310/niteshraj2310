@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Better to have, and not need, than to need, and not have.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>To plant a garden is to believe in tomorrow.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 <!--
