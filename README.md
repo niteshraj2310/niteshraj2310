@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A clear conscience is the sure sign of a bad memory.</i><br>— Mark Twain</p>
+<p align="center"><br><i>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</i><br>— Dan Brown</p>
 <!-- ADVICE:END -->
 
 <!--
