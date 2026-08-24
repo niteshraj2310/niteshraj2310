@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Respect was invented to cover the empty place where love should be.</i><br>— Leo Tolstoy</p>
+<p align="center"><br><i>The thing about smart people is that they seem like crazy people to dumb people.</i><br>— Stephen Hawking</p>
 <!-- ADVICE:END -->
 
 <!--
