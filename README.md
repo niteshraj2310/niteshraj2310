@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change is not a four letter word...but often your reaction to it is!</i><br>— Jeffrey Gitomer</p>
+<p align="center"><br><i>Respect was invented to cover the empty place where love should be.</i><br>— Leo Tolstoy</p>
 <!-- ADVICE:END -->
 
 <!--
