@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</i><br>— Epictetus</p>
+<p align="center"><br><i>When the time is gone, you can never get it back.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 <!--
