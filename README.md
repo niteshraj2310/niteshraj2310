@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The thing about smart people is that they seem like crazy people to dumb people.</i><br>— Stephen Hawking</p>
+<p align="center"><br><i>A clear conscience is the sure sign of a bad memory.</i><br>— Mark Twain</p>
 <!-- ADVICE:END -->
 
 <!--
