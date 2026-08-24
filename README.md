@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When the time is gone, you can never get it back.</i><br>— Stephen King</p>
+<p align="center"><br><i>Better to have, and not need, than to need, and not have.</i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 <!--
