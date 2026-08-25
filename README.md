@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great deeds are usually wrought at great risks.</i><br>— Herodotus</p>
+<p align="center"><br><i>You are not only responsible for what you say, but also for what you do not say.</i><br>— Martin Luther</p>
 <!-- ADVICE:END -->
 
 <!--
