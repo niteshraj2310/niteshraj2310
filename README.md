@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The season of failure is the best time for sowing the seeds of success.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 <!--
