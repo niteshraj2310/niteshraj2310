@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We are willing to believe anything other than the truth.</i><br>— Carlos Ruiz Zafon</p>
+<p align="center"><br><i>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 <!--
