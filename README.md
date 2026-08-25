@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</i><br>— Steve Jobs</p>
+<p align="center"><br><i>Great deeds are usually wrought at great risks.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 <!--
