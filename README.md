@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Adventure is worthwhile in itself.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>The season of failure is the best time for sowing the seeds of success.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 <!--
