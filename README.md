@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>No idea, no matter how good, will work if it doesn't get used.</i><br>— Peter A. Cohen</p>
+<p align="center"><br><i>Adventure is worthwhile in itself.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 <!--
