@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</i><br>— Rumi</p>
+<p align="center"><br><i>We are willing to believe anything other than the truth.</i><br>— Carlos Ruiz Zafon</p>
 <!-- ADVICE:END -->
 
 <!--
