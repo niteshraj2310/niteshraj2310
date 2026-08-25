@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To plant a garden is to believe in tomorrow.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>No idea, no matter how good, will work if it doesn't get used.</i><br>— Peter A. Cohen</p>
 <!-- ADVICE:END -->
 
 <!--
