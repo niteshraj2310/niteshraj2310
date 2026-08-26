@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life should be touched, not strangled.</i><br>— Ray Bradbury</p>
+<p align="center"><br><i>If you don't like something, change it. If you can't change it, change your attitude.</i><br>— Maya Angelou</p>
 <!-- ADVICE:END -->
 
 <!--
