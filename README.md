@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wisdom is doing now what you are going to be happy with later on.</i><br>— Joyce Meyer</p>
+<p align="center"><br><i>If you done it, it ain't bragging.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 <!--
