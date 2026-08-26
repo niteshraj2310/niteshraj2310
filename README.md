@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do good by stealth, and blush to find it fame.</i><br>— Alexander Pope</p>
+<p align="center"><br><i>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 <!--
