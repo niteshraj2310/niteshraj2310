@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 <!--
