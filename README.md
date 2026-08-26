@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't like something, change it. If you can't change it, change your attitude.</i><br>— Maya Angelou</p>
+<p align="center"><br><i>Do good by stealth, and blush to find it fame.</i><br>— Alexander Pope</p>
 <!-- ADVICE:END -->
 
 <!--
