@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</i><br>— William James</p>
+<p align="center"><br><i>Wisdom is doing now what you are going to be happy with later on.</i><br>— Joyce Meyer</p>
 <!-- ADVICE:END -->
 
 <!--
