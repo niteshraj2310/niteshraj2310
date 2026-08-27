@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To the mind that is still, the whole universe surrenders.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Your time is limited, so don't waste it living someone elses. life.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 <!--
