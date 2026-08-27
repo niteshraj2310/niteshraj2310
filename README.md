@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you done it, it ain't bragging.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>To the mind that is still, the whole universe surrenders.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
