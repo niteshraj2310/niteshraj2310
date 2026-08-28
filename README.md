@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Time goes from present to past.</i><br>— Shunryu Suzuki</p>
+<p align="center"><br><i>Turn your face to the sun, as flowers know how to do.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 <!--
