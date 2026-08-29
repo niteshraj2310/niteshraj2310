@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</i><br>— Seungsahn</p>
+<p align="center"><br><i>There is no excuse for not trying.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 <!--
