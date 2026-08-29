@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no excuse for not trying.</i><br>— Barack Obama</p>
+<p align="center"><br><i>The Truth is realized in an instant; the Act is practiced step by step.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 <!--
