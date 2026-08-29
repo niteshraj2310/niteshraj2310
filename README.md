@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The Truth is realized in an instant; the Act is practiced step by step.</i><br>— Seungsahn</p>
+<p align="center"><br><i>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 <!--
