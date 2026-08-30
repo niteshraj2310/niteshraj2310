@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>The score never interested me, only the game.</i><br>— Mae West</p>
 <!-- ADVICE:END -->
 
 <!--
