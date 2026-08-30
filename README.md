@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow.</i><br>— Orison Swett Marden</p>
+<p align="center"><br><i>Do not ignore the passion that burns in you. Spend time to discover your gift.</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 <!--
