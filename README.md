@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not ignore the passion that burns in you. Spend time to discover your gift.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>All I can do is be me, whoever that is.</i><br>— Bob Dylan</p>
 <!-- ADVICE:END -->
 
 <!--
