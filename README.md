@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today is the oldest you've ever been, and the youngest you'll ever be again.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Failure is not fatal, but failure to change might be.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 <!--
