@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</i><br>— Steve Harvey</p>
+<p align="center"><br><i>Today is the oldest you've ever been, and the youngest you'll ever be again.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
