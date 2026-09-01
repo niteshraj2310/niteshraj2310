@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want something then you lose everything. If you don't want anything then you already have everything.</i><br>— Seungsahn</p>
+<p align="center"><br><i>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 <!--
