@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best teacher is experience and not through someone's distorted point of view.</i><br>— Jack Kerouac</p>
+<p align="center"><br><i>If you want something then you lose everything. If you don't want anything then you already have everything.</i><br>— Seungsahn</p>
 <!-- ADVICE:END -->
 
 <!--
