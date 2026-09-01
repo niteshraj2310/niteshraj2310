@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is not fatal, but failure to change might be.</i><br>— John Wooden</p>
+<p align="center"><br><i>Don't set your own goals by what other people make important.</i><br>— Lolly Daskal</p>
 <!-- ADVICE:END -->
 
 <!--
