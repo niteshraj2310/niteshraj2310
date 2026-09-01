@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future is not a gift. It is an achievement.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>The best teacher is experience and not through someone's distorted point of view.</i><br>— Jack Kerouac</p>
 <!-- ADVICE:END -->
 
 <!--
