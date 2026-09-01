@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't set your own goals by what other people make important.</i><br>— Lolly Daskal</p>
+<p align="center"><br><i>The future is not a gift. It is an achievement.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 <!--
