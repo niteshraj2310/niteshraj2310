@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Men trust their ears less than their eyes.</i><br>— Herodotus</p>
+<p align="center"><br><i>When one does not have what one wants, one must want what one has.</i><br>— Sigmund Freud</p>
 <!-- ADVICE:END -->
 
 <!--
