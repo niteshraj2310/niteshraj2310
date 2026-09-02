@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When one does not have what one wants, one must want what one has.</i><br>— Sigmund Freud</p>
+<p align="center"><br><i>Conscience is a man's compass.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 <!--
