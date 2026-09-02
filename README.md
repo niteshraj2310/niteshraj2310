@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing in this universe occurs by accident.</i><br>— Neale Donald Walsch</p>
+<p align="center"><br><i>None of us can change our yesterdays but all of us can change our tomorrows.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 <!--
