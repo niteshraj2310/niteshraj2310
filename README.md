@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Conscience is a man's compass.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>Nothing in this universe occurs by accident.</i><br>— Neale Donald Walsch</p>
 <!-- ADVICE:END -->
 
 <!--
