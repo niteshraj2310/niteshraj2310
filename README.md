@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</i><br>— Mark Manson</p>
+<p align="center"><br><i>Men trust their ears less than their eyes.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 <!--
