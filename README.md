@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</i><br>— Nikola Tesla</p>
+<p align="center"><br><i>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 <!--
