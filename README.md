@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep your face always toward the sunshine - shadows will fall behind you.</i><br>— Walt Whitman</p>
+<p align="center"><br><i>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 <!--
