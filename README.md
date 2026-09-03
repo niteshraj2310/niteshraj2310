@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</i><br>— Nelson Mandela</p>
+<p align="center"><br><i>Keep your face always toward the sunshine - shadows will fall behind you.</i><br>— Walt Whitman</p>
 <!-- ADVICE:END -->
 
 <!--
