@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>None of us can change our yesterdays but all of us can change our tomorrows.</i><br>— Colin Powell</p>
+<p align="center"><br><i>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</i><br>— Nikola Tesla</p>
 <!-- ADVICE:END -->
 
 <!--
