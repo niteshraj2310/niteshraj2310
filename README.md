@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</i><br>— Dan Brown</p>
 <!-- ADVICE:END -->
 
 <!--
