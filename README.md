@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What is a friend? A single soul dwelling in two bodies.</i><br>— Aristotle</p>
+<p align="center"><br><i>Knowing others is wisdom, knowing yourself is enlightenment.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
