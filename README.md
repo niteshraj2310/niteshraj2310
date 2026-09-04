@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do good, live in the most positive and joyful way possible every day.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.</i><br>— Jiddu Krishnamurti</p>
 <!-- ADVICE:END -->
 
 <!--
