@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Knowing others is wisdom, knowing yourself is enlightenment.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>Doing what you love is the cornerstone of having abundance in your life.</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 <!--
