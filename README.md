@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</i><br>— Dan Brown</p>
+<p align="center"><br><i>What is a friend? A single soul dwelling in two bodies.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 <!--
