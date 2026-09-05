@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Obstacles are those frightful things you see when you take your eyes off your goals.</i><br>— Sydney Smith</p>
+<p align="center"><br><i>The reward of suffering is experience.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 <!--
