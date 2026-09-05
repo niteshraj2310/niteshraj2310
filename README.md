@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life reflects your own thoughts back to you.</i><br>— Napoleon Hill</p>
+<p align="center"><br><i>To be truly ignorant, be content with your own knowledge.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 <!--
