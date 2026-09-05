@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>Obstacles are those frightful things you see when you take your eyes off your goals.</i><br>— Sydney Smith</p>
 <!-- ADVICE:END -->
 
 <!--
