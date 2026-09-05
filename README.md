@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The reward of suffering is experience.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 <!--
