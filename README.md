@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be truly ignorant, be content with your own knowledge.</i><br>— Zhuangzi</p>
+<p align="center"><br><i>The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 <!--
