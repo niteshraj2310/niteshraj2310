@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe in your infinite potential. Your only limitations are those you set upon yourself.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>It's OK to have your eggs in one basket as long as you control what happens to that basket.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 <!--
