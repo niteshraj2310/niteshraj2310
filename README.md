@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Life is a series of choices and all we can do is make them.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
