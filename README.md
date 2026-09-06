@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your only limitations are those you set up in your mind or permit others to set up for you.</i><br>— Og Mandino</p>
+<p align="center"><br><i>Being kind is more important than being right.</i><br>— David Brinkley</p>
 <!-- ADVICE:END -->
 
 <!--
