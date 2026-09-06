@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Being kind is more important than being right.</i><br>— David Brinkley</p>
+<p align="center"><br><i>Believe in your infinite potential. Your only limitations are those you set upon yourself.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
