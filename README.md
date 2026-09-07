@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Wake up and smile! Wake up and be grateful!</i><br>— Steve Harvey</p>
+<p align="center"><br><i>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 <!--
