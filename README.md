@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>Wake up and smile! Wake up and be grateful!</i><br>— Steve Harvey</p>
 <!-- ADVICE:END -->
 
 <!--
