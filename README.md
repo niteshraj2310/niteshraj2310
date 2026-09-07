@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</i><br>— Steve Maraboli</p>
+<p align="center"><br><i>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 <!--
