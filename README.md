@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>The future belongs to those who believe in the beauty of their dreams.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
