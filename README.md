@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Successful people are not without problems. They're simply people who've learned to solve their problems.</i><br>— Earl Nightingale</p>
+<p align="center"><br><i>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 <!--
