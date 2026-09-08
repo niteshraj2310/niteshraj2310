@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The future belongs to those who believe in the beauty of their dreams.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>Successful people are not without problems. They're simply people who've learned to solve their problems.</i><br>— Earl Nightingale</p>
 <!-- ADVICE:END -->
 
 <!--
