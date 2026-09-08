@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>What the mind can conceive and believe, and the heart desire, you can achieve.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 <!--
