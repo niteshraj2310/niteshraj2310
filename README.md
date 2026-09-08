@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What the mind can conceive and believe, and the heart desire, you can achieve.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>It's not the love you make. It's the love you give.</i><br>— Nikola Tesla</p>
 <!-- ADVICE:END -->
 
 <!--
