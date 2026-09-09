@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can't make someone feel good about themselves until you feel good about yourself.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>Believe you can and you're halfway there.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
