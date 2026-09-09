@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Believe you can and you're halfway there.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>Growing up is losing some illusions, in order to acquire others.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 <!--
