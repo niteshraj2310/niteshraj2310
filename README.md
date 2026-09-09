@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live simply, expect little, give much.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>You can't make someone feel good about themselves until you feel good about yourself.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 <!--
