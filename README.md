@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember that this moment is not your life, it's just a moment in your life. Focus on what is in front of you, right now.</i><br>— Ryan Holiday</p>
+<p align="center"><br><i>Live simply, expect little, give much.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 <!--
