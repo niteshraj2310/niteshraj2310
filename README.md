@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not the love you make. It's the love you give.</i><br>— Nikola Tesla</p>
+<p align="center"><br><i>Remember that this moment is not your life, it's just a moment in your life. Focus on what is in front of you, right now.</i><br>— Ryan Holiday</p>
 <!-- ADVICE:END -->
 
 <!--
