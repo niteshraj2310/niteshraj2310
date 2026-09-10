@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Growing up is losing some illusions, in order to acquire others.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>Originality is the fine art of remembering what you hear but forgetting where you heard it.</i><br>— Laurence J. Peter</p>
 <!-- ADVICE:END -->
 
 <!--
