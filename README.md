@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A self that goes on changing is a self that goes on living.</i><br>— Virginia Woolf</p>
+<p align="center"><br><i>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 <!--
