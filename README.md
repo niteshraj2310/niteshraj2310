@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Originality is the fine art of remembering what you hear but forgetting where you heard it.</i><br>— Laurence J. Peter</p>
+<p align="center"><br><i>A self that goes on changing is a self that goes on living.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 <!--
