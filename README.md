@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Confidence is contagious. So is lack of confidence.</i><br>— Vince Lombardi</p>
+<p align="center"><br><i>He who wishes to be obeyed must know how to command.</i><br>— Niccolo Machiavelli</p>
 <!-- ADVICE:END -->
 
 <!--
