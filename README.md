@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do something to move yourself toward your major goal every day.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Making your mark on the world is hard. If it were easy, everybody would do it.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 <!--
