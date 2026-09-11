@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>He who wishes to be obeyed must know how to command.</i><br>— Niccolo Machiavelli</p>
+<p align="center"><br><i>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 <!--
