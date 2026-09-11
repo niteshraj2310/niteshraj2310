@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When it hurts - observe. Life is trying to teach you something.</i><br>— Anita Krizzan</p>
+<p align="center"><br><i>Do something to move yourself toward your major goal every day.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 <!--
