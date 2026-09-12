@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</i><br>— Harry S. Truman</p>
+<p align="center"><br><i>How you think when you lose determines how long it will be until you win.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 <!--
