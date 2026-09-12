@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is ours to be spent, not to be saved.</i><br>— D. H. Lawrence</p>
+<p align="center"><br><i>Start each day with a positive thought and a grateful heart.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
