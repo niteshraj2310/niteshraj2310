@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</i><br>— Thomas Jefferson</p>
+<p align="center"><br><i>Don't just sit there. Do something. The answers will follow.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 <!--
