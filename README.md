@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</i><br>— Pema Chodron</p>
+<p align="center"><br><i>Life is ours to be spent, not to be saved.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 <!--
