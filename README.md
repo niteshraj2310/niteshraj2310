@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't just sit there. Do something. The answers will follow.</i><br>— Mark Manson</p>
+<p align="center"><br><i>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</i><br>— Harry S. Truman</p>
 <!-- ADVICE:END -->
 
 <!--
