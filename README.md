@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Start each day with a positive thought and a grateful heart.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</i><br>— Thomas Jefferson</p>
 <!-- ADVICE:END -->
 
 <!--
