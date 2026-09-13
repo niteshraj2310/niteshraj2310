@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</i><br>— William Faulkner</p>
+<p align="center"><br><i>He who is not contented with what he has, would not be contented with what he would like to have.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 <!--
