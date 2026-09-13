@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What gets measured gets improved.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>The truth is heavy, therefore few care to carry it.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 <!--
