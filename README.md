@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The truth is heavy, therefore few care to carry it.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>It's just a bad day, not a bad life.</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 <!--
