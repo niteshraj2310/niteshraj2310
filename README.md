@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>How you think when you lose determines how long it will be until you win.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
