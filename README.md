@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 <!--
