@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Motivation is what gets you started. Habit is what keeps you going.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>The greatest test of courage on earth is to bear defeat without losing heart.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 <!--
