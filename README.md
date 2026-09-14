@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>Motivation is what gets you started. Habit is what keeps you going.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 <!--
