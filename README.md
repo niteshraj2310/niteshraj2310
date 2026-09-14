@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's just a bad day, not a bad life.</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Everything is in your own heart.</i><br>— Thich Nhat Hanh</p>
 <!-- ADVICE:END -->
 
 <!--
