@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest test of courage on earth is to bear defeat without losing heart.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Don't let your learning lead to knowledge. Let your learning lead to action.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 <!--
