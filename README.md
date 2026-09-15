@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let your learning lead to knowledge. Let your learning lead to action.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 <!--
