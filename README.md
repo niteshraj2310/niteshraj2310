@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great things happen to those who don't stop believing, trying, learning, and being grateful.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>To accomplish big things, I am convinced you must first dream big dreams.</i><br>— Conrad Hilton</p>
 <!-- ADVICE:END -->
 
 <!--
