@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To accomplish big things, I am convinced you must first dream big dreams.</i><br>— Conrad Hilton</p>
+<p align="center"><br><i>When you change what you believe, you change what you do.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 <!--
