@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you change what you believe, you change what you do.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Let the beauty of what you love be what you do.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 <!--
