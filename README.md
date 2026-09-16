@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Let the beauty of what you love be what you do.</i><br>— Rumi</p>
+<p align="center"><br><i>If you think adventure is dangerous, try routine; it is lethal.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 <!--
