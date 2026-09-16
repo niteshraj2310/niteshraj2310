@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The world is changed by your example, not by your opinion.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>What are we doing here, that is the question.</i><br>— Samuel Beckett</p>
 <!-- ADVICE:END -->
 
 <!--
