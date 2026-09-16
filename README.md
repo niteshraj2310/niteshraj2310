@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you think adventure is dangerous, try routine; it is lethal.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>The world is changed by your example, not by your opinion.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 <!--
