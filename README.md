@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What are we doing here, that is the question.</i><br>— Samuel Beckett</p>
+<p align="center"><br><i>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 <!--
