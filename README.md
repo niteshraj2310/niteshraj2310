@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>As you love yourself, life loves you back.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
