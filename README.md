@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Words, once they are printed, have a life of their own.</i><br>— Carol Burnett</p>
+<p align="center"><br><i>The past has no power over the present moment.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 <!--
