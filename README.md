@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As you love yourself, life loves you back.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>The difference between ordinary and extraordinary is that little extra.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
