@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The difference between ordinary and extraordinary is that little extra.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>Words, once they are printed, have a life of their own.</i><br>— Carol Burnett</p>
 <!-- ADVICE:END -->
 
 <!--
