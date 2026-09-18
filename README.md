@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are not stuck where you are unless you decide to be.</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>You drown not by falling into a river, but by staying submerged in it.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 <!--
