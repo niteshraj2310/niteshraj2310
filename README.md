@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest mistake you can make in life is to be continually fearing you will make one.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>The people who are most successful are those who are doing what they love.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 <!--
