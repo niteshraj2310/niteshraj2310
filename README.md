@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You drown not by falling into a river, but by staying submerged in it.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>The greatest mistake you can make in life is to be continually fearing you will make one.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 <!--
