@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The past has no power over the present moment.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>You are not stuck where you are unless you decide to be.</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 <!--
