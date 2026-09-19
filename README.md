@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Yesterday is but today's memory, tomorrow is today's dream.</i><br>— Kahlil Gibran</p>
 <!-- ADVICE:END -->
 
 <!--
