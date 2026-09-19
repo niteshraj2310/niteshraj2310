@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is particularly hard if you divide it into small jobs.</i><br>— Henry Ford</p>
+<p align="center"><br><i>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune.</i><br>— Charles Swindoll</p>
 <!-- ADVICE:END -->
 
 <!--
