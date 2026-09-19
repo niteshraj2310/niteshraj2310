@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A Rolling Stone Gathers No Moss.</i><br>— Publilius Syrus</p>
+<p align="center"><br><i>Nothing is particularly hard if you divide it into small jobs.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 <!--
