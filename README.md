@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is during our darkest moments that we must focus to see the light.</i><br>— Aristotle</p>
+<p align="center"><br><i>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 <!--
