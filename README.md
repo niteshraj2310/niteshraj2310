@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We have no more right to consume happiness without producing it than to consume wealth without producing it.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>It is during our darkest moments that we must focus to see the light.</i><br>— Aristotle</p>
 <!-- ADVICE:END -->
 
 <!--
