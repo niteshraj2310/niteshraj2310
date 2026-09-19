@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune.</i><br>— Charles Swindoll</p>
+<p align="center"><br><i>We have no more right to consume happiness without producing it than to consume wealth without producing it.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 <!--
