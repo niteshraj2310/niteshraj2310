@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Well done is better than well said.</i><br>— Benjamin Franklin</p>
+<p align="center"><br><i>Be brave enough to suck at something new.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 <!--
