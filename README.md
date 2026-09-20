@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In life you need either inspiration or desperation.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Well done is better than well said.</i><br>— Benjamin Franklin</p>
 <!-- ADVICE:END -->
 
 <!--
