@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be brave enough to suck at something new.</i><br>— Unknown</p>
+<p align="center"><br><i>We must learn to live together as brothers or perish together as fools.</i><br>— Martin Luther King, Jr.</p>
 <!-- ADVICE:END -->
 
 <!--
