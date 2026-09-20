@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Yesterday is but today's memory, tomorrow is today's dream.</i><br>— Kahlil Gibran</p>
+<p align="center"><br><i>In life you need either inspiration or desperation.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 <!--
