@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We must learn to live together as brothers or perish together as fools.</i><br>— Martin Luther King, Jr.</p>
+<p align="center"><br><i>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 <!--
