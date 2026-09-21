@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>Success is like reaching an important birthday and finding you're exactly the same.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 <!--
