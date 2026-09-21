@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The way to change others' minds is with affection, and not anger.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>The most important single ingredient in the formula of success is knowing how to get along with people.</i><br>— Theodore Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
