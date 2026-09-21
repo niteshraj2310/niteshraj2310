@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success is like reaching an important birthday and finding you're exactly the same.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>The way to change others' minds is with affection, and not anger.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 <!--
