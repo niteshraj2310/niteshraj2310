@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>None are more hopelessly enslaved than those who falsely believe they are free.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>A different result requires doing something different.</i><br>— Gary Keller</p>
 <!-- ADVICE:END -->
 
 <!--
