@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</i><br>— Winston Churchill</p>
+<p align="center"><br><i>The more you take responsibility for your past and present, the more you are able to create the future you seek.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 <!--
