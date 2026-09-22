@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most important single ingredient in the formula of success is knowing how to get along with people.</i><br>— Theodore Roosevelt</p>
+<p align="center"><br><i>Keep your face to the sunshine and you cannot see the shadows.</i><br>— Helen Keller</p>
 <!-- ADVICE:END -->
 
 <!--
