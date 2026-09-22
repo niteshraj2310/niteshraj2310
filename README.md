@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more you take responsibility for your past and present, the more you are able to create the future you seek.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>None are more hopelessly enslaved than those who falsely believe they are free.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 <!--
