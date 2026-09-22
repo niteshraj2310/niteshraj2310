@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep your face to the sunshine and you cannot see the shadows.</i><br>— Helen Keller</p>
+<p align="center"><br><i>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</i><br>— Winston Churchill</p>
 <!-- ADVICE:END -->
 
 <!--
