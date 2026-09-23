@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>True knowledge exists in knowing that you know nothing.</i><br>— Socrates</p>
+<p align="center"><br><i>Be not glad at the misfortune of another, though he may be your enemy.</i><br>— George Washington</p>
 <!-- ADVICE:END -->
 
 <!--
