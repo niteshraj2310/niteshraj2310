@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be not glad at the misfortune of another, though he may be your enemy.</i><br>— George Washington</p>
+<p align="center"><br><i>If a man knows not to which port he sails, no wind is favorable.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 <!--
