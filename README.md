@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A different result requires doing something different.</i><br>— Gary Keller</p>
+<p align="center"><br><i>True knowledge exists in knowing that you know nothing.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 <!--
