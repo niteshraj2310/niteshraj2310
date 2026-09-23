@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If a man knows not to which port he sails, no wind is favorable.</i><br>— Seneca</p>
+<p align="center"><br><i>Comedy = tragedy + time.</i><br>— Carol Burnett</p>
 <!-- ADVICE:END -->
 
 <!--
