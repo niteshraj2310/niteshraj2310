@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Intuition is the ear of the soul.</i><br>— Neale Donald Walsch</p>
+<p align="center"><br><i>We must cultivate our garden.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 <!--
