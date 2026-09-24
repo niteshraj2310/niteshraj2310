@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are always your own best guru, your own best teacher, the answers are always inside you.</i><br>— Sathya Sai Baba</p>
+<p align="center"><br><i>Intuition is the ear of the soul.</i><br>— Neale Donald Walsch</p>
 <!-- ADVICE:END -->
 
 <!--
