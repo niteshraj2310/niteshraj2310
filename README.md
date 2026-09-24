@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Comedy = tragedy + time.</i><br>— Carol Burnett</p>
+<p align="center"><br><i>You are always your own best guru, your own best teacher, the answers are always inside you.</i><br>— Sathya Sai Baba</p>
 <!-- ADVICE:END -->
 
 <!--
