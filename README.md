@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We must cultivate our garden.</i><br>— Voltaire</p>
+<p align="center"><br><i>The heart that gives, gathers.</i><br>— Lao Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
