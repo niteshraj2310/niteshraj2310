@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The heart that gives, gathers.</i><br>— Lao Tzu</p>
+<p align="center"><br><i>It's your life-but only if you make it so.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
