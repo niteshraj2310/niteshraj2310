@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's your life-but only if you make it so.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Our view of the world is truly shaped by what we decide to hear.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 <!--
