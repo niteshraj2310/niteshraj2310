@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</i><br>— Les Brown</p>
+<p align="center"><br><i>If you don't have time to do it right, when will you have time to do it over?</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 <!--
