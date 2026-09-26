@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Poverty and hardship are created by false thinking.</i><br>— Bodhidharma</p>
+<p align="center"><br><i>Those who dream by day are cognizant of many things which escape those who dream only by night.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 <!--
