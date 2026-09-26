@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You cannot control the behavior of others, but you can always choose how you respond to it.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>You're braver than you believe, and stronger than you seem, and smarter than you think.</i><br>— A.A. Milne</p>
 <!-- ADVICE:END -->
 
 <!--
