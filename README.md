@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're braver than you believe, and stronger than you seem, and smarter than you think.</i><br>— A.A. Milne</p>
+<p align="center"><br><i>Death is not an ending. It is a transformation.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 <!--
