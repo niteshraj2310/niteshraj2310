@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Those who dream by day are cognizant of many things which escape those who dream only by night.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>You cannot control the behavior of others, but you can always choose how you respond to it.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
