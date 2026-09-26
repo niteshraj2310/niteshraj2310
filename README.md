@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't have time to do it right, when will you have time to do it over?</i><br>— John Wooden</p>
+<p align="center"><br><i>Poverty and hardship are created by false thinking.</i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 <!--
