@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fill your mind with various competing thoughts and decide which make sense.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>Keep smiling, because life is a beautiful thing and there's so much to smile about.</i><br>— Marilyn Monroe</p>
 <!-- ADVICE:END -->
 
 <!--
