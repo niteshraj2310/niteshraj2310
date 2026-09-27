@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Keep smiling, because life is a beautiful thing and there's so much to smile about.</i><br>— Marilyn Monroe</p>
+<p align="center"><br><i>Change yourself and you have done your part in changing the world.</i><br>— Paramahansa Yogananda</p>
 <!-- ADVICE:END -->
 
 <!--
