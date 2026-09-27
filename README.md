@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Whatever you decide to do, make sure it makes you happy.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Fill your mind with various competing thoughts and decide which make sense.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 <!--
