@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Death is not an ending. It is a transformation.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 <!--
