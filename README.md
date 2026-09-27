@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Whatever you decide to do, make sure it makes you happy.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 <!--
