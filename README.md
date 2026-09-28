@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make each day your masterpiece.</i><br>— John Wooden</p>
+<p align="center"><br><i>How to get more opportunity: Create more opportunity for others.</i><br>— Jack Butcher</p>
 <!-- ADVICE:END -->
 
 <!--
