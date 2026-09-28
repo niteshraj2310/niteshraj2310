@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Change yourself and you have done your part in changing the world.</i><br>— Paramahansa Yogananda</p>
+<p align="center"><br><i>Fear not the path of Truth for the lack of People walking on it.</i><br>— Robert F. Kennedy</p>
 <!-- ADVICE:END -->
 
 <!--
