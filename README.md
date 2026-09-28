@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fear not the path of Truth for the lack of People walking on it.</i><br>— Robert F. Kennedy</p>
+<p align="center"><br><i>Make each day your masterpiece.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 <!--
