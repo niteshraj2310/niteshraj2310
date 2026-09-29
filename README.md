@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Time is more valuable than money. You can get more money, but you cannot get more time.</i><br>— Jim Rohn</p>
+<p align="center"><br><i>Be a good animal, true to your instincts.</i><br>— D. H. Lawrence</p>
 <!-- ADVICE:END -->
 
 <!--
