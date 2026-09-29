@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As a matter of fact is an expression that precedes many an expression that isn't.</i><br>— Laurence J. Peter</p>
+<p align="center"><br><i>Time is more valuable than money. You can get more money, but you cannot get more time.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 <!--
