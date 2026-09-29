@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>How to get more opportunity: Create more opportunity for others.</i><br>— Jack Butcher</p>
+<p align="center"><br><i>As a matter of fact is an expression that precedes many an expression that isn't.</i><br>— Laurence J. Peter</p>
 <!-- ADVICE:END -->
 
 <!--
