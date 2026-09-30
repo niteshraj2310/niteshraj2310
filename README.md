@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If we will be quiet and ready enough, we shall find compensation in every disappointment.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 <!--
