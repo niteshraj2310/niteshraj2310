@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</i><br>— Alan Watts</p>
+<p align="center"><br><i>If we will be quiet and ready enough, we shall find compensation in every disappointment.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 <!--
