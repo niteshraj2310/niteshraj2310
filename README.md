@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</i><br>— Criss Jami</p>
+<p align="center"><br><i>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</i><br>— Mark Manson</p>
 <!-- ADVICE:END -->
 
 <!--
