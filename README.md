@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</i><br>— Mark Manson</p>
+<p align="center"><br><i>As we first succeed, we will find ourselves in new situations, facing new problems.</i><br>— Ryan Holiday</p>
 <!-- ADVICE:END -->
 
 <!--
