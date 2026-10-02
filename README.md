@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In the midst of chaos, there is also opportunity.</i><br>— Sun Tzu</p>
+<p align="center"><br><i>Do not pray for an easy life, pray for the strength to endure a difficult one.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 <!--
