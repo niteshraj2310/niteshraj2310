@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not pray for an easy life, pray for the strength to endure a difficult one.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>Age is a very high price to pay for maturity.</i><br>— William James</p>
 <!-- ADVICE:END -->
 
 <!--
