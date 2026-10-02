@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As we first succeed, we will find ourselves in new situations, facing new problems.</i><br>— Ryan Holiday</p>
+<p align="center"><br><i>In the midst of chaos, there is also opportunity.</i><br>— Sun Tzu</p>
 <!-- ADVICE:END -->
 
 <!--
