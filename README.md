@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never fear quarrels, but seek hazardous adventures.</i><br>— Alexandre Dumas</p>
+<p align="center"><br><i>The weak can never forgive. Forgiveness is the attribute of the strong.</i><br>— Mahatma Gandhi</p>
 <!-- ADVICE:END -->
 
 <!--
