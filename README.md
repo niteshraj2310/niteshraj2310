@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.</i><br>— Martin Luther</p>
+<p align="center"><br><i>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</i><br>— Zig Ziglar</p>
 <!-- ADVICE:END -->
 
 <!--
