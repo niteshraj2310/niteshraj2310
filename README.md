@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The weak can never forgive. Forgiveness is the attribute of the strong.</i><br>— Mahatma Gandhi</p>
+<p align="center"><br><i>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 <!--
