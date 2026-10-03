@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.</i><br>— Martin Luther</p>
 <!-- ADVICE:END -->
 
 <!--
