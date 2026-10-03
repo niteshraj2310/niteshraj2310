@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</i><br>— Tony Robbins</p>
+<p align="center"><br><i>Never fear quarrels, but seek hazardous adventures.</i><br>— Alexandre Dumas</p>
 <!-- ADVICE:END -->
 
 <!--
