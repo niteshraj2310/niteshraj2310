@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All happiness depends on courage and work.</i><br>— Honore de Balzac</p>
+<p align="center"><br><i>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 <!--
