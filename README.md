@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</i><br>— Zig Ziglar</p>
+<p align="center"><br><i>The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
