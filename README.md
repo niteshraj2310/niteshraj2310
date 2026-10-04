@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</i><br>— Criss Jami</p>
 <!-- ADVICE:END -->
 
 <!--
