@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</i><br>— Criss Jami</p>
+<p align="center"><br><i>Unless you're ashamed of yourself now and then, you're not honest.</i><br>— William Faulkner</p>
 <!-- ADVICE:END -->
 
 <!--
