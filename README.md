@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is acceptable. Not trying is a whole different ball park.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>The world would go on even without you. Don't take yourself so seriously.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 <!--
