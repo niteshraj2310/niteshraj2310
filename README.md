@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The world would go on even without you. Don't take yourself so seriously.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Bloom where you are planted!</i><br>— Mary Engelbreit</p>
 <!-- ADVICE:END -->
 
 <!--
