@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Unless you're ashamed of yourself now and then, you're not honest.</i><br>— William Faulkner</p>
+<p align="center"><br><i>Failure is acceptable. Not trying is a whole different ball park.</i><br>— Michael Jordan</p>
 <!-- ADVICE:END -->
 
 <!--
