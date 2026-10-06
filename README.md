@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never take your position for granted and never let any favors you receive go to your head.</i><br>— Robert Greene</p>
+<p align="center"><br><i>Success comes from knowing that you did your best to become the best that you are capable of becoming.</i><br>— John Wooden</p>
 <!-- ADVICE:END -->
 
 <!--
