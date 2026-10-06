@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Bloom where you are planted!</i><br>— Mary Engelbreit</p>
+<p align="center"><br><i>Never take your position for granted and never let any favors you receive go to your head.</i><br>— Robert Greene</p>
 <!-- ADVICE:END -->
 
 <!--
