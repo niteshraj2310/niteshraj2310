@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Success comes from knowing that you did your best to become the best that you are capable of becoming.</i><br>— John Wooden</p>
+<p align="center"><br><i>Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.</i><br>— Steve Jobs</p>
 <!-- ADVICE:END -->
 
 <!--
