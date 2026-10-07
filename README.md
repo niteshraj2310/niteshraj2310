@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stress happens when the mind resists what is.</i><br>— Dan Millman</p>
+<p align="center"><br><i>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</i><br>— Steve Maraboli</p>
 <!-- ADVICE:END -->
 
 <!--
