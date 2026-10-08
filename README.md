@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no truth. There is only perception.</i><br>— Gustave Flaubert</p>
+<p align="center"><br><i>Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</i><br>— Benjamin Mays</p>
 <!-- ADVICE:END -->
 
 <!--
