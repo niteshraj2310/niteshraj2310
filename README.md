@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</i><br>— Gabor Mate</p>
+<p align="center"><br><i>We suffer more often in imagination than in reality.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 <!--
