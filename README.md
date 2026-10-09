@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>One never does wrong by doing right.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Everything flows, nothing stands still.</i><br>— Heraclitus</p>
 <!-- ADVICE:END -->
 
 <!--
