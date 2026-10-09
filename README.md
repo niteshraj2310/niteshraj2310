@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We suffer more often in imagination than in reality.</i><br>— Seneca</p>
+<p align="center"><br><i>One of the most difficult things is not to change society - but to change yourself.</i><br>— Nelson Mandela</p>
 <!-- ADVICE:END -->
 
 <!--
