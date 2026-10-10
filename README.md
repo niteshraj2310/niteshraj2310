@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What have you done today to make someone else happy?</i><br>— Deepam Chaterjee</p>
+<p align="center"><br><i>Be brave. Take risks. Nothing can substitute experience.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 <!--
