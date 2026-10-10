@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes you have to shut your eyes, so you can see the real beauty.</i><br>— Kilian Jornet</p>
+<p align="center"><br><i>As soon as you trust yourself, you will know how to live.</i><br>— Johann Wolfgang von Goethe</p>
 <!-- ADVICE:END -->
 
 <!--
