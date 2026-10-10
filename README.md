@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything flows, nothing stands still.</i><br>— Heraclitus</p>
+<p align="center"><br><i>What have you done today to make someone else happy?</i><br>— Deepam Chaterjee</p>
 <!-- ADVICE:END -->
 
 <!--
