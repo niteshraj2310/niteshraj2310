@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be brave. Take risks. Nothing can substitute experience.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Sometimes you have to shut your eyes, so you can see the real beauty.</i><br>— Kilian Jornet</p>
 <!-- ADVICE:END -->
 
 <!--
