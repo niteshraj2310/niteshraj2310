@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As soon as you trust yourself, you will know how to live.</i><br>— Johann Wolfgang von Goethe</p>
+<p align="center"><br><i>Your imagination is your preview of life's coming attractions.</i><br>— Albert Einstein</p>
 <!-- ADVICE:END -->
 
 <!--
