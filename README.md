@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Nothing is impossible. The word itself says 'I'm possible!'</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</i><br>— Colin Powell</p>
 <!-- ADVICE:END -->
 
 <!--
