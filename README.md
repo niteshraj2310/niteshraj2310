@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I hear and I forget. I see and I remember. I do and I understand.</i><br>— Confucius</p>
+<p align="center"><br><i>Many of life's failures are people who did not realize how close they were to success when they gave up.</i><br>— Thomas Edison</p>
 <!-- ADVICE:END -->
 
 <!--
