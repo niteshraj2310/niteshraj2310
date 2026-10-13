@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>All problems are illusions of the mind.</i><br>— Eckhart Tolle</p>
+<p align="center"><br><i>The people who succeed are irrationally passionate about something.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
