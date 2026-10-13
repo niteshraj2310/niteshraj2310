@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many of life's failures are people who did not realize how close they were to success when they gave up.</i><br>— Thomas Edison</p>
+<p align="center"><br><i>All problems are illusions of the mind.</i><br>— Eckhart Tolle</p>
 <!-- ADVICE:END -->
 
 <!--
