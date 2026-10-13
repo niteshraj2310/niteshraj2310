@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The people who succeed are irrationally passionate about something.</i><br>— Naval Ravikant</p>
+<p align="center"><br><i>Men trust their ears less than their eyes.</i><br>— Herodotus</p>
 <!-- ADVICE:END -->
 
 <!--
