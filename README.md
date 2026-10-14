@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Men trust their ears less than their eyes.</i><br>— Herodotus</p>
+<p align="center"><br><i>The greatest work that kindness does to others is that it makes them kind themselves.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 <!--
