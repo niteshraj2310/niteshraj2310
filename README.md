@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I try more and more to be myself, caring relatively little whether people approve or disapprove.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>Loss is nothing else but change and change is nature's delight.</i><br>— Marcus Aurelius</p>
 <!-- ADVICE:END -->
 
 <!--
