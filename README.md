@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest work that kindness does to others is that it makes them kind themselves.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>Stop acting so small. You are the universe in ecstatic motion.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 <!--
