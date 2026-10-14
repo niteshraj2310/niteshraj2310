@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Loss is nothing else but change and change is nature's delight.</i><br>— Marcus Aurelius</p>
+<p align="center"><br><i>Originality is the fine art of remembering what you hear but forgetting where you heard it.</i><br>— Laurence J. Peter</p>
 <!-- ADVICE:END -->
 
 <!--
