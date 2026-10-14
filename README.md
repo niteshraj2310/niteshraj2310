@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stop acting so small. You are the universe in ecstatic motion.</i><br>— Rumi</p>
+<p align="center"><br><i>I try more and more to be myself, caring relatively little whether people approve or disapprove.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 <!--
