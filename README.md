@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't let the behavior of others destroy your inner peace.</i><br>— Dalai Lama</p>
+<p align="center"><br><i>I am who I am today because of the choices I made yesterday.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
