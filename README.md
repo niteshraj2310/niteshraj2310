@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I am who I am today because of the choices I made yesterday.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>A little impatience will spoil great plans.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 <!--
