@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some of your greatest lessons come from your darkest moments.</i><br>— Roger Lee</p>
+<p align="center"><br><i>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</i><br>— Bette Midler</p>
 <!-- ADVICE:END -->
 
 <!--
