@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Originality is the fine art of remembering what you hear but forgetting where you heard it.</i><br>— Laurence J. Peter</p>
+<p align="center"><br><i>Don't let the behavior of others destroy your inner peace.</i><br>— Dalai Lama</p>
 <!-- ADVICE:END -->
 
 <!--
