@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A little impatience will spoil great plans.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>Some of your greatest lessons come from your darkest moments.</i><br>— Roger Lee</p>
 <!-- ADVICE:END -->
 
 <!--
