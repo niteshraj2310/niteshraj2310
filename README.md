@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is one long process of getting tired.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>Those who have subdued their ego understand that it doesn't degrade you when others treat you poorly; it degrades them.</i><br>— Ryan Holiday</p>
 <!-- ADVICE:END -->
 
 <!--
