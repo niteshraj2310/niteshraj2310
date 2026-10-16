@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Every man desires to live long, but no man wishes to be old.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Life is one long process of getting tired.</i><br>— Samuel Butler</p>
 <!-- ADVICE:END -->
 
 <!--
