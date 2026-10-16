@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</i><br>— Bette Midler</p>
+<p align="center"><br><i>Every man desires to live long, but no man wishes to be old.</i><br>— Jonathan Swift</p>
 <!-- ADVICE:END -->
 
 <!--
