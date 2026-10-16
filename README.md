@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>May you live all the days of your life.</i><br>— Jonathan Swift</p>
+<p align="center"><br><i>Learn to value yourself, which means: fight for your happiness.</i><br>— Ayn Rand</p>
 <!-- ADVICE:END -->
 
 <!--
