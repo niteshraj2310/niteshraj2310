@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Find something you love and do it better than everyone else.</i><br>— Gurbaksh Chahal</p>
+<p align="center"><br><i>If you chase two rabbits, you catch none.</i><br>— Confucius</p>
 <!-- ADVICE:END -->
 
 <!--
