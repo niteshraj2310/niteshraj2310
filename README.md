@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Learn to value yourself, which means: fight for your happiness.</i><br>— Ayn Rand</p>
+<p align="center"><br><i>Raise your words, not voice. It is rain that grows flowers, not thunder.</i><br>— Rumi</p>
 <!-- ADVICE:END -->
 
 <!--
