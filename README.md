@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Raise your words, not voice. It is rain that grows flowers, not thunder.</i><br>— Rumi</p>
+<p align="center"><br><i>Find something you love and do it better than everyone else.</i><br>— Gurbaksh Chahal</p>
 <!-- ADVICE:END -->
 
 <!--
