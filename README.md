@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you chase two rabbits, you catch none.</i><br>— Confucius</p>
+<p align="center"><br><i>A man who dares to waste one hour of time has not discovered the value of life.</i><br>— Charles Darwin</p>
 <!-- ADVICE:END -->
 
 <!--
