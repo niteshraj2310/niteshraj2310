@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Great things are not done by impulse, but by a series of small things brought together.</i><br>— Vincent van Gogh</p>
+<p align="center"><br><i>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</i><br>— Socrates</p>
 <!-- ADVICE:END -->
 
 <!--
