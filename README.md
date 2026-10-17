@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A man who dares to waste one hour of time has not discovered the value of life.</i><br>— Charles Darwin</p>
+<p align="center"><br><i>Great things are not done by impulse, but by a series of small things brought together.</i><br>— Vincent van Gogh</p>
 <!-- ADVICE:END -->
 
 <!--
