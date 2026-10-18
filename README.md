@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only limit to our realization of tomorrow will be our doubts of today.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 <!--
