@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're brave enough to say goodbye, life will reward you with a new hello.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>Our thoughts are highly influenced by the people around us and everything we read, see, and do.</i><br>— Jeff Booth</p>
 <!-- ADVICE:END -->
 
 <!--
