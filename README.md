@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our thoughts are highly influenced by the people around us and everything we read, see, and do.</i><br>— Jeff Booth</p>
+<p align="center"><br><i>The prettiest eyes have cried the most.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 <!--
