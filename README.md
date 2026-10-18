@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The prettiest eyes have cried the most.</i><br>— Unknown</p>
+<p align="center"><br><i>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</i><br>— Christopher McCandless</p>
 <!-- ADVICE:END -->
 
 <!--
