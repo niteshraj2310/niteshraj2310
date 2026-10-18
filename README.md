@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</i><br>— Socrates</p>
+<p align="center"><br><i>If you're brave enough to say goodbye, life will reward you with a new hello.</i><br>— Paulo Coelho</p>
 <!-- ADVICE:END -->
 
 <!--
