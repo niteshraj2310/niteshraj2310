@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</i><br>— Christopher McCandless</p>
+<p align="center"><br><i>The only limit to our realization of tomorrow will be our doubts of today.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
