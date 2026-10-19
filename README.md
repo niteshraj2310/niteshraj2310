@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</i><br>— Hans Christian Andersen</p>
+<p align="center"><br><i>The power of human thought grows exponentially with the number of minds that share that thought.</i><br>— Dan Brown</p>
 <!-- ADVICE:END -->
 
 <!--
