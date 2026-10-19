@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is when what you think, what you say, and what you do are in harmony.</i><br>— Mahatma Gandhi</p>
+<p align="center"><br><i>Sometimes good things fall apart so better things can fall together.</i><br>— Marilyn Monroe</p>
 <!-- ADVICE:END -->
 
 <!--
