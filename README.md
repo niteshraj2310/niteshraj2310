@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The power of human thought grows exponentially with the number of minds that share that thought.</i><br>— Dan Brown</p>
+<p align="center"><br><i>Happiness is when what you think, what you say, and what you do are in harmony.</i><br>— Mahatma Gandhi</p>
 <!-- ADVICE:END -->
 
 <!--
