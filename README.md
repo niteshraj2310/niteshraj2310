@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The act of taking the first step is what separates the winners from the losers.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</i><br>— Audrey Hepburn</p>
 <!-- ADVICE:END -->
 
 <!--
