@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes good things fall apart so better things can fall together.</i><br>— Marilyn Monroe</p>
+<p align="center"><br><i>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</i><br>— Naval Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
