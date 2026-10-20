@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>What have you done today to make someone else happy?</i><br>— Deepam Chaterjee</p>
+<p align="center"><br><i>The act of taking the first step is what separates the winners from the losers.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 <!--
