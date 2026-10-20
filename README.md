@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Failure is acceptable. Not trying is a whole different ball park.</i><br>— Michael Jordan</p>
+<p align="center"><br><i>What have you done today to make someone else happy?</i><br>— Deepam Chaterjee</p>
 <!-- ADVICE:END -->
 
 <!--
