@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Until we can manage time, we can manage nothing else.</i><br>— Peter Drucker</p>
+<p align="center"><br><i>The only time you run out of chances is when you stop taking them.</i><br>— Unknown</p>
 <!-- ADVICE:END -->
 
 <!--
