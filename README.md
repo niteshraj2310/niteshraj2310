@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.</i><br>— Henry Ford</p>
+<p align="center"><br><i>Until we can manage time, we can manage nothing else.</i><br>— Peter Drucker</p>
 <!-- ADVICE:END -->
 
 <!--
