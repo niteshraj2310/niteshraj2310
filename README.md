@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</i><br>— Audrey Hepburn</p>
+<p align="center"><br><i>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.</i><br>— Henry Ford</p>
 <!-- ADVICE:END -->
 
 <!--
