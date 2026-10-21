@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The only time you run out of chances is when you stop taking them.</i><br>— Unknown</p>
+<p align="center"><br><i>Thoughts become things. If you see it in your mind, you will hold it in your hand.</i><br>— Bob Proctor</p>
 <!-- ADVICE:END -->
 
 <!--
