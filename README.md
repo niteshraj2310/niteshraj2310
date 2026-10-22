@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Our thoughts are highly influenced by the people around us and everything we read, see, and do.</i><br>— Jeff Booth</p>
+<p align="center"><br><i>Would you rather learn to deal with the truth now than be forced to do so later on?</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 <!--
