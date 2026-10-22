@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Thoughts become things. If you see it in your mind, you will hold it in your hand.</i><br>— Bob Proctor</p>
+<p align="center"><br><i>Peace of mind is that mental condition in which you have accepted the worst.</i><br>— Lin Yutang</p>
 <!-- ADVICE:END -->
 
 <!--
