@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Would you rather learn to deal with the truth now than be forced to do so later on?</i><br>— Celestine Chua</p>
+<p align="center"><br><i>When people are free to do as they please, they usually imitate each other.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 <!--
