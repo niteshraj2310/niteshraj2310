@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.</i><br>— Colin R. Davis</p>
+<p align="center"><br><i>I admire those who do good and expect nothing in return.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
