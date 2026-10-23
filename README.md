@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</i><br>— Carl Jung</p>
+<p align="center"><br><i>The most tragic thing in the world is a man of genius who is not a man of honor.</i><br>— George Bernard Shaw</p>
 <!-- ADVICE:END -->
 
 <!--
