@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When people are free to do as they please, they usually imitate each other.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.</i><br>— Colin R. Davis</p>
 <!-- ADVICE:END -->
 
 <!--
