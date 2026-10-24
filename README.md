@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most tragic thing in the world is a man of genius who is not a man of honor.</i><br>— George Bernard Shaw</p>
+<p align="center"><br><i>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.</i><br>— Estee Lauder</p>
 <!-- ADVICE:END -->
 
 <!--
