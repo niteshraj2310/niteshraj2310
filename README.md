@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</i><br>— John Tukey</p>
 <!-- ADVICE:END -->
 
 <!--
