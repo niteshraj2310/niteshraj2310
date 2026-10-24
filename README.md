@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To seek is to suffer. To seek nothing is bliss.</i><br>— Bodhidharma</p>
+<p align="center"><br><i>Fools resist. The wise embrace.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 <!--
