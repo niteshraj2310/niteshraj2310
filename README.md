@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Fools resist. The wise embrace.</i><br>— Maxime Lagace</p>
+<p align="center"><br><i>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 <!--
