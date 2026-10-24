@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.</i><br>— Estee Lauder</p>
+<p align="center"><br><i>To seek is to suffer. To seek nothing is bliss.</i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 <!--
