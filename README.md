@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>People learn from their failures. Seldom do they learn anything from success.</i><br>— Ryan Holiday</p>
+<p align="center"><br><i>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</i><br>— J.R.R. Tolkien</p>
 <!-- ADVICE:END -->
 
 <!--
