@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</i><br>— John Tukey</p>
+<p align="center"><br><i>People learn from their failures. Seldom do they learn anything from success.</i><br>— Ryan Holiday</p>
 <!-- ADVICE:END -->
 
 <!--
