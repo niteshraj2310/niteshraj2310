@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</i><br>— Toni Morrison</p>
+<p align="center"><br><i>Teachers open the door. You enter by yourself.</i><br>— Chinese Proverb</p>
 <!-- ADVICE:END -->
 
 <!--
