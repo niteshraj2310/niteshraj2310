@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</i><br>— Richard Bach</p>
+<p align="center"><br><i>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</i><br>— Toni Morrison</p>
 <!-- ADVICE:END -->
 
 <!--
