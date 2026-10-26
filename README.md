@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Teachers open the door. You enter by yourself.</i><br>— Chinese Proverb</p>
+<p align="center"><br><i>To forget the whole world is easy; to make the whole world forget you is hard.</i><br>— Zhuangzi</p>
 <!-- ADVICE:END -->
 
 <!--
