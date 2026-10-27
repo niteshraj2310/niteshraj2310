@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</i><br>— Henry Ward Beecher</p>
+<p align="center"><br><i>Never allow a person to tell you no who doesn't have the power to say yes.</i><br>— Eleanor Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
