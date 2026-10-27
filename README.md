@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is well known that those who do not trust themselves never trust others.</i><br>— Alfred Adler</p>
+<p align="center"><br><i>Perfection is not attainable, but if we chase perfection we can catch excellence.</i><br>— Vince Lombardi</p>
 <!-- ADVICE:END -->
 
 <!--
