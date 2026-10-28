@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never allow a person to tell you no who doesn't have the power to say yes.</i><br>— Eleanor Roosevelt</p>
+<p align="center"><br><i>Integrity is telling myself the truth. And honesty is telling the truth to other people.</i><br>— Spencer Johnson</p>
 <!-- ADVICE:END -->
 
 <!--
