@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Integrity is telling myself the truth. And honesty is telling the truth to other people.</i><br>— Spencer Johnson</p>
+<p align="center"><br><i>Disobedience is the true foundation of liberty. The obedient must be slaves.</i><br>— Henry David Thoreau</p>
 <!-- ADVICE:END -->
 
 <!--
