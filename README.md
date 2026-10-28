@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Disobedience is the true foundation of liberty. The obedient must be slaves.</i><br>— Henry David Thoreau</p>
+<p align="center"><br><i>There are no coincidences in the universe.</i><br>— Neale Donald Walsch</p>
 <!-- ADVICE:END -->
 
 <!--
