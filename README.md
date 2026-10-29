@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are no coincidences in the universe.</i><br>— Neale Donald Walsch</p>
+<p align="center"><br><i>The road to success is always under construction..</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 <!--
