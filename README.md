@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your past does not equal your future.</i><br>— Tony Robbins</p>
+<p align="center"><br><i>If you do not tell the truth about yourself you cannot tell it about other people.</i><br>— Virginia Woolf</p>
 <!-- ADVICE:END -->
 
 <!--
