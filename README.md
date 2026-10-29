@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The road to success is always under construction..</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>Your past does not equal your future.</i><br>— Tony Robbins</p>
 <!-- ADVICE:END -->
 
 <!--
