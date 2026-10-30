@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>I hear and I forget. I see and I remember. I do and I understand.</i><br>— Confucius</p>
+<p align="center"><br><i>If fear is too strong, the genius is suppressed.</i><br>— Robert Kiyosaki</p>
 <!-- ADVICE:END -->
 
 <!--
