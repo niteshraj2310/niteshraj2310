@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The pen is the tongue of the mind.</i><br>— Miguel de Cervantes</p>
+<p align="center"><br><i>Whoever is happy will make others happy too.</i><br>— Anne Frank</p>
 <!-- ADVICE:END -->
 
 <!--
