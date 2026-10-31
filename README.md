@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Honor is the foundation of courage.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</i><br>— Kamal Ravikant</p>
 <!-- ADVICE:END -->
 
 <!--
