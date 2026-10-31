@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If fear is too strong, the genius is suppressed.</i><br>— Robert Kiyosaki</p>
+<p align="center"><br><i>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</i><br>— Roy T. Bennett</p>
 <!-- ADVICE:END -->
 
 <!--
