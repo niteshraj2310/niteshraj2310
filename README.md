@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</i><br>— Roy T. Bennett</p>
+<p align="center"><br><i>The way of success is the way of continuous pursuit of knowledge.</i><br>— Napoleon Hill</p>
 <!-- ADVICE:END -->
 
 <!--
