@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>Honor is the foundation of courage.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 <!--
