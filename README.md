@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</i><br>— Kamal Ravikant</p>
+<p align="center"><br><i>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 <!--
