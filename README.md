@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Stop wasting time defending your problems and work on addressing them instead.</i><br>— Celestine Chua</p>
+<p align="center"><br><i>A thing must be loved before it is lovable.</i><br>— Gilbert Chesterton</p>
 <!-- ADVICE:END -->
 
 <!--
