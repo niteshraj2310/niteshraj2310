@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</i><br>— Seneca</p>
+<p align="center"><br><i>Stop wasting time defending your problems and work on addressing them instead.</i><br>— Celestine Chua</p>
 <!-- ADVICE:END -->
 
 <!--
