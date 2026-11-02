@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Not how long, but how well you have lived is the main thing.</i><br>— Seneca</p>
+<p align="center"><br><i>You are never too old to become younger.</i><br>— Mae West</p>
 <!-- ADVICE:END -->
 
 <!--
