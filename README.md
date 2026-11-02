@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are never too old to become younger.</i><br>— Mae West</p>
+<p align="center"><br><i>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</i><br>— Morihei Ueshiba</p>
 <!-- ADVICE:END -->
 
 <!--
