@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>A thing must be loved before it is lovable.</i><br>— Gilbert Chesterton</p>
+<p align="center"><br><i>Not how long, but how well you have lived is the main thing.</i><br>— Seneca</p>
 <!-- ADVICE:END -->
 
 <!--
