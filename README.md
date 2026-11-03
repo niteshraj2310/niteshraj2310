@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</i><br>— Morihei Ueshiba</p>
+<p align="center"><br><i>Many roads lead to the path, but basically there are only two: reason and practice.</i><br>— Bodhidharma</p>
 <!-- ADVICE:END -->
 
 <!--
