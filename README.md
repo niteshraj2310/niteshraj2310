@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do Something. If it works, do more of it. If it doesn't, do something else.</i><br>— Franklin D. Roosevelt</p>
+<p align="center"><br><i>From a certain point onward there is no longer any turning back. That is the point that must be reached.</i><br>— Franz Kafka</p>
 <!-- ADVICE:END -->
 
 <!--
