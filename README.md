@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Many roads lead to the path, but basically there are only two: reason and practice.</i><br>— Bodhidharma</p>
+<p align="center"><br><i>Do Something. If it works, do more of it. If it doesn't, do something else.</i><br>— Franklin D. Roosevelt</p>
 <!-- ADVICE:END -->
 
 <!--
