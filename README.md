@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is one long process of getting tired.</i><br>— Samuel Butler</p>
+<p align="center"><br><i>The only normal people are the ones you don't know very well.</i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 <!--
