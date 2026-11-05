@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Through discipline comes freedom.</i><br>— Aristotle</p>
+<p align="center"><br><i>In nature there is no alienation. Everything belongs.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 <!--
