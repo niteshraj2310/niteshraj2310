@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>In nature there is no alienation. Everything belongs.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Showing off is the fool's idea of glory.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 <!--
