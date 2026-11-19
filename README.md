@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Showing off is the fool's idea of glory.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</i><br>— Amelia Earhart</p>
 <!-- ADVICE:END -->
 
 <!--
