@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is a difference between giving directions and giving direction.</i><br>— Simon Sinek</p>
+<p align="center"><br><i>Getting lost along your path is a part of finding the path you are meant to be on.</i><br>— Robin Sharma</p>
 <!-- ADVICE:END -->
 
 <!--
