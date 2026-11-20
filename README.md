@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</i><br>— Amelia Earhart</p>
+<p align="center"><br><i>It's good to learn from your mistakes. It's better to learn from other people's mistakes.</i><br>— Warren Buffett</p>
 <!-- ADVICE:END -->
 
 <!--
