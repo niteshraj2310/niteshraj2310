@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's good to learn from your mistakes. It's better to learn from other people's mistakes.</i><br>— Warren Buffett</p>
+<p align="center"><br><i>There is a difference between giving directions and giving direction.</i><br>— Simon Sinek</p>
 <!-- ADVICE:END -->
 
 <!--
