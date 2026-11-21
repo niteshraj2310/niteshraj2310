@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The primary point of this existence is to live, and all living things move and grow.</i><br>— Ming-Dao Deng</p>
+<p align="center"><br><i>Do not regret the past. Look to the future.</i><br>— Soyen Shaku</p>
 <!-- ADVICE:END -->
 
 <!--
