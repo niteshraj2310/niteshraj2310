@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The greatest mistake you can make in life is to be continually fearing you will make one.</i><br>— Elbert Hubbard</p>
+<p align="center"><br><i>The primary point of this existence is to live, and all living things move and grow.</i><br>— Ming-Dao Deng</p>
 <!-- ADVICE:END -->
 
 <!--
