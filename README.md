@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Getting lost along your path is a part of finding the path you are meant to be on.</i><br>— Robin Sharma</p>
+<p align="center"><br><i>The greatest mistake you can make in life is to be continually fearing you will make one.</i><br>— Elbert Hubbard</p>
 <!-- ADVICE:END -->
 
 <!--
