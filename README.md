@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not regret the past. Look to the future.</i><br>— Soyen Shaku</p>
+<p align="center"><br><i>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</i><br>— Barack Obama</p>
 <!-- ADVICE:END -->
 
 <!--
