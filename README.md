@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</i><br>— Barack Obama</p>
+<p align="center"><br><i>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</i><br>— Norman Vincent Peale</p>
 <!-- ADVICE:END -->
 
 <!--
