@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you think adventure is dangerous, try routine; it is lethal.</i><br>— Paulo Coelho</p>
+<p align="center"><br><i>It is our choices that show what we truly are, far more than our abilities.</i><br>— Albus Dumbledore</p>
 <!-- ADVICE:END -->
 
 <!--
