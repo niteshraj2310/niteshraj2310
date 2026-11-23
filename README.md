@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is our choices that show what we truly are, far more than our abilities.</i><br>— Albus Dumbledore</p>
+<p align="center"><br><i>We can spend our whole lives escaping from the monsters of our minds.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 <!--
