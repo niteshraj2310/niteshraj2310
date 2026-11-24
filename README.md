@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Live your life and forget your age.</i><br>— Norman Vincent Peale</p>
+<p align="center"><br><i>Man invented language to satisfy his deep need to complain.</i><br>— Lily Tomlin</p>
 <!-- ADVICE:END -->
 
 <!--
