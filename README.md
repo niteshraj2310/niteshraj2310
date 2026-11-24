@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Man invented language to satisfy his deep need to complain.</i><br>— Lily Tomlin</p>
+<p align="center"><br><i>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</i><br>— Wayne Gretzky</p>
 <!-- ADVICE:END -->
 
 <!--
