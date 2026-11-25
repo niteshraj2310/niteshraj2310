@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</i><br>— Aristotle</p>
+<p align="center"><br><i>Your happiness is what truly matters most. Do what you have to do in order to be happy.</i><br>— Brian Tracy</p>
 <!-- ADVICE:END -->
 
 <!--
