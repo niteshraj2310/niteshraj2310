@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Absorb what is useful, discard what is not, add what is uniquely your own.</i><br>— Bruce Lee</p>
+<p align="center"><br><i>It is difficult to free fools from the chains they revere.</i><br>— Voltaire</p>
 <!-- ADVICE:END -->
 
 <!--
