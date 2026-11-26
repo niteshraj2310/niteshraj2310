@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your happiness is what truly matters most. Do what you have to do in order to be happy.</i><br>— Brian Tracy</p>
+<p align="center"><br><i>Absorb what is useful, discard what is not, add what is uniquely your own.</i><br>— Bruce Lee</p>
 <!-- ADVICE:END -->
 
 <!--
