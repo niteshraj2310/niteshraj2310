@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is difficult to free fools from the chains they revere.</i><br>— Voltaire</p>
+<p align="center"><br><i>It's easy to be a critic, but being a doer requires effort, risk, and change.</i><br>— Wayne Dyer</p>
 <!-- ADVICE:END -->
 
 <!--
