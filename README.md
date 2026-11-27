@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's easy to be a critic, but being a doer requires effort, risk, and change.</i><br>— Wayne Dyer</p>
+<p align="center"><br><i>We can have more than we've got because we can become more than we are.</i><br>— Jim Rohn</p>
 <!-- ADVICE:END -->
 
 <!--
