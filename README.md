@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</i><br>— Confucius</p>
+<p align="center"><br><i>Still your waters.</i><br>— Josh Waitzkin</p>
 <!-- ADVICE:END -->
 
 <!--
