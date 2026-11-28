@@ -1,5 +1,5 @@
 <!-- ADVICE:START -->
-<p align="center"><br><i>Still your waters.</i><br>— Josh Waitzkin</p>
+<p align="center"><br><i>When the time is gone, you can never get it back.</i><br>— Stephen King</p>
 <!-- ADVICE:END -->
 
 <!--
